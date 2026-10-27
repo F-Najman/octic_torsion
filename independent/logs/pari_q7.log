@@ -1,0 +1,16 @@
+PARI stack size set to 4000000000 bytes, maximum size set to 4000002048
+FIELD p=7 e=1 done, mass errors 0, 0.0 s
+FIELD p=7 e=2 done, mass errors 0, 0.0 s
+FIELD p=7 e=3 done, mass errors 0, 0.1 s
+FIELD p=7 e=4 done, mass errors 0, 0.4 s
+POINTS X1(3,18) p=7: [0, 54, 432, 2106]
+PLACES X1(3,18) p=7: [0, 27, 144, 513]
+POINTS X1(3,24) p=7: [0, 0, 144, 1824]
+PLACES X1(3,24) p=7: [0, 0, 48, 456]
+POINTS X1(6,12) p=7: [0, 0, 288, 1872]
+PLACES X1(6,12) p=7: [0, 0, 96, 468]
+POINTS X1(3,15) p=7: [0, 48, 432, 1632]
+PLACES X1(3,15) p=7: [0, 24, 144, 396]
+POINTS X1(30) p=7: [0, 40, 384, 2448]
+PLACES X1(30) p=7: [0, 20, 128, 602]
+PLACECOUNTS_PARI_DONE

@@ -1,0 +1,50 @@
+C40_FORK_SHARD_STARTED shard=1 indices=[ 2, 6, 10, 14, 18, 22, 26, 30, 34, 38, 42, 46, 50, 54, 58, 62, 66, 70, 74, 78, 82, 86, 90, 94 ] master_sha=46ec83f878d7f337aed51224c3902ac17b3e2df325526afcf57d21bde4d8758a group_order=31579088486400
+C40_FORK_CASE_STARTED shard=1 index=2/96 time=7021.260
+C40_FORK_CASE_DONE shard=1 index=2/96 in_rational_image=false time=7021.260
+C40_FORK_CASE_STARTED shard=1 index=6/96 time=7021.260
+C40_FORK_CASE_DONE shard=1 index=6/96 in_rational_image=false time=7021.260
+C40_FORK_CASE_STARTED shard=1 index=10/96 time=7021.260
+C40_FORK_CASE_DONE shard=1 index=10/96 in_rational_image=false time=7021.260
+C40_FORK_CASE_STARTED shard=1 index=14/96 time=7021.260
+C40_FORK_CASE_DONE shard=1 index=14/96 in_rational_image=false time=7021.260
+C40_FORK_CASE_STARTED shard=1 index=18/96 time=7021.260
+C40_FORK_CASE_DONE shard=1 index=18/96 in_rational_image=false time=7021.260
+C40_FORK_CASE_STARTED shard=1 index=22/96 time=7021.260
+C40_FORK_CASE_DONE shard=1 index=22/96 in_rational_image=false time=7021.260
+C40_FORK_CASE_STARTED shard=1 index=26/96 time=7021.260
+C40_FORK_CASE_DONE shard=1 index=26/96 in_rational_image=false time=7021.260
+C40_FORK_CASE_STARTED shard=1 index=30/96 time=7021.260
+C40_FORK_CASE_DONE shard=1 index=30/96 in_rational_image=false time=7021.260
+C40_FORK_CASE_STARTED shard=1 index=34/96 time=7021.260
+C40_FORK_CASE_DONE shard=1 index=34/96 in_rational_image=false time=7021.260
+C40_FORK_CASE_STARTED shard=1 index=38/96 time=7021.260
+C40_FORK_CASE_DONE shard=1 index=38/96 in_rational_image=false time=7021.260
+C40_FORK_CASE_STARTED shard=1 index=42/96 time=7021.260
+C40_FORK_CASE_DONE shard=1 index=42/96 in_rational_image=false time=7021.260
+C40_FORK_CASE_STARTED shard=1 index=46/96 time=7021.260
+C40_FORK_CASE_DONE shard=1 index=46/96 in_rational_image=false time=7021.260
+C40_FORK_CASE_STARTED shard=1 index=50/96 time=7021.260
+C40_FORK_CASE_DONE shard=1 index=50/96 in_rational_image=false time=7021.260
+C40_FORK_CASE_STARTED shard=1 index=54/96 time=7021.260
+C40_FORK_CASE_DONE shard=1 index=54/96 in_rational_image=false time=7021.260
+C40_FORK_CASE_STARTED shard=1 index=58/96 time=7021.260
+C40_FORK_CASE_DONE shard=1 index=58/96 in_rational_image=false time=7021.260
+C40_FORK_CASE_STARTED shard=1 index=62/96 time=7021.260
+C40_FORK_CASE_DONE shard=1 index=62/96 in_rational_image=false time=7021.260
+C40_FORK_CASE_STARTED shard=1 index=66/96 time=7021.260
+C40_FORK_CASE_DONE shard=1 index=66/96 in_rational_image=false time=7021.260
+C40_FORK_CASE_STARTED shard=1 index=70/96 time=7021.260
+C40_FORK_CASE_DONE shard=1 index=70/96 in_rational_image=false time=7021.260
+C40_FORK_CASE_STARTED shard=1 index=74/96 time=7021.260
+C40_FORK_CASE_DONE shard=1 index=74/96 in_rational_image=false time=7021.260
+C40_FORK_CASE_STARTED shard=1 index=78/96 time=7021.260
+C40_FORK_CASE_DONE shard=1 index=78/96 in_rational_image=false time=7021.260
+C40_FORK_CASE_STARTED shard=1 index=82/96 time=7021.260
+C40_FORK_CASE_DONE shard=1 index=82/96 in_rational_image=false time=7021.260
+C40_FORK_CASE_STARTED shard=1 index=86/96 time=7021.260
+C40_FORK_CASE_DONE shard=1 index=86/96 in_rational_image=false time=7021.260
+C40_FORK_CASE_STARTED shard=1 index=90/96 time=7021.260
+C40_FORK_CASE_DONE shard=1 index=90/96 in_rational_image=false time=7021.260
+C40_FORK_CASE_STARTED shard=1 index=94/96 time=7021.260
+C40_FORK_CASE_DONE shard=1 index=94/96 in_rational_image=false time=7021.260
+C40_FORK_SHARD_DONE shard=1 tested=24 admitted=0 complete=true exact_indices=[ 2, 6, 10, 14, 18, 22, 26, 30, 34, 38, 42, 46, 50, 54, 58, 62, 66, 70, 74, 78, 82, 86, 90, 94 ] master_sha=46ec83f878d7f337aed51224c3902ac17b3e2df325526afcf57d21bde4d8758a

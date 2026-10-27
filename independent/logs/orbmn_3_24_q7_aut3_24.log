@@ -1,0 +1,4 @@
+group aut3_24 for X1(3,24): 96 transformations (before identification of -1)
+ORBMN X1(3,24) over F_7, degree 3, group aut3_24: 48 closed points, 1 orbits, sizes {* 48 *}
+ORBMN X1(3,24) over F_7, degree 4, group aut3_24: 456 closed points, 13 orbits, sizes {* 12^^4, 24, 48^^8 *}
+ORBITSMN_DONE

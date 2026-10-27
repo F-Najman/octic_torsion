@@ -1,0 +1,123 @@
+{
+  "group": [
+    6,
+    12
+  ],
+  "degree": 8,
+  "source_quartics": 468,
+  "target_patterns": 112020,
+  "matching_target_pairs": 24,
+  "remaining_source_indices": [
+    127,
+    128,
+    129,
+    130,
+    131,
+    132,
+    343,
+    344,
+    345,
+    346,
+    347,
+    348
+  ],
+  "all_quotient_orders": 2,
+  "global_cusp_order": 5971968,
+  "integral_unit_lattice_rank": 23,
+  "unit_relation_index": 5971968,
+  "unique_effective_global_L8_classes": 6,
+  "char0_pencil_dimensions": [
+    2,
+    2,
+    2,
+    2,
+    2,
+    2
+  ],
+  "pole_degrees": [
+    8,
+    8,
+    8,
+    8,
+    8,
+    8
+  ],
+  "ramification_degrees": [
+    [
+      8,
+      8,
+      8,
+      8
+    ],
+    [
+      8,
+      8,
+      8,
+      8
+    ],
+    [
+      8,
+      8,
+      8,
+      8
+    ],
+    [
+      8,
+      8,
+      8,
+      8
+    ],
+    [
+      8,
+      8,
+      8,
+      8
+    ],
+    [
+      8,
+      8,
+      8,
+      8
+    ]
+  ],
+  "ramification_multiplicities": [
+    [
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      1,
+      1
+    ]
+  ],
+  "remaining": 0,
+  "boundary": "Independent integer relation arithmetic, complete diagonal assembly, global principal-lattice reductions, six-class coverage and native exact characteristic-zero outputs. Native class-group and ramification-factorization algorithms are not reimplemented in Python."
+}

@@ -1,0 +1,56 @@
+{
+  "degree": 8,
+  "complete": true,
+  "new_cyclic_groups": [
+    33,
+    34,
+    35,
+    39,
+    40,
+    42
+  ],
+  "examples": 10,
+  "independent_symbolic_input_checks": true,
+  "exact_field_degrees": [
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8
+  ],
+  "full_torsion_orders": [
+    33,
+    34,
+    34,
+    34,
+    35,
+    39,
+    40,
+    42,
+    42,
+    42
+  ],
+  "two_isogeny_targets": 7,
+  "scope": "realizations only, no completeness inferred from the source search",
+  "primary_url": "https://www.math.fsu.edu/~hoeij/files/X1N/LowDegreePlaces",
+  "reproduction_command": "magma -b work/degree8/small_cyclic/reproduce_octic_examples.m",
+  "files": {
+    "audit_octic_realizations.py": "40221af8fc3acad2ebabd38d19ee7761ccd408286971a3a8c17d562129b23f88",
+    "extract_octic_source.py": "cb4ff3d2f797388c9d37ef7fc14ea2c4ebe86ea9a420b17a21ac95db7ad56a3c",
+    "inputs/LowDegreePlaces": "2ec66bfde720186da25e32a5044d0bd06d45ea6e69b6638020c238da133562f3",
+    "inputs/vanhoeij_octic_input.json": "4524c9a968004b951b868a7d493e9e958793307c8f801f08b1acecb1498d1b2d",
+    "inputs/vanhoeij_octic_input.m": "4917e6b29275d1eb6b78080f9439a776bea68073c5da0ef99a43807ababd0009",
+    "octic_realizations.tex": "3f6926ffc242790bab217d928ac833729fb34326d7744088b07e461aca3fe514",
+    "reproduce_octic_examples.m": "53991a57648a81465a0174161a426e240e7ce16ac428cf6cc5e4e8c193ff695a",
+    "verify_octic_examples.log": "e356d3ee87222e2ca2179954323d6e0a5846cb73853017b15708900a7e51f1fe",
+    "verify_octic_examples.m": "d8d23b6a561dfe50356ea8365ec17828c05c0d218449586be04f12f193abcd4a",
+    "verify_octic_examples_root.log": "cfaf573b60677398f9239b78aa04924a0840ff9f2cbf31a8244693ce42c0fc92",
+    "verify_octic_two_isogenies.log": "a7d7b223aec2d60e1735ee0d0dad3135e6b1481b08f53dc4974810680810e14f",
+    "verify_octic_two_isogenies.m": "e1b4b4cca851d77657be5fd5ee2eab42a64a48786ae9adfae566b7c2a35cf853"
+  }
+}

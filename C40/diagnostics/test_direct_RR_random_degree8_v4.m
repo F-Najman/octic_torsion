@@ -1,0 +1,21 @@
+SetColumns(0);SetQuitOnError(true);SetMemoryLimit(2*10^9);tt:=Cputime();
+AttachSpec("mdmagma/v2/mdmagma.spec");
+load "common/class_group_direct_RR_checked_v4.m";
+X:=MDX1(21,GF(5));C:=Curve(X);c0:=[c:c in Cusps(X)|Degree(c) eq 1][1];
+F:=AlgorithmicFunctionField(FunctionField(C));FR:=RationalExtensionRepresentation(F);
+A0:=FunctionFieldDivisor(Divisor(c0));G,gm,mp:=ClassGroup(F:ReductionDivisor:=A0,Proof:=true);
+maxfb:=Maximum([Degree(v`place):v in FR`cld`fb]);assert maxfb lt 8;
+G2,gm2,mp2,witnesses:=MDClassGroupDirectRRCheckedV4(F,"C40/logs/diagnostics/direct_RR_random_degree8_v4_identities.log");
+assert G cmpeq G2;
+printf "CHECKED_HIGH_DEGREE_TEST_START genus=%o factorbase_max_degree=%o time=%o\n",Genus(F),maxfb,Cputime(tt);
+last:=A0;
+for i in [1..10] do
+ P:=RandomPlace(F,8);assert Degree(P) eq 8;
+ D:=Divisor(P)-8*A0;assert mp(D) eq mp2(D);
+ if IsEven(i) then assert mp(D+last) eq mp2(D+last);end if;
+ last:=D;
+ printf "CHECKED_HIGH_DEGREE_NATIVE_MATCH index=%o input_place_degree=8 explicit_principal_identity=true time=%o\n",i,Cputime(tt);
+end for;
+printf "DIRECT_RR_RANDOM_DEGREE8_DONE samples=10 mixed_samples=5 total=15 all_native_classes_match=true all_explicit_principal_identities=true time=%o\n",Cputime(tt);
+fprintf witnesses,"]\n";delete witnesses;
+quit;

@@ -1,0 +1,18 @@
+FIELD q=11 e=1 orbits=11 cputime=0.000
+FIELD q=11 e=2 orbits=66 cputime=0.020
+MASS_ERRORS 0
+POINTS X1(10,10) q=11: [ 0, 300 ]
+PLACES X1(10,10) q=11: [ 0, 150 ]
+QUAL X1(10,10) q=11 e=2: #iso classes of curves=2; (N, invariants, j-orbit length, #Aut) {*
+<100, [ 10, 10 ], 1, 4>,
+<100, [ 10, 10 ], 1, 6>
+*}
+POINTS X1(5,15) q=11: [ 0, 0 ]
+PLACES X1(5,15) q=11: [ 0, 0 ]
+POINTS X1(5,20) q=11: [ 0, 0 ]
+PLACES X1(5,20) q=11: [ 0, 0 ]
+DIV 100 over F_11^2: curves (N, invariants, j-orbit length, #Aut) {*
+<100, [ 10, 10 ], 1, 4>,
+<100, [ 10, 10 ], 1, 6>
+*}
+PLACECOUNTS8_DONE

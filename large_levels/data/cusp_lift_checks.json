@@ -1,0 +1,382 @@
+[
+  {
+    "N": 77,
+    "total_cusps": 120,
+    "global_orbit_signature": {
+      "1": 30,
+      "30": 1,
+      "6": 5,
+      "10": 3
+    },
+    "F2_signature": {
+      "1": 30,
+      "30": 1,
+      "3": 10,
+      "10": 3
+    },
+    "F2_closed_cusps": [
+      {
+        "global_degree": 1,
+        "residue_degree": 1
+      },
+      {
+        "global_degree": 1,
+        "residue_degree": 1
+      },
+      {
+        "global_degree": 1,
+        "residue_degree": 1
+      },
+      {
+        "global_degree": 1,
+        "residue_degree": 1
+      },
+      {
+        "global_degree": 1,
+        "residue_degree": 1
+      },
+      {
+        "global_degree": 1,
+        "residue_degree": 1
+      },
+      {
+        "global_degree": 1,
+        "residue_degree": 1
+      },
+      {
+        "global_degree": 1,
+        "residue_degree": 1
+      },
+      {
+        "global_degree": 1,
+        "residue_degree": 1
+      },
+      {
+        "global_degree": 1,
+        "residue_degree": 1
+      },
+      {
+        "global_degree": 1,
+        "residue_degree": 1
+      },
+      {
+        "global_degree": 1,
+        "residue_degree": 1
+      },
+      {
+        "global_degree": 1,
+        "residue_degree": 1
+      },
+      {
+        "global_degree": 1,
+        "residue_degree": 1
+      },
+      {
+        "global_degree": 1,
+        "residue_degree": 1
+      },
+      {
+        "global_degree": 1,
+        "residue_degree": 1
+      },
+      {
+        "global_degree": 1,
+        "residue_degree": 1
+      },
+      {
+        "global_degree": 1,
+        "residue_degree": 1
+      },
+      {
+        "global_degree": 1,
+        "residue_degree": 1
+      },
+      {
+        "global_degree": 1,
+        "residue_degree": 1
+      },
+      {
+        "global_degree": 1,
+        "residue_degree": 1
+      },
+      {
+        "global_degree": 1,
+        "residue_degree": 1
+      },
+      {
+        "global_degree": 1,
+        "residue_degree": 1
+      },
+      {
+        "global_degree": 1,
+        "residue_degree": 1
+      },
+      {
+        "global_degree": 1,
+        "residue_degree": 1
+      },
+      {
+        "global_degree": 1,
+        "residue_degree": 1
+      },
+      {
+        "global_degree": 1,
+        "residue_degree": 1
+      },
+      {
+        "global_degree": 1,
+        "residue_degree": 1
+      },
+      {
+        "global_degree": 1,
+        "residue_degree": 1
+      },
+      {
+        "global_degree": 1,
+        "residue_degree": 1
+      },
+      {
+        "global_degree": 30,
+        "residue_degree": 30
+      },
+      {
+        "global_degree": 6,
+        "residue_degree": 3
+      },
+      {
+        "global_degree": 10,
+        "residue_degree": 10
+      },
+      {
+        "global_degree": 6,
+        "residue_degree": 3
+      },
+      {
+        "global_degree": 6,
+        "residue_degree": 3
+      },
+      {
+        "global_degree": 10,
+        "residue_degree": 10
+      },
+      {
+        "global_degree": 6,
+        "residue_degree": 3
+      },
+      {
+        "global_degree": 10,
+        "residue_degree": 10
+      },
+      {
+        "global_degree": 6,
+        "residue_degree": 3
+      },
+      {
+        "global_degree": 6,
+        "residue_degree": 3
+      },
+      {
+        "global_degree": 6,
+        "residue_degree": 3
+      },
+      {
+        "global_degree": 6,
+        "residue_degree": 3
+      },
+      {
+        "global_degree": 6,
+        "residue_degree": 3
+      },
+      {
+        "global_degree": 6,
+        "residue_degree": 3
+      }
+    ],
+    "needed_lifts_verified": true
+  },
+  {
+    "N": 81,
+    "total_cusps": 108,
+    "global_orbit_signature": {
+      "1": 27,
+      "27": 1,
+      "2": 9,
+      "6": 3,
+      "18": 1
+    },
+    "F2_signature": {
+      "1": 27,
+      "27": 1,
+      "2": 9,
+      "6": 3,
+      "18": 1
+    },
+    "F2_closed_cusps": [
+      {
+        "global_degree": 1,
+        "residue_degree": 1
+      },
+      {
+        "global_degree": 1,
+        "residue_degree": 1
+      },
+      {
+        "global_degree": 1,
+        "residue_degree": 1
+      },
+      {
+        "global_degree": 1,
+        "residue_degree": 1
+      },
+      {
+        "global_degree": 1,
+        "residue_degree": 1
+      },
+      {
+        "global_degree": 1,
+        "residue_degree": 1
+      },
+      {
+        "global_degree": 1,
+        "residue_degree": 1
+      },
+      {
+        "global_degree": 1,
+        "residue_degree": 1
+      },
+      {
+        "global_degree": 1,
+        "residue_degree": 1
+      },
+      {
+        "global_degree": 1,
+        "residue_degree": 1
+      },
+      {
+        "global_degree": 1,
+        "residue_degree": 1
+      },
+      {
+        "global_degree": 1,
+        "residue_degree": 1
+      },
+      {
+        "global_degree": 1,
+        "residue_degree": 1
+      },
+      {
+        "global_degree": 1,
+        "residue_degree": 1
+      },
+      {
+        "global_degree": 1,
+        "residue_degree": 1
+      },
+      {
+        "global_degree": 1,
+        "residue_degree": 1
+      },
+      {
+        "global_degree": 1,
+        "residue_degree": 1
+      },
+      {
+        "global_degree": 1,
+        "residue_degree": 1
+      },
+      {
+        "global_degree": 1,
+        "residue_degree": 1
+      },
+      {
+        "global_degree": 1,
+        "residue_degree": 1
+      },
+      {
+        "global_degree": 1,
+        "residue_degree": 1
+      },
+      {
+        "global_degree": 1,
+        "residue_degree": 1
+      },
+      {
+        "global_degree": 1,
+        "residue_degree": 1
+      },
+      {
+        "global_degree": 1,
+        "residue_degree": 1
+      },
+      {
+        "global_degree": 1,
+        "residue_degree": 1
+      },
+      {
+        "global_degree": 1,
+        "residue_degree": 1
+      },
+      {
+        "global_degree": 1,
+        "residue_degree": 1
+      },
+      {
+        "global_degree": 27,
+        "residue_degree": 27
+      },
+      {
+        "global_degree": 2,
+        "residue_degree": 2
+      },
+      {
+        "global_degree": 2,
+        "residue_degree": 2
+      },
+      {
+        "global_degree": 6,
+        "residue_degree": 6
+      },
+      {
+        "global_degree": 2,
+        "residue_degree": 2
+      },
+      {
+        "global_degree": 2,
+        "residue_degree": 2
+      },
+      {
+        "global_degree": 6,
+        "residue_degree": 6
+      },
+      {
+        "global_degree": 2,
+        "residue_degree": 2
+      },
+      {
+        "global_degree": 2,
+        "residue_degree": 2
+      },
+      {
+        "global_degree": 18,
+        "residue_degree": 18
+      },
+      {
+        "global_degree": 2,
+        "residue_degree": 2
+      },
+      {
+        "global_degree": 2,
+        "residue_degree": 2
+      },
+      {
+        "global_degree": 6,
+        "residue_degree": 6
+      },
+      {
+        "global_degree": 2,
+        "residue_degree": 2
+      }
+    ],
+    "needed_lifts_verified": true
+  }
+]

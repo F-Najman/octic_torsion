@@ -1,0 +1,9 @@
+C420_GLOBAL_POINT cusp=true ellipticpoint=(0 : 1 : 0)
+C420_GLOBAL_POINT cusp=true ellipticpoint=(-2 : 0 : 1)
+C420_GLOBAL_POINT cusp=true ellipticpoint=(-1 : 0 : 1)
+C420_GLOBAL_POINT cusp=true ellipticpoint=(3 : 0 : 1)
+C420_GLOBAL_POINT cusp=false modularj=1728 ellipticpoint=(-2*i - 1 : -2*i - 4 : 1) t=2*i - 11 w=2*i
+C420_GLOBAL_POINT cusp=false modularj=1728 ellipticpoint=(-2*i - 1 : 2*i + 4 : 1) t=2*i - 11 w=-2*i
+C420_GLOBAL_POINT cusp=false modularj=1728 ellipticpoint=(2*i - 1 : 2*i - 4 : 1) t=-2*i - 11 w=-2*i
+C420_GLOBAL_POINT cusp=false modularj=1728 ellipticpoint=(2*i - 1 : -2*i + 4 : 1) t=-2*i - 11 w=2*i
+C420_COMPACT_COMPLETION_DONE globalpoints=8 cusps=4 CM1728=4 complete=true time=0.210

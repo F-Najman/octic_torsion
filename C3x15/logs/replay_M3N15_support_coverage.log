@@ -1,0 +1,84 @@
+{
+  "degree": 8,
+  "group": [
+    3,
+    15
+  ],
+  "multiplier": 3,
+  "two_prime_sha256": "8e5c59f9487c1796021033514bc8de1bf45734c24a9a0e3cb5f2a630ea8692fa",
+  "cusp_group_order": 1990656,
+  "two_prime_states": [
+    5102,
+    6264
+  ],
+  "two_prime_matches": 60,
+  "two_prime_predictions": 12,
+  "all_nonempty_F4_support_eliminated": true,
+  "independent_HNF_graph_and_transport_replay": true,
+  "third_prime_sha256": "c24e159097a919aba6caaf579a510b524bfcae55a704d682cdd4aeef48f7c304",
+  "third_prime_states": 1039,
+  "third_prime_matches": 1,
+  "full_three_prime_arithmetic_replayed": true
+}
+M3N15_DIAGONAL_INDEPENDENT_HNF_REPLAY_DONE
+{
+  "degree": 8,
+  "group": [
+    3,
+    15
+  ],
+  "cusp_group_order": 1990656,
+  "global_J_over_C_order_divides": 3,
+  "coarse_pairs": 60,
+  "all_coarse_classes_in_C_at_F4": true,
+  "exact_unmultiplied_pairs": 12,
+  "global_signed_cusp_lifts": 12,
+  "max_abs_lift_coefficient": 1,
+  "automorphisms_tested": 48,
+  "single_global_class_orbit_size": 12,
+  "independent_actual_relation_HNF_replay": true,
+  "input_sha256": {
+    "diagonal_3_15_D4_arithmetic.txt": "8e5c59f9487c1796021033514bc8de1bf45734c24a9a0e3cb5f2a630ea8692fa",
+    "M3N15_D4_exact_cusp_lifts.txt": "73cc5ebb4d6287f4e4fcb85263e71941761ff9bfe55c1df27e443bf325d7d9dc",
+    "diagonal_3_15_D4_p13_arithmetic.txt": "c24e159097a919aba6caaf579a510b524bfcae55a704d682cdd4aeef48f7c304",
+    "diagonal_3_15_D4_p19_arithmetic.txt": "92334aeb26e57a7ca93cdd3c46c746309acec42773bbbb90047423bd609c6f58",
+    "M3N15_D4_exact_orbit_arithmetic.txt": "2bfba39b755665fbb6e51d1880e47136d66f9bedce9e700f07e872aae674dfd4"
+  }
+}
+M3N15_EXACT_CUSP_CONTAINMENT_ORBIT_REPLAY_DONE
+{
+  "group": [
+    3,
+    15
+  ],
+  "relative_degree": 4,
+  "F4_all_cuspal_divisors": 5000,
+  "F4_NC_quartics": 102,
+  "F7_single2_plus_rational_cusp_pair": 3264,
+  "F7_single3_plus_rational_cusp": 2304,
+  "F7_single4": 396,
+  "F7_quadratic_pairs_including_repetition": 300,
+  "F7_total": 6264,
+  "Newton_closed_F4": [
+    16,
+    8,
+    0,
+    102
+  ],
+  "Newton_closed_F7": [
+    16,
+    24,
+    144,
+    400
+  ],
+  "gcd_odd_J_orders": 5971968,
+  "global_cusp_group_order": 1990656,
+  "quotient_order_divides": 3,
+  "all_60_matches_recomputed_from_actual_relations": true,
+  "unmultiplied_global_classes": 12,
+  "all12_one_full_Aut48_orbit": true,
+  "coarse_input_sha256": "8e5c59f9487c1796021033514bc8de1bf45734c24a9a0e3cb5f2a630ea8692fa",
+  "necessity_of_p13_p19_point_refinements": false,
+  "boundary": "Native exact point-to-class maps are those computed in the bound Magma source. This checker independently verifies every support pattern/index, Newton count and integer-class match."
+}
+M3N15_FULL_SUPPORT_AND_60_PAIR_COVERAGE_REPLAY_DONE

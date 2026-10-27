@@ -1,0 +1,19 @@
+[
+  {
+    "arithmetic": "double_cusp_3_21_D4_arithmetic.txt",
+    "sha256": "abf415a15a8565829b676c67897133dc7ca99e9e1d02a6bf5f3585b0e987899c",
+    "ranks": {
+      "8": 17742
+    },
+    "local_blocks": 104
+  },
+  {
+    "arithmetic": "double_cusp_3_21_D4_dt_arithmetic.txt",
+    "sha256": "0f6117eb09b6e775ecb04e5e96a27c1d5ed2a08587a5f26c2f86971e608c5b2f",
+    "ranks": {
+      "8": 17742
+    },
+    "local_blocks": 104
+  }
+]
+ROOT_M3N21_TWO_EXPORTS_BITPLANE_REPLAY_DONE

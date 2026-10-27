@@ -1,0 +1,4 @@
+C40_D8_MODEL_READY genus=25 finite_cusp_degrees=[ 2, 4, 1, 1, 1, 4, 4, 1, 2, 1, 1, 4, 1, 2, 2, 2, 1, 4, 1, 1, 2, 4, 1, 1 ] rational_orbit_degrees=[ 4, 8, 1, 1, 1, 1, 4, 4, 1, 2, 1, 4, 2, 1, 4, 1, 4, 1, 1, 1, 1 ] JF3_order=31579088486400 time=127.140
+C40_D8_PROVEN_UNFLATTENED_MAP_DONE generator_flattening_omitted=true time=2469.540
+C40_D8_GROUP_READY invariants=[ 2, 2, 2, 2, 2, 16, 68880, 895440, 0 ] rational_image=[ 2, 2, 2, 8, 120, 895440 ] time=2469.610
+C40_D8_SETUP_DONE noncuspidal_counts=[ 0, 0, 0, 32, 72, 80, 408, 708 ] continuation_pending=true time=2487.630

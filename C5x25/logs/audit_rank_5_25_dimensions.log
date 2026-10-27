@@ -1,0 +1,7 @@
+AUDIT_J25_CYCLOTOMIC_WINDING level=25 character_order=1 conductor=1 dimension=0 winding=0 coefficient_degree=1
+AUDIT_J25_CYCLOTOMIC_WINDING level=25 character_order=10 conductor=25 dimension=2 winding=2 coefficient_degree=4
+AUDIT_J25_CYCLOTOMIC_WINDING level=25 character_order=5 conductor=25 dimension=1 winding=1 coefficient_degree=4
+AUDIT_J25_CYCLOTOMIC_WINDING level=25 character_order=2 conductor=5 dimension=0 winding=0 coefficient_degree=1
+AUDIT_J25_CYCLOTOMIC_WINDING level=125 character_order=10 conductor=25 dimension=8 winding=8 coefficient_degree=4
+AUDIT_J25_CYCLOTOMIC_WINDING level=125 character_order=5 conductor=25 dimension=7 winding=7 coefficient_degree=4
+AUDIT_J25_CYCLOTOMIC_RANK_INPUTS_PASS 12 60 0.080

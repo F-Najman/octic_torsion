@@ -1,0 +1,5 @@
+C420_CARTAN_INVARIANT_PASS degree_on_X4=4 jdegree=6 w= (8*i*s^3 - 8*i*s)/(s^4 + 2*s^2 + 1)
+C420_CYCLIC5_INVARIANT_PASS t=b-11-1/b
+C420_COMPACT_BIRATIONAL_PASS genus=1 model_y2=x3-7x-6
+C420_ELLIPTIC_RANK_TORSION_PASS ranks=[0,0] Qi_torsion=[2,4] F9=[4,4]
+C420_COMPACT_COMPLETION_DONE globalpoints=8 cusps=4 CM1728=4 complete=true 0.200

@@ -1,0 +1,18 @@
+Loading "formal_common.m"
+CASE 51b  d = 8  Magma 2
+factors of x(8P)-x(9P): [ <1, 1>, <10, 1> ]
+factor of bidegree (5,7): genus 5
+psi_3 degree 4 irreducible true
+minimal polynomial of y(P3) over X1(17): degree 8, irreducible true
+GENUS 65 (claimed 65)  constant field Finite field of size 2  (5767.860 s)
+
+Current total memory usage: 19060.2MB, failed memory request: 309.7MB
+System Error: User memory limit has been reached
+
+Current total memory usage: 19060.2MB, failed memory request: 309.7MB
+System Error: User memory limit has been reached
+
+In file "cartier_51b_d8.m", line 73, column 6:
+>> degs := [Degree(P) : P in cusps];
+        ^
+User error: bad syntax

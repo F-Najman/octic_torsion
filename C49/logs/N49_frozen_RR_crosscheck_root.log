@@ -1,0 +1,10 @@
+{
+  "differential_space_reference": "work/degree8/cyclic_sieves/N49_cartier_kernels.m",
+  "completion_export": "work/degree8/cyclic_sieves/N49_hybrid23_frozen_jets.m",
+  "reference_sha256": "cbbbe63806272cd7f4ed2596448ee150f648953d3d70e91dc0771e0b88276f38",
+  "completion_sha256": "6a9ee485e80962fefa42621561c44f347f58cd8ee78924188c90e215a8cb1692",
+  "identical_Cartier_matrix_and_image": true,
+  "exact_kernel_equalities_checked": 2,
+  "boundary": "Only exported RR kernels are compared; this is not the exhaustive divisor-rank replay."
+}
+RR_COMPLETION_CROSS_CHECK_DONE

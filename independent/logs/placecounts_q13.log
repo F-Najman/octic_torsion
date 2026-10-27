@@ -1,0 +1,35 @@
+FIELD q=13 e=1 orbits=13 cputime=0.000
+FIELD q=13 e=2 orbits=91 cputime=0.030
+FIELD q=13 e=3 orbits=741 cputime=1.570
+FIELD q=13 e=4 orbits=7189 cputime=4.340
+MASS_ERRORS 0
+POINTS X1(3,18) q=13: [ 0, 108, 2538, 30132 ]
+PLACES X1(3,18) q=13: [ 0, 54, 846, 7506 ]
+QUAL X1(3,18) q=13 e=2: #iso classes of curves=4; (N, invariants, j-orbit length, #Aut) {*
+<162, [ 3, 54 ], 2, 2>^^2
+*}
+QUAL X1(3,18) q=13 e=3: #iso classes of curves=49; (N, invariants, j-orbit length, #Aut) {*
+<2106, [ 3, 702 ], 1, 2>^^2,
+<2106, [ 9, 234 ], 1, 4>,
+<2160, [ 3, 720 ], 3, 2>^^4,
+<2160, [ 6, 360 ], 3, 2>^^2,
+<2160, [ 12, 180 ], 1, 2>^^2,
+<2214, [ 3, 738 ], 3, 2>^^4,
+<2268, [ 3, 756 ], 3, 2>^^2,
+<2268, [ 6, 378 ], 1, 2>,
+<2268, [ 6, 378 ], 3, 2>,
+<2268, [ 9, 252 ], 1, 2>^^2,
+<2268, [ 18, 126 ], 1, 2>,
+<2268, [ 18, 126 ], 1, 6>
+*}
+POINTS X1(6,12) q=13: [ 0, 288, 1728, 28752 ]
+PLACES X1(6,12) q=13: [ 0, 144, 576, 7116 ]
+QUAL X1(6,12) q=13 e=2: #iso classes of curves=1; (N, invariants, j-orbit length, #Aut) {*
+<144, [ 12, 12 ], 1, 2>
+*}
+QUAL X1(6,12) q=13 e=3: #iso classes of curves=14; (N, invariants, j-orbit length, #Aut) {*
+<2160, [ 6, 360 ], 3, 2>^^2,
+<2160, [ 12, 180 ], 1, 2>^^2,
+<2232, [ 6, 372 ], 3, 2>^^2
+*}
+PLACECOUNTS8_DONE

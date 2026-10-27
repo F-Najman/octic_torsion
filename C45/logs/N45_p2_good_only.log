@@ -1,0 +1,49 @@
+SETUP N=45 M=1 p=2 genus=41 time=30.200
+CUSPS number=24 degrees=[ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 4, 4, 4, 4, 4, 6, 6, 12 ]
+CUSPFIELDS orbits over Q (degree, F_p-degree): [ <12, 12>, <8, 4>, <6, 6>, <6, 6>, <4, 4>, <4, 4>, <4, 4>, <2, 2>, <2, 2>, <2, 2>, <2, 2>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1> ] ; predicted F_p cusp degrees match model: true
+CC complement degree <= 1: q mod 45 in [ 1, 2, 4, 7, 8, 11, 13, 14, 16, 17, 19, 22, 23, 26, 28, 29, 31, 32, 34, 37, 38, 41, 43, 44 ] ; usable q from list: [ 7, 11, 13, 17, 19 ]
+CC complement degree <= 2: q mod 45 in [ 1, 2, 4, 7, 8, 11, 13, 14, 16, 17, 19, 22, 23, 26, 28, 29, 31, 32, 34, 37, 38, 41, 43, 44 ] ; usable q from list: [ 7, 11, 13, 17, 19 ]
+CC complement degree <= 3: q mod 45 in [ 1, 2, 4, 7, 8, 11, 13, 14, 16, 17, 19, 22, 23, 26, 28, 29, 31, 32, 34, 37, 38, 41, 43, 44 ] ; usable q from list: [ 7, 11, 13, 17, 19 ]
+CC complement degree <= 4: q mod 45 in [ 1, 2, 4, 8, 16, 17, 19, 23, 31, 32, 34, 38 ] ; usable q from list: [ 17, 19 ]
+CC complement degree <= 5: q mod 45 in [ 1, 2, 4, 8, 16, 17, 19, 23, 31, 32, 34, 38 ] ; usable q from list: [ 17, 19 ]
+CC complement degree <= 6: q mod 45 in [ 1, 2, 4, 8, 16, 17, 19, 23, 31, 32, 34, 38 ] ; usable q from list: [ 17, 19 ]
+CC complement degree <= 7: q mod 45 in [ 1, 2, 4, 8, 16, 17, 19, 23, 31, 32, 34, 38 ] ; usable q from list: [ 17, 19 ]
+QLIST all (used when there is no cuspidal part): [ 7, 11, 13, 17, 19 ]
+DEGREES with points of the required type over F_p^d (d=1..8): [ false, false, false, false, false, false, false, true ]  time=83.250
+NONCUSP counts deg 1..8: [ 0, 0, 0, 0, 0, 0, 0, 60 ]  time=84.490
+REPS up to diamond: [ 0, 0, 0, 0, 0, 0, 0, 5 ]  time=84.770
+TYPE [ 8 ]: 5 divisors (up to diamond), qlist=[ 7, 11, 13, 17, 19 ]
+SMART_CASE_START type=[ 8 ] index=1 primes=[ 13, 7, 11, 17, 19 ] time=84.770
+SMART_CASE_RESULT type=[ 8 ] index=1 killed=true time=186.140
+SMART_CASE_START type=[ 8 ] index=2 primes=[ 13, 7, 11, 17, 19 ] time=186.140
+SMART_CASE_RESULT type=[ 8 ] index=2 killed=true time=283.190
+SMART_CASE_START type=[ 8 ] index=3 primes=[ 13, 7, 11, 17, 19 ] time=283.200
+SMART_CASE_RESULT type=[ 8 ] index=3 killed=true time=363.190
+SMART_CASE_START type=[ 8 ] index=4 primes=[ 13, 7, 11, 17, 19 ] time=363.200
+SMART_CASE_RESULT type=[ 8 ] index=4 killed=true time=541.460
+SMART_CASE_START type=[ 8 ] index=5 primes=[ 13, 7, 11, 17, 19 ] time=541.470
+SMART_CASE_RESULT type=[ 8 ] index=5 killed=true time=662.810
+RESULT type=[ 8 ] total=5 survivors=0 time=662.810
+TYPE [ 7, 1 ]: no divisors
+TYPE [ 6, 2 ]: no divisors
+TYPE [ 6, 1, 1 ]: no divisors
+TYPE [ 5, 3 ]: no divisors
+TYPE [ 5, 2, 1 ]: no divisors
+TYPE [ 5, 1, 1, 1 ]: no divisors
+TYPE [ 4, 4 ]: no divisors
+TYPE [ 4, 3, 1 ]: no divisors
+TYPE [ 4, 2, 2 ]: no divisors
+TYPE [ 4, 2, 1, 1 ]: no divisors
+TYPE [ 4, 1, 1, 1, 1 ]: no divisors
+TYPE [ 3, 3, 2 ]: no divisors
+TYPE [ 3, 3, 1, 1 ]: no divisors
+TYPE [ 3, 2, 2, 1 ]: no divisors
+TYPE [ 3, 2, 1, 1, 1 ]: no divisors
+TYPE [ 3, 1, 1, 1, 1, 1 ]: no divisors
+TYPE [ 2, 2, 2, 2 ]: no divisors
+TYPE [ 2, 2, 2, 1, 1 ]: no divisors
+TYPE [ 2, 2, 1, 1, 1, 1 ]: no divisors
+TYPE [ 2, 1, 1, 1, 1, 1, 1 ]: no divisors
+TYPE [ 1, 1, 1, 1, 1, 1, 1, 1 ]: no divisors
+SUMMARY N=45 M=1 p=2 D=8 shard=0/1 total_survivors=0 time=662.860
+SIEVE_RESUME_DONE FromDegree=8 MaxPart=8

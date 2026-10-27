@@ -1,0 +1,32 @@
+Loading "formal_common.m"
+numerator of x([7]Q): degree 49, max t-degree of coefficients 112
+irreducible over F2(t): true  (0.010 s)
+GENUS 69 (expected 69)  constant field Finite field of size 2  (987.990 s)
+CUSPS 28 closed cusps, sorted degrees [ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 3, 3, 3, 3, 3, 3, 21 ] (claimed 1^21 3^6 21), j-degree 1176 (expected 1176)  (1003.330 s)
+DIMU dim U = 68 (claimed 68); rank C = 69  (1162.940 s)
+KERNEL cusp 16 deg 3 m 1 dim 66 (codim 3) [2356.420 s, total 3537.470 s]
+KERNEL cusp 16 deg 3 m 2 dim 63 (codim 6) [210.530 s, total 3748.000 s]
+KERNEL cusp 17 deg 3 m 1 dim 66 (codim 3) [2379.280 s, total 6127.280 s]
+KERNEL cusp 17 deg 3 m 2 dim 63 (codim 6) [235.580 s, total 6362.860 s]
+KERNEL cusp 18 deg 3 m 1 dim 66 (codim 3) [2630.700 s, total 8993.560 s]
+KERNEL cusp 18 deg 3 m 2 dim 63 (codim 6) [202.330 s, total 9195.890 s]
+KERNEL cusp 19 deg 3 m 1 dim 66 (codim 3) [2157.660 s, total 11353.550 s]
+KERNEL cusp 19 deg 3 m 2 dim 63 (codim 6) [189.730 s, total 11543.280 s]
+KERNEL cusp 20 deg 3 m 1 dim 66 (codim 3) [2114.250 s, total 13657.530 s]
+KERNEL cusp 20 deg 3 m 2 dim 63 (codim 6) [238.210 s, total 13895.740 s]
+KERNEL cusp 21 deg 3 m 1 dim 66 (codim 3) [2361.600 s, total 16257.340 s]
+KERNEL cusp 21 deg 3 m 2 dim 63 (codim 6) [189.090 s, total 16446.430 s]
+KERNEL cusp 1 deg 1 m 1 dim 68 (codim 1) [2385.420 s, total 18831.850 s]
+KERNEL cusp 1 deg 1 m 2 dim 67 (codim 2) [326.570 s, total 19158.420 s]
+KERNEL cusp 1 deg 1 m 3 dim 66 (codim 3) [2270.040 s, total 21428.460 s]
+KERNEL cusp 1 deg 1 m 4 dim 65 (codim 4) [462.750 s, total 21891.210 s]
+KERNEL cusp 1 deg 1 m 5 dim 64 (codim 5) [2392.230 s, total 24283.440 s]
+KERNEL cusp 2 deg 1 m 1 dim 68 (codim 1) [2975.040 s, total 27258.480 s]
+KERNEL cusp 2 deg 1 m 2 dim 67 (codim 2) [473.210 s, total 27731.690 s]
+KERNEL cusp 2 deg 1 m 3 dim 66 (codim 3) [3409.010 s, total 31140.700 s]
+KERNEL cusp 2 deg 1 m 4 dim 65 (codim 4) [669.900 s, total 31810.600 s]
+KERNEL cusp 2 deg 1 m 5 dim 64 (codim 5) [3823.590 s, total 35634.190 s]
+KERNEL cusp 3 deg 1 m 1 dim 68 (codim 1) [3185.670 s, total 38819.860 s]
+KERNEL cusp 3 deg 1 m 2 dim 67 (codim 2) [315.470 s, total 39135.330 s]
+KERNEL cusp 3 deg 1 m 3 dim 66 (codim 3) [2249.090 s, total 41384.420 s]
+KERNEL cusp 3 deg 1 m 4 dim 65 (codim 4) [436.630 s, total 41821.050 s]

@@ -1,0 +1,32 @@
+/* New canonical degree20 quotient model attempt; no exclusion claim. */
+SetColumns(0);SetQuitOnError(true);SetMemoryLimit(12*10^9);tt:=Cputime();
+R<T,x,y>:=PolynomialRing(GF(2),3);B:=FieldOfFractions(R);
+F25:=eval Read("mdmagma/models_X1_n/FFFc25.txt");
+xx:=B!x;yy:=B!y;r:=(xx^2*yy-xx*yy+yy-1)/(xx*(xx*yy-1));s:=(xx*yy-yy+1)/(xx*yy);
+b:=r*s*(r-1);c:=s*(r-1);
+// The exact degree5 modular unit from the archived vanHoeij gonality table.
+f3:=b;f4:=c;f5:=b-c;f6:=s-1;f7:=s-r;f8:=r*s-2*r+1;f9:=s^2-s-r+1;
+f10:=xx-yy+1;f12:=xx-yy;f13:=xx^3*yy-xx^2*yy^2-xx^2*yy+xx*yy^2-yy+1;
+h:=f3*f4*f6^3*f7^2*f10*f12^3/(f5*f8^2*f9^2*f13^3);
+N:=R!Numerator(h);D:=R!Denominator(h);
+print "N75_GON5_CANONICAL_RESULTANT_START",TotalDegree(N),TotalDegree(D),Cputime(tt);
+res:=Resultant(F25,N-T*D,3);assert res ne 0;
+K<t>:=RationalFunctionField(GF(2));S<X>:=PolynomialRing(K);proj:=hom<R->S|[S!t,X,S!0]>;
+pol:=proj(res);factors:=Factorization(pol);
+print "N75_GON5_CANONICAL_RESULTANT_FACTORS",[<Degree(z[1]),z[2]>:z in factors],Cputime(tt);
+fs:=[z[1]:z in factors|Degree(z[1]) eq 5];assert #fs eq 1;
+L<a>:=FunctionField(fs[1]);SY<Y>:=PolynomialRing(L);ev:=hom<R->SY|[SY!t,SY!a,Y]>;
+gg:=GCD(ev(F25),ev(N-T*D));assert Degree(gg) eq 1;
+ya:=-Coefficient(gg,0)/Coefficient(gg,1);assert Evaluate(ev(F25),ya) eq 0;
+xa:=a;ra:=(xa^2*ya-xa*ya+ya-1)/(xa*(xa*ya-1));sa:=(xa*ya-ya+1)/(xa*ya);
+ba:=ra*sa*(ra-1);ca:=sa*(ra-1);E:=EllipticCurve([1-ca,-ba,-ba,L!0,L!0]);P:=E![0,0];
+assert 25*P eq E!0 and 5*P ne E!0 and Genus(L) eq 12;
+print "N75_GON5_CANONICAL_BASE_MODEL_VERIFIED",Degree(L),Genus(L),Cputime(tt);
+S3<W3>:=PolynomialRing(L);j25:=jInvariant(E);f:=W3^4+W3^3+1/j25;assert Degree(f) eq 4;
+a1,a2,a3,a4,a6:=Explode(aInvariants(E));rr:=a3/a1;ss:=(a4+rr^2)/a1;dd:=(a2+rr)/a1^2;
+RP<Xc,Yc>:=PolynomialRing(L,2);xo:=a1^2*Xc+rr;yo:=a1^3*Yc+ss;
+oldEq:=yo^2+a1*xo*yo+a3*yo+xo^3+a2*xo^2+a4*xo+a6;
+assert oldEq/a1^6 eq Yc^2+Xc*Yc+Xc^3+dd*Xc^2+1/j25;
+EC:=EllipticCurve([L|1,dd,0,0,1/j25]);assert jInvariant(EC) eq j25;
+assert DivisionPolynomial(EC,3) eq f;
+print "C75_GENERIC_CANONICAL3_SUBGROUP_MODEL_IDENTITY_PASS",Cputime(tt);quit;

@@ -1,0 +1,16 @@
+C39_D8_GOOD_SETUP genus=33 all_counts=[ 12, 6, 0, 0, 0, 12, 0, 49 ] noncuspidal_counts=[ 0, 0, 0, 0, 0, 12, 0, 49 ] source_cusps_all_Q_lift=true time=115.260
+C39_D8_GOOD_KNOWN_REDUCTION full_diamond_orbit=1 time=115.470
+C39_D8_GOOD_PARTITION degree=6 places=12 representatives=1 exact_cover=true time=115.480
+C39_D8_GOOD_TEST_START degree=6 index=1/1 q=5 time=115.480
+C39_D8_GOOD_WITNESS degree=6 index=1/1 q=5 principal=false time=119.720
+C39_D8_GOOD_PARTITION degree=8 places=49 representatives=5 exact_cover=true time=119.750
+C39_D8_GOOD_TEST_START degree=8 index=1/5 q=5 time=119.750
+C39_D8_GOOD_WITNESS degree=8 index=1/5 q=5 principal=false time=125.280
+C39_D8_GOOD_TEST_START degree=8 index=2/5 q=5 time=125.280
+C39_D8_GOOD_WITNESS degree=8 index=2/5 q=5 principal=false time=131.410
+C39_D8_GOOD_TEST_START degree=8 index=3/5 q=5 time=131.410
+C39_D8_GOOD_WITNESS degree=8 index=3/5 q=5 principal=false time=137.370
+C39_D8_GOOD_CASE degree=8 index=4/5 known_exact_reduction=true time=137.370
+C39_D8_GOOD_TEST_START degree=8 index=5/5 q=5 time=137.370
+C39_D8_GOOD_WITNESS degree=8 index=5/5 q=5 principal=false time=143.580
+C39_D8_GOOD_DONE representatives=[ 1, 5 ] nonknown_tested=5 known_representatives=1 unknown=0 complete=true time=143.600

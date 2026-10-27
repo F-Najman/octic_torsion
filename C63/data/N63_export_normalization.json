@@ -1,0 +1,11 @@
+{
+  "raw": "N63_cartier_kernels.m",
+  "raw_sha256": "4a6d2a49de8cfd9ea854b435ec572b0563b7159ea33eb5d791fbf4980bace16a",
+  "canonical": "N63_cartier_kernels_canonical.m",
+  "canonical_sha256": "8a4e29b90303059a4d1d43fb60b794c47e0f99114468511f3df4b8c984e0cb81",
+  "discarded_prefix_sha256": "e8ef9a841de0870f83187a59f6c3e14b0d898e96828f2d8cf8fbf43aa6f43a9a",
+  "identical_repeated_metadata_checked": true,
+  "identical_Cartier_and_image_matrices_checked": true,
+  "discarded_prefix_contains_no_restriction_data": true,
+  "all103kernels_and_restrictions_preserved": true
+}

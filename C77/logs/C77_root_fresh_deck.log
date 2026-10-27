@@ -1,0 +1,49 @@
+OCTIC77_X0_MODEL genus7=true modular_polynomial_verified=true cusp_widths=[ 11, 77, 1, 7 ] time=34.740
+Loading "work/degree8/large_levels/C77_AS_component.m"
+OCTIC77_DIRECT_CUBIC_VERIFIED degree12=true genus19=true exact_base_embedding=true deck_order3=true time=52.950
+OCTIC77_DIRECT_GENUS37_VERIFIED time=98.360
+OCTIC77_GLOBAL_CUSPS_VERIFIED signature=[ 2, 1, 1, 2, 1, 1, 6, 3, 3, 1, 1, 2 ] width_degree_pairs=[ <7, 2>, <77, 1>, <77, 1>, <7, 2>, <77, 1>, <77, 1>, <1, 6>, <11, 3>, <11, 3>, <77, 1>, <77, 1>, <7, 2> ] jdegree576=true time=214.540
+OCTIC77_DIRECT_GLOBAL_GENUS37_MODEL_DONE
+OCTIC77_DECK_LABELS labels=[ <0, 0>, <0, 1>, <1, 0>, <1, 1>, <2, 0>, <2, 1> ] perm2=[ 2, 1, 4, 3, 6, 5 ] perm3=[ 3, 4, 5, 6, 1, 2 ] time=0.910
+OCTIC77_DECK_DIFFERENTIAL_PROGRESS deck=1 basis=5/37 time=21.940
+OCTIC77_DECK_DIFFERENTIAL_PROGRESS deck=1 basis=10/37 time=22.650
+OCTIC77_DECK_DIFFERENTIAL_PROGRESS deck=1 basis=15/37 time=23.360
+OCTIC77_DECK_DIFFERENTIAL_PROGRESS deck=1 basis=20/37 time=24.080
+OCTIC77_DECK_DIFFERENTIAL_PROGRESS deck=1 basis=25/37 time=24.790
+OCTIC77_DECK_DIFFERENTIAL_PROGRESS deck=1 basis=30/37 time=25.540
+OCTIC77_DECK_DIFFERENTIAL_PROGRESS deck=1 basis=35/37 time=26.260
+OCTIC77_DECK_DIFFERENTIAL_PROGRESS deck=2 basis=5/37 time=27.710
+OCTIC77_DECK_DIFFERENTIAL_PROGRESS deck=2 basis=10/37 time=28.870
+OCTIC77_DECK_DIFFERENTIAL_PROGRESS deck=2 basis=15/37 time=30.030
+OCTIC77_DECK_DIFFERENTIAL_PROGRESS deck=2 basis=20/37 time=31.180
+OCTIC77_DECK_DIFFERENTIAL_PROGRESS deck=2 basis=25/37 time=32.250
+OCTIC77_DECK_DIFFERENTIAL_PROGRESS deck=2 basis=30/37 time=33.390
+OCTIC77_DECK_DIFFERENTIAL_PROGRESS deck=2 basis=35/37 time=34.550
+OCTIC77_DECK_DIFFERENTIALS_VERIFIED group_order6=true commutes_Cartier=true image_dimension32=true time=35.010
+C77_DECK_RR_SOURCE_START multiplicity=1 time=0.000
+C77_DECK_RR_SOURCE_DONE multiplicity=1 kernel_dim=36 rank_on_U=1 time=17.570
+C77_DECK_RR_SOURCE_START multiplicity=2 time=17.570
+C77_DECK_RR_SOURCE_DONE multiplicity=2 kernel_dim=35 rank_on_U=2 time=32.430
+C77_DECK_RR_SOURCE_START multiplicity=3 time=32.430
+C77_DECK_RR_SOURCE_DONE multiplicity=3 kernel_dim=34 rank_on_U=3 time=49.920
+C77_DECK_RR_SOURCE_START multiplicity=4 time=49.920
+C77_DECK_RR_SOURCE_DONE multiplicity=4 kernel_dim=33 rank_on_U=4 time=68.630
+C77_DECK_RR_SOURCE_START multiplicity=5 time=68.630
+C77_DECK_RR_SOURCE_DONE multiplicity=5 kernel_dim=32 rank_on_U=5 time=90.010
+C77_DECK_RR_SOURCE_START multiplicity=6 time=90.010
+C77_DECK_RR_SOURCE_DONE multiplicity=6 kernel_dim=31 rank_on_U=6 time=107.900
+C77_DECK_RR_SOURCE_START multiplicity=7 time=107.900
+C77_DECK_RR_SOURCE_DONE multiplicity=7 kernel_dim=30 rank_on_U=7 time=129.270
+C77_DECK_RR_SOURCE_START multiplicity=8 time=129.270
+C77_DECK_RR_SOURCE_DONE multiplicity=8 kernel_dim=29 rank_on_U=8 time=147.310
+C77_DECK_RR_TARGET_START cusp=2 time=147.310
+C77_DECK_RR_TARGET_VERIFIED cusp=2 time=162.400
+C77_DECK_RR_TARGET_START cusp=3 time=162.400
+C77_DECK_RR_TARGET_VERIFIED cusp=3 time=176.550
+C77_DECK_RR_TARGET_START cusp=4 time=176.550
+C77_DECK_RR_TARGET_VERIFIED cusp=4 time=190.810
+C77_DECK_RR_TARGET_START cusp=5 time=190.820
+C77_DECK_RR_TARGET_VERIFIED cusp=5 time=207.670
+C77_DECK_RR_TARGET_START cusp=6 time=207.680
+C77_DECK_RR_TARGET_VERIFIED cusp=6 time=222.230
+C77_DECK_FI_DONE tested=1287 total=1287 exceptions=0 complete=true time=222.250

@@ -1,0 +1,1 @@
+OCTIC63_QUOTIENT_CUSPS_DONE {'level': 63, 'quotient_diamond': 8, 'source_geometric_cusps': 96, 'involution_free_on_all_cusps': True, 'quotient_geometric_cusps': 48, 'global_signature': {1: 9, 9: 1, 2: 3, 3: 6, 6: 1}, 'F2_signature': {1: 9, 3: 9, 2: 3, 6: 1}, 'all9_F2_rational_cusps_lift_toQ': True}

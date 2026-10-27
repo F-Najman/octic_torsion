@@ -1,0 +1,92 @@
+{
+  "degree": 8,
+  "excluded_cyclic_order": 99,
+  "status": "complete",
+  "a": 2,
+  "diamond_order": 15,
+  "rank_dimension_sum": 281,
+  "minimum_CM_degree": 60,
+  "gonality_lower_bound": "43875/1024",
+  "principal_function_degree_bound": 32,
+  "good_reduction_degrees_through8": [],
+  "independent_Hasse_check": [
+    {
+      "e": 1,
+      "q": 2,
+      "maximum_trace_absolute_value": 2,
+      "multiples99_in_interval": []
+    },
+    {
+      "e": 2,
+      "q": 4,
+      "maximum_trace_absolute_value": 4,
+      "multiples99_in_interval": []
+    },
+    {
+      "e": 3,
+      "q": 8,
+      "maximum_trace_absolute_value": 5,
+      "multiples99_in_interval": []
+    },
+    {
+      "e": 4,
+      "q": 16,
+      "maximum_trace_absolute_value": 8,
+      "multiples99_in_interval": []
+    },
+    {
+      "e": 5,
+      "q": 32,
+      "maximum_trace_absolute_value": 11,
+      "multiples99_in_interval": []
+    },
+    {
+      "e": 6,
+      "q": 64,
+      "maximum_trace_absolute_value": 16,
+      "multiples99_in_interval": []
+    },
+    {
+      "e": 7,
+      "q": 128,
+      "maximum_trace_absolute_value": 22,
+      "multiples99_in_interval": []
+    },
+    {
+      "e": 8,
+      "q": 256,
+      "maximum_trace_absolute_value": 32,
+      "multiples99_in_interval": []
+    }
+  ],
+  "files": [
+    {
+      "path": "certify_85_99.py",
+      "sha256": "17a81270a7402edd6f7422c85942e479c2862996dd4ad949a7ca29ce8b073a0e"
+    },
+    {
+      "path": "inputs/dcm_list_all_min_orders_X1_10k.m",
+      "sha256": "020ba11c347b70aafd59099994d5df55d969ffeaff468ced1a06ae97868b64cc"
+    },
+    {
+      "path": "N99_exclusion.tex",
+      "sha256": "1ffee94a0c2f62e601d17fb0ab6c9b3c263c413fac14fbd28885fd9befada815"
+    },
+    {
+      "path": "winding_probe.m",
+      "sha256": "46f61f69c8ddbdda0bb734d43d4ff9a1e9490381364da1cd9d19875ad6f8cd01"
+    },
+    {
+      "path": "winding99_octic.log",
+      "sha256": "7f03a38cc6d782bdad5b4484a8e7bc21c6fad52742b995e8a8a23ba3c70afa8b"
+    },
+    {
+      "path": "finite_fields_2_octic.m",
+      "sha256": "1170863a5335ec087d9d3d469997a0e0685e08c5b3becdfa0ad56983fe680afd"
+    },
+    {
+      "path": "finite_fields_99_octic.log",
+      "sha256": "49239138bcff76b1ef85a38025d123461f2dcae82188b24eda94992d92afda37"
+    }
+  ]
+}

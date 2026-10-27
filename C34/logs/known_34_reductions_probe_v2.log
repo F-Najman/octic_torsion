@@ -1,0 +1,13 @@
+Loading "work/degree8/small_cyclic/known_34_reductions_v2.m"
+Loading "work/degree8/small_cyclic/inputs/vanhoeij_octic_input.m"
+C34_KNOWN_REDUCTION index=2 primes_ef=[
+[ 1, 8 ]
+] diamond_divisors=1
+C34_KNOWN_REDUCTION index=3 primes_ef=[
+[ 2, 4 ]
+] diamond_divisors=2
+C34_KNOWN_REDUCTION index=4 primes_ef=[
+[ 1, 4 ],
+[ 1, 4 ]
+] diamond_divisors=4
+C34_KNOWN_REDUCTIONS_DONE classes_not_yet_mapped=true reduced_divisors=7

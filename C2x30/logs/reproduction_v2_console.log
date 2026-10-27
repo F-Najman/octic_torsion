@@ -1,0 +1,7 @@
+C230_NATIVE_STAGE_PASS classes256
+C230_SERIES_CLASSIFICATION_PASS
+C230_NATIVE_STAGE_PASS quartic_filter
+C230_NATIVE_STAGE_PASS quartic_allcusps
+C230_NATIVE_STAGE_PASS exceptional_fibres
+C230_NATIVE_STAGE_PASS three_quotients
+C230_FRESH_REPRODUCTION_PASS run=/home/fnajman/Documents/Codex/2026-10-21/on-this-computer-there-are-files/work/degree8/small_cyclic/C2x30/certified_run_v2

@@ -1,0 +1,18 @@
+C48_TARGET_AUT_TYPE degree=6 input=342 clusters=162 time=0.180
+C48_TARGET_AUT_PROGRESS degree=7 input=500 total=1348 clusters=378 time=0.490
+C48_TARGET_AUT_PROGRESS degree=7 input=1000 total=1348 clusters=557 time=0.790
+C48_TARGET_AUT_TYPE degree=7 input=1348 clusters=599 time=1.000
+C48_TARGET_AUT_PROGRESS degree=8 input=500 total=6172 clusters=465 time=1.360
+C48_TARGET_AUT_PROGRESS degree=8 input=1000 total=6172 clusters=888 time=1.710
+C48_TARGET_AUT_PROGRESS degree=8 input=1500 total=6172 clusters=1248 time=2.050
+C48_TARGET_AUT_PROGRESS degree=8 input=2000 total=6172 clusters=1559 time=2.400
+C48_TARGET_AUT_PROGRESS degree=8 input=2500 total=6172 clusters=1826 time=2.740
+C48_TARGET_AUT_PROGRESS degree=8 input=3000 total=6172 clusters=2084 time=3.130
+C48_TARGET_AUT_PROGRESS degree=8 input=3500 total=6172 clusters=2268 time=3.470
+C48_TARGET_AUT_PROGRESS degree=8 input=4000 total=6172 clusters=2418 time=3.800
+C48_TARGET_AUT_PROGRESS degree=8 input=4500 total=6172 clusters=2566 time=4.140
+C48_TARGET_AUT_PROGRESS degree=8 input=5000 total=6172 clusters=2662 time=4.490
+C48_TARGET_AUT_PROGRESS degree=8 input=5500 total=6172 clusters=2715 time=4.830
+C48_TARGET_AUT_PROGRESS degree=8 input=6000 total=6172 clusters=2742 time=5.170
+C48_TARGET_AUT_TYPE degree=8 input=6172 clusters=2746 time=5.290
+C48_TARGET_AUT_DONE inputs=7862 clusters=3507 complete=true time=5.290

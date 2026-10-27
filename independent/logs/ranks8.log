@@ -1,0 +1,392 @@
+fetched 905 weight-2 newforms at 79 levels
+forms with unknown analytic rank: [] 0
+positive-rank forms whose rank is not flagged proved: []
+character cross-check (LMFDB char_values vs independent Conrey formula): OK
+[CONFIRMED] data-completeness: for every level n used, sum over newforms of level M|n of dim*sigma0(n/M) = g(X1(n))
+      evidence: all 72 levels agree with Sage genus
+[CONFIRMED] genus X1(54): g(X1(54)) = 52 (weighted winding dimension)
+      evidence: Sage 52, LMFDB dim sum 52
+[CONFIRMED] genus X1(55): g(X1(55)) = 81 (weighted winding dimension)
+      evidence: Sage 81, LMFDB dim sum 81
+[CONFIRMED] genus X1(57): g(X1(57)) = 85 (weighted winding dimension)
+      evidence: Sage 85, LMFDB dim sum 85
+[CONFIRMED] genus X1(65): g(X1(65)) = 121 (weighted winding dimension)
+      evidence: Sage 121, LMFDB dim sum 121
+[CONFIRMED] genus X1(69): g(X1(69)) = 133 (weighted winding dimension)
+      evidence: Sage 133, LMFDB dim sum 133
+[CONFIRMED] genus X1(75): g(X1(75)) = 145 (weighted winding dimension)
+      evidence: Sage 145, LMFDB dim sum 145
+[CONFIRMED] genus X1(77): g(X1(77)) = 181 (weighted winding dimension)
+      evidence: Sage 181, LMFDB dim sum 181
+[CONFIRMED] genus X1(81): g(X1(81)) = 190 (weighted winding dimension)
+      evidence: Sage 190, LMFDB dim sum 190
+[CONFIRMED] genus X1(85): g(X1(85)) = 225 (weighted winding dimension)
+      evidence: Sage 225, LMFDB dim sum 225
+[CONFIRMED] genus X1(91): g(X1(91)) = 265 (weighted winding dimension)
+      evidence: Sage 265, LMFDB dim sum 265
+[CONFIRMED] genus X1(95): g(X1(95)) = 289 (weighted winding dimension)
+      evidence: Sage 289, LMFDB dim sum 289
+[CONFIRMED] genus X1(99): g(X1(99)) = 281 (weighted winding dimension)
+      evidence: Sage 281, LMFDB dim sum 281
+[CONFIRMED] genus X1(100): g(X1(100)) = 231 (weighted winding dimension)
+      evidence: Sage 231, LMFDB dim sum 231
+[CONFIRMED] genus X1(105): g(X1(105)) = 289 (weighted winding dimension)
+      evidence: Sage 289, LMFDB dim sum 289
+[CONFIRMED] genus X1(175): g(X1(175)) = 1033 (weighted winding dimension)
+      evidence: Sage 1033, LMFDB dim sum 1033
+[CONFIRMED] genus X1(55)/<16>: genus 17
+      evidence: Sage GammaH genus 17, LMFDB invariant-dimension 17
+[CONFIRMED] genus X1(57)/<7>: genus 25
+      evidence: Sage GammaH genus 25, LMFDB invariant-dimension 25
+[CONFIRMED] genus X1(57)/C9 (C9=<25>): genus 9
+      evidence: Sage GammaH genus 9, LMFDB invariant-dimension 9
+[CONFIRMED] genus X1(65)/<51>: genus 61
+      evidence: Sage GammaH genus 61, LMFDB invariant-dimension 61
+[CONFIRMED] genus X1(65)/<4,51>: genus 21
+      evidence: Sage GammaH genus 21, LMFDB invariant-dimension 21
+[CONFIRMED] genus X1(77)/<36>: genus 37
+      evidence: Sage GammaH genus 37, LMFDB invariant-dimension 37
+[CONFIRMED] genus X1(63)/<8>: genus 49
+      evidence: Sage GammaH genus 49, LMFDB invariant-dimension 49
+[CONFIRMED] genus X1(75)/<26>: genus 73
+      evidence: Sage GammaH genus 73, LMFDB invariant-dimension 73
+[CONFIRMED] genus X1(39)/<16>: genus 9
+      evidence: Sage GammaH genus 9, LMFDB invariant-dimension 9
+[CONFIRMED] genus X(10)=X1(100)/<11>: genus 13
+      evidence: Sage GammaH genus 13, LMFDB invariant-dimension 13
+[CONFIRMED] genus X1(69)/ker eps: genus 13
+      evidence: Sage GammaH genus 13, LMFDB invariant-dimension 13
+[CONFIRMED] genus X0(69): g(X0(69)) = 7
+      evidence: 7
+[CONFIRMED] genus X1(2,32): g = 37
+      evidence: Sage genus of X_H(64), H={a = 1 mod 32}: 37
+[CONFIRMED] genus X1(2,36): g = 41
+      evidence: Sage genus of X_H(72), H={a = 1 mod 36}: 41
+[CONFIRMED] genus X1(2,42): g = 61
+      evidence: Sage genus of X_H(84), H={a = 1 mod 42}: 61
+[CONFIRMED] genus X1(3,18): g = 10
+      evidence: Sage genus of X_H(54), H={a = 1 mod 18}: 10
+[CONFIRMED] genus X1(3,21): g = 25
+      evidence: Sage genus of X_H(63), H={a = 1 mod 21}: 25
+[CONFIRMED] genus X1(3,24): g = 25
+      evidence: Sage genus of X_H(72), H={a = 1 mod 24}: 25
+[CONFIRMED] genus X1(4,16): g = 13
+      evidence: Sage genus of X_H(64), H={a = 1 mod 16}: 13
+[CONFIRMED] genus X1(4,20): g = 25
+      evidence: Sage genus of X_H(80), H={a = 1 mod 20}: 25
+[CONFIRMED] genus X1(4,24): g = 33
+      evidence: Sage genus of X_H(96), H={a = 1 mod 24}: 33
+[CONFIRMED] genus X1(6,12): g = 9
+      evidence: Sage genus of X_H(72), H={a = 1 mod 12}: 9
+[CONFIRMED] genus X1(2,24): g = 13
+      evidence: Sage genus of X_H(48), H={a = 1 mod 24}: 13
+[CONFIRMED] genus X1(2,18): g = 7
+      evidence: Sage genus of X_H(36), H={a = 1 mod 18}: 7
+[CONFIRMED] genus X1(10,10): g = 13
+      evidence: Sage genus of X_H(100), H={a = 1 mod 10}: 13
+[CONFIRMED] genus X1(36): g = 17
+      evidence: 17
+[CONFIRMED] genus X1(45): g = 41
+      evidence: 41
+[CONFIRMED] genus X1(48): g = 37
+      evidence: 37
+[CONFIRMED] genus X1(51): g = 65
+      evidence: 65
+[CONFIRMED] genus X1(25): g = 12
+      evidence: 12
+[CONFIRMED] rank J1(38)(Q)=0: no newform of level dividing 38 has positive analytic rank
+      evidence: positive-rank forms: none
+[CONFIRMED] rank J1(44)(Q)=0: no newform of level dividing 44 has positive analytic rank
+      evidence: positive-rank forms: none
+[CONFIRMED] rank J1(45)(Q)=0: no newform of level dividing 45 has positive analytic rank
+      evidence: positive-rank forms: none
+[CONFIRMED] rank J1(46)(Q)=0: no newform of level dividing 46 has positive analytic rank
+      evidence: positive-rank forms: none
+[CONFIRMED] rank J1(49)(Q)=0: no newform of level dividing 49 has positive analytic rank
+      evidence: positive-rank forms: none
+[CONFIRMED] rank J1(50)(Q)=0: no newform of level dividing 50 has positive analytic rank
+      evidence: positive-rank forms: none
+[CONFIRMED] rank J1(51)(Q)=0: no newform of level dividing 51 has positive analytic rank
+      evidence: positive-rank forms: none
+[CONFIRMED] rank J1(54)(Q)=0: no newform of level dividing 54 has positive analytic rank
+      evidence: positive-rank forms: none
+[CONFIRMED] rank J1(55)(Q)=0: no newform of level dividing 55 has positive analytic rank
+      evidence: positive-rank forms: none
+[CONFIRMED] rank J1(69)(Q)=0: no newform of level dividing 69 has positive analytic rank
+      evidence: positive-rank forms: none
+[CONFIRMED] rank J1(75)(Q)=0: no newform of level dividing 75 has positive analytic rank
+      evidence: positive-rank forms: none
+[CONFIRMED] rank J1(81)(Q)=0: no newform of level dividing 81 has positive analytic rank
+      evidence: positive-rank forms: none
+[CONFIRMED] rank J1(33)(Q)=0: no newform of level dividing 33 has positive analytic rank
+      evidence: positive-rank forms: none
+[CONFIRMED] rank J1(34)(Q)=0: no newform of level dividing 34 has positive analytic rank
+      evidence: positive-rank forms: none
+[CONFIRMED] rank J1(35)(Q)=0: no newform of level dividing 35 has positive analytic rank
+      evidence: positive-rank forms: none
+[CONFIRMED] rank J1(39)(Q)=0: no newform of level dividing 39 has positive analytic rank
+      evidence: positive-rank forms: none
+[CONFIRMED] rank J1(40)(Q)=0: no newform of level dividing 40 has positive analytic rank
+      evidence: positive-rank forms: none
+[CONFIRMED] rank J1(48)(Q)=0: no newform of level dividing 48 has positive analytic rank
+      evidence: positive-rank forms: none
+[CONFIRMED] rank J1(28)(Q)=0: no newform of level dividing 28 has positive analytic rank
+      evidence: positive-rank forms: none
+[CONFIRMED] rank J1(36)(Q)=0: no newform of level dividing 36 has positive analytic rank
+      evidence: positive-rank forms: none
+[CONFIRMED] rank J1(21)(Q)=0: no newform of level dividing 21 has positive analytic rank
+      evidence: positive-rank forms: none
+[CONFIRMED] rank J1(23)(Q)=0: no newform of level dividing 23 has positive analytic rank
+      evidence: positive-rank forms: none
+[CONFIRMED] rank J1(25)(Q)=0: no newform of level dividing 25 has positive analytic rank
+      evidence: positive-rank forms: none
+[CONFIRMED] rank J1(27)(Q)=0: no newform of level dividing 27 has positive analytic rank
+      evidence: positive-rank forms: none
+[CONFIRMED] rank J1(30)(Q)=0: no newform of level dividing 30 has positive analytic rank
+      evidence: positive-rank forms: none
+[CONFIRMED] rank J1(15)(Q)=0: no newform of level dividing 15 has positive analytic rank
+      evidence: positive-rank forms: none
+[CONFIRMED] rank J1(2,14)(Q)=0: every positive-rank form of level | 28 has chi(15) != 1
+      evidence: positive-rank forms at levels | 28: none; values chi(15): []
+[CONFIRMED] rank J1(2,18)(Q)=0: every positive-rank form of level | 36 has chi(19) != 1
+      evidence: positive-rank forms at levels | 36: none; values chi(19): []
+[CONFIRMED] rank J1(2,24)(Q)=0: every positive-rank form of level | 48 has chi(25) != 1
+      evidence: positive-rank forms at levels | 48: none; values chi(25): []
+[CONFIRMED] rank J1(2,26)(Q)=0: every positive-rank form of level | 52 has chi(27) != 1
+      evidence: positive-rank forms at levels | 52: none; values chi(27): []
+[CONFIRMED] rank J1(2,28)(Q)=0: every positive-rank form of level | 56 has chi(29) != 1
+      evidence: positive-rank forms at levels | 56: none; values chi(29): []
+[CONFIRMED] rank J1(2,30)(Q)=0: every positive-rank form of level | 60 has chi(31) != 1
+      evidence: positive-rank forms at levels | 60: none; values chi(31): []
+[CONFIRMED] rank J1(2,32)(Q)=0: every positive-rank form of level | 64 has chi(33) != 1
+      evidence: positive-rank forms at levels | 64: none; values chi(33): []
+[CONFIRMED] rank J1(2,36)(Q)=0: every positive-rank form of level | 72 has chi(37) != 1
+      evidence: positive-rank forms at levels | 72: none; values chi(37): []
+[CONFIRMED] rank J1(2,42)(Q)=0: every positive-rank form of level | 84 has chi(43) != 1
+      evidence: positive-rank forms at levels | 84: none; values chi(43): []
+[CONFIRMED] rank J1(3,15)(Q(zeta_3))=0: no positive-rank form of level | 45 with character trivial on H={a=1 mod 15}
+      evidence: positive-rank forms at levels | 45: none; trivial on H: none
+[CONFIRMED] rank J1(3,18)(Q(zeta_3))=0: no positive-rank form of level | 54 with character trivial on H={a=1 mod 18}
+      evidence: positive-rank forms at levels | 54: none; trivial on H: none
+[CONFIRMED] rank J1(3,21)(Q(zeta_3))=0: no positive-rank form of level | 63 with character trivial on H={a=1 mod 21}
+      evidence: positive-rank forms at levels | 63: 63.2.s.a(o6,c63,r1); trivial on H: none
+[CONFIRMED] rank J1(3,24)(Q(zeta_3))=0: no positive-rank form of level | 72 with character trivial on H={a=1 mod 24}
+      evidence: positive-rank forms at levels | 72: none; trivial on H: none
+[CONFIRMED] rank J1(3,27)(Q(zeta_3))=0: no positive-rank form of level | 81 with character trivial on H={a=1 mod 27}
+      evidence: positive-rank forms at levels | 81: none; trivial on H: none
+[CONFIRMED] rank J1(4,16)(Q(zeta_4))=0: no positive-rank form of level | 64 with character trivial on H={a=1 mod 16}
+      evidence: positive-rank forms at levels | 64: none; trivial on H: none
+[CONFIRMED] rank J1(4,20)(Q(zeta_4))=0: no positive-rank form of level | 80 with character trivial on H={a=1 mod 20}
+      evidence: positive-rank forms at levels | 80: 80.2.s.a(o4,c80,r1); trivial on H: none
+[CONFIRMED] rank J1(4,24)(Q(zeta_4))=0: no positive-rank form of level | 96 with character trivial on H={a=1 mod 24}
+      evidence: positive-rank forms at levels | 96: none; trivial on H: none
+[CONFIRMED] rank J1(5,15)(Q(zeta_5))=0: no positive-rank form of level | 75 with character trivial on H={a=1 mod 15}
+      evidence: positive-rank forms at levels | 75: none; trivial on H: none
+[CONFIRMED] rank J1(5,20)(Q(zeta_5))=0: no positive-rank form of level | 100 with character trivial on H={a=1 mod 20}
+      evidence: positive-rank forms at levels | 100: none; trivial on H: none
+[CONFIRMED] rank J1(6,12)(Q(zeta_6))=0: no positive-rank form of level | 72 with character trivial on H={a=1 mod 12}
+      evidence: positive-rank forms at levels | 72: none; trivial on H: none
+[CONFIRMED] rank J1(10,10)(Q(zeta_10))=0: no positive-rank form of level | 100 with character trivial on H={a=1 mod 10}
+      evidence: positive-rank forms at levels | 100: none; trivial on H: none
+[CONFIRMED] (<3>-1)J1(115)(Q) finite: every positive-rank form of level | 115 has chi(3)=1 
+      evidence: positive-rank: 115.2.a.b(o1,c1,r1); chi(3) values: ['0']
+[CONFIRMED] Prop3.34 row 115: ord<a> in (Z/n)^*/+-1 = 44, I_n = 6336, 8k3 = 56 < G_n, 3 does not divide n, ord does not divide 8; k3=7 iff a=3^{+-1} (d_CM=88 not checked here)
+      evidence: ord=44, I=6336, G_n=62.84, k3 rule consistent
+[CONFIRMED] (<3>-1)J1(119)(Q) finite: every positive-rank form of level | 119 has chi(3)=1 
+      evidence: positive-rank: none; chi(3) values: []
+[CONFIRMED] Prop3.34 row 119: ord<a> in (Z/n)^*/+-1 = 48, I_n = 6912, 8k3 = 56 < G_n, 3 does not divide n, ord does not divide 8; k3=7 iff a=3^{+-1} (d_CM=96 not checked here)
+      evidence: ord=48, I=6912, G_n=68.55, k3 rule consistent
+[CONFIRMED] (<2>-1)J1(121)(Q) finite: every positive-rank form of level | 121 has chi(2)=1 
+      evidence: positive-rank: 121.2.a.b(o1,c1,r1); chi(2) values: ['0']
+[CONFIRMED] Prop3.34 row 121: ord<a> in (Z/n)^*/+-1 = 55, I_n = 7260, 8k3 = 64 < G_n, 3 does not divide n, ord does not divide 8; k3=7 iff a=3^{+-1} (d_CM=110 not checked here)
+      evidence: ord=55, I=7260, G_n=72.01, k3 rule consistent
+[CONFIRMED] (<3>-1)J1(125)(Q) finite: every positive-rank form of level | 125 has chi(3)=1 
+      evidence: positive-rank: 125.2.a.a(o1,c1,r1); chi(3) values: ['0']
+[CONFIRMED] Prop3.34 row 125: ord<a> in (Z/n)^*/+-1 = 50, I_n = 7500, 8k3 = 56 < G_n, 3 does not divide n, ord does not divide 8; k3=7 iff a=3^{+-1} (d_CM=50 not checked here)
+      evidence: ord=50, I=7500, G_n=74.39, k3 rule consistent
+[CONFIRMED] (<64>-1)J1(133)(Q) finite: every positive-rank form of level | 133 has chi(64)=1 
+      evidence: positive-rank: 133.2.a.a(o1,c1,r1), 133.2.a.b(o1,c1,r1), 133.2.f.a(o3,c7,r1), 133.2.s.a(o6,c133,r1); chi(64) values: ['0', '0', '0', '0']
+[CONFIRMED] Prop3.34 row 133: ord<a> in (Z/n)^*/+-1 = 3, I_n = 8640, 8k3 = 64 < G_n, 3 does not divide n, ord does not divide 8; k3=7 iff a=3^{+-1} (d_CM=36 not checked here)
+      evidence: ord=3, I=8640, G_n=85.69, k3 rule consistent
+[CONFIRMED] (<67>-1)J1(143)(Q) finite: every positive-rank form of level | 143 has chi(67)=1 
+      evidence: positive-rank: 143.2.a.a(o1,c1,r1), 143.2.h.a(o5,c11,r1); chi(67) values: ['0', '0']
+[CONFIRMED] Prop3.34 row 143: ord<a> in (Z/n)^*/+-1 = 12, I_n = 10080, 8k3 = 64 < G_n, 3 does not divide n, ord does not divide 8; k3=7 iff a=3^{+-1} (d_CM=120 not checked here)
+      evidence: ord=12, I=10080, G_n=99.98, k3 rule consistent
+[CONFIRMED] (<3>-1)J1(161)(Q) finite: every positive-rank form of level | 161 has chi(3)=1 
+      evidence: positive-rank: 161.2.a.b(o1,c1,r1); chi(3) values: ['0']
+[CONFIRMED] Prop3.34 row 161: ord<a> in (Z/n)^*/+-1 = 66, I_n = 12672, 8k3 = 56 < G_n, 3 does not divide n, ord does not divide 8; k3=7 iff a=3^{+-1} (d_CM=132 not checked here)
+      evidence: ord=66, I=12672, G_n=125.68, k3 rule consistent
+[CONFIRMED] (<3>-1)J1(169)(Q) finite: every positive-rank form of level | 169 has chi(3)=1 
+      evidence: positive-rank: 169.2.a.b(o1,c1,r1); chi(3) values: ['0']
+[CONFIRMED] Prop3.34 row 169: ord<a> in (Z/n)^*/+-1 = 39, I_n = 14196, 8k3 = 56 < G_n, 3 does not divide n, ord does not divide 8; k3=7 iff a=3^{+-1} (d_CM=52 not checked here)
+      evidence: ord=39, I=14196, G_n=140.80, k3 rule consistent
+[CONFIRMED] (<122>-1)J1(187)(Q) finite: every positive-rank form of level | 187 has chi(122)=1 
+      evidence: positive-rank: 187.2.a.e(o1,c1,r1), 187.2.a.c(o1,c1,r1), 187.2.g.a(o5,c11,r1); chi(122) values: ['0', '0', '0']
+[CONFIRMED] Prop3.34 row 187: ord<a> in (Z/n)^*/+-1 = 16, I_n = 17280, 8k3 = 64 < G_n, 3 does not divide n, ord does not divide 8; k3=7 iff a=3^{+-1} (d_CM=160 not checked here)
+      evidence: ord=16, I=17280, G_n=171.39, k3 rule consistent
+[CONFIRMED] (<34>-1)J1(209)(Q) finite: every positive-rank form of level | 209 has chi(34)=1 
+      evidence: positive-rank: 209.2.a.b(o1,c1,r1), 209.2.a.a(o1,c1,r1), 209.2.f.a(o5,c11,r1); chi(34) values: ['0', '0', '0']
+[CONFIRMED] Prop3.34 row 209: ord<a> in (Z/n)^*/+-1 = 18, I_n = 21600, 8k3 = 64 < G_n, 3 does not divide n, ord does not divide 8; k3=7 iff a=3^{+-1} (d_CM=180 not checked here)
+      evidence: ord=18, I=21600, G_n=214.23, k3 rule consistent
+[CONFIRMED] (<3>-1)J1(221)(Q) finite: every positive-rank form of level | 221 has chi(3)=1 
+      evidence: positive-rank: 221.2.a.f(o1,c1,r1), 221.2.a.c(o1,c1,r1); chi(3) values: ['0', '0']
+[CONFIRMED] Prop3.34 row 221: ord<a> in (Z/n)^*/+-1 = 48, I_n = 24192, 8k3 = 56 < G_n, 3 does not divide n, ord does not divide 8; k3=7 iff a=3^{+-1} (d_CM=96 not checked here)
+      evidence: ord=48, I=24192, G_n=239.94, k3 rule consistent
+[CONFIRMED] (<144>-1)J1(247)(Q) finite: every positive-rank form of level | 247 has chi(144)=1 
+      evidence: positive-rank: 247.2.a.b(o1,c1,r1), 247.2.a.c(o1,c1,r1), 247.2.be.a(o12,c247,r1), 247.2.be.b(o12,c247,r1); chi(144) values: ['0', '0', '0', '0']
+[CONFIRMED] Prop3.34 row 247: ord<a> in (Z/n)^*/+-1 = 3, I_n = 30240, 8k3 = 64 < G_n, 3 does not divide n, ord does not divide 8; k3=7 iff a=3^{+-1} (d_CM=72 not checked here)
+      evidence: ord=3, I=30240, G_n=299.93, k3 rule consistent
+[CONFIRMED] (<3>-1)J1(253)(Q) finite: every positive-rank form of level | 253 has chi(3)=1 
+      evidence: positive-rank: 253.2.a.a(o1,c1,r1), 253.2.a.c(o1,c1,r1); chi(3) values: ['0', '0']
+[CONFIRMED] Prop3.34 row 253: ord<a> in (Z/n)^*/+-1 = 55, I_n = 31680, 8k3 = 56 < G_n, 3 does not divide n, ord does not divide 8; k3=7 iff a=3^{+-1} (d_CM=220 not checked here)
+      evidence: ord=55, I=31680, G_n=314.21, k3 rule consistent
+[CONFIRMED] (<3>-1)J1(289)(Q) finite: every positive-rank form of level | 289 has chi(3)=1 
+      evidence: positive-rank: 289.2.a.b(o1,c1,r1), 289.2.a.d(o1,c1,r1), 289.2.a.a(o1,c1,r1); chi(3) values: ['0', '0', '0']
+[CONFIRMED] Prop3.34 row 289: ord<a> in (Z/n)^*/+-1 = 136, I_n = 41616, 8k3 = 56 < G_n, 3 does not divide n, ord does not divide 8; k3=7 iff a=3^{+-1} (d_CM=136 not checked here)
+      evidence: ord=136, I=41616, G_n=412.76, k3 rule consistent
+[CONFIRMED] (<3>-1)J1(299)(Q) finite: every positive-rank form of level | 299 has chi(3)=1 
+      evidence: positive-rank: 299.2.a.a(o1,c1,r1), 299.2.a.d(o1,c1,r1); chi(3) values: ['0', '0']
+[CONFIRMED] Prop3.34 row 299: ord<a> in (Z/n)^*/+-1 = 33, I_n = 44352, 8k3 = 56 < G_n, 3 does not divide n, ord does not divide 8; k3=7 iff a=3^{+-1} (d_CM=264 not checked here)
+      evidence: ord=33, I=44352, G_n=439.89, k3 rule consistent
+[CONFIRMED] (<101>-1)J1(323)(Q) finite: every positive-rank form of level | 323 has chi(101)=1 
+      evidence: positive-rank: 323.2.a.c(o1,c1,r1), 323.2.a.d(o1,c1,r1), 323.2.k.a(o8,c17,r1); chi(101) values: ['0', '0', '0']
+[CONFIRMED] Prop3.34 row 323: ord<a> in (Z/n)^*/+-1 = 18, I_n = 51840, 8k3 = 64 < G_n, 3 does not divide n, ord does not divide 8; k3=7 iff a=3^{+-1} (d_CM=288 not checked here)
+      evidence: ord=18, I=51840, G_n=514.16, k3 rule consistent
+[CONFIRMED] (<3>-1)J1(361)(Q) finite: every positive-rank form of level | 361 has chi(3)=1 
+      evidence: positive-rank: 361.2.a.g(o1,c1,r1), 361.2.a.i(o1,c1,r1), 361.2.a.a(o1,c1,r1); chi(3) values: ['0', '0', '0']
+[CONFIRMED] Prop3.34 row 361: ord<a> in (Z/n)^*/+-1 = 171, I_n = 64980, 8k3 = 56 < G_n, 3 does not divide n, ord does not divide 8; k3=7 iff a=3^{+-1} (d_CM=114 not checked here)
+      evidence: ord=171, I=64980, G_n=644.49, k3 rule consistent
+[CONFIRMED] (<3>-1)J1(391)(Q) finite: every positive-rank form of level | 391 has chi(3)=1 
+      evidence: positive-rank: 391.2.a.c(o1,c1,r1), 391.2.a.b(o1,c1,r1), 391.2.a.a(o1,c1,r1); chi(3) values: ['0', '0', '0']
+[CONFIRMED] Prop3.34 row 391: ord<a> in (Z/n)^*/+-1 = 176, I_n = 76032, 8k3 = 56 < G_n, 3 does not divide n, ord does not divide 8; k3=7 iff a=3^{+-1} (d_CM=352 not checked here)
+      evidence: ord=176, I=76032, G_n=754.10, k3 rule consistent
+[CONFIRMED] (<3>-1)J1(437)(Q) finite: every positive-rank form of level | 437 has chi(3)=1 
+      evidence: positive-rank: 437.2.a.f(o1,c1,r1), 437.2.a.c(o1,c1,r1), 437.2.a.d(o1,c1,r1), 437.2.a.e(o1,c1,r1), 437.2.a.a(o1,c1,r1); chi(3) values: ['0', '0', '0', '0', '0']
+[CONFIRMED] Prop3.34 row 437: ord<a> in (Z/n)^*/+-1 = 198, I_n = 95040, 8k3 = 56 < G_n, 3 does not divide n, ord does not divide 8; k3=7 iff a=3^{+-1} (d_CM=396 not checked here)
+      evidence: ord=198, I=95040, G_n=942.63, k3 rule consistent
+[CONFIRMED] (<3>-1)J1(529)(Q) finite: every positive-rank form of level | 529 has chi(3)=1 
+      evidence: positive-rank: 529.2.a.g(o1,c1,r1), 529.2.a.h(o1,c1,r1), 529.2.a.i(o1,c1,r1); chi(3) values: ['0', '0', '0']
+[CONFIRMED] Prop3.34 row 529: ord<a> in (Z/n)^*/+-1 = 253, I_n = 139656, 8k3 = 56 < G_n, 3 does not divide n, ord does not divide 8; k3=7 iff a=3^{+-1} (d_CM=506 not checked here)
+      evidence: ord=253, I=139656, G_n=1385.14, k3 rule consistent
+[CONFIRMED] only trivial-character positive rank at 115: full winding on every nontrivial-character component
+      evidence: positive-rank: 115.2.a.b(o1,c1,r1)
+[CONFIRMED] only trivial-character positive rank at 161: full winding on every nontrivial-character component
+      evidence: positive-rank: 161.2.a.b(o1,c1,r1)
+[CONFIRMED] only trivial-character positive rank at 253: full winding on every nontrivial-character component
+      evidence: positive-rank: 253.2.a.a(o1,c1,r1), 253.2.a.c(o1,c1,r1)
+[CONFIRMED] only trivial-character positive rank at 299: full winding on every nontrivial-character component
+      evidence: positive-rank: 299.2.a.a(o1,c1,r1), 299.2.a.d(o1,c1,r1)
+[CONFIRMED] only trivial-character positive rank at 391: full winding on every nontrivial-character component
+      evidence: positive-rank: 391.2.a.c(o1,c1,r1), 391.2.a.b(o1,c1,r1), 391.2.a.a(o1,c1,r1)
+[CONFIRMED] only trivial-character positive rank at 437: full winding on every nontrivial-character component
+      evidence: positive-rank: 437.2.a.f(o1,c1,r1), 437.2.a.c(o1,c1,r1), 437.2.a.d(o1,c1,r1), 437.2.a.e(o1,c1,r1), 437.2.a.a(o1,c1,r1)
+[CONFIRMED] only trivial-character positive rank at 529: full winding on every nontrivial-character component
+      evidence: positive-rank: 529.2.a.g(o1,c1,r1), 529.2.a.h(o1,c1,r1), 529.2.a.i(o1,c1,r1)
+[CONFIRMED] (<2>-1)J1(85)(Q) finite: every positive-rank form of level | 85 has chi(2)=1 
+      evidence: positive-rank: 85.2.a.b(o1,c1,r1), 85.2.j.a(o4,c85,r1); chi(2) values: ['0', '0']
+[CONFIRMED] 85: only nontrivial positive-rank orbit is 85.j (order 4): 
+      evidence: nontrivial-character positive-rank orbits: ['j']
+[CONFIRMED] (<3>-1)J1(91)(Q) finite: every positive-rank form of level | 91 has chi(3)=1 
+      evidence: positive-rank: 91.2.a.a(o1,c1,r1), 91.2.a.b(o1,c1,r1), 91.2.g.a(o3,c91,r1), 91.2.u.a(o6,c91,r1); chi(3) values: ['0', '0', '0', '0']
+[CONFIRMED] 91: nontrivial positive-rank orbits are 91.g, 91.u (orders 3, 6): 
+      evidence: [('g', 3), ('u', 6)]
+[CONFIRMED] (<11>-1)J1(95)(Q) finite: every positive-rank form of level | 95 has chi(11)=1 
+      evidence: positive-rank: 95.2.l.a(o12,c95,r1); chi(11) values: ['0']
+[CONFIRMED] 95: only nontrivial positive-rank orbit is 95.l (order 12): 
+      evidence: [('l', 12)]
+[CONFIRMED] 99: positive rank only for trivial character: 
+      evidence: 99.2.a.a(o1,c1,r1)
+[CONFIRMED] (<22>-1)J1(105)(Q) finite: every positive-rank form of level | 105 has chi(22)=1 
+      evidence: positive-rank: 105.2.s.a(o6,c21,r1); chi(22) values: ['0']
+[CONFIRMED] 105: unique positive-rank (deficient) nontrivial orbit has order 6, conductor 21: 
+      evidence: [('s', 6, 21)]
+[CONFIRMED] 105: 22 = 1 mod 21: 
+      evidence: 
+[CONFIRMED] J0(105)(Q) rank 0: trivial-character part has dimension 13 and no positive-rank form
+      evidence: trivial-char positive-rank: none; dim 13
+[CONFIRMED] (<24>-1)J1(175)(Q) finite: every positive-rank form of level | 175 has chi(24)=1 
+      evidence: positive-rank: 175.2.a.a(o1,c1,r1), 175.2.a.b(o1,c1,r1), 175.2.h.a(o5,c25,r1); chi(24) values: ['0', '0', '0']
+[CONFIRMED] 175: positive-rank characters have order 1 or 5: 
+      evidence: 175.2.a.a(o1,c1,r1), 175.2.a.b(o1,c1,r1), 175.2.h.a(o5,c25,r1)
+[CONFIRMED] Lemma 3.77 table (175, chars trivial on H): orbits (order,cond, dim S2(175,eps), dim Wind): (1,1,15,13),(2,5,14,14),(3,7,14,14),(4,35,14,14),(6,35,14,14),(12,35,14,14)
+      evidence: LMFDB (order, cond, relative dim incl. oldforms, relative dim minus positive-rank part): [(1, 1, '15', '13'), (2, 5, '14', '14'), (3, 7, '14', '14'), (4, 35, '14', '14'), (6, 35, '14', '14'), (12, 35, '14', '14')]
+[CONFIRMED] Lemma 3.77: 24^3 = -1 mod 175 and 24,24^2 not in +-H: 
+      evidence: 
+[CONFIRMED] 57: positive rank only trivial char, 1-dim, dim S2(G0(57))=5, a_p={2: -2, 3: -1}: 
+      evidence: positive-rank: 57.2.a.a(o1,c1,r1); positive-rank trivial dimension 1; a_p of that form: {2: -2, 3: -1}; genus X0=5
+[CONFIRMED] 65: positive rank only trivial char, 1-dim, dim S2(G0(65))=5, a_p={2: -1}: 
+      evidence: positive-rank: 65.2.a.a(o1,c1,r1); positive-rank trivial dimension 1; a_p of that form: {2: -1}; genus X0=5
+[CONFIRMED] 77: positive rank only trivial char, 1-dim, dim S2(G0(77))=7, a_p={2: 0}: 
+      evidence: positive-rank: 77.2.a.a(o1,c1,r1); positive-rank trivial dimension 1; a_p of that form: {2: 0}; genus X0=7
+[CONFIRMED] J(X1(63)/<8>)(Q) rank 0: every positive-rank form of level | 63 has chi(8) != 1
+      evidence: positive-rank: 63.2.s.a(o6,c63,r1)
+[CONFIRMED] 63: five character orbits with chi(8)=1, weighted dims sum to 49: 
+      evidence: orbits (order, cond, rel dim): [(1, 1, '5'), (3, 7, '4'), (3, 9, '6'), (3, 63, '6'), (3, 63, '6')]
+[CONFIRMED] 69: eps(5)=1: 
+      evidence: (69/5) = 1
+[CONFIRMED] 81: dimension decomposition 4+18*8+6*6+2*3=190: 
+      evidence: dimsum 190
+[CONFIRMED] 81: weighted decomposition 4 + 18*8 + 6*6 + 2*3 by character orbits: 
+      evidence: (phi(order), relative dim) per orbit: [(1, '4'), (2, '3'), (6, '6'), (18, '8')]
+[CONFIRMED] Lemma 3.48 table (level 100, six even-character orbits): orders 1,20,10,5,4,2 with relative dims 7,13,12,12,9,6
+      evidence: LMFDB orbits with nonzero S2 (order, cond, rel dim): [(1, 1, '7'), (2, 5, '6'), (4, 20, '9'), (5, 25, '12'), (10, 25, '12'), (20, 100, '13')]
+[CONFIRMED] Lemma 3.48: every newform of level | 100 has nonzero central L-value: 
+      evidence: positive-rank: none
+[CONFIRMED] Lemma 3.75: S2(Gamma1(25)) = chars of order 5 (rel dim 1) and 10 (rel dim 2), coefficient fields of degree 4: 
+      evidence: level-25 newforms (order, rel dim, dim): [('25.2.d.a', 5, 4), ('25.2.e.a', 10, 8)]
+[CONFIRMED] Lemma 3.75: dims 7 and 8 of the order-5/order-10 spaces at 125 trivial on <26>: 
+      evidence: LMFDB orbits (order, cond, rel dim incl. oldforms): [(5, 25, '7'), (10, 25, '8')]
+[CONFIRMED] Lemma 3.75: rank J1(25)(Q(zeta5)) = 0 (no positive-rank form at level | 125 with char of order 5 or 10): 
+      evidence: positive-rank forms at level | 125: 125.2.a.a(o1,c1,r1)
+[CONFIRMED] J1(54)(Q) finite: 
+      evidence: none
+[CONFIRMED] J1(55)(Q) finite: 
+      evidence: none
+[CONFIRMED] index bound X1(54): 325*I/32768 = 78975/8192
+      evidence: I=972, value 78975/8192
+[CONFIRMED] index bound X1(57): 325*I/32768 = 14625/1024
+      evidence: I=1440, value 14625/1024
+[CONFIRMED] index bound X1(77): 325*I/32768 = 14625/512
+      evidence: I=2880, value 14625/512
+[CONFIRMED] index bound X1(105): 325*I/32768 = 2925/64
+      evidence: I=4608, value 2925/64
+[CONFIRMED] index bound X1(81): 325*I/32768 = 236925/8192
+      evidence: I=2916, value 236925/8192
+[CONFIRMED] index bound X1(85): 325*I/32768 = 8775/256
+      evidence: I=3456, value 8775/256
+[CONFIRMED] index bound X1(91): 325*I/32768 = 20475/512
+      evidence: I=4032, value 20475/512
+[CONFIRMED] index bound X1(99): 325*I/32768 = 43875/1024
+      evidence: I=4320, value 43875/1024
+[CONFIRMED] index bound X1(95): 325*I/32768 = 43875/1024
+      evidence: I=4320, value 43875/1024
+[CONFIRMED] index bound X1(69): 325*I/32768 = 10725/512
+      evidence: I=2112, value 10725/512
+[CONFIRMED] index bound X1(175): 325*I/32768 = 73125/512
+      evidence: I=14400, value 73125/512
+[CONFIRMED] index X1(5,15): PSL2-index 480
+      evidence: Sage 480, m*I(X1(n)) = 480
+[CONFIRMED] index X1(5,20): PSL2-index 720
+      evidence: Sage 720, m*I(X1(n)) = 720
+[CONFIRMED] index X1(3,27): PSL2-index 972
+      evidence: Sage 972, m*I(X1(n)) = 972
+[CONFIRMED] index X1(3,24): PSL2-index 576
+      evidence: Sage 576, m*I(X1(n)) = 576
+[CONFIRMED] index X1(4,20): PSL2-index 576
+      evidence: Sage 576, m*I(X1(n)) = 576
+[CONFIRMED] index X1(5,35): PSL2-index 2880
+      evidence: Sage 2880, m*I(X1(n)) = 2880
+[CONFIRMED] index X1(2,42): PSL2-index 1152
+      evidence: Sage 1152, m*I(X1(n)) = 1152
+[CONFIRMED] index X1(10,10): PSL2-index 360
+      evidence: Sage 360, m*I(X1(n)) = 360
+[CONFIRMED] index X1(4,24): PSL2-index 768
+      evidence: Sage 768, m*I(X1(n)) = 768
+[CONFIRMED] rank J1(5,15)(Q(zeta5)) = 0 via twists: every twist f(x)psi (f in J_H(75), psi mod 5) is a newform of level | 75 with character trivial on H, and all of these have analytic rank 0
+      evidence: 8 newforms f with chi_f trivial on H (labels ['15.2.a.a', '75.2.a.a', '75.2.a.b', '75.2.a.c', '75.2.b.a', '75.2.b.b', '75.2.e.a', '75.2.e.b']); twist-level bounds lcm(M,25,5cond) = [75] (all divide 75); twisted characters trivial on H: True; positive-rank forms among them: none; positive-rank forms at ANY level | 75: none; all ranks proved: True
+[CONFIRMED] rank J1(5,20)(Q(zeta5)) = 0 via twists: every twist f(x)psi (f in J_H(100), psi mod 5) is a newform of level | 100 with character trivial on H, and all of these have analytic rank 0
+      evidence: 11 newforms f with chi_f trivial on H (labels ['100.2.a.a', '100.2.c.a', '100.2.e.a', '100.2.e.b', '100.2.e.c', '100.2.e.d', '20.2.a.a', '20.2.e.a', '50.2.a.a', '50.2.a.b', '50.2.b.a']); twist-level bounds lcm(M,25,5cond) = [50, 100] (all divide 100); twisted characters trivial on H: True; positive-rank forms among them: none; positive-rank forms at ANY level | 100: none; all ranks proved: True
+[INFO] X1(5,25)=X_H(125), H={a=+-1 mod 25}: positive-rank forms trivial on H: 125.2.a.a(o1,c1,r1) -> J1(5,25)(Q(zeta5)) has positive rank
+
+SUMMARY: {'CONFIRMED': 192, 'CONTRADICTED': 0, 'NOT CHECKABLE': 0}
+RANKS8_DONE

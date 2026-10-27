@@ -1,0 +1,204 @@
+{
+  "status": "complete exclusion",
+  "source_group": [
+    2,
+    42
+  ],
+  "first_filter_inputs": 2405,
+  "small_quotient_survivors": 288,
+  "five_map_survivors": 41,
+  "full_source_Aut_order": 36,
+  "full_source_Aut_orbits": 30,
+  "nonprincipal_genus31_initial_Hecke_cases": 28,
+  "deck_excluded_index": 193,
+  "deck_excluded_descriptor": [
+    2,
+    4,
+    5,
+    4,
+    38
+  ],
+  "deck_excluded_support_degrees": [
+    4,
+    4
+  ],
+  "deck_parameter": [
+    2,
+    1,
+    10
+  ],
+  "deck_fixes_remaining_divisor": true,
+  "deck_global_obstruction": "rank0 and odd5 injectivity lift h-invariance; gonality>8 makes it literal; forgetting P2 gives an order42 point over degree dividing4, excluded by DN Theorem1.1",
+  "pair118_refinement": [
+    [
+      118,
+      [
+        2,
+        4,
+        3,
+        4,
+        85
+      ],
+      13,
+      true
+    ],
+    [
+      118,
+      [
+        2,
+        4,
+        3,
+        4,
+        85
+      ],
+      17,
+      false
+    ]
+  ],
+  "remaining": 0,
+  "checked_kernel_orbit_weights": 126,
+  "exact_Hecke_results": [
+    [
+      1,
+      false
+    ],
+    [
+      3,
+      false
+    ],
+    [
+      22,
+      false
+    ],
+    [
+      43,
+      false
+    ],
+    [
+      56,
+      false
+    ],
+    [
+      57,
+      false
+    ],
+    [
+      62,
+      false
+    ],
+    [
+      97,
+      false
+    ],
+    [
+      110,
+      false
+    ],
+    [
+      111,
+      false
+    ],
+    [
+      114,
+      false
+    ],
+    [
+      117,
+      false
+    ],
+    [
+      118,
+      true
+    ],
+    [
+      127,
+      false
+    ],
+    [
+      150,
+      false
+    ],
+    [
+      178,
+      false
+    ],
+    [
+      180,
+      false
+    ],
+    [
+      183,
+      false
+    ],
+    [
+      185,
+      false
+    ],
+    [
+      187,
+      false
+    ],
+    [
+      191,
+      false
+    ],
+    [
+      193,
+      true
+    ],
+    [
+      200,
+      false
+    ],
+    [
+      201,
+      false
+    ],
+    [
+      225,
+      false
+    ],
+    [
+      228,
+      false
+    ],
+    [
+      233,
+      false
+    ],
+    [
+      243,
+      false
+    ],
+    [
+      277,
+      false
+    ],
+    [
+      284,
+      false
+    ]
+  ],
+  "verification_boundary": "Check the complete finite coverage and the remaining C2x42 decisions.\n\nThe preceding independent positive-point and actual-relation HNF replays\nestablish 41 remaining supports. This checker recomputes every simultaneous\nsource automorphism witness, checks all 30 Hecke decisions and every kernel\norbit/residue-degree multiplier, and verifies the final deck symmetry.\nMagma supplies the exact IsPrincipal decisions; the serialized-divisor\nMagma replays independently reconstruct those obstructions and check h0.\n",
+  "sha256": {
+    "M2N42_41_remaining_supports.m": "bcf50ff0979283fa2c4058dbcfb7b4cbf3dbc5e5f4dfe8b4837be6177beccaa9",
+    "M2N42_D8_direct_full4_arithmetic.txt": "cf3feff41de90db1d6a6b10fe37a2522c0d569aac8522d11dd81d3284241461e",
+    "M2N42_D8_direct_full5_arithmetic.txt": "a47489ed64803fdddb9c379286d1a0060bc48a51cbd55c3a266448b3e993f50b",
+    "M2N42_D8_direct_full6_arithmetic.txt": "eccb329d2f41aa39b12bdcce2f30db0ea962d78e36543f231ee1d95972f937d7",
+    "M2N42_D8_direct_full7_arithmetic.txt": "60851804fb509586a159580f6374453ad490af51dc6633ed13279f73884c172e",
+    "M2N42_D8_direct_full8_arithmetic.txt": "1ae74424c2ddbde9f075848c4532dd85cf6a9dff64966781eaeb9f0e920052ab",
+    "M2N42_D8_direct_small_all_points.txt": "13d9a9bb47309fa4410e95dbecdcbae7846e42342e44a5afd542880aa3a0f751",
+    "replay_M2N42_D8_quotient_filters.json": "827aa5004a53798a926b2fbfc87986e79a2dd7a4b08d66d61ee78d1be092b980",
+    "M2N42_41_full_Aut_orbits.json": "5e53607b00128e06d1d396d2e0c2880ebbbe8fed6f8e1cfed711c7814baeece5",
+    "M2N42_full_Aut_representative_supports.m": "cf994c291fd12454ce2c58737e8abe0e057fc6bf9c50e81d466e5dd9ec76f19f",
+    "C242_g31_bounded_Hecke_v3_arithmetic.txt": "35cdfcf5a9e9bca149d1ab96e34487206ca398202cdd1ca76b08740f5fe47ed5",
+    "probe_C242_genus31_Hecke_v3.log": "275de41218b6eb1b2ebbdfcf7deb69c3506b7385facf326de1e60af9484bf3ad",
+    "C242_g31_remaining_shard0_arithmetic.txt": "eec049f1d79956ad88a79a78b46b9b15669916c92ba8c10c6322867dc02c0c88",
+    "sieve_C242_genus31_remaining_shard0.log": "2afdcfa1cb028d818ecd34b1b870c5b90a9d0ef430a48d165c5752e3a0670b48",
+    "C242_g31_remaining_shard1_arithmetic.txt": "462dcb9378760080e675bf5ea064cf681bf6fa84aafca7506b4b41ad63ea8c94",
+    "sieve_C242_genus31_remaining_shard1.log": "5202abe2d002e3aa45c074d58ef526435e45ff5e87d2b02b9c91430fbde162ce",
+    "C242_g31_pair118_refinement_arithmetic.txt": "e9e13a8b4793bba7a838e4248ad74575e327de90fabdd6667bbbb5e1b4c8166e"
+  },
+  "seconds": 2.316
+}
+C242_FINAL_COVERAGE_DONE 2405 288 41 30 28 2 0

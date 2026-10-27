@@ -1,0 +1,220 @@
+{
+  "degree": 8,
+  "group": [
+    2,
+    28
+  ],
+  "finite_field": 3,
+  "genus": 25,
+  "full_aut_group_order": 24,
+  "NC_counts": [
+    0,
+    0,
+    0,
+    0,
+    48,
+    64,
+    312,
+    606
+  ],
+  "representatives": [
+    2,
+    5,
+    13,
+    29
+  ],
+  "total_representatives": 49,
+  "all_actual_keys": 1030,
+  "all_finite_field_record_roundtrips_replayed": true,
+  "independent_Newton_full_partition_and_parameter_group_replay": true,
+  "q19_admissible_degree3_complements": true,
+  "all_Galois_stabilizes_degree_le2_cusp_orbits": true,
+  "input_sha256": {
+    "N28_D8_Frob_arithmetic.txt": "28d3b0e95e724ea40a2eabfcaa2f5b930883cd2df3955532926e3d3d3ad57387",
+    "N28_D8_fullaut_Hecke_input.txt": "0b6d79002a6215113f629e563b830da1b4cb773eb2af0b5426aaf045d2b48812"
+  }
+}
+N28_D8_FULL24_AUT_COVERAGE_REPLAY_DONE
+{
+  "group": [
+    2,
+    28
+  ],
+  "degree": 8,
+  "records": 49,
+  "degrees": [
+    2,
+    5,
+    13,
+    29
+  ],
+  "quintic_representatives_killed": 2,
+  "quintic_corrections_per_q5": 17,
+  "higher_representatives": 47,
+  "two_prime_survivors": [
+    35,
+    46
+  ],
+  "third_prime_decisions": [
+    [
+      35,
+      8,
+      15,
+      19,
+      true
+    ],
+    [
+      46,
+      8,
+      26,
+      19,
+      true
+    ]
+  ],
+  "unresolved_representatives": [
+    35,
+    46
+  ],
+  "all_modular_points_excluded": false,
+  "checksums": {
+    "N28_D8_fullaut_Hecke_input.txt": "0b6d79002a6215113f629e563b830da1b4cb773eb2af0b5426aaf045d2b48812",
+    "N28_D8_quintic_correction_arithmetic.txt": "33efdc517be2ebb58d5601a6a3e6b3121ae0a2d36337379c2ce632e90bc528ee",
+    "N28_D8_quintic_cusp_corrections.log": "148c2835383d310967dec12514a36ea3599e45d9f68c25e65e48539d9eecf783",
+    "N28_D8_fullaut_high_Hecke_shard0.log": "43a736757de7ab312e61e0fdc23a805bad59d4e158777e7485006f4897108e80",
+    "N28_D8_fullaut_high_Hecke_shard1.log": "fb82274b0915ec86dbee71afb9cd5d985c1d61de847662a774fc3b0781650964",
+    "N28_D8_fullaut_third_35_arithmetic.txt": "68c0a368e6d094162acc7e238d2add3fa51ba9ae1e916d1fc0446a6a8705dc39",
+    "N28_D8_fullaut_third_46_arithmetic.txt": "9e18b41c850e3f5edb3063c836a4e4d96c0d9d73cc993e33d129ff29c2d8ee5d"
+  }
+}
+N28_D8_HECKE_ASSEMBLY_REPLAY_DONE
+{
+  "N28_D8_forgetful_class_arithmetic.txt": {
+    "sha256": "1ced06e101cce1d52181f36acd467049b57be6a983a47544a964426c0f78fe41",
+    "Jacobian_order": 359424,
+    "rational_image_order": 89856,
+    "image_index": 4,
+    "tests": [
+      {
+        "record": 35,
+        "map": 0,
+        "source_degree": 8,
+        "image_degree": 8,
+        "multiplicity": 1,
+        "in_rational_image": true
+      },
+      {
+        "record": 35,
+        "map": 1,
+        "source_degree": 8,
+        "image_degree": 4,
+        "multiplicity": 2,
+        "in_rational_image": true
+      },
+      {
+        "record": 46,
+        "map": 0,
+        "source_degree": 8,
+        "image_degree": 8,
+        "multiplicity": 1,
+        "in_rational_image": false
+      },
+      {
+        "record": 46,
+        "map": 1,
+        "source_degree": 8,
+        "image_degree": 8,
+        "multiplicity": 1,
+        "in_rational_image": false
+      }
+    ]
+  },
+  "N28_D8_isogeny_class_arithmetic.txt": {
+    "sha256": "15ec86a912f657906490528b39fa654baef0c0f8e574a814f28d96e2c3ae4ed7",
+    "Jacobian_order": 359424,
+    "rational_image_order": 89856,
+    "image_index": 4,
+    "tests": [
+      {
+        "record": 35,
+        "map": 0,
+        "source_degree": 8,
+        "image_degree": 8,
+        "multiplicity": 1,
+        "in_rational_image": true
+      },
+      {
+        "record": 35,
+        "map": 1,
+        "source_degree": 8,
+        "image_degree": 8,
+        "multiplicity": 1,
+        "in_rational_image": true
+      }
+    ]
+  },
+  "remaining_full_Aut24_orbits": [
+    35
+  ],
+  "exclusion_proved": false
+}
+N28_D8_QUOTIENT_INTEGER_HNF_REPLAY_DONE
+{
+  "field_degree": 8,
+  "field_irreducible_over_Q": true,
+  "exact_nonzero_rational_2_points": 1,
+  "independent_local_obstruction_to_full_2_torsion": {
+    "prime": 23,
+    "simple_root_of_field_polynomial": 2,
+    "a_invariants": [
+      3,
+      16,
+      16,
+      0,
+      0
+    ],
+    "good_reduction_discriminant": 15,
+    "psi2_roots": [
+      6
+    ],
+    "psi2_factor_degrees": [
+      1,
+      2
+    ]
+  },
+  "input_sha256": "668d7ee6e7ea0cda9bcd95bcd9613cb7d41adbe57dc1c0bf745b8b393c5c20b8"
+}
+N28_D8_EXACT_FIELD_LOCAL2_REPLAY_DONE
+{
+  "degree": 8,
+  "excluded_groups": [
+    [
+      2,
+      28
+    ],
+    [
+      1,
+      56
+    ]
+  ],
+  "status": "complete; awaiting independent root review",
+  "full_aut_representatives": 49,
+  "two_prime_Hecke_survivors": [
+    35,
+    46
+  ],
+  "quotient_class_obstruction_kills": [
+    46
+  ],
+  "exact_global_cusp_lift_replayed": true,
+  "final_orbit": 35,
+  "global_RR_dimension": 1,
+  "unique_effective_divisor_degree": 8,
+  "psi2_factor_degrees": [
+    1,
+    2
+  ],
+  "independent_good_prime_2torsion_obstruction": 23,
+  "final_source_orbits_remaining": 0,
+  "verification_boundary": "Python independently replays field/count/partition/integer-class/local2 arithmetic. Native exact RR dimension and divisor identification are checked by the completed fresh Magma end-to-end source; no independent Python RR implementation is claimed."
+}
+N28_D8_COMPLETE_EXCLUSION_REPLAY_DONE

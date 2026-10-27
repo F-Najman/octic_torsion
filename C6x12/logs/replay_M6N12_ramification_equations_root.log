@@ -1,0 +1,110 @@
+M6N12_INDEPENDENT_RAMIFICATION_PRIME 127 1 8
+M6N12_INDEPENDENT_RAMIFICATION_PRIME 127 2 8
+M6N12_INDEPENDENT_RAMIFICATION_PRIME 127 3 8
+M6N12_INDEPENDENT_RAMIFICATION_PRIME 127 4 8
+M6N12_INDEPENDENT_RAMIFICATION_PRIME 128 1 8
+M6N12_INDEPENDENT_RAMIFICATION_PRIME 128 2 8
+M6N12_INDEPENDENT_RAMIFICATION_PRIME 128 3 8
+M6N12_INDEPENDENT_RAMIFICATION_PRIME 128 4 8
+M6N12_INDEPENDENT_RAMIFICATION_PRIME 129 1 8
+M6N12_INDEPENDENT_RAMIFICATION_PRIME 129 2 8
+M6N12_INDEPENDENT_RAMIFICATION_PRIME 129 3 8
+M6N12_INDEPENDENT_RAMIFICATION_PRIME 129 4 8
+M6N12_INDEPENDENT_RAMIFICATION_PRIME 130 1 8
+M6N12_INDEPENDENT_RAMIFICATION_PRIME 130 2 8
+M6N12_INDEPENDENT_RAMIFICATION_PRIME 130 3 8
+M6N12_INDEPENDENT_RAMIFICATION_PRIME 130 4 8
+M6N12_INDEPENDENT_RAMIFICATION_PRIME 131 1 8
+M6N12_INDEPENDENT_RAMIFICATION_PRIME 131 2 8
+M6N12_INDEPENDENT_RAMIFICATION_PRIME 131 3 8
+M6N12_INDEPENDENT_RAMIFICATION_PRIME 131 4 8
+M6N12_INDEPENDENT_RAMIFICATION_PRIME 132 1 8
+M6N12_INDEPENDENT_RAMIFICATION_PRIME 132 2 8
+M6N12_INDEPENDENT_RAMIFICATION_PRIME 132 3 8
+M6N12_INDEPENDENT_RAMIFICATION_PRIME 132 4 8
+{
+  "degree": 8,
+  "group": [
+    6,
+    12
+  ],
+  "pencils": [
+    {
+      "index": 127,
+      "independent_closed_degrees": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "all_on_curve": true,
+      "all_smooth_in_u": true,
+      "all_df_zero": true
+    },
+    {
+      "index": 128,
+      "independent_closed_degrees": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "all_on_curve": true,
+      "all_smooth_in_u": true,
+      "all_df_zero": true
+    },
+    {
+      "index": 129,
+      "independent_closed_degrees": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "all_on_curve": true,
+      "all_smooth_in_u": true,
+      "all_df_zero": true
+    },
+    {
+      "index": 130,
+      "independent_closed_degrees": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "all_on_curve": true,
+      "all_smooth_in_u": true,
+      "all_df_zero": true
+    },
+    {
+      "index": 131,
+      "independent_closed_degrees": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "all_on_curve": true,
+      "all_smooth_in_u": true,
+      "all_df_zero": true
+    },
+    {
+      "index": 132,
+      "independent_closed_degrees": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "all_on_curve": true,
+      "all_smooth_in_u": true,
+      "all_df_zero": true
+    }
+  ],
+  "verified_primes": 24,
+  "distinct_irreducible_u_polynomials": 3,
+  "argument": "Each independently irreducible degree8 u polynomial and linear v equation defines a closeddegree8 smooth point. All24 points lie on the exact characteristic-zero model and annul the implicit derivative of the corresponding explicit pencil. Four distinct degree8 points fill the entire ramificationdegree32 for each degree8 map of a genus9 curve, so no further ramification or quartic support is possible.",
+  "boundary": "Independent polynomial irreducibility over Qzeta6, quotient-field arithmetic, curve membership and exact derivatives. Native Riemann--Roch dimension and pole-degree/class identities are checked separately."
+}
+M6N12_RAMIFICATION_EQUATIONS_INDEPENDENT_REPLAY_DONE

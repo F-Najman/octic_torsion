@@ -1,0 +1,102 @@
+{
+  "degree": 8,
+  "group": [
+    2,
+    36
+  ],
+  "finite_field_prime": 5,
+  "source_genus": 41,
+  "NC_counts": [
+    0,
+    0,
+    48,
+    120,
+    720,
+    2904,
+    10416,
+    50334
+  ],
+  "fields": [
+    {
+      "field_degree": 3,
+      "all_records": 2,
+      "own_degree_representatives": 2,
+      "all_closed_points": [
+        0,
+        48
+      ],
+      "checked_all24_images": true
+    },
+    {
+      "field_degree": 4,
+      "all_records": 5,
+      "own_degree_representatives": 5,
+      "all_closed_points": [
+        0,
+        0,
+        120
+      ],
+      "checked_all24_images": true
+    },
+    {
+      "field_degree": 5,
+      "all_records": 30,
+      "own_degree_representatives": 30,
+      "all_closed_points": [
+        0,
+        720
+      ],
+      "checked_all24_images": true
+    },
+    {
+      "field_degree": 6,
+      "all_records": 128,
+      "own_degree_representatives": 126,
+      "all_closed_points": [
+        0,
+        0,
+        48,
+        2904
+      ],
+      "checked_all24_images": true
+    },
+    {
+      "field_degree": 7,
+      "all_records": 434,
+      "own_degree_representatives": 434,
+      "all_closed_points": [
+        0,
+        10416
+      ],
+      "checked_all24_images": true
+    },
+    {
+      "field_degree": 8,
+      "all_records": 2120,
+      "own_degree_representatives": 2115,
+      "all_closed_points": [
+        0,
+        0,
+        120,
+        50334
+      ],
+      "checked_all24_images": true
+    }
+  ],
+  "total_support_orbits": 2712,
+  "small_supports_expanded": [
+    48,
+    120,
+    720
+  ],
+  "status": "complete positive source support certificate; no global exclusion claimed",
+  "verification_boundary": "Every curve is non-singular, Q has exactorder36, P2 is independent, everyAut24/Frobenius image is recomputed with polynomial-defined finitefield logtables and no Magma arithmetic. Disjoint unions match independent modular-symbol Frobenius counts. The j/twist producer search is not trusted for completeness.",
+  "input_sha256": {
+    "M2N36_D8_direct_full3_arithmetic.txt": "22df7eedc98d9850a29fc4f3683d2020eb9108b1b983514c25b3e4d93dc2f2ce",
+    "M2N36_D8_direct_full4_arithmetic.txt": "bd43c9793dd28c37e8b74ccc822eeb4df07de6ab3d2dcfe50bb3904380483581",
+    "M2N36_D8_direct_full5_arithmetic.txt": "12f6135071cfa8f4ac2064c5e1b6d699f27aee823467373464b062d54fbcb82a",
+    "M2N36_D8_direct_full6_arithmetic.txt": "6c3c710b8e860e79a4d98a0dbf8a5d77ba95ff3c00fce35fc3d04f665b6323b3",
+    "M2N36_D8_direct_full7_arithmetic.txt": "1616cc3327cc7a3d615dd1502e98c31aafa67c01f1c5f621efff15ff5ba05de0",
+    "M2N36_D8_direct_full8_arithmetic.txt": "15a65034268f22d6d012d604672d289ce01a53fe5f6d7017d15e7e4a4c4a8496"
+  }
+}

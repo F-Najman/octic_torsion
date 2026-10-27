@@ -1,0 +1,61 @@
+******* at place  136
+******* at place  137
+******* at place  138
+******* at place  139
+******* at place  140
+******* at place  141
+******* at place  142
+******* at place  143
+******* at place  144
+******* at place  145
+******* at place  146
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.150295857988165680473372781065
+reltries are 5070
+redoing smoothness check after 70 new reltries
+******* at place  147
+******* at place  148
+******* at place  149
+******* at place  150
+******* at place  151
+******* at place  152
+******* at place  153
+******* at place  154
+******* at place  155
+******* at place  156
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.150000000000000000000000000000
+reltries are 5140
+redoing smoothness check after 70 new reltries
+******* at place  157
+******* at place  158
+******* at place  159
+******* at place  160
+******* at place  161
+******* at place  162
+******* at place  163
+******* at place  164
+******* at place  165
+******* at place  166
+******* at place  167
+******* at place  168
+******* at place  169
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.150479846449136276391554702495
+reltries are 5210
+redoing smoothness check after 70 new reltries
+******* at place  170
+******* at place  171
+####### checking value of rels ...
+the rank is 615
+rankrelratio is 0.836678884746703030334454143151
+redoing check of relations after 1 new relations
+******* at place  172
+####### checking value of rels ...
+the determinant is 31579088486400
+total number of tried rels is 5239
+result proven by bounds
+evaluating abelian group data ...
+done.
+reducing generators ...
+

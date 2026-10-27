@@ -1,0 +1,102 @@
+{
+  "level": 57,
+  "H_generator": 7,
+  "H_order": 3,
+  "H_free_on_cusps": true,
+  "source_F2_signature": {
+    "1": 18,
+    "9": 2,
+    "2": 9,
+    "18": 1
+  },
+  "quotient_F2_signature": {
+    "1": 6,
+    "3": 2,
+    "2": 3,
+    "6": 1
+  },
+  "all_admissible_closed_cusp_divisors_lift_Q": true,
+  "generator_diamond": 5,
+  "Frobenius_exponents": {
+    "57": 0,
+    "1": 2,
+    "19": 3,
+    "3": 5
+  },
+  "cusps": [
+    {
+      "degree": 1,
+      "width": 57,
+      "global_degree": 1,
+      "admissible_from_source_D8": true
+    },
+    {
+      "degree": 1,
+      "width": 57,
+      "global_degree": 1,
+      "admissible_from_source_D8": true
+    },
+    {
+      "degree": 1,
+      "width": 57,
+      "global_degree": 1,
+      "admissible_from_source_D8": true
+    },
+    {
+      "degree": 1,
+      "width": 57,
+      "global_degree": 1,
+      "admissible_from_source_D8": true
+    },
+    {
+      "degree": 1,
+      "width": 57,
+      "global_degree": 1,
+      "admissible_from_source_D8": true
+    },
+    {
+      "degree": 1,
+      "width": 57,
+      "global_degree": 1,
+      "admissible_from_source_D8": true
+    },
+    {
+      "degree": 3,
+      "width": 1,
+      "global_degree": 6,
+      "admissible_from_source_D8": false
+    },
+    {
+      "degree": 2,
+      "width": 19,
+      "global_degree": 2,
+      "admissible_from_source_D8": true
+    },
+    {
+      "degree": 2,
+      "width": 19,
+      "global_degree": 2,
+      "admissible_from_source_D8": true
+    },
+    {
+      "degree": 2,
+      "width": 19,
+      "global_degree": 2,
+      "admissible_from_source_D8": true
+    },
+    {
+      "degree": 6,
+      "width": 3,
+      "global_degree": 6,
+      "admissible_from_source_D8": false
+    },
+    {
+      "degree": 3,
+      "width": 1,
+      "global_degree": 6,
+      "admissible_from_source_D8": false
+    }
+  ],
+  "admissible_divisors_D8": 3654,
+  "single_cusp_RR_kernels": 60
+}

@@ -1,0 +1,41 @@
+{
+  "level": 69,
+  "geometric_cusps": 88,
+  "Q_orbit_degrees": {
+    "2": 11,
+    "1": 22,
+    "22": 2
+  },
+  "F2_orbit_degrees": {
+    "2": 11,
+    "1": 22,
+    "11": 2,
+    "22": 1
+  },
+  "every_F2_rational_source_cusp_Q_rational": true,
+  "quadratic_kernel": [
+    1,
+    4,
+    5,
+    11,
+    13,
+    14,
+    16,
+    17,
+    20,
+    25,
+    31,
+    38,
+    44,
+    49,
+    52,
+    53,
+    55,
+    56,
+    58,
+    64,
+    65,
+    68
+  ],
+  "diamond5_trivial": true
+}

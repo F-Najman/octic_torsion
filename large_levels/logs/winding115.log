@@ -1,0 +1,8 @@
+WINDING N=115 order=1 conductor=1 relative_dimension=11 winding_dimension=9 coefficient_degree=20 time=0.050
+WINDING N=115 order=2 conductor=5 relative_dimension=10 winding_dimension=10 coefficient_degree=20 time=0.010
+WINDING N=115 order=44 conductor=115 relative_dimension=10 winding_dimension=10 coefficient_degree=20 time=0.090
+WINDING N=115 order=11 conductor=23 relative_dimension=10 winding_dimension=10 coefficient_degree=20 time=0.060
+WINDING N=115 order=22 conductor=115 relative_dimension=10 winding_dimension=10 coefficient_degree=20 time=0.070
+WINDING N=115 order=4 conductor=115 relative_dimension=10 winding_dimension=10 coefficient_degree=20 time=0.030
+WINDING_FINAL N=115 genus=441 total_dimension=441 bad_orders=[ 1 ] admissible=[ 2, 3, 4, 6, 7, 8, 9, 11, 12, 13, 14, 16, 17, 18, 19, 21, 22, 24, 26, 27, 28, 29, 31, 32, 33, 34, 36, 37, 38, 39, 41, 42, 43, 44, 47, 48, 49, 51, 52, 53, 54, 56, 57, 58, 59, 61, 62, 63, 64, 66, 67, 68, 71, 72, 73, 74, 76, 77, 78, 79, 81, 82, 83, 84, 86, 87, 88, 89, 91, 93, 94, 96, 97, 98, 99, 101, 102, 103, 104, 106, 107, 108, 109, 111, 112, 113 ]
+WINDING_CHARACTER_PROBE_DONE

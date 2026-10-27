@@ -1,0 +1,35 @@
+{
+  "degree": 8,
+  "group": [
+    2,
+    32
+  ],
+  "finite_field": 3,
+  "genus": 37,
+  "full_aut_group_order": 32,
+  "NC_counts": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    192,
+    320,
+    960
+  ],
+  "representatives": [
+    8,
+    10,
+    32
+  ],
+  "total_representatives": 50,
+  "all_actual_keys": 1472,
+  "all_finite_field_record_roundtrips_replayed": true,
+  "independent_Newton_full_partition_and_parameter_group_replay": true,
+  "q11_q19_admissible_degree2_complements": true,
+  "all_Galois_stabilizes_degree1_cusp_orbits": true,
+  "input_sha256": {
+    "preflight_2_32_Frob_arithmetic.txt": "61dcc21fc6dea6fa99da76fa938ee9416f63a6716d3d4ab8fd849f29a002598e",
+    "N32_D8_fullaut_Hecke_input.txt": "dd78c8e439cbd659466eccbfaa0cb54a1ab96b358d1de8ba2eeaac4833c0ab3b"
+  }
+}

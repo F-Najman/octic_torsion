@@ -1,0 +1,9 @@
+Magma V2.30-1     Thu Oct 22 2026 09:01:20 on mordell  [Seed = 4266474920]
+Type <Ctrl>-D to quit.
+
+Loading file "work/degree8/noncyclic/replay_C242_pair118_refinement_RR.m"
+C242_FORGET3SIGN_GENUS31_MODEL 31 73.540
+Loading "work/degree8/noncyclic/deps/serialize_genus31_divisors.m"
+C242_G31_PAIR118_REFINEMENT_RR_DONE 118 17 nonprincipal=true complete=true 140.390
+
+Total time: 140.389 seconds, Total memory usage: 96.16MB

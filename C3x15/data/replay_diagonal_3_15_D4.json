@@ -1,0 +1,22 @@
+{
+  "degree": 8,
+  "group": [
+    3,
+    15
+  ],
+  "multiplier": 3,
+  "two_prime_sha256": "8e5c59f9487c1796021033514bc8de1bf45734c24a9a0e3cb5f2a630ea8692fa",
+  "cusp_group_order": 1990656,
+  "two_prime_states": [
+    5102,
+    6264
+  ],
+  "two_prime_matches": 60,
+  "two_prime_predictions": 12,
+  "all_nonempty_F4_support_eliminated": true,
+  "independent_HNF_graph_and_transport_replay": true,
+  "third_prime_sha256": "c24e159097a919aba6caaf579a510b524bfcae55a704d682cdd4aeef48f7c304",
+  "third_prime_states": 1039,
+  "third_prime_matches": 1,
+  "full_three_prime_arithmetic_replayed": true
+}

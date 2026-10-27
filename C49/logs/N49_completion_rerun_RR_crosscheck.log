@@ -1,0 +1,10 @@
+{
+  "differential_space_reference": "C49/data/N49_cartier_kernels.m",
+  "completion_export": "C49/data/N49_completion_rerun_jets.m",
+  "reference_sha256": "cbbbe63806272cd7f4ed2596448ee150f648953d3d70e91dc0771e0b88276f38",
+  "completion_sha256": "64ff7b6c913d5078aeb5a6cf8d875a50d32c87b8b6115126f02b4c087c9e3f7d",
+  "identical_Cartier_matrix_and_image": true,
+  "exact_kernel_equalities_checked": 2,
+  "boundary": "Only exported RR kernels are compared; this is not the exhaustive divisor-rank replay."
+}
+RR_COMPLETION_CROSS_CHECK_DONE

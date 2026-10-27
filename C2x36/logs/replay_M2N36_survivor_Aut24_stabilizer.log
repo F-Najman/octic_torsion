@@ -1,0 +1,56 @@
+{
+  "source_record": 1606,
+  "field_polynomial": [
+    2,
+    4,
+    3,
+    0,
+    1,
+    0,
+    0,
+    0,
+    1
+  ],
+  "key": [
+    0,
+    0,
+    0,
+    0,
+    2,
+    3,
+    0,
+    4,
+    2,
+    1,
+    0,
+    4,
+    0,
+    2,
+    1,
+    2
+  ],
+  "orbit_size": 6,
+  "stabilizer_parameters": [
+    [
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      17
+    ],
+    [
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      1,
+      17
+    ]
+  ]
+}
+M2N36_SURVIVOR_AUT24_STABILIZER_DONE

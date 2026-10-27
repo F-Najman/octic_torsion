@@ -1,0 +1,288 @@
+FIELD q=2 e=1 orbits=2 cputime=0.010
+FIELD q=2 e=2 orbits=3 cputime=0.020
+FIELD q=2 e=3 orbits=4 cputime=0.020
+FIELD q=2 e=4 orbits=6 cputime=0.020
+FIELD q=2 e=5 orbits=8 cputime=0.020
+FIELD q=2 e=6 orbits=14 cputime=0.030
+FIELD q=2 e=7 orbits=20 cputime=0.040
+FIELD q=2 e=8 orbits=36 cputime=0.070
+FIELD q=2 e=9 orbits=60 cputime=0.140
+FIELD q=2 e=10 orbits=108 cputime=0.370
+MASS_ERRORS 0
+POINTS X1(33) q=2: [ 0, 0, 0, 0, 10, 120, 210, 200, 450, 1240 ]
+PLACES X1(33) q=2: [ 0, 0, 0, 0, 2, 20, 30, 25, 50, 123 ]
+QUAL X1(33) q=2 e=5: #iso classes of curves=1; (N, invariants, j-orbit length, #Aut) {*
+<33, [ 33 ], 1, 2>
+*}
+QUAL X1(33) q=2 e=6: #iso classes of curves=12; (N, invariants, j-orbit length, #Aut) {*
+<66, [ 66 ], 6, 2>^^2
+*}
+QUAL X1(33) q=2 e=7: #iso classes of curves=21; (N, invariants, j-orbit length, #Aut) {*
+<132, [ 132 ], 7, 2>^^3
+*}
+QUAL X1(33) q=2 e=8: #iso classes of curves=20; (N, invariants, j-orbit length, #Aut) {*
+<264, [ 264 ], 4, 2>,
+<264, [ 264 ], 8, 2>^^2
+*}
+QUAL X1(33) q=2 e=9: #iso classes of curves=45; (N, invariants, j-orbit length, #Aut) {*
+<528, [ 528 ], 9, 2>^^5
+*}
+QUAL X1(33) q=2 e=10: #iso classes of curves=91; (N, invariants, j-orbit length, #Aut) {*
+<990, [ 3, 330 ], 10, 2>,
+<990, [ 990 ], 10, 2>^^4,
+<1056, [ 1056 ], 10, 2>^^4,
+<1089, [ 33, 33 ], 1, 24>
+*}
+POINTS X1(35) q=2: [ 0, 0, 0, 0, 0, 144, 168, 240, 504, 1080 ]
+PLACES X1(35) q=2: [ 0, 0, 0, 0, 0, 24, 24, 30, 56, 108 ]
+QUAL X1(35) q=2 e=6: #iso classes of curves=12; (N, invariants, j-orbit length, #Aut) {*
+<70, [ 70 ], 6, 2>^^2
+*}
+QUAL X1(35) q=2 e=7: #iso classes of curves=14; (N, invariants, j-orbit length, #Aut) {*
+<140, [ 140 ], 7, 2>^^2
+*}
+QUAL X1(35) q=2 e=8: #iso classes of curves=20; (N, invariants, j-orbit length, #Aut) {*
+<280, [ 280 ], 4, 2>,
+<280, [ 280 ], 8, 2>^^2
+*}
+QUAL X1(35) q=2 e=9: #iso classes of curves=21; (N, invariants, j-orbit length, #Aut) {*
+<490, [ 7, 70 ], 3, 2>,
+<490, [ 490 ], 9, 2>^^2
+*}
+QUAL X1(35) q=2 e=10: #iso classes of curves=90; (N, invariants, j-orbit length, #Aut) {*
+<980, [ 980 ], 10, 2>^^3,
+<1050, [ 1050 ], 10, 2>^^6
+*}
+POINTS X1(39) q=2: [ 0, 0, 0, 0, 0, 72, 0, 392, 468, 600 ]
+PLACES X1(39) q=2: [ 0, 0, 0, 0, 0, 12, 0, 49, 52, 60 ]
+QUAL X1(39) q=2 e=6: #iso classes of curves=6; (N, invariants, j-orbit length, #Aut) {*
+<78, [ 78 ], 6, 2>
+*}
+QUAL X1(39) q=2 e=8: #iso classes of curves=22; (N, invariants, j-orbit length, #Aut) {*
+<234, [ 3, 78 ], 4, 2>,
+<234, [ 234 ], 8, 2>^^2,
+<273, [ 273 ], 1, 6>^^2
+*}
+QUAL X1(39) q=2 e=9: #iso classes of curves=39; (N, invariants, j-orbit length, #Aut) {*
+<468, [ 468 ], 3, 2>,
+<546, [ 546 ], 9, 2>^^4
+*}
+QUAL X1(39) q=2 e=10: #iso classes of curves=50; (N, invariants, j-orbit length, #Aut) {*
+<1014, [ 1014 ], 10, 2>^^5
+*}
+POINTS X1(45) q=2: [ 0, 0, 0, 0, 0, 0, 0, 480, 540, 1080 ]
+PLACES X1(45) q=2: [ 0, 0, 0, 0, 0, 0, 0, 60, 60, 108 ]
+QUAL X1(45) q=2 e=8: #iso classes of curves=24; (N, invariants, j-orbit length, #Aut) {*
+<270, [ 3, 90 ], 8, 2>,
+<270, [ 270 ], 8, 2>^^2
+*}
+QUAL X1(45) q=2 e=9: #iso classes of curves=45; (N, invariants, j-orbit length, #Aut) {*
+<540, [ 540 ], 9, 2>^^5
+*}
+QUAL X1(45) q=2 e=10: #iso classes of curves=70; (N, invariants, j-orbit length, #Aut) {*
+<990, [ 990 ], 10, 2>^^4,
+<1080, [ 3, 360 ], 5, 2>^^2,
+<1080, [ 1080 ], 10, 2>^^2
+*}
+POINTS X1(49) q=2: [ 0, 0, 0, 0, 0, 0, 0, 0, 378, 1260 ]
+PLACES X1(49) q=2: [ 0, 0, 0, 0, 0, 0, 0, 0, 42, 126 ]
+QUAL X1(49) q=2 e=9: #iso classes of curves=18; (N, invariants, j-orbit length, #Aut) {*
+<490, [ 490 ], 9, 2>^^2
+*}
+QUAL X1(49) q=2 e=10: #iso classes of curves=60; (N, invariants, j-orbit length, #Aut) {*
+<980, [ 980 ], 10, 2>^^3,
+<1078, [ 1078 ], 10, 2>^^3
+*}
+POINTS X1(51) q=2: [ 0, 0, 0, 0, 0, 0, 0, 0, 720, 640 ]
+PLACES X1(51) q=2: [ 0, 0, 0, 0, 0, 0, 0, 0, 80, 64 ]
+QUAL X1(51) q=2 e=9: #iso classes of curves=45; (N, invariants, j-orbit length, #Aut) {*
+<510, [ 510 ], 9, 2>^^5
+*}
+QUAL X1(51) q=2 e=10: #iso classes of curves=40; (N, invariants, j-orbit length, #Aut) {*
+<1020, [ 1020 ], 10, 2>^^4
+*}
+POINTS X1(55) q=2: [ 0, 0, 0, 0, 0, 0, 140, 0, 360, 1000 ]
+PLACES X1(55) q=2: [ 0, 0, 0, 0, 0, 0, 20, 0, 40, 100 ]
+QUAL X1(55) q=2 e=7: #iso classes of curves=7; (N, invariants, j-orbit length, #Aut) {*
+<110, [ 110 ], 7, 2>
+*}
+QUAL X1(55) q=2 e=9: #iso classes of curves=18; (N, invariants, j-orbit length, #Aut) {*
+<550, [ 550 ], 9, 2>^^2
+*}
+QUAL X1(55) q=2 e=10: #iso classes of curves=50; (N, invariants, j-orbit length, #Aut) {*
+<990, [ 3, 330 ], 10, 2>,
+<990, [ 990 ], 10, 2>^^4
+*}
+POINTS X1(57) q=2: [ 0, 0, 0, 0, 0, 12, 252, 144, 18, 2160 ]
+PLACES X1(57) q=2: [ 0, 0, 0, 0, 0, 2, 36, 18, 2, 216 ]
+QUAL X1(57) q=2 e=6: #iso classes of curves=2; (N, invariants, j-orbit length, #Aut) {*
+<57, [ 57 ], 1, 6>^^2
+*}
+QUAL X1(57) q=2 e=7: #iso classes of curves=14; (N, invariants, j-orbit length, #Aut) {*
+<114, [ 114 ], 7, 2>^^2
+*}
+QUAL X1(57) q=2 e=8: #iso classes of curves=8; (N, invariants, j-orbit length, #Aut) {*
+<228, [ 228 ], 8, 2>
+*}
+QUAL X1(57) q=2 e=9: #iso classes of curves=1; (N, invariants, j-orbit length, #Aut) {*
+<513, [ 513 ], 1, 2>
+*}
+QUAL X1(57) q=2 e=10: #iso classes of curves=60; (N, invariants, j-orbit length, #Aut) {*
+<1026, [ 3, 342 ], 10, 2>^^2,
+<1026, [ 1026 ], 10, 2>^^4
+*}
+POINTS X1(63) q=2: [ 0, 0, 0, 0, 0, 0, 378, 432, 648, 540 ]
+PLACES X1(63) q=2: [ 0, 0, 0, 0, 0, 0, 54, 54, 72, 54 ]
+QUAL X1(63) q=2 e=7: #iso classes of curves=21; (N, invariants, j-orbit length, #Aut) {*
+<126, [ 126 ], 7, 2>^^3
+*}
+QUAL X1(63) q=2 e=8: #iso classes of curves=24; (N, invariants, j-orbit length, #Aut) {*
+<252, [ 252 ], 8, 2>^^3
+*}
+QUAL X1(63) q=2 e=9: #iso classes of curves=36; (N, invariants, j-orbit length, #Aut) {*
+<504, [ 504 ], 9, 2>^^4
+*}
+QUAL X1(63) q=2 e=10: #iso classes of curves=30; (N, invariants, j-orbit length, #Aut) {*
+<1008, [ 1008 ], 10, 2>^^3
+*}
+POINTS X1(65) q=2: [ 0, 0, 0, 0, 0, 12, 336, 384, 648, 1080 ]
+PLACES X1(65) q=2: [ 0, 0, 0, 0, 0, 2, 48, 48, 72, 108 ]
+QUAL X1(65) q=2 e=6: #iso classes of curves=1; (N, invariants, j-orbit length, #Aut) {*
+<65, [ 65 ], 1, 4>
+*}
+QUAL X1(65) q=2 e=7: #iso classes of curves=14; (N, invariants, j-orbit length, #Aut) {*
+<130, [ 130 ], 7, 2>^^2
+*}
+QUAL X1(65) q=2 e=8: #iso classes of curves=16; (N, invariants, j-orbit length, #Aut) {*
+<260, [ 260 ], 8, 2>^^2
+*}
+QUAL X1(65) q=2 e=9: #iso classes of curves=27; (N, invariants, j-orbit length, #Aut) {*
+<520, [ 520 ], 9, 2>^^3
+*}
+QUAL X1(65) q=2 e=10: #iso classes of curves=45; (N, invariants, j-orbit length, #Aut) {*
+<1040, [ 1040 ], 5, 2>,
+<1040, [ 1040 ], 10, 2>^^4
+*}
+POINTS X1(69) q=2: [ 0, 0, 0, 0, 0, 0, 462, 352, 396, 440 ]
+PLACES X1(69) q=2: [ 0, 0, 0, 0, 0, 0, 66, 44, 44, 44 ]
+QUAL X1(69) q=2 e=7: #iso classes of curves=21; (N, invariants, j-orbit length, #Aut) {*
+<138, [ 138 ], 7, 2>^^3
+*}
+QUAL X1(69) q=2 e=8: #iso classes of curves=16; (N, invariants, j-orbit length, #Aut) {*
+<276, [ 276 ], 8, 2>^^2
+*}
+QUAL X1(69) q=2 e=9: #iso classes of curves=18; (N, invariants, j-orbit length, #Aut) {*
+<552, [ 552 ], 9, 2>^^2
+*}
+QUAL X1(69) q=2 e=10: #iso classes of curves=20; (N, invariants, j-orbit length, #Aut) {*
+<966, [ 966 ], 10, 2>^^2
+*}
+POINTS X1(75) q=2: [ 0, 0, 0, 0, 0, 0, 140, 0, 0, 1200 ]
+PLACES X1(75) q=2: [ 0, 0, 0, 0, 0, 0, 20, 0, 0, 120 ]
+QUAL X1(75) q=2 e=7: #iso classes of curves=7; (N, invariants, j-orbit length, #Aut) {*
+<150, [ 150 ], 7, 2>
+*}
+QUAL X1(75) q=2 e=10: #iso classes of curves=60; (N, invariants, j-orbit length, #Aut) {*
+<1050, [ 1050 ], 10, 2>^^6
+*}
+POINTS X1(77) q=2: [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 900 ]
+PLACES X1(77) q=2: [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 90 ]
+QUAL X1(77) q=2 e=10: #iso classes of curves=30; (N, invariants, j-orbit length, #Aut) {*
+<1078, [ 1078 ], 10, 2>^^3
+*}
+POINTS X1(81) q=2: [ 0, 0, 0, 0, 0, 0, 0, 0, 1215, 1350 ]
+PLACES X1(81) q=2: [ 0, 0, 0, 0, 0, 0, 0, 0, 135, 135 ]
+QUAL X1(81) q=2 e=9: #iso classes of curves=45; (N, invariants, j-orbit length, #Aut) {*
+<486, [ 486 ], 9, 2>^^5
+*}
+QUAL X1(81) q=2 e=10: #iso classes of curves=30; (N, invariants, j-orbit length, #Aut) {*
+<972, [ 3, 324 ], 10, 2>,
+<972, [ 972 ], 10, 2>^^2
+*}
+POINTS X1(85) q=2: [ 0, 0, 0, 0, 0, 0, 0, 0, 1440, 1280 ]
+PLACES X1(85) q=2: [ 0, 0, 0, 0, 0, 0, 0, 0, 160, 128 ]
+QUAL X1(85) q=2 e=9: #iso classes of curves=45; (N, invariants, j-orbit length, #Aut) {*
+<510, [ 510 ], 9, 2>^^5
+*}
+QUAL X1(85) q=2 e=10: #iso classes of curves=40; (N, invariants, j-orbit length, #Aut) {*
+<1020, [ 1020 ], 10, 2>^^4
+*}
+POINTS X1(91) q=2: [ 0, 0, 0, 0, 0, 0, 0, 24, 1296, 0 ]
+PLACES X1(91) q=2: [ 0, 0, 0, 0, 0, 0, 0, 3, 144, 0 ]
+QUAL X1(91) q=2 e=8: #iso classes of curves=2; (N, invariants, j-orbit length, #Aut) {*
+<273, [ 273 ], 1, 6>^^2
+*}
+QUAL X1(91) q=2 e=9: #iso classes of curves=36; (N, invariants, j-orbit length, #Aut) {*
+<546, [ 546 ], 9, 2>^^4
+*}
+POINTS X1(95) q=2: [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
+PLACES X1(95) q=2: [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
+POINTS X1(99) q=2: [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 1200 ]
+PLACES X1(99) q=2: [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 120 ]
+QUAL X1(99) q=2 e=10: #iso classes of curves=40; (N, invariants, j-orbit length, #Aut) {*
+<990, [ 990 ], 10, 2>^^4
+*}
+POINTS X1(105) q=2: [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 1440 ]
+PLACES X1(105) q=2: [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 144 ]
+QUAL X1(105) q=2 e=10: #iso classes of curves=60; (N, invariants, j-orbit length, #Aut) {*
+<1050, [ 1050 ], 10, 2>^^6
+*}
+POINTS X1(27) q=2: [ 0, 0, 0, 0, 0, 54, 63, 144, 819, 990 ]
+PLACES X1(27) q=2: [ 0, 0, 0, 0, 0, 9, 9, 18, 91, 99 ]
+QUAL X1(27) q=2 e=6: #iso classes of curves=6; (N, invariants, j-orbit length, #Aut) {*
+<54, [ 54 ], 6, 2>
+*}
+QUAL X1(27) q=2 e=7: #iso classes of curves=7; (N, invariants, j-orbit length, #Aut) {*
+<108, [ 108 ], 7, 2>
+*}
+QUAL X1(27) q=2 e=8: #iso classes of curves=16; (N, invariants, j-orbit length, #Aut) {*
+<270, [ 270 ], 8, 2>^^2
+*}
+QUAL X1(27) q=2 e=9: #iso classes of curves=91; (N, invariants, j-orbit length, #Aut) {*
+<486, [ 486 ], 9, 2>^^5,
+<513, [ 513 ], 1, 2>,
+<540, [ 540 ], 9, 2>^^5
+*}
+QUAL X1(27) q=2 e=10: #iso classes of curves=90; (N, invariants, j-orbit length, #Aut) {*
+<972, [ 3, 324 ], 10, 2>,
+<972, [ 972 ], 10, 2>^^2,
+<1026, [ 1026 ], 10, 2>^^4,
+<1080, [ 1080 ], 10, 2>^^2
+*}
+DIV 49 over F_2^6: curves (N, invariants, j-orbit length, #Aut) {*
+<49, [ 7, 7 ], 1, 24>
+*}
+DIV 49 over F_2^9: curves (N, invariants, j-orbit length, #Aut) {*
+<490, [ 7, 70 ], 3, 2>,
+<490, [ 490 ], 9, 2>^^2
+*}
+DIV 49 over F_2^10: curves (N, invariants, j-orbit length, #Aut) {*
+<980, [ 980 ], 10, 2>^^3,
+<1078, [ 1078 ], 10, 2>^^3
+*}
+DIV 65 over F_2^6: curves (N, invariants, j-orbit length, #Aut) {*
+<65, [ 65 ], 1, 4>
+*}
+DIV 65 over F_2^7: curves (N, invariants, j-orbit length, #Aut) {*
+<130, [ 130 ], 7, 2>^^2
+*}
+DIV 65 over F_2^8: curves (N, invariants, j-orbit length, #Aut) {*
+<260, [ 260 ], 8, 2>^^2
+*}
+DIV 65 over F_2^9: curves (N, invariants, j-orbit length, #Aut) {*
+<520, [ 520 ], 9, 2>^^3
+*}
+DIV 65 over F_2^10: curves (N, invariants, j-orbit length, #Aut) {*
+<1040, [ 1040 ], 5, 2>,
+<1040, [ 1040 ], 10, 2>^^4
+*}
+DIV 91 over F_2^8: curves (N, invariants, j-orbit length, #Aut) {*
+<273, [ 273 ], 1, 6>^^2
+*}
+DIV 91 over F_2^9: curves (N, invariants, j-orbit length, #Aut) {*
+<546, [ 546 ], 9, 2>^^4
+*}
+DIV 1078 over F_2^10: curves (N, invariants, j-orbit length, #Aut) {*
+<1078, [ 1078 ], 10, 2>^^3
+*}
+PLACECOUNTS8_DONE

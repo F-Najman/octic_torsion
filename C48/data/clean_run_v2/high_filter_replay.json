@@ -1,0 +1,62 @@
+{
+  "complete": true,
+  "class_tests": 3507,
+  "source_cases_covered": 7862,
+  "all_3507_cluster_ids_unique_and_exhaustive": true,
+  "proper_pushforward_weights_recomputed": true,
+  "all_cusp_complements_included": true,
+  "target_Aut_truth_values_expanded_to_all_source_cases": true,
+  "passing_source_cases": [
+    [
+      6,
+      47,
+      46
+    ],
+    [
+      6,
+      85,
+      79
+    ],
+    [
+      6,
+      171,
+      121
+    ],
+    [
+      6,
+      243,
+      147
+    ],
+    [
+      7,
+      348,
+      453
+    ],
+    [
+      7,
+      1102,
+      453
+    ],
+    [
+      8,
+      2286,
+      2486
+    ],
+    [
+      8,
+      2705,
+      2699
+    ]
+  ],
+  "arithmetic_sha256": {
+    "high_shard0_arithmetic.py": "d7ac0409818d107bdcb00779558d894778b0c61606d13f85f9489be8ca81be8a",
+    "high_shard1_arithmetic.py": "5cbe0b061b99fe237732c03914d91a2ad390e62f993acbe79518028916e88cbf",
+    "high_shard2_arithmetic.py": "5acbf1129843d73d9a514664a221a179a977571e7e061c96f399573faed5d386",
+    "high_shard3_arithmetic.py": "611917d4c22dd1f9574eeda7559ad1499f5800c58fcbb60456ced5275dcd0810",
+    "high_shard4_arithmetic.py": "51b73d8356bb4c808c6d931c54479e1e6a183675e59d14a1c0155a220a83cbd4",
+    "high_shard5_arithmetic.py": "b9457052a775d61a546ca95efef067983db0804f7e2bcab0bc31e17dfa1d9757",
+    "high_shard6_arithmetic.py": "a986da47f156f52688d962b6196a9e9daa735b456e47ab8f46b4487d683df621",
+    "high_shard7_arithmetic.py": "fe1bfcfb27fdfec348e983fb42cac5b7957a2dc06d9a4a071498fd082ab8b484"
+  },
+  "exclusion_claimed": false
+}

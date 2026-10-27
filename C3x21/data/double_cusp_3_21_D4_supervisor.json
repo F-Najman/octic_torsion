@@ -1,0 +1,11 @@
+{
+  "magma_pid": 1434584,
+  "magma_starttime": "143741535",
+  "timeout_pid": 1434583,
+  "timeout_starttime": "143741535",
+  "original_cap_seconds": 1200,
+  "revised_cap_seconds": 2400,
+  "elapsed_at_extension": 1104.9599999999627,
+  "reason": "Preserve exact local-constraint state; last cubic cusp completions are slower than rational cusps. No second mathematical job launched.",
+  "outcome": "child_completed"
+}

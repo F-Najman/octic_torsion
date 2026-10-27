@@ -1,0 +1,87 @@
+{
+  "complete": true,
+  "NC_counts": [
+    96,
+    320,
+    888
+  ],
+  "Aut96_orbit_sizes": [
+    [
+      48,
+      48
+    ],
+    [
+      96,
+      96,
+      96,
+      32
+    ],
+    [
+      48,
+      48,
+      96,
+      12,
+      96,
+      96,
+      96,
+      96,
+      96,
+      96,
+      96,
+      12
+    ]
+  ],
+  "cusp_audit": {
+    "geometric": 48,
+    "closed_degrees": {
+      "1": 24,
+      "2": 12
+    },
+    "rational_cusps_global_over_Qi": 24,
+    "admissible_q_for_complement_1": [
+      13,
+      17,
+      29
+    ],
+    "admissible_q_for_complement_2": [
+      29
+    ]
+  },
+  "single_supports": 18,
+  "quadratic_pairs_including_repetition": 192,
+  "witness_records": 214,
+  "remaining_before_global_completion": [
+    [
+      1,
+      4,
+      4,
+      0
+    ],
+    [
+      1,
+      4,
+      12,
+      0
+    ],
+    [
+      2,
+      2,
+      1,
+      82
+    ],
+    [
+      2,
+      2,
+      2,
+      84
+    ]
+  ],
+  "global_completion": "C420_compact_manifest.json",
+  "stabilizer_orders": [
+    8,
+    8,
+    4,
+    4
+  ],
+  "status": "All4 remaining cases excluded by non-CM stabilizers plus compact Qi quotient; CM excluded by CCRS."
+}

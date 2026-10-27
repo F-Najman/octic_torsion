@@ -1,0 +1,182 @@
+SETUP N=50 M=1 p=3 genus=48 time=98.040
+CUSPS number=26 degrees=[ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 4, 4, 4, 4, 10, 10 ]
+CUSPFIELDS orbits over Q (degree, F_p-degree): [ <10, 10>, <10, 10>, <4, 4>, <4, 4>, <4, 4>, <4, 4>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1> ] ; predicted F_p cusp degrees match model: true
+CC complement degree <= 1: q mod 50 in [ 1, 3, 7, 9, 11, 13, 17, 19, 21, 23, 27, 29, 31, 33, 37, 39, 41, 43, 47, 49 ] ; usable q from list: [ 7, 11, 13, 17, 19 ]
+CC complement degree <= 2: q mod 50 in [ 1, 3, 7, 9, 11, 13, 17, 19, 21, 23, 27, 29, 31, 33, 37, 39, 41, 43, 47, 49 ] ; usable q from list: [ 7, 11, 13, 17, 19 ]
+CC complement degree <= 3: q mod 50 in [ 1, 3, 7, 9, 11, 13, 17, 19, 21, 23, 27, 29, 31, 33, 37, 39, 41, 43, 47, 49 ] ; usable q from list: [ 7, 11, 13, 17, 19 ]
+CC complement degree <= 4: q mod 50 in [ 1, 3, 7, 9, 11, 13, 17, 19, 21, 23, 27, 29, 31, 33, 37, 39, 41, 43, 47, 49 ] ; usable q from list: [ 7, 11, 13, 17, 19 ]
+CC complement degree <= 5: q mod 50 in [ 1, 3, 7, 9, 11, 13, 17, 19, 21, 23, 27, 29, 31, 33, 37, 39, 41, 43, 47, 49 ] ; usable q from list: [ 7, 11, 13, 17, 19 ]
+CC complement degree <= 6: q mod 50 in [ 1, 3, 7, 9, 11, 13, 17, 19, 21, 23, 27, 29, 31, 33, 37, 39, 41, 43, 47, 49 ] ; usable q from list: [ 7, 11, 13, 17, 19 ]
+CC complement degree <= 7: q mod 50 in [ 1, 3, 7, 9, 11, 13, 17, 19, 21, 23, 27, 29, 31, 33, 37, 39, 41, 43, 47, 49 ] ; usable q from list: [ 7, 11, 13, 17, 19 ]
+QLIST all (used when there is no cuspidal part): [ 7, 11, 13, 17, 19 ]
+Loading "work/degree8/cyclic_sieves/quotient_class_prefilter.m"
+QUOTIENT_SETUP level=25 genus=12 classgroup=[ 2503105, 0 ] rational_cusp_image=[ 227555 ] quotient=[ 11, 0 ] complement_counts=[ 1, 1, 1, 1, 1, 1, 1, 1, 1 ] time=240.440
+QUOTIENT_PREFILTER_READY complete=true
+DEGREES with points of the required type over F_p^d (d=1..8): [ false, false, false, false, false, true, true, true ]  time=240.770
+NONCUSP counts deg 1..8: [ 0, 0, 0, 0, 0, 60, 200, 1045 ]  time=287.660
+REPS up to diamond: [ 0, 0, 0, 0, 0, 6, 20, 107 ]  time=303.110
+TYPE [ 6 ]: 6 divisors (up to diamond), qlist=[ 7, 11, 13, 17, 19 ]
+QUOTIENT_REJECT type=[ 6 ] index=1 base=25
+QUOTIENT_REJECT type=[ 6 ] index=2 base=25
+QUOTIENT_REJECT type=[ 6 ] index=3 base=25
+QUOTIENT_REJECT type=[ 6 ] index=4 base=25
+QUOTIENT_REJECT type=[ 6 ] index=5 base=25
+QUOTIENT_REJECT type=[ 6 ] index=6 base=25
+RESULT type=[ 6 ] total=6 survivors=0 time=303.190
+TYPE [ 5, 1 ]: no divisors
+TYPE [ 4, 2 ]: no divisors
+TYPE [ 4, 1, 1 ]: no divisors
+TYPE [ 3, 3 ]: no divisors
+TYPE [ 3, 2, 1 ]: no divisors
+TYPE [ 3, 1, 1, 1 ]: no divisors
+TYPE [ 2, 2, 2 ]: no divisors
+TYPE [ 2, 2, 1, 1 ]: no divisors
+TYPE [ 2, 1, 1, 1, 1 ]: no divisors
+TYPE [ 1, 1, 1, 1, 1, 1 ]: no divisors
+TYPE [ 7 ]: 20 divisors (up to diamond), qlist=[ 7, 11, 13, 17, 19 ]
+QUOTIENT_REJECT type=[ 7 ] index=1 base=25
+QUOTIENT_REJECT type=[ 7 ] index=2 base=25
+QUOTIENT_REJECT type=[ 7 ] index=3 base=25
+QUOTIENT_REJECT type=[ 7 ] index=4 base=25
+QUOTIENT_REJECT type=[ 7 ] index=5 base=25
+QUOTIENT_REJECT type=[ 7 ] index=6 base=25
+QUOTIENT_REJECT type=[ 7 ] index=7 base=25
+QUOTIENT_REJECT type=[ 7 ] index=8 base=25
+QUOTIENT_REJECT type=[ 7 ] index=9 base=25
+QUOTIENT_REJECT type=[ 7 ] index=10 base=25
+QUOTIENT_REJECT type=[ 7 ] index=11 base=25
+QUOTIENT_REJECT type=[ 7 ] index=12 base=25
+QUOTIENT_REJECT type=[ 7 ] index=13 base=25
+QUOTIENT_REJECT type=[ 7 ] index=14 base=25
+QUOTIENT_REJECT type=[ 7 ] index=15 base=25
+QUOTIENT_REJECT type=[ 7 ] index=16 base=25
+QUOTIENT_REJECT type=[ 7 ] index=17 base=25
+QUOTIENT_REJECT type=[ 7 ] index=18 base=25
+QUOTIENT_REJECT type=[ 7 ] index=19 base=25
+QUOTIENT_REJECT type=[ 7 ] index=20 base=25
+RESULT type=[ 7 ] total=20 survivors=0 time=303.450
+TYPE [ 6, 1 ]: no divisors
+TYPE [ 5, 2 ]: no divisors
+TYPE [ 5, 1, 1 ]: no divisors
+TYPE [ 4, 3 ]: no divisors
+TYPE [ 4, 2, 1 ]: no divisors
+TYPE [ 4, 1, 1, 1 ]: no divisors
+TYPE [ 3, 3, 1 ]: no divisors
+TYPE [ 3, 2, 2 ]: no divisors
+TYPE [ 3, 2, 1, 1 ]: no divisors
+TYPE [ 3, 1, 1, 1, 1 ]: no divisors
+TYPE [ 2, 2, 2, 1 ]: no divisors
+TYPE [ 2, 2, 1, 1, 1 ]: no divisors
+TYPE [ 2, 1, 1, 1, 1, 1 ]: no divisors
+TYPE [ 1, 1, 1, 1, 1, 1, 1 ]: no divisors
+TYPE [ 8 ]: 107 divisors (up to diamond), qlist=[ 7, 11, 13, 17, 19 ]
+QUOTIENT_REJECT type=[ 8 ] index=1 base=25
+QUOTIENT_REJECT type=[ 8 ] index=2 base=25
+QUOTIENT_REJECT type=[ 8 ] index=4 base=25
+QUOTIENT_REJECT type=[ 8 ] index=5 base=25
+QUOTIENT_REJECT type=[ 8 ] index=6 base=25
+QUOTIENT_REJECT type=[ 8 ] index=7 base=25
+QUOTIENT_REJECT type=[ 8 ] index=8 base=25
+QUOTIENT_REJECT type=[ 8 ] index=9 base=25
+QUOTIENT_REJECT type=[ 8 ] index=10 base=25
+QUOTIENT_REJECT type=[ 8 ] index=11 base=25
+QUOTIENT_REJECT type=[ 8 ] index=12 base=25
+QUOTIENT_REJECT type=[ 8 ] index=13 base=25
+QUOTIENT_REJECT type=[ 8 ] index=14 base=25
+QUOTIENT_REJECT type=[ 8 ] index=15 base=25
+QUOTIENT_REJECT type=[ 8 ] index=16 base=25
+QUOTIENT_REJECT type=[ 8 ] index=17 base=25
+QUOTIENT_REJECT type=[ 8 ] index=18 base=25
+QUOTIENT_REJECT type=[ 8 ] index=19 base=25
+QUOTIENT_REJECT type=[ 8 ] index=20 base=25
+QUOTIENT_REJECT type=[ 8 ] index=21 base=25
+QUOTIENT_REJECT type=[ 8 ] index=22 base=25
+QUOTIENT_REJECT type=[ 8 ] index=23 base=25
+QUOTIENT_REJECT type=[ 8 ] index=24 base=25
+QUOTIENT_REJECT type=[ 8 ] index=25 base=25
+QUOTIENT_REJECT type=[ 8 ] index=26 base=25
+QUOTIENT_REJECT type=[ 8 ] index=27 base=25
+QUOTIENT_REJECT type=[ 8 ] index=31 base=25
+QUOTIENT_REJECT type=[ 8 ] index=32 base=25
+QUOTIENT_REJECT type=[ 8 ] index=33 base=25
+QUOTIENT_REJECT type=[ 8 ] index=34 base=25
+QUOTIENT_REJECT type=[ 8 ] index=35 base=25
+QUOTIENT_REJECT type=[ 8 ] index=36 base=25
+QUOTIENT_REJECT type=[ 8 ] index=37 base=25
+QUOTIENT_REJECT type=[ 8 ] index=39 base=25
+QUOTIENT_REJECT type=[ 8 ] index=41 base=25
+QUOTIENT_REJECT type=[ 8 ] index=46 base=25
+QUOTIENT_REJECT type=[ 8 ] index=49 base=25
+QUOTIENT_REJECT type=[ 8 ] index=50 base=25
+QUOTIENT_REJECT type=[ 8 ] index=51 base=25
+QUOTIENT_REJECT type=[ 8 ] index=52 base=25
+QUOTIENT_REJECT type=[ 8 ] index=53 base=25
+QUOTIENT_REJECT type=[ 8 ] index=54 base=25
+QUOTIENT_REJECT type=[ 8 ] index=55 base=25
+QUOTIENT_REJECT type=[ 8 ] index=56 base=25
+QUOTIENT_REJECT type=[ 8 ] index=57 base=25
+QUOTIENT_REJECT type=[ 8 ] index=58 base=25
+QUOTIENT_REJECT type=[ 8 ] index=59 base=25
+QUOTIENT_REJECT type=[ 8 ] index=60 base=25
+QUOTIENT_REJECT type=[ 8 ] index=61 base=25
+QUOTIENT_REJECT type=[ 8 ] index=62 base=25
+QUOTIENT_REJECT type=[ 8 ] index=63 base=25
+QUOTIENT_REJECT type=[ 8 ] index=64 base=25
+QUOTIENT_REJECT type=[ 8 ] index=65 base=25
+QUOTIENT_REJECT type=[ 8 ] index=66 base=25
+QUOTIENT_REJECT type=[ 8 ] index=67 base=25
+QUOTIENT_REJECT type=[ 8 ] index=68 base=25
+QUOTIENT_REJECT type=[ 8 ] index=69 base=25
+QUOTIENT_REJECT type=[ 8 ] index=70 base=25
+QUOTIENT_REJECT type=[ 8 ] index=71 base=25
+QUOTIENT_REJECT type=[ 8 ] index=72 base=25
+QUOTIENT_REJECT type=[ 8 ] index=73 base=25
+QUOTIENT_REJECT type=[ 8 ] index=74 base=25
+QUOTIENT_REJECT type=[ 8 ] index=76 base=25
+QUOTIENT_REJECT type=[ 8 ] index=77 base=25
+QUOTIENT_REJECT type=[ 8 ] index=78 base=25
+QUOTIENT_REJECT type=[ 8 ] index=79 base=25
+QUOTIENT_REJECT type=[ 8 ] index=80 base=25
+QUOTIENT_REJECT type=[ 8 ] index=84 base=25
+QUOTIENT_REJECT type=[ 8 ] index=86 base=25
+QUOTIENT_REJECT type=[ 8 ] index=87 base=25
+QUOTIENT_REJECT type=[ 8 ] index=88 base=25
+QUOTIENT_REJECT type=[ 8 ] index=90 base=25
+QUOTIENT_REJECT type=[ 8 ] index=92 base=25
+QUOTIENT_REJECT type=[ 8 ] index=93 base=25
+QUOTIENT_REJECT type=[ 8 ] index=94 base=25
+QUOTIENT_REJECT type=[ 8 ] index=95 base=25
+QUOTIENT_REJECT type=[ 8 ] index=96 base=25
+QUOTIENT_REJECT type=[ 8 ] index=97 base=25
+QUOTIENT_REJECT type=[ 8 ] index=98 base=25
+PROGRESS type=[ 8 ] 100/107 survivors=0 time=1976.790
+QUOTIENT_REJECT type=[ 8 ] index=101 base=25
+QUOTIENT_REJECT type=[ 8 ] index=102 base=25
+QUOTIENT_REJECT type=[ 8 ] index=103 base=25
+QUOTIENT_REJECT type=[ 8 ] index=104 base=25
+QUOTIENT_REJECT type=[ 8 ] index=105 base=25
+QUOTIENT_REJECT type=[ 8 ] index=106 base=25
+RESULT type=[ 8 ] total=107 survivors=0 time=2055.080
+TYPE [ 7, 1 ]: no divisors
+TYPE [ 6, 2 ]: no divisors
+TYPE [ 6, 1, 1 ]: no divisors
+TYPE [ 5, 3 ]: no divisors
+TYPE [ 5, 2, 1 ]: no divisors
+TYPE [ 5, 1, 1, 1 ]: no divisors
+TYPE [ 4, 4 ]: no divisors
+TYPE [ 4, 3, 1 ]: no divisors
+TYPE [ 4, 2, 2 ]: no divisors
+TYPE [ 4, 2, 1, 1 ]: no divisors
+TYPE [ 4, 1, 1, 1, 1 ]: no divisors
+TYPE [ 3, 3, 2 ]: no divisors
+TYPE [ 3, 3, 1, 1 ]: no divisors
+TYPE [ 3, 2, 2, 1 ]: no divisors
+TYPE [ 3, 2, 1, 1, 1 ]: no divisors
+TYPE [ 3, 1, 1, 1, 1, 1 ]: no divisors
+TYPE [ 2, 2, 2, 2 ]: no divisors
+TYPE [ 2, 2, 2, 1, 1 ]: no divisors
+TYPE [ 2, 2, 1, 1, 1, 1 ]: no divisors
+TYPE [ 2, 1, 1, 1, 1, 1, 1 ]: no divisors
+TYPE [ 1, 1, 1, 1, 1, 1, 1, 1 ]: no divisors
+SUMMARY N=50 M=1 p=3 D=8 shard=0/1 total_survivors=0 time=2055.150
+SIEVE_RESUME_DONE FromDegree=6 MaxPart=8

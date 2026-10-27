@@ -1,0 +1,21 @@
+Magma V2.30-1     Thu Oct 22 2026 01:38:25 on mordell  [Seed = 998771082]
+Type <Ctrl>-D to quit.
+
+Loading file "work/degree8/large_levels/sieve63_quotient_T5.m"
+Y63_NC_EXHAUSTIVE e=7 geometric_pairs=189 closed_places=27 diamond_orbits=3 time=0.030
+Y63_NC_REP index=1 fieldpoly=[ 1, 1, 0, 0, 0, 0, 0, 1 ] t=[ 0, 1, 1, 1, 0, 1, 1 ] x7=[ 0, 0, 0, 0, 0, 1, 0 ]
+Y63_NC_REP index=2 fieldpoly=[ 1, 1, 0, 0, 0, 0, 0, 1 ] t=[ 0, 0, 1, 1, 0, 1, 1 ] x7=[ 0, 0, 1, 1, 0, 0, 1 ]
+Y63_NC_REP index=3 fieldpoly=[ 1, 1, 0, 0, 0, 0, 0, 1 ] t=[ 0, 1, 1, 0, 1, 0, 1 ] x7=[ 0, 1, 1, 0, 1, 1, 1 ]
+Y63_MODEL genus=49 degree=24 maximal_order_ready=true time=48.460
+Y63_HEC_START index=1 input_degree=7 diamond_degree=7 time=48.750
+Y63_HEC_IMAGE index=1 image_degrees=[ 42 ] multiplicities=[ 6 ] time=50.180
+Y63_T5_TEST index=1 principal=false time=70.400
+Y63_HEC_START index=2 input_degree=7 diamond_degree=7 time=70.530
+Y63_HEC_IMAGE index=2 image_degrees=[ 42 ] multiplicities=[ 6 ] time=72.150
+Y63_T5_TEST index=2 principal=false time=101.160
+Y63_HEC_START index=3 input_degree=7 diamond_degree=7 time=101.290
+Y63_HEC_IMAGE index=3 image_degrees=[ 42 ] multiplicities=[ 6 ] time=102.720
+Y63_T5_TEST index=3 principal=false time=127.290
+Y63_NC_T5_DONE e=7 tests=3 complete=true
+
+Total time: 127.400 seconds, Total memory usage: 509.22MB

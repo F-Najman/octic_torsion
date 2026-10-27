@@ -1,0 +1,16 @@
+CM_5_10_EXPLICIT_POINTS [
+    [
+        [ -1, 0, 1, 1, -1, 0, 0, 0 ],
+        [ -1, 0, 0, 0, 1, 0, 0, -1 ],
+        [ 1, 0, 0, 0, 0, 0, 0, 0 ]
+    ],
+    [
+        [ 1, 0, 0, 0, 0, 1, 0, 0 ],
+        [ -2, 0, 0, 0, 0, 0, 0, 0 ],
+        [ 1, 0, 0, 0, 0, 0, 0, 0 ]
+    ]
+]
+CM_5_10_PAIRING [ 0, 0, 0, 0, 0, 0, -1, 0 ]
+CM_5_10_GOOD_REDUCTION 41 zeta20 2 order 50
+CM_5_10_GOOD_REDUCTION 61 zeta20 8 order 50
+CM_5_10_VERIFIED degree=8 invariants=[5,10] exact=true complete=true 0.790

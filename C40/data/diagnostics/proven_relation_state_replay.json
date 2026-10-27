@@ -1,0 +1,12 @@
+{
+  "level": 40,
+  "degree": 8,
+  "native_relation_proof_preserved": true,
+  "raw_relation_vectors": 766,
+  "factorbase_places": 616,
+  "all_relations_map_to_zero": true,
+  "degree_coordinate_matches_reversed_factorbase": true,
+  "abstract_class_number": 31579088486400,
+  "sha256": "689fa8ab2a69dea54897b002cc9e59c1a597f6bfae60a941c6363dd5f29dcc0e",
+  "scope": "integer consistency; native proven generation and principal relations remain Magma evidence"
+}

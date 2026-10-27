@@ -1,0 +1,46 @@
+{
+  "status": "complete necessary-condition filtering; one survivor remains",
+  "source_group": [
+    2,
+    36
+  ],
+  "source_genus": 41,
+  "target_genus": 17,
+  "tested": 461,
+  "all_source_cases_linked_to_first_stage": true,
+  "support_patterns": {
+    "(6,)": 18,
+    "(7,)": 39,
+    "(8,)": 196,
+    "(3, 3)": 20,
+    "(3, 4)": 32,
+    "(3, 5)": 84,
+    "(4, 4)": 72
+  },
+  "lattice_index": 214272,
+  "rational_Jacobian_order": 23623488,
+  "target_cusp_complement_classes": [
+    1,
+    7,
+    27
+  ],
+  "all_weighted_moduli_degrees_independently_recomputed": true,
+  "all_actual_group_memberships_replayed": true,
+  "remaining": [
+    [
+      1,
+      8,
+      1606
+    ]
+  ],
+  "verification_boundary": "Magma supplies the proved finite class presentation, exact divisor-class images and RR ideal identities. Python independently verifies source coverage assembly, finite-field isogeny moduli degrees, all class sums, actual integer-lattice membership, every allowed cusp complement and every decision.",
+  "seconds": 1.327,
+  "sha256": {
+    "filter_2_36_D8_quotient_arithmetic.txt": "39123345581f2ca6f949de790f6fafa0fe941e65adb41c4cf85d4ee46366745d",
+    "M2N36_cyclic36_full_group_complements.txt": "584d2718985a8bdf8e64f6f03bb4f8aa544f7b6cc4a97424dae35ba248b94442",
+    "filter_2_36_D8_cyclic36_arithmetic.txt": "09ab4dd0f3f7231cd1cc175f555726aead6ac7f75c23733eb8c4b692e9cbc3a1",
+    "filter_2_36_D8_cyclic36_fast_arithmetic.txt": "390fa40b5e8d94582673357cfad5470e0e02d4f022c94579541ecac98a2d6f72",
+    "filter_2_36_D8_cyclic36_fast_tail181_arithmetic.txt": "6586fc62791b3e7de2a3a4080cfb10596a2466665e513adee76db518f4c6a006"
+  }
+}
+M2N36_D8_CYCLIC36_FILTER_REPLAY_DONE

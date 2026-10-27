@@ -1,0 +1,4 @@
+Loading "work/degree8/small_cyclic/C40/diagnostics/class_group_unflattened.m"
+Loading "work/degree8/small_cyclic/C40/diagnostics/native_group_generators.m"
+FRESH_UNFLATTENED_GROUP_READY invariants=[ 2184, 0 ] no_native_flat_maps=true time=1.300
+FRESH_UNFLATTENED_NATIVE_COMPARISON_DONE proven_before_maps=true same_relations=true place_tests=31 exact_inverse_generators=true time=1.370

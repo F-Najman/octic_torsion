@@ -1,0 +1,23 @@
+{
+  "source_genus": 41,
+  "geometric_cusps": 64,
+  "closed_cusp_degrees_at_5": {
+    "1": 24,
+    "6": 4,
+    "2": 8
+  },
+  "g": "(P2,Q36) -> (P2+18Q36,Q36+P2)",
+  "fixed_geometric_cusps_g_g2_g3": [
+    0,
+    0,
+    0
+  ],
+  "cusp_orbits": {
+    "4": 16
+  },
+  "noncuspidal_fixed_points": 0,
+  "noncuspidal_freeness_reason": "every power fixes 4Q of order9; any nontrivial elliptic automorphism has degree(u-1)<=4, so cannot fix it",
+  "ramification_sum": 0,
+  "quotient_genus": 11,
+  "warning": "This is a quotient-genus calculation, not a quadratic-point classification."
+}

@@ -1,0 +1,31 @@
+{
+  "degree": 8,
+  "group": [
+    4,
+    24
+  ],
+  "prime": 5,
+  "genus": 33,
+  "NC_counts": [
+    0,
+    0,
+    0,
+    96
+  ],
+  "full_aut_order": 64,
+  "full_aut_orbit_sizes": {
+    "1": 32,
+    "2": 16,
+    "3": 32,
+    "4": 16
+  },
+  "representatives": 4,
+  "all_q13_nonprincipal": true,
+  "independent_Newton_counts": true,
+  "group_closure_verified": true,
+  "native_generic_Hecke_reference": false,
+  "additional_generic_reference_status": "900second bounded run incomplete; not used",
+  "exact_fast_kernel_orbit_assertions": true,
+  "complete": true
+}
+M4N24_D4_INDEPENDENT_REPLAY_COMPLETE

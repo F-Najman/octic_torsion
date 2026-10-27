@@ -1,0 +1,110 @@
+{
+  "level": 40,
+  "degree": 8,
+  "supports": [
+    {
+      "degree": 4,
+      "representatives": 4,
+      "closed_places": 32,
+      "orbit_sizes": [
+        8,
+        8,
+        8,
+        8
+      ]
+    },
+    {
+      "degree": 5,
+      "representatives": 9,
+      "closed_places": 72,
+      "orbit_sizes": [
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8
+      ]
+    },
+    {
+      "degree": 6,
+      "representatives": 10,
+      "closed_places": 80,
+      "orbit_sizes": [
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8
+      ]
+    },
+    {
+      "degree": 7,
+      "representatives": 51,
+      "closed_places": 408,
+      "orbit_sizes": [
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8
+      ]
+    }
+  ],
+  "exact_order40": true,
+  "complete_lower_diamond_partitions": true
+}

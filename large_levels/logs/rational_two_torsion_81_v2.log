@@ -1,0 +1,10 @@
+RATIONAL_TWO_START N=81 Qs=[ 5, 7, 11 ] sign=0 exact_JOne=true
+RATIONAL_TWO_JONE N=81 dimension=190 time=7.440
+RATIONAL_TWO_HOMOLOGY N=81 rank=380 time=7.440
+RATIONAL_TWO_DIAMOND N=81 dimension=380 time=159.190
+RATIONAL_TWO_HECKE_START N=81 q=5 time=159.200
+RATIONAL_TWO_KERNEL N=81 q=5 kernel_dimension=8 diamond_difference_rank=4 time=159.730
+RATIONAL_TWO_HECKE_START N=81 q=7 time=159.740
+RATIONAL_TWO_KERNEL N=81 q=7 kernel_dimension=0 diamond_difference_rank=0 time=160.510
+OCTIC_ODD_DIAMOND_NORM N=81 a=2 power=1 order=27 verified=true
+RATIONAL_TWO_DONE N=81 kernel_dimension=0 diamond_trivial=true time=160.530

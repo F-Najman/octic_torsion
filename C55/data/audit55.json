@@ -1,0 +1,13 @@
+{
+  "level": 55,
+  "degree": 8,
+  "manifest_sha256": "af038ae72a48b2beea5d342fb0d5eb71f7b2615f3a03088068b4967732721791",
+  "all_manifest_hashes": true,
+  "byte_identical_geometry_reproduction": true,
+  "Cartier_image_dimension": 15,
+  "local_kernel_checks": 34,
+  "all_admissible_divisors": 201,
+  "all_ranks": 8,
+  "exceptions": 0,
+  "rank_zero_weighted_dimension": 81
+}

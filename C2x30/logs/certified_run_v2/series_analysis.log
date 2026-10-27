@@ -1,0 +1,1 @@
+C230_CLASSES_INDEPENDENT_PASS classes=256 cuspaldivisors=602 routes={'full_pullback': 4, 'pullback_with_fixed_cusps': 96, 'unique_cuspidal': 116, 'dimension_zero': 35, 'exceptional_pencil': 5}

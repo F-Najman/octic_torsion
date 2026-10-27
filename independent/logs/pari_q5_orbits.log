@@ -1,0 +1,27 @@
+PARI stack size set to 4000000000 bytes, maximum size set to 4000002048
+FIELD p=5 e=1 done, mass errors 0, 0.0 s
+FIELD p=5 e=2 done, mass errors 0, 0.0 s
+FIELD p=5 e=3 done, mass errors 0, 0.0 s
+ORBP X1(48) over F_5 degree 3, group diamond: 16 closed points, 2 orbits, sizes {8: 2}
+ORBP X1(2,36) over F_5 degree 3, group aut2: 48 closed points, 2 orbits, sizes {24: 2}
+FIELD p=5 e=4 done, mass errors 0, 0.2 s
+ORBP X1(48) over F_5 degree 4, group diamond: 64 closed points, 8 orbits, sizes {8: 8}
+ORBP X1(2,36) over F_5 degree 4, group aut2: 120 closed points, 5 orbits, sizes {24: 5}
+ORBP X1(2,42) over F_5 degree 4, group aut2_42: 126 closed points, 5 orbits, sizes {36: 2, 18: 3}
+FIELD p=5 e=5 done, mass errors 0, 1.3 s
+ORBP X1(48) over F_5 degree 5, group diamond: 656 closed points, 82 orbits, sizes {8: 82}
+ORBP X1(2,36) over F_5 degree 5, group aut2: 720 closed points, 30 orbits, sizes {24: 30}
+ORBP X1(2,42) over F_5 degree 5, group aut2_42: 648 closed points, 18 orbits, sizes {36: 18}
+FIELD p=5 e=6 done, mass errors 0, 7.1 s
+ORBP X1(48) over F_5 degree 6, group diamond: 2712 closed points, 342 orbits, sizes {8: 336, 4: 6}
+ORBP X1(2,36) over F_5 degree 6, group aut2: 2904 closed points, 126 orbits, sizes {24: 116, 12: 10}
+ORBP X1(2,42) over F_5 degree 6, group aut2_42: 2080 closed points, 64 orbits, sizes {12: 3, 6: 4, 4: 1, 36: 56}
+FIELD p=5 e=7 done, mass errors 0, 52.9 s
+ORBP X1(48) over F_5 degree 7, group diamond: 10784 closed points, 1348 orbits, sizes {8: 1348}
+ORBP X1(2,36) over F_5 degree 7, group aut2: 10416 closed points, 434 orbits, sizes {24: 434}
+ORBP X1(2,42) over F_5 degree 7, group aut2_42: 11376 closed points, 316 orbits, sizes {36: 316}
+FIELD p=5 e=8 done, mass errors 0, 331.2 s
+ORBP X1(48) over F_5 degree 8, group diamond: 48992 closed points, 6172 orbits, sizes {2: 16, 8: 6084, 4: 72}
+ORBP X1(2,36) over F_5 degree 8, group aut2: 50334 closed points, 2115 orbits, sizes {24: 2080, 12: 34, 6: 1}
+ORBP X1(2,42) over F_5 degree 8, group aut2_42: 48816 closed points, 1372 orbits, sizes {36: 1340, 18: 32}
+PLACECOUNTS_PARI_DONE

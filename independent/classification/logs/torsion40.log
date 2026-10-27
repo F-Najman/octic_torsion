@@ -1,0 +1,6 @@
+Loading "helpers8.m"
+2-division polynomial over K factors with degrees [ 1, 2 ]
+points of order 2 over K: 1; is 20P halvable over K (point Q with 2Q = P): false
+gcd of #E(k_v) over 42 good unramified odd places: 40
+places with #E(k_v) not divisible by 80: [ <31, 3, 29560>, <31, 3, 29560>, <37, 1, 40>, <37, 1, 40>, <41, 1, 40>, <41, 1, 40>, <41, 3, 69080>, <41, 3, 69080>, <43, 1, 40>, <43, 1, 40>, <43, 1, 40>, <43, 1, 40>, <47, 1, 40>, <47, 1, 40>, <47, 3, 103800>, <47, 3, 103800>, <61, 2, 3720>, <61, 2, 3720> ]
+TORSION40_DONE

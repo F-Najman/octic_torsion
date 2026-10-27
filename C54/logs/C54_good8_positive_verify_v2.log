@@ -1,0 +1,14 @@
+Magma V2.30-1     Thu Oct 22 2026 07:06:34 on mordell  [Seed = 3413648179]
+Type <Ctrl>-D to quit.
+
+Loading file "work/degree8/large_levels/C54_good8_positive_verify_v2.m"
+OCTIC54_GOOD8_POSITIVE_PROGRESS 500 6786 0.250
+OCTIC54_GOOD8_POSITIVE_PROGRESS 1000 13410 0.440
+OCTIC54_GOOD8_POSITIVE_PROGRESS 1500 19602 0.620
+OCTIC54_GOOD8_POSITIVE_PROGRESS 2000 26442 0.810
+OCTIC54_GOOD8_POSITIVE_PROGRESS 2500 33570 0.990
+OCTIC54_GOOD8_POSITIVE_PROGRESS 3000 40122 1.170
+OCTIC54_GOOD8_POSITIVE_PROGRESS 3500 46908 1.360
+OCTIC54_GOOD8_POSITIVE_DONE representatives=3579 primitive27=true rational2counts=true nine_distinct_diamonds=true all_orbits_disjoint=true weighted=47961 roots1=2704 roots3=875 complete=true time=1.390
+
+Total time: 1.389 seconds, Total memory usage: 32.09MB

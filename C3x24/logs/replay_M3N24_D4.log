@@ -1,0 +1,34 @@
+{
+  "degree": 8,
+  "group": [
+    3,
+    24
+  ],
+  "relative_degree": 4,
+  "genus": 25,
+  "NC_counts": [
+    0,
+    0,
+    48,
+    456
+  ],
+  "Aut_order": 48,
+  "support_representatives": [
+    1,
+    13
+  ],
+  "actual_keys": 504,
+  "all48_elliptic_images_independently_recomputed": true,
+  "rational_residue_cusps_F_rational": 24,
+  "Weil_pairing_P_8Q_in_F7": 4,
+  "all_records_excluded": 14,
+  "remaining": 0,
+  "generic_T13_reference_degree": 42,
+  "verification_boundary": "Python independently replays exact finite fields, elliptic additions, point orders/independence, all48 canonical automorphism images for every representative, full actual-key partitions, Frobenius counts, Tate global cusp action and every logged Hecke decision. Native exact divisor arithmetic/IsPrincipal are not reimplemented in Python.",
+  "input_sha256": {
+    "preflight_3_24_D4_Aut48_input.txt": "3d03b9732ab0c16b6bfecdf5968818f29cf57dc69e51e834d261af4037f00fb0",
+    "preflight_3_24_D4_Frob_arithmetic.txt": "d9312df4711f2756c085b0d35da33d42440e0145b1402dd685fb901e5e1e03a6",
+    "sieve_3_24_D4_Aut48_arithmetic.txt": "19489d4dd987d8daeef064a4de99f90a2a51af91ae6a4cc7c5d69939b79740df"
+  }
+}
+M3N24_D4_COMPLETE_EXCLUSION_REPLAY_DONE

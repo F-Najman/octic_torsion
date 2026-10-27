@@ -1,0 +1,33 @@
+{
+  "degree": 8,
+  "level": 45,
+  "prime": 2,
+  "partition_types": 22,
+  "from_degree": 8,
+  "tested_divisors": 5,
+  "nonempty_types": [
+    {
+      "type": [
+        8
+      ],
+      "total": 5
+    }
+  ],
+  "closed_place_counts": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    60
+  ],
+  "survivors": 0,
+  "independent_counts_agree": true,
+  "noncuspidal_reduction_branch_complete": true,
+  "all_cuspidal_reduction": "Requires a separate argument.",
+  "log": "N45_p2_good_only.log",
+  "log_sha256": "4c9fb818f1caa1db5211c313ff402280bee67f6ad89054d52575d50031a7f794"
+}
+DEGREE8_SIEVE_COVERAGE_AUDIT_DONE

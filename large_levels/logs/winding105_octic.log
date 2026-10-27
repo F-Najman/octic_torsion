@@ -1,0 +1,14 @@
+WINDING N=105 order=1 conductor=1 relative_dimension=13 winding_dimension=13 coefficient_degree=1 time=0.050
+WINDING N=105 order=4 conductor=15 relative_dimension=12 winding_dimension=12 coefficient_degree=2 time=0.030
+WINDING N=105 order=2 conductor=5 relative_dimension=12 winding_dimension=12 coefficient_degree=1 time=0.030
+WINDING N=105 order=6 conductor=21 relative_dimension=12 winding_dimension=11 coefficient_degree=2 time=0.020
+WINDING N=105 order=12 conductor=35 relative_dimension=12 winding_dimension=12 coefficient_degree=4 time=0.020
+WINDING N=105 order=6 conductor=105 relative_dimension=12 winding_dimension=12 coefficient_degree=2 time=0.030
+WINDING N=105 order=3 conductor=7 relative_dimension=12 winding_dimension=12 coefficient_degree=2 time=0.030
+WINDING N=105 order=12 conductor=105 relative_dimension=12 winding_dimension=12 coefficient_degree=4 time=0.030
+WINDING N=105 order=6 conductor=35 relative_dimension=12 winding_dimension=12 coefficient_degree=2 time=0.030
+WINDING N=105 order=2 conductor=21 relative_dimension=12 winding_dimension=12 coefficient_degree=1 time=0.020
+WINDING N=105 order=4 conductor=35 relative_dimension=12 winding_dimension=12 coefficient_degree=2 time=0.020
+WINDING N=105 order=2 conductor=105 relative_dimension=12 winding_dimension=12 coefficient_degree=1 time=0.010
+WINDING_FINAL N=105 genus=289 total_dimension=289 bad_orders=[ 6 ] admissible=[ 22, 41, 43, 62, 64, 83 ]
+WINDING_CHARACTER_PROBE_DONE

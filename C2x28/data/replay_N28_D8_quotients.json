@@ -1,0 +1,70 @@
+{
+  "N28_D8_forgetful_class_arithmetic.txt": {
+    "sha256": "1ced06e101cce1d52181f36acd467049b57be6a983a47544a964426c0f78fe41",
+    "Jacobian_order": 359424,
+    "rational_image_order": 89856,
+    "image_index": 4,
+    "tests": [
+      {
+        "record": 35,
+        "map": 0,
+        "source_degree": 8,
+        "image_degree": 8,
+        "multiplicity": 1,
+        "in_rational_image": true
+      },
+      {
+        "record": 35,
+        "map": 1,
+        "source_degree": 8,
+        "image_degree": 4,
+        "multiplicity": 2,
+        "in_rational_image": true
+      },
+      {
+        "record": 46,
+        "map": 0,
+        "source_degree": 8,
+        "image_degree": 8,
+        "multiplicity": 1,
+        "in_rational_image": false
+      },
+      {
+        "record": 46,
+        "map": 1,
+        "source_degree": 8,
+        "image_degree": 8,
+        "multiplicity": 1,
+        "in_rational_image": false
+      }
+    ]
+  },
+  "N28_D8_isogeny_class_arithmetic.txt": {
+    "sha256": "15ec86a912f657906490528b39fa654baef0c0f8e574a814f28d96e2c3ae4ed7",
+    "Jacobian_order": 359424,
+    "rational_image_order": 89856,
+    "image_index": 4,
+    "tests": [
+      {
+        "record": 35,
+        "map": 0,
+        "source_degree": 8,
+        "image_degree": 8,
+        "multiplicity": 1,
+        "in_rational_image": true
+      },
+      {
+        "record": 35,
+        "map": 1,
+        "source_degree": 8,
+        "image_degree": 8,
+        "multiplicity": 1,
+        "in_rational_image": true
+      }
+    ]
+  },
+  "remaining_full_Aut24_orbits": [
+    35
+  ],
+  "exclusion_proved": false
+}

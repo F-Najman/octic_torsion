@@ -1,0 +1,189 @@
+octic source lines: [ 88, 102, 103, 104, 112, 170, 192, 268, 269, 270 ]
+EX 1: minimal polynomial of x+y = t^8 - 15*t^7 + 95*t^6 - 331*t^5 + 741*t^4 - 1100*t^3 + 1009*t^2 - 688*t + 359 (claimed t^8-15t^7+95t^6-331t^5+741t^4-1100t^3+1009t^2-688t+359: true)
+EX 1 (source line 88): N=33, field degree 8, Order(P)=33, gcd of #E(k_P) over good primes with e<p-1: 33
+TORS 1: used (p,f,e,#E,group) [
+<3, 4, 1, 99, [ 99 ]>,
+<5, 2, 2, 33, [ 33 ]>,
+<5, 2, 2, 33, [ 33 ]>
+] -> torsion exactly C33
+TABLE 1: (p,f,h)=(7,8,5760579): counts (#E, ram.index) at primes above 7 of degree 8: [ <5760579, 1> ] -> CONFIRMED
+TABLE 1: (p,f,h)=(13,8,815675619): counts (#E, ram.index) at primes above 13 of degree 8: [ <815675619, 1> ] -> CONFIRMED
+FIELD 1: optimized polynomial t^8 - 2*t^7 + 7*t^6 - 10*t^5 + 9*t^4 - 3*t^3 - 3*t^2 + 3*t - 1 ; disc -7486875 = [ <3, 2>, <5, 4>, <11, 3> ] ; signature 2 ; Galois group 8T26 (order 64)
+JINV 1: j has degree 4 over Q; minimal polynomial t^4 + 614976*t^3 - 527070070*t^2 + 1028519818953*t - 217983794907791 ; CM: false  ; source says: N = 33, degv = 8, degj = 4, 
+EX 2 (source line 102): N=34, field degree 8, Order(P)=34, gcd of #E(k_P) over good primes with e<p-1: 34
+TORS 2: used (p,f,e,#E,group) [
+<3, 8, 1, 6562, [ 6562 ]>,
+<5, 2, 1, 34, [ 34 ]>,
+<5, 2, 1, 34, [ 34 ]>
+] -> torsion exactly C34
+TABLE 2: (p,f,h)=(5,2,34): counts (#E, ram.index) at primes above 5 of degree 2: [ <34, 1>, <34, 1> ] -> CONFIRMED
+FIELD 2: optimized polynomial t^8 + 4*t^7 + 7*t^6 + 8*t^5 + 8*t^4 + 6*t^3 + 4*t^2 + 2*t + 1 ; disc 1257728 = [ <2, 8>, <17, 3> ] ; signature 0 ; Galois group 8T17 (order 32)
+JINV 2: j has degree 1 over Q; minimal polynomial t - 1728 ; CM: true -4 ; source says: N = 34, degv = 8, degj = 1, j = 1728, 
+EX 3 (source line 103): N=34, field degree 8, Order(P)=34, gcd of #E(k_P) over good primes with e<p-1: 34
+TORS 3: used (p,f,e,#E,group) [
+<7, 4, 1, 2448, [ 12, 204 ]>,
+<7, 4, 1, 2448, [ 12, 204 ]>,
+<11, 2, 1, 102, [ 102 ]>,
+<11, 2, 1, 102, [ 102 ]>,
+<11, 2, 1, 102, [ 102 ]>,
+<11, 2, 1, 102, [ 102 ]>,
+<13, 4, 1, 28900, [ 170, 170 ]>
+] -> torsion exactly C34
+TABLE 3: (p,f,h)=(7,4,2448): counts (#E, ram.index) at primes above 7 of degree 4: [ <2448, 1>, <2448, 1> ] -> CONFIRMED
+TABLE 3: (p,f,h)=(11,2,102): counts (#E, ram.index) at primes above 11 of degree 2: [ <102, 1>, <102, 1>, <102, 1>, <102, 1> ] -> CONFIRMED
+TABLE 3: (p,f,h)=(13,4,28900): counts (#E, ram.index) at primes above 13 of degree 4: [ <28900, 1>, <28900, 1> ] -> CONFIRMED
+FIELD 3: optimized polynomial t^8 - 2*t^7 + 6*t^6 - 6*t^5 + 9*t^4 - 8*t^3 - t^2 + t + 1 ; disc 1265625 = [ <3, 4>, <5, 6> ] ; signature 0 ; Galois group 8T2 (order 8)
+JINV 3: j has degree 2 over Q; minimal polynomial t^2 - 11779/4*t + 25153757/8 ; CM: false  ; source says: N = 34, degv = 8, degj = 2, 
+EX 4 (source line 104): N=34, field degree 8, Order(P)=34, gcd of #E(k_P) over good primes with e<p-1: 34
+TORS 4: used (p,f,e,#E,group) [
+<3, 4, 1, 68, [ 2, 34 ]>,
+<3, 4, 1, 68, [ 2, 34 ]>,
+<5, 2, 2, 34, [ 34 ]>
+] -> torsion exactly C34
+TABLE 4: (p,f,h)=(7,4,2482): counts (#E, ram.index) at primes above 7 of degree 4: [ <2482, 1>, <2482, 1> ] -> CONFIRMED
+TABLE 4: (p,f,h)=(13,4,28424): counts (#E, ram.index) at primes above 13 of degree 4: [ <28424, 1>, <28424, 1> ] -> CONFIRMED
+FIELD 4: optimized polynomial t^8 - 3*t^6 + 3*t^4 - 3*t^2 + 1 ; disc 19360000 = [ <2, 8>, <5, 4>, <11, 2> ] ; signature 4 ; Galois group 8T18 (order 32)
+JINV 4: j has degree 4 over Q; minimal polynomial t^4 - 5952*t^3 - 79532032*t^2 - 192113016832*t + 17285582422016 ; CM: false  ; source says: N = 34, degv = 8, degj = 4, 
+EX 5 (source line 112): N=35, field degree 8, Order(P)=35, gcd of #E(k_P) over good primes with e<p-1: 35
+TORS 5: used (p,f,e,#E,group) [
+<3, 8, 1, 6720, [ 4, 1680 ]>,
+<5, 2, 2, 35, [ 35 ]>,
+<7, 8, 1, 5763520, [ 4, 1440880 ]>
+] -> torsion exactly C35
+TABLE 5: (p,f,h)=(7,8,5763520): counts (#E, ram.index) at primes above 7 of degree 8: [ <5763520, 1> ] -> CONFIRMED
+TABLE 5: (p,f,h)=(11,2,105): counts (#E, ram.index) at primes above 11 of degree 2: [ <105, 1>, <105, 1>, <140, 1>, <140, 1> ] -> CONFIRMED
+FIELD 5: optimized polynomial t^8 - 3*t^7 + t^6 + 2*t^5 - t^4 + 2*t^3 + t^2 - 3*t + 1 ; disc 31878125 = [ <5, 5>, <101, 2> ] ; signature 4 ; Galois group 8T28 (order 64)
+JINV 5: j has degree 4 over Q; minimal polynomial t^4 + 142519*t^3 + 134825181*t^2 - 71008317841*t - 16696735751879 ; CM: false  ; source says: N = 35, degv = 8, degj = 4, 
+EX 6 (source line 170): N=39, field degree 8, Order(P)=39, gcd of #E(k_P) over good primes with e<p-1: 39
+TORS 6: used (p,f,e,#E,group) [
+<5, 8, 1, 389376, [ 624, 624 ]>,
+<7, 2, 1, 39, [ 39 ]>,
+<7, 2, 1, 39, [ 39 ]>
+] -> torsion exactly C39
+TABLE 6: (p,f,h)=(7,2,39): counts (#E, ram.index) at primes above 7 of degree 2: [ <39, 1>, <39, 1> ] -> CONFIRMED
+FIELD 6: optimized polynomial t^8 - 3*t^7 + 9*t^6 - 12*t^5 + 18*t^4 - 18*t^3 + 18*t^2 - 9*t + 9 ; disc 1601613 = [ <3, 6>, <13, 3> ] ; signature 0 ; Galois group 8T17 (order 32)
+JINV 6: j has degree 1 over Q; minimal polynomial t ; CM: true -3 ; source says: N = 39, degv = 8, degj = 1, j = 0, 
+EX 7 (source line 192): N=40, field degree 8, Order(P)=40, gcd of #E(k_P) over good primes with e<p-1: 40
+TORS 7: used (p,f,e,#E,group) [
+<3, 4, 1, 80, [ 80 ]>,
+<3, 4, 1, 80, [ 80 ]>,
+<5, 4, 1, 640, [ 2, 320 ]>,
+<7, 4, 1, 2400, [ 2, 1200 ]>,
+<7, 4, 1, 2400, [ 2, 1200 ]>,
+<11, 8, 1, 214384320, [ 2, 107192160 ]>,
+<13, 8, 1, 815784000, [ 10, 81578400 ]>,
+<17, 2, 1, 320, [ 4, 80 ]>,
+<17, 2, 1, 320, [ 2, 160 ]>,
+<17, 4, 1, 84000, [ 10, 8400 ]>,
+<19, 8, 1, 16983709440, [ 2, 8491854720 ]>,
+<23, 4, 1, 279680, [ 4, 69920 ]>,
+<23, 4, 1, 279680, [ 4, 69920 ]>,
+<29, 4, 1, 706800, [ 706800 ]>,
+<29, 4, 1, 706800, [ 706800 ]>,
+<31, 2, 1, 960, [ 8, 120 ]>,
+<31, 3, 1, 29560, [ 29560 ]>
+] -> torsion exactly C40
+TABLE 7: (p,f,h)=(3,4,80): counts (#E, ram.index) at primes above 3 of degree 4: [ <80, 1>, <80, 1> ] -> CONFIRMED
+TABLE 7: (p,f,h)=(31,3,29560): counts (#E, ram.index) at primes above 31 of degree 3: [ <29560, 1>, <29560, 1> ] -> CONFIRMED
+FIELD 7: optimized polynomial t^8 + t^7 - t^5 - 3*t^4 - 4*t^3 + t^2 + 2*t - 2 ; disc -31500500 = [ <2, 2>, <5, 3>, <251, 2> ] ; signature 2 ; Galois group 8T44 (order 384)
+JINV 7: j has degree 4 over Q; minimal polynomial t^4 + 51391/32*t^3 + 25239493/32*t^2 + 1053083659/16*t - 1177249106879/32 ; CM: false  ; source says: N = 40, degv = 8, degj = 4, 
+EX 8 (source line 268): N=42, field degree 8, Order(P)=42, gcd of #E(k_P) over good primes with e<p-1: 42
+TORS 8: used (p,f,e,#E,group) [
+<3, 4, 1, 84, [ 2, 42 ]>,
+<5, 4, 2, 672, [ 4, 168 ]>,
+<7, 2, 1, 42, [ 42 ]>
+] -> torsion exactly C42
+TABLE 8: (p,f,h)=(41,1,42): counts (#E, ram.index) at primes above 41 of degree 1: [ <42, 1>, <42, 1>, <42, 1>, <42, 1> ] -> CONFIRMED
+FIELD 8: optimized polynomial t^8 + 2*t^7 - t^6 - 4*t^5 + 5*t^4 + 8*t^3 - 5*t^2 - 6*t - 1 ; disc 23040000 = [ <2, 12>, <3, 2>, <5, 4> ] ; signature 4 ; Galois group 8T11 (order 16)
+JINV 8: j has degree 4 over Q; minimal polynomial t^4 - 6416768*t^3 + 12470497280*t^2 + 27021904707584*t - 34447407894757376 ; CM: false  ; source says: N = 42, degv = 8, degj = 4, 
+EX 9 (source line 269): N=42, field degree 8, Order(P)=42, gcd of #E(k_P) over good primes with e<p-1: 42
+TORS 9: used (p,f,e,#E,group) [
+<3, 4, 1, 84, [ 2, 42 ]>,
+<5, 8, 1, 390348, [ 3, 130116 ]>,
+<7, 8, 1, 5765886, [ 3, 1921962 ]>
+] -> torsion exactly C42
+TABLE 9: (p,f,h)=(7,8,5765886): counts (#E, ram.index) at primes above 7 of degree 8: [ <5765886, 1> ] -> CONFIRMED
+TABLE 9: (p,f,h)=(13,2,168): counts (#E, ram.index) at primes above 13 of degree 2: [ <168, 1> ] -> CONFIRMED
+FIELD 9: optimized polynomial t^8 - 2*t^7 + 2*t^5 - 2*t^4 + t^3 + 1 ; disc -7993287 = [ <3, 2>, <888143, 1> ] ; signature 2 ; Galois group 8T50 (order 40320)
+JINV 9: j has degree 8 over Q; minimal polynomial t^8 - 60161/8*t^7 - 1805273823/32*t^6 - 119224585189719/512*t^5 - 256430606619577203/512*t^4 - 444127996982950462281/512*t^3 - 405343155413969854882011/512*t^2 - 161974503366883093089819575/256*t - 7976142710795972782712411497/512 ; CM: false  ; source says: N = 42, degv = 8, 
+EX 10 (source line 270): N=42, field degree 8, Order(P)=42, gcd of #E(k_P) over good primes with e<p-1: 42
+TORS 10: used (p,f,e,#E,group) [
+<3, 4, 1, 84, [ 84 ]>,
+<5, 8, 1, 390348, [ 6, 65058 ]>,
+<7, 8, 1, 5765886, [ 3, 1921962 ]>
+] -> torsion exactly C42
+TABLE 10: (p,f,h)=(7,8,5765886): counts (#E, ram.index) at primes above 7 of degree 8: [ <5765886, 1> ] -> CONFIRMED
+TABLE 10: (p,f,h)=(13,2,168): counts (#E, ram.index) at primes above 13 of degree 2: [ <168, 1> ] -> CONFIRMED
+FIELD 10: optimized polynomial t^8 + 2*t^7 - 2*t^5 - 2*t^4 - t^3 + 1 ; disc -7993287 = [ <3, 2>, <888143, 1> ] ; signature 2 ; Galois group 8T50 (order 40320)
+JINV 10: j has degree 8 over Q; minimal polynomial t^8 - 9175677/64*t^7 - 4530411640557/2048*t^6 - 3578517943170172017/262144*t^5 - 13436835933977770664295/262144*t^4 - 45640790951709863855967203/262144*t^3 - 66764991485833753714394981401/262144*t^2 - 69330356248805688076240482331397/131072*t + 12142299273788382953939723072169143/262144 ; CM: false  ; source says: N = 42, degv = 8, 
+PAIR 2,3: fields NOT isomorphic -> distinct pairs (K,E)
+PAIR 2,4: fields NOT isomorphic -> distinct pairs (K,E)
+PAIR 3,4: fields NOT isomorphic -> distinct pairs (K,E)
+PAIR 8,9: fields NOT isomorphic -> distinct pairs (K,E)
+PAIR 8,10: fields NOT isomorphic -> distinct pairs (K,E)
+PAIR 9,10: fields ISOMORPHIC (1 automorphisms); per identification (E1 iso E2?, degrees d of cyclic isogenies E1 -> E1/<(N/d)P> = E2): [
+<false, [ 2 ]>
+]
+FIELDISO entries 9 and 10 have isomorphic fields
+EX C5xC10: disc(E)=-2*z^5 + 11 (claimed 11-2i: true), j=1728, Order(P)=5, Order(Q)=10, e5(P,2Q)=-z^6 (=-z^6: true; primitive: true)
+TORS C5xC10: (p,f,e,#E,group) [
+<3, 4, 1, 100, [ 10, 10 ]>,
+<3, 4, 1, 100, [ 10, 10 ]>,
+<7, 4, 1, 2500, [ 50, 50 ]>,
+<7, 4, 1, 2500, [ 50, 50 ]>,
+<11, 2, 1, 100, [ 10, 10 ]>,
+<11, 2, 1, 100, [ 10, 10 ]>,
+<11, 2, 1, 100, [ 10, 10 ]>,
+<11, 2, 1, 100, [ 10, 10 ]>,
+<13, 4, 1, 28800, [ 120, 240 ]>,
+<13, 4, 1, 28800, [ 120, 240 ]>,
+<17, 4, 1, 83200, [ 80, 1040 ]>,
+<17, 4, 1, 83200, [ 80, 1040 ]>,
+<19, 2, 1, 400, [ 20, 20 ]>,
+<19, 2, 1, 400, [ 20, 20 ]>,
+<19, 2, 1, 400, [ 20, 20 ]>,
+<19, 2, 1, 400, [ 20, 20 ]>,
+<23, 4, 1, 280900, [ 530, 530 ]>,
+<23, 4, 1, 280900, [ 530, 530 ]>,
+<29, 2, 1, 800, [ 20, 40 ]>,
+<29, 2, 1, 800, [ 20, 40 ]>,
+<29, 2, 1, 800, [ 20, 40 ]>,
+<29, 2, 1, 800, [ 20, 40 ]>,
+<31, 2, 1, 900, [ 30, 30 ]>,
+<31, 2, 1, 900, [ 30, 30 ]>,
+<31, 2, 1, 900, [ 30, 30 ]>,
+<31, 2, 1, 900, [ 30, 30 ]>,
+<37, 4, 1, 1872000, [ 120, 15600 ]>,
+<37, 4, 1, 1872000, [ 120, 15600 ]>,
+<41, 1, 1, 50, [ 5, 10 ]>
+] -> gcd 50 -> torsion exactly C5 x C10
+TABLE C5xC10: z->2 mod 41 is a root of Phi20: true; #E = 50 (claimed 50)
+TABLE C5xC10: z->8 mod 61 is a root of Phi20: true; #E = 50 (claimed 50)
+FIELD C5xC10: optimized polynomial t^8 - 2*t^7 + 2*t^6 - 10*t^5 + 16*t^4 - 10*t^3 + 13*t^2 - 6*t + 1 ; disc 4000000 = [ <2, 8>, <5, 6> ] ; signature 0 ; Galois group 8T2 (order 8)
+JINV C5xC10: minimal polynomial of j t - 1728 ; CM: true -4
+TS C5xC10: Magma TorsionSubgroup [ 5, 10 ]
+EX C3xC15: disc(f) = -507 (claimed -507)
+EX C3xC15: degree 8, disc(E) ne 0: true, j=1331/8 (claimed 1331/8: true), Order(P)=3, Order(Q)=15, e3(P,5Q)=1/4449*(-1072*K.1^7 + 6317*K.1^6 - 16769*K.1^5 + 29624*K.1^4 - 44061*K.1^3 + 41417*K.1^2 - 20647*K.1 - 5714) (=z^2: true)
+EX C3xC15: tau=-yQ^2/xQ^3 has degree 8 over Q (claim: degree 4 over F, i.e. 8 over Q)
+TORS C3xC15: (p,f,e,#E,group) [
+<5, 4, 1, 675, [ 3, 225 ]>,
+<5, 4, 1, 675, [ 3, 225 ]>,
+<7, 2, 1, 45, [ 3, 15 ]>
+] -> gcd 45 -> torsion exactly C3 x C15
+FIELD C3xC15: optimized polynomial t^8 + 8*t^6 + 10*t^4 + 15*t^2 + 9 ; disc 2313441 = [ <3, 4>, <13, 4> ] ; signature 0 ; Galois group 8T4 (order 8)
+JINV C3xC15: j = 1331/8 ; CM: false 
+JINV C3xC15: rational curve with j=1331/8 (Magma EllipticCurveWithjInvariant, minimal model) [ 1, 0, 0, 58545061, -528230943943 ] conductor 39302978
+JINV C3xC15: E = twist of E0 by d = 1/1025565684*(9364*K.1^7 - 59634*K.1^6 + 173178*K.1^5 - 334755*K.1^4 + 530437*K.1^3 - 569716*K.1^2 + 311914*K.1 + 25819) over K: true; d is a square in K: false
+JINV C3xC15: squarefree integers t in [-1000,1000] with d*t a square in K: []
+TS C3xC15: Magma TorsionSubgroup [ 3, 15 ]
+TS 1: N=33 Magma TorsionSubgroup [ 33 ] (0.960 s)
+TS 2: N=34 Magma TorsionSubgroup [ 34 ] (44.730 s)
+TS 3: N=34 Magma TorsionSubgroup [ 34 ] (9.840 s)
+TS 4: N=34 Magma TorsionSubgroup [ 34 ] (7.610 s)
+TS 5: N=35 Magma TorsionSubgroup [ 35 ] (0.220 s)
+TS 6: N=39 Magma TorsionSubgroup [ 39 ] (2.160 s)
+TS 7: N=40 Magma TorsionSubgroup [ 40 ] (0.210 s)
+TS 8: N=42 Magma TorsionSubgroup [ 42 ] (0.220 s)
+TS 9: N=42 Magma TorsionSubgroup [ 42 ] (0.170 s)
+TS 10: N=42 Magma TorsionSubgroup [ 42 ] (0.170 s)
+EXAMPLES8_DONE

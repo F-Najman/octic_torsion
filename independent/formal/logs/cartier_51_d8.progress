@@ -1,0 +1,7 @@
+start
+CASE 51  d = 8  Magma 2
+factors of x(8P)-x(9P): [ <1, 1>, <10, 1> ]
+factor of bidegree (5,7): genus 5
+psi_3 degree 4 irreducible true
+y-equation irreducible true
+point of exact order 51 on the generic fibre: true

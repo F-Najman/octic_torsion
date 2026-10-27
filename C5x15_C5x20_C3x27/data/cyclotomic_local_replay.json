@@ -1,0 +1,143 @@
+{
+  "status": "passed",
+  "cases": [
+    {
+      "group": [
+        3,
+        27
+      ],
+      "p": 2,
+      "residue_base_degree": 2,
+      "relative_degree": 1,
+      "field_size": 4,
+      "isomorphism_classes": 13,
+      "order_divisible_cases": 0,
+      "subgroup_hits": 0
+    },
+    {
+      "group": [
+        3,
+        27
+      ],
+      "p": 2,
+      "residue_base_degree": 2,
+      "relative_degree": 2,
+      "field_size": 16,
+      "isomorphism_classes": 37,
+      "order_divisible_cases": 0,
+      "subgroup_hits": 0
+    },
+    {
+      "group": [
+        3,
+        27
+      ],
+      "p": 2,
+      "residue_base_degree": 2,
+      "relative_degree": 3,
+      "field_size": 64,
+      "isomorphism_classes": 133,
+      "order_divisible_cases": 1,
+      "subgroup_hits": 0
+    },
+    {
+      "group": [
+        3,
+        27
+      ],
+      "p": 2,
+      "residue_base_degree": 2,
+      "relative_degree": 4,
+      "field_size": 256,
+      "isomorphism_classes": 517,
+      "order_divisible_cases": 0,
+      "subgroup_hits": 0
+    },
+    {
+      "group": [
+        5,
+        15
+      ],
+      "p": 11,
+      "residue_base_degree": 1,
+      "relative_degree": 1,
+      "field_size": 11,
+      "isomorphism_classes": 22,
+      "order_divisible_cases": 0,
+      "subgroup_hits": 0
+    },
+    {
+      "group": [
+        5,
+        15
+      ],
+      "p": 11,
+      "residue_base_degree": 1,
+      "relative_degree": 2,
+      "field_size": 121,
+      "isomorphism_classes": 248,
+      "order_divisible_cases": 0,
+      "subgroup_hits": 0
+    },
+    {
+      "group": [
+        5,
+        20
+      ],
+      "p": 11,
+      "residue_base_degree": 1,
+      "relative_degree": 1,
+      "field_size": 11,
+      "isomorphism_classes": 22,
+      "order_divisible_cases": 0,
+      "subgroup_hits": 0
+    },
+    {
+      "group": [
+        5,
+        20
+      ],
+      "p": 11,
+      "residue_base_degree": 1,
+      "relative_degree": 2,
+      "field_size": 121,
+      "isomorphism_classes": 248,
+      "order_divisible_cases": 2,
+      "subgroup_hits": 0
+    }
+  ],
+  "index_checks": [
+    {
+      "group": [
+        5,
+        15
+      ],
+      "relative_degree": 2,
+      "index": 480,
+      "gonality_lower_bound": "4875/1024",
+      "required_threshold": 2
+    },
+    {
+      "group": [
+        5,
+        20
+      ],
+      "relative_degree": 2,
+      "index": 720,
+      "gonality_lower_bound": "14625/2048",
+      "required_threshold": 2
+    },
+    {
+      "group": [
+        3,
+        27
+      ],
+      "relative_degree": 4,
+      "index": 972,
+      "gonality_lower_bound": "78975/8192",
+      "required_threshold": 8
+    }
+  ],
+  "log_sha256": "d0c0de6c0fe3ffdabcbdd22497adbcc14f1f360d664ba7e369cdc49afc810502",
+  "verification_boundary": "Exact index arithmetic and all finite-field case coverage are independently checked. Finite elliptic group enumeration remains the reproducible Magma stage."
+}

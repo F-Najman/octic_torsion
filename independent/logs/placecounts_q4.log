@@ -1,0 +1,22 @@
+FIELD q=4 e=1 orbits=4 cputime=0.010
+FIELD q=4 e=2 orbits=10 cputime=0.020
+FIELD q=4 e=3 orbits=24 cputime=0.030
+FIELD q=4 e=4 orbits=70 cputime=0.070
+MASS_ERRORS 0
+POINTS X1(3,21) q=4: [ 0, 0, 0, 576 ]
+PLACES X1(3,21) q=4: [ 0, 0, 0, 144 ]
+QUAL X1(3,21) q=4 e=4: #iso classes of curves=8; (N, invariants, j-orbit length, #Aut) {*
+<252, [ 3, 84 ], 4, 2>^^2
+*}
+POINTS X1(3,15) q=4: [ 0, 0, 0, 408 ]
+PLACES X1(3,15) q=4: [ 0, 0, 0, 102 ]
+QUAL X1(3,15) q=4 e=4: #iso classes of curves=9; (N, invariants, j-orbit length, #Aut) {*
+<225, [ 15, 15 ], 1, 24>,
+<270, [ 3, 90 ], 4, 2>^^2
+*}
+POINTS X1(3,27) q=4: [ 0, 0, 0, 0 ]
+PLACES X1(3,27) q=4: [ 0, 0, 0, 0 ]
+DIV 81 over F_4^3: curves (N, invariants, j-orbit length, #Aut) {*
+<81, [ 9, 9 ], 1, 24>
+*}
+PLACECOUNTS8_DONE

@@ -1,0 +1,26 @@
+FIELD q=16 e=1 orbits=16 cputime=0.020
+FIELD q=16 e=2 orbits=136 cputime=0.100
+MASS_ERRORS 0
+POINTS X1(25)[E[5] rational] q=16: [ 0, 200 ]
+PLACES X1(25)[E[5] rational] q=16: [ 0, 100 ]
+QUAL X1(25)[E[5] rational] q=16 e=2: #iso classes of curves=4; (N, invariants, j-orbit length, #Aut) {*
+<250, [ 5, 50 ], 1, 2>^^4
+*}
+POINTS X1(25) q=16: [ 0, 360 ]
+PLACES X1(25) q=16: [ 0, 180 ]
+QUAL X1(25) q=16 e=2: #iso classes of curves=20; (N, invariants, j-orbit length, #Aut) {*
+<250, [ 5, 50 ], 1, 2>^^4,
+<250, [ 250 ], 2, 2>^^8
+*}
+POINTS X1(5,35) q=16: [ 0, 0 ]
+PLACES X1(5,35) q=16: [ 0, 0 ]
+POINTS X1(5,25) q=16: [ 0, 1000 ]
+PLACES X1(5,25) q=16: [ 0, 500 ]
+QUAL X1(5,25) q=16 e=2: #iso classes of curves=4; (N, invariants, j-orbit length, #Aut) {*
+<250, [ 5, 50 ], 1, 2>^^4
+*}
+DIV 125 over F_16^2: curves (N, invariants, j-orbit length, #Aut) {*
+<250, [ 5, 50 ], 1, 2>^^4,
+<250, [ 250 ], 2, 2>^^8
+*}
+PLACECOUNTS8_DONE

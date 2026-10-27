@@ -1,0 +1,7 @@
+Loading "helpers8.m"
+MSPLACES N=33 p=2: #X(F_{p^n}) n=1..8: [ 10, 20, 10, 20, 30, 140, 220, 220 ]; places of degree 1..8: [ 10, 5, 0, 0, 4, 20, 30, 25 ]
+MSPLACES N=34 p=3: #X(F_{p^n}) n=1..8: [ 16, 16, 16, 120, 176, 496, 1808, 6008 ]; places of degree 1..8: [ 16, 0, 0, 26, 32, 80, 256, 736 ]
+MSPLACES N=35 p=2: #X(F_{p^n}) n=1..8: [ 12, 12, 24, 24, 12, 168, 180, 264 ]; places of degree 1..8: [ 12, 0, 4, 3, 0, 24, 24, 30 ]
+MSPLACES N=39 p=2: #X(F_{p^n}) n=1..8: [ 12, 24, 12, 24, 12, 96, 12, 416 ]; places of degree 1..8: [ 12, 6, 0, 0, 0, 12, 0, 49 ]
+MSPLACES N=40 p=3: #X(F_{p^n}) n=1..8: [ 12, 24, 12, 176, 372, 504, 2868, 5840 ]; places of degree 1..8: [ 12, 6, 0, 38, 72, 80, 408, 708 ]
+PLACECOUNTS_DONE

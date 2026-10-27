@@ -1,0 +1,346 @@
+{
+  "level": 65,
+  "degree": 8,
+  "quotient_diamond": 51,
+  "source_geometric_cusps": 96,
+  "F2_rational_source_cusps_are_Q_rational": true,
+  "target_geometric_cusps": 48,
+  "source_signature": {
+    "1": 24,
+    "4": 6,
+    "6": 4,
+    "12": 2
+  },
+  "target_places": [
+    {
+      "index": 0,
+      "degree": 6,
+      "width": 1,
+      "source_closed_degrees": [
+        6,
+        6
+      ],
+      "allowed_positive_push_multiplicities": [
+        1
+      ]
+    },
+    {
+      "index": 1,
+      "degree": 6,
+      "width": 1,
+      "source_closed_degrees": [
+        6,
+        6
+      ],
+      "allowed_positive_push_multiplicities": [
+        1
+      ]
+    },
+    {
+      "index": 2,
+      "degree": 1,
+      "width": 65,
+      "source_closed_degrees": [
+        1,
+        1
+      ],
+      "allowed_positive_push_multiplicities": [
+        1
+      ]
+    },
+    {
+      "index": 3,
+      "degree": 1,
+      "width": 65,
+      "source_closed_degrees": [
+        1,
+        1
+      ],
+      "allowed_positive_push_multiplicities": [
+        1
+      ]
+    },
+    {
+      "index": 4,
+      "degree": 1,
+      "width": 65,
+      "source_closed_degrees": [
+        1,
+        1
+      ],
+      "allowed_positive_push_multiplicities": [
+        1
+      ]
+    },
+    {
+      "index": 5,
+      "degree": 1,
+      "width": 65,
+      "source_closed_degrees": [
+        1,
+        1
+      ],
+      "allowed_positive_push_multiplicities": [
+        1
+      ]
+    },
+    {
+      "index": 6,
+      "degree": 2,
+      "width": 13,
+      "source_closed_degrees": [
+        4
+      ],
+      "allowed_positive_push_multiplicities": [
+        2
+      ]
+    },
+    {
+      "index": 7,
+      "degree": 1,
+      "width": 65,
+      "source_closed_degrees": [
+        1,
+        1
+      ],
+      "allowed_positive_push_multiplicities": [
+        1
+      ]
+    },
+    {
+      "index": 8,
+      "degree": 1,
+      "width": 65,
+      "source_closed_degrees": [
+        1,
+        1
+      ],
+      "allowed_positive_push_multiplicities": [
+        1
+      ]
+    },
+    {
+      "index": 9,
+      "degree": 1,
+      "width": 65,
+      "source_closed_degrees": [
+        1,
+        1
+      ],
+      "allowed_positive_push_multiplicities": [
+        1
+      ]
+    },
+    {
+      "index": 10,
+      "degree": 2,
+      "width": 13,
+      "source_closed_degrees": [
+        4
+      ],
+      "allowed_positive_push_multiplicities": [
+        2
+      ]
+    },
+    {
+      "index": 11,
+      "degree": 1,
+      "width": 65,
+      "source_closed_degrees": [
+        1,
+        1
+      ],
+      "allowed_positive_push_multiplicities": [
+        1
+      ]
+    },
+    {
+      "index": 12,
+      "degree": 1,
+      "width": 65,
+      "source_closed_degrees": [
+        1,
+        1
+      ],
+      "allowed_positive_push_multiplicities": [
+        1
+      ]
+    },
+    {
+      "index": 13,
+      "degree": 6,
+      "width": 5,
+      "source_closed_degrees": [
+        12
+      ],
+      "allowed_positive_push_multiplicities": []
+    },
+    {
+      "index": 14,
+      "degree": 2,
+      "width": 13,
+      "source_closed_degrees": [
+        4
+      ],
+      "allowed_positive_push_multiplicities": [
+        2
+      ]
+    },
+    {
+      "index": 15,
+      "degree": 1,
+      "width": 65,
+      "source_closed_degrees": [
+        1,
+        1
+      ],
+      "allowed_positive_push_multiplicities": [
+        1
+      ]
+    },
+    {
+      "index": 16,
+      "degree": 1,
+      "width": 65,
+      "source_closed_degrees": [
+        1,
+        1
+      ],
+      "allowed_positive_push_multiplicities": [
+        1
+      ]
+    },
+    {
+      "index": 17,
+      "degree": 2,
+      "width": 13,
+      "source_closed_degrees": [
+        4
+      ],
+      "allowed_positive_push_multiplicities": [
+        2
+      ]
+    },
+    {
+      "index": 18,
+      "degree": 1,
+      "width": 65,
+      "source_closed_degrees": [
+        1,
+        1
+      ],
+      "allowed_positive_push_multiplicities": [
+        1
+      ]
+    },
+    {
+      "index": 19,
+      "degree": 2,
+      "width": 13,
+      "source_closed_degrees": [
+        4
+      ],
+      "allowed_positive_push_multiplicities": [
+        2
+      ]
+    },
+    {
+      "index": 20,
+      "degree": 6,
+      "width": 5,
+      "source_closed_degrees": [
+        12
+      ],
+      "allowed_positive_push_multiplicities": []
+    },
+    {
+      "index": 21,
+      "degree": 2,
+      "width": 13,
+      "source_closed_degrees": [
+        4
+      ],
+      "allowed_positive_push_multiplicities": [
+        2
+      ]
+    }
+  ],
+  "diamond27_permutation": [
+    1,
+    0,
+    12,
+    11,
+    15,
+    16,
+    6,
+    8,
+    7,
+    18,
+    10,
+    3,
+    2,
+    20,
+    14,
+    4,
+    5,
+    17,
+    9,
+    19,
+    13,
+    21
+  ],
+  "diamond41_permutation": [
+    1,
+    0,
+    11,
+    16,
+    8,
+    18,
+    10,
+    2,
+    12,
+    4,
+    17,
+    5,
+    3,
+    13,
+    21,
+    7,
+    9,
+    19,
+    15,
+    14,
+    20,
+    6
+  ],
+  "admissible_deck_orbits": [
+    [
+      0,
+      1
+    ],
+    [
+      2,
+      3,
+      4,
+      5,
+      7,
+      8,
+      9,
+      11,
+      12,
+      15,
+      16,
+      18
+    ],
+    [
+      6,
+      10,
+      14,
+      17,
+      19,
+      21
+    ]
+  ],
+  "admissible_degree8_divisors": 83949,
+  "source_RR_blocks": 11
+}

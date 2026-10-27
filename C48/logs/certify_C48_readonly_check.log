@@ -1,0 +1,36 @@
+{
+  "complete": true,
+  "level": 48,
+  "degree": 8,
+  "source_support_cases": 9938,
+  "target_high_class_tests": 3507,
+  "independent_exact_principal_identity_replays": 3507,
+  "rough_replays": 3496,
+  "smooth_replays": 11,
+  "low_source_images_freshly_matched_to_target_primes": 736,
+  "actual_source_hecke_tests": 26,
+  "remaining_source_cases": 0,
+  "q13_cusp_stabilizer_types": [
+    [
+      12,
+      4
+    ],
+    [
+      24,
+      2
+    ],
+    [
+      48,
+      1
+    ]
+  ],
+  "source_cusp_signature": {
+    "4": 4,
+    "2": 12,
+    "1": 16
+  },
+  "shared_snapshot_files_checked": 271,
+  "degree8_only": true,
+  "earlier_degree_exclusions_transferred": false
+}
+C48_CERTIFIED_COMPLETE

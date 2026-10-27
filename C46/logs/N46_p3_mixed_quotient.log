@@ -1,0 +1,300 @@
+SETUP N=46 M=1 p=3 genus=45 time=42.060
+CUSPS number=24 degrees=[ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 11, 11 ]
+CUSPFIELDS orbits over Q (degree, F_p-degree): [ <11, 11>, <11, 11>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1> ] ; predicted F_p cusp degrees match model: true
+CC complement degree <= 1: q mod 46 in [ 1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 25, 27, 29, 31, 33, 35, 37, 39, 41, 43, 45 ] ; usable q from list: [ 5, 7, 11, 13, 17, 19 ]
+CC complement degree <= 2: q mod 46 in [ 1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 25, 27, 29, 31, 33, 35, 37, 39, 41, 43, 45 ] ; usable q from list: [ 5, 7, 11, 13, 17, 19 ]
+CC complement degree <= 3: q mod 46 in [ 1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 25, 27, 29, 31, 33, 35, 37, 39, 41, 43, 45 ] ; usable q from list: [ 5, 7, 11, 13, 17, 19 ]
+CC complement degree <= 4: q mod 46 in [ 1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 25, 27, 29, 31, 33, 35, 37, 39, 41, 43, 45 ] ; usable q from list: [ 5, 7, 11, 13, 17, 19 ]
+CC complement degree <= 5: q mod 46 in [ 1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 25, 27, 29, 31, 33, 35, 37, 39, 41, 43, 45 ] ; usable q from list: [ 5, 7, 11, 13, 17, 19 ]
+CC complement degree <= 6: q mod 46 in [ 1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 25, 27, 29, 31, 33, 35, 37, 39, 41, 43, 45 ] ; usable q from list: [ 5, 7, 11, 13, 17, 19 ]
+CC complement degree <= 7: q mod 46 in [ 1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 25, 27, 29, 31, 33, 35, 37, 39, 41, 43, 45 ] ; usable q from list: [ 5, 7, 11, 13, 17, 19 ]
+QLIST all (used when there is no cuspidal part): [ 5, 7, 11, 13, 17, 19 ]
+Loading "work/degree8/cyclic_sieves/quotient_class_prefilter.m"
+QUOTIENT_SETUP level=23 genus=12 classgroup=[ 9406793, 0 ] rational_cusp_image=[ 408991 ] quotient=[ 23, 0 ] complement_counts=[ 1, 1, 1, 1, 1, 1, 1, 1, 1 ] time=124.370
+QUOTIENT_PREFILTER_READY complete=true
+DEGREES with points of the required type over F_p^d (d=1..8): [ false, false, false, true, true, true, true, true ]  time=124.520
+NONCUSP counts deg 1..8: [ 0, 0, 0, 55, 44, 55, 264, 781 ]  time=157.220
+REPS up to diamond: [ 0, 0, 0, 5, 4, 5, 24, 71 ]  time=165.680
+TYPE [ 4, 4 ]: 275 divisors (up to diamond), qlist=[ 5, 7, 11, 13, 17, 19 ]
+QUOTIENT_REJECT type=[ 4, 4 ] index=1 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=2 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=3 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=4 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=5 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=6 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=7 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=8 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=9 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=10 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=11 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=12 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=13 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=15 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=16 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=17 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=18 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=19 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=20 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=21 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=22 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=23 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=24 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=25 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=26 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=27 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=28 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=29 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=30 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=31 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=33 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=34 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=35 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=36 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=38 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=39 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=40 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=41 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=42 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=43 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=44 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=45 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=46 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=47 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=48 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=49 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=50 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=51 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=52 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=53 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=54 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=55 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=56 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=57 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=58 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=59 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=60 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=61 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=62 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=63 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=64 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=65 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=66 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=67 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=68 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=69 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=70 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=71 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=72 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=73 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=74 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=75 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=76 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=77 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=78 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=79 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=80 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=81 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=82 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=83 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=84 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=85 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=86 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=87 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=88 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=90 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=91 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=92 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=93 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=94 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=95 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=96 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=97 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=98 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=99 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=100 base=23
+PROGRESS type=[ 4, 4 ] 100/275 survivors=0 time=596.520
+QUOTIENT_REJECT type=[ 4, 4 ] index=101 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=103 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=104 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=105 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=106 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=107 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=108 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=109 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=110 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=111 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=112 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=113 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=114 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=115 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=116 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=117 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=118 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=119 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=120 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=121 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=122 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=123 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=124 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=125 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=127 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=128 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=129 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=130 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=131 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=132 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=133 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=134 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=135 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=136 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=137 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=138 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=139 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=140 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=141 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=142 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=143 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=144 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=145 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=146 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=147 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=148 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=149 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=151 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=152 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=153 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=154 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=155 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=156 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=157 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=158 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=159 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=160 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=161 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=162 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=163 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=164 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=165 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=166 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=167 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=168 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=169 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=170 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=171 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=172 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=173 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=174 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=175 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=176 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=177 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=178 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=179 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=180 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=182 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=183 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=184 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=185 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=186 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=187 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=188 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=189 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=190 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=191 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=192 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=193 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=194 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=195 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=196 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=197 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=198 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=199 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=200 base=23
+PROGRESS type=[ 4, 4 ] 200/275 survivors=0 time=967.660
+QUOTIENT_REJECT type=[ 4, 4 ] index=201 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=202 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=203 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=204 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=206 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=207 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=208 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=209 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=210 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=211 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=212 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=213 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=214 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=215 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=216 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=217 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=218 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=219 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=220 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=221 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=222 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=223 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=224 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=225 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=226 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=227 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=228 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=229 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=230 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=232 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=233 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=234 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=235 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=236 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=237 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=238 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=239 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=240 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=241 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=242 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=243 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=244 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=245 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=246 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=247 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=248 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=249 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=250 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=251 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=252 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=253 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=254 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=255 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=256 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=257 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=258 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=259 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=260 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=261 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=262 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=263 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=265 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=266 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=267 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=268 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=269 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=270 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=271 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=272 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=273 base=23
+QUOTIENT_REJECT type=[ 4, 4 ] index=275 base=23
+RESULT type=[ 4, 4 ] total=275 survivors=0 time=1505.340
+TYPE [ 4, 3, 1 ]: no divisors
+TYPE [ 4, 2, 2 ]: no divisors
+TYPE [ 4, 2, 1, 1 ]: no divisors
+TYPE [ 4, 1, 1, 1, 1 ]: no divisors
+TYPE [ 3, 3, 2 ]: no divisors
+TYPE [ 3, 3, 1, 1 ]: no divisors
+TYPE [ 3, 2, 2, 1 ]: no divisors
+TYPE [ 3, 2, 1, 1, 1 ]: no divisors
+TYPE [ 3, 1, 1, 1, 1, 1 ]: no divisors
+TYPE [ 2, 2, 2, 2 ]: no divisors
+TYPE [ 2, 2, 2, 1, 1 ]: no divisors
+TYPE [ 2, 2, 1, 1, 1, 1 ]: no divisors
+TYPE [ 2, 1, 1, 1, 1, 1, 1 ]: no divisors
+TYPE [ 1, 1, 1, 1, 1, 1, 1, 1 ]: no divisors
+SUMMARY N=46 M=1 p=3 D=8 shard=0/1 total_survivors=0 time=1505.390
+SIEVE_RESUME_DONE FromDegree=8 MaxPart=4

@@ -1,0 +1,27 @@
+Magma V2.30-1     Thu Oct 22 2026 06:05:18 on mordell  [Seed = 4115009272]
+Type <Ctrl>-D to quit.
+
+Loading file "work/degree8/large_levels/C65_genus61_preflight_v3.m"
+C65_GENUS61_IRREDUCIBILITY_START 0.010
+C65_GENUS61_IRREDUCIBILITY_DONE 0.030
+C65_GENUS61_NORMALIZATION_START 0.050
+C65_GENUS61_FIBRE_MODEL_VERIFIED irreducible12=true genus61=true index1008=true time=179.110
+C65_GENUS61_CUSP_START 179.110
+C65_GENUS61_BASE_CUSP_START index=1 degree=1 time=179.110
+C65_GENUS61_BASE_CUSP_DONE index=1 output=[ <1, 2>, <5, 1>, <5, 1> ] time=355.520
+C65_GENUS61_BASE_CUSP_START index=2 degree=1 time=355.520
+C65_GENUS61_BASE_CUSP_DONE index=2 output=[ <1, 2>, <5, 1>, <5, 1> ] time=461.530
+C65_GENUS61_BASE_CUSP_START index=3 degree=1 time=461.530
+C65_GENUS61_BASE_CUSP_DONE index=3 output=[ <1, 2>, <5, 1>, <5, 1> ] time=492.750
+C65_GENUS61_BASE_CUSP_START index=4 degree=1 time=492.750
+C65_GENUS61_BASE_CUSP_DONE index=4 output=[ <1, 2>, <5, 1>, <5, 1> ] time=656.310
+C65_GENUS61_BASE_CUSP_START index=5 degree=6 time=656.310
+C65_GENUS61_BASE_CUSP_DONE index=5 output=[ <1, 6>, <1, 6>, <5, 6>, <5, 6> ] time=672.480
+C65_GENUS61_BASE_CUSP_START index=6 degree=1 time=672.480
+C65_GENUS61_BASE_CUSP_DONE index=6 output=[ <1, 2>, <5, 1>, <5, 1> ] time=902.350
+C65_GENUS61_BASE_CUSP_START index=7 degree=1 time=902.350
+C65_GENUS61_BASE_CUSP_DONE index=7 output=[ <1, 2>, <5, 1>, <5, 1> ] time=902.810
+C65_GENUS61_CUSPS_VERIFIED count=22 degrees=[ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 6, 6, 6, 6 ] widths=[ <1, 6>, <1, 6>, <5, 6>, <5, 6>, <13, 2>, <13, 2>, <13, 2>, <13, 2>, <13, 2>, <13, 2>, <65, 1>, <65, 1>, <65, 1>, <65, 1>, <65, 1>, <65, 1>, <65, 1>, <65, 1>, <65, 1>, <65, 1>, <65, 1>, <65, 1> ] time=902.910
+C65_GENUS61_DECK_GROUP_VERIFIED C2xC6=true order12=true 903.020
+C65_GENUS61_COTANGENT_VERIFIED Cartier_rank=61 diamond5_image=26 diamond13_image=44 Hecke6_image=21 joint_image=48 time=1002.960
+

@@ -1,0 +1,47 @@
+{
+  "level": 49,
+  "degree": 8,
+  "elliptic_model_checks": true,
+  "rational_torsion_2primary_order": 2,
+  "quotient_degree": 21,
+  "cusp_regular_diamond_action": true,
+  "required_rational_cusps": 17,
+  "required_cubic_cusps": 6,
+  "required_mixed_divisors": 125307,
+  "rank_certificate_complete": true,
+  "rank_tests": 125307,
+  "exceptions": 0,
+  "rational_indices": [
+    1,
+    2,
+    3,
+    6,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    19,
+    20,
+    21,
+    22,
+    23
+  ],
+  "cubic_indices": [
+    4,
+    5,
+    7,
+    8,
+    17,
+    18
+  ],
+  "inputs": [
+    {
+      "path": "C49/data/N49_completion_rerun_jets.m",
+      "sha256": "64ff7b6c913d5078aeb5a6cf8d875a50d32c87b8b6115126f02b4c087c9e3f7d"
+    }
+  ]
+}

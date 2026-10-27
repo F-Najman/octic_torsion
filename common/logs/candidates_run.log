@@ -1,0 +1,16 @@
+Phi(8): COMPLETE
+Published infinite-family groups: 52
+Certified occurring groups: 60
+Certified exclusion records: 80
+Remaining minimal obstruction groups: 0
+
+Known occurring groups:
+C1, C2, C3, C4, C5, C6, C7, C8, C9, C10, C11, C12, C13, C14, C15, C16, C17, C18, C19, C20, C21, C22, C23, C24, C25, C26, C27, C28, C30, C32, C33, C34, C35, C36, C39, C40, C42, C2 x C2, C2 x C4, C2 x C6, C2 x C8, C2 x C10, C2 x C12, C2 x C14, C2 x C16, C2 x C18, C2 x C20, C2 x C22, C2 x C24, C3 x C3, C3 x C6, C3 x C9, C3 x C12, C3 x C15, C4 x C4, C4 x C8, C4 x C12, C5 x C5, C5 x C10, C6 x C6
+
+Remaining minimal obstruction groups:
+
+
+A minimal obstruction is a subgroup which must be excluded or realized.
+It is not an assertion that this subgroup actually occurs.
+Realizing a new group can expose additional larger minimal obstructions.
+CANDIDATES_DEGREE8_DONE

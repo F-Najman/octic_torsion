@@ -1,0 +1,10 @@
+H_FIXED_CHARACTER order=1 conductor=1 delta24_nontrivial=false
+H_FIXED_CHARACTER order=2 conductor=5 delta24_nontrivial=false
+H_FIXED_CHARACTER order=12 conductor=35 delta24_nontrivial=true
+H_FIXED_CHARACTER order=3 conductor=7 delta24_nontrivial=true
+H_FIXED_CHARACTER order=6 conductor=35 delta24_nontrivial=true
+H_FIXED_CHARACTER order=4 conductor=35 delta24_nontrivial=false
+TWIST_CHARACTER order=1 conductor=1 psi24_squared_one=true
+TWIST_CHARACTER order=4 conductor=5 psi24_squared_one=true
+TWIST_CHARACTER order=2 conductor=5 psi24_squared_one=true
+FIVE_THIRTY_FIVE_CHARACTER_CHECK_DONE

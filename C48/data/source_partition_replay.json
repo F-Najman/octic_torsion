@@ -1,0 +1,54 @@
+{
+  "complete": true,
+  "source_sha256": "a95927262796020825fa2064678a536f75013a1081427e02115a789b8790d580",
+  "all_points_exact_order48": true,
+  "all_diamond_orbits_disjoint": true,
+  "all_newton_counts_exhausted": true,
+  "degrees": {
+    "3": {
+      "representatives": 2,
+      "places": 16,
+      "orbit_size_distribution": {
+        "8": 2
+      }
+    },
+    "4": {
+      "representatives": 8,
+      "places": 64,
+      "orbit_size_distribution": {
+        "8": 8
+      }
+    },
+    "5": {
+      "representatives": 82,
+      "places": 656,
+      "orbit_size_distribution": {
+        "8": 82
+      }
+    },
+    "6": {
+      "representatives": 342,
+      "places": 2712,
+      "orbit_size_distribution": {
+        "8": 336,
+        "4": 6
+      }
+    },
+    "7": {
+      "representatives": 1348,
+      "places": 10784,
+      "orbit_size_distribution": {
+        "8": 1348
+      }
+    },
+    "8": {
+      "representatives": 6172,
+      "places": 48992,
+      "orbit_size_distribution": {
+        "8": 6084,
+        "4": 72,
+        "2": 16
+      }
+    }
+  }
+}

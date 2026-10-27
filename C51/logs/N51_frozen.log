@@ -1,0 +1,117 @@
+RANK0_CARTIER_SETUP N=51 D=8 genus=65 direct_AF_model=true time=137.620
+RANK0_CARTIER_FORMS N=51 image_dimension=62 time=143.510
+Y63_ALL_CUSPS pole_degree=1152 signature={* 1^^16, 2^^8, 8^^4 *} time=417.610
+RANK0_CARTIER_CUSPS N=51 signature={* 1^^16, 2^^8, 8^^4 *} time=417.750
+RANK0_CARTIER_JET_START N=51 cusp=1/28 degree=1 reference_order=0 precision=10 time=417.900
+RANK0_CARTIER_COMPLETION N=51 cusp=1 time=417.910
+RANK0_CARTIER_EXPANDED N=51 cusp=1 sufficient_precision=true time=467.130
+RANK0_CARTIER_JET N=51 cusp=1/28 degree=1 reference_order=0 time=467.130
+RANK0_CARTIER_JET_START N=51 cusp=2/28 degree=1 reference_order=0 precision=10 time=467.360
+RANK0_CARTIER_COMPLETION N=51 cusp=2 time=467.370
+RANK0_CARTIER_EXPANDED N=51 cusp=2 sufficient_precision=true time=516.520
+RANK0_CARTIER_JET N=51 cusp=2/28 degree=1 reference_order=0 time=516.520
+RANK0_CARTIER_JET_START N=51 cusp=3/28 degree=2 reference_order=0 precision=6 time=516.760
+RANK0_CARTIER_COMPLETION N=51 cusp=3 time=516.790
+RANK0_CARTIER_EXPANDED N=51 cusp=3 sufficient_precision=true time=605.540
+RANK0_CARTIER_JET N=51 cusp=3/28 degree=2 reference_order=0 time=605.540
+RANK0_CARTIER_JET_START N=51 cusp=4/28 degree=2 reference_order=0 precision=6 time=605.750
+RANK0_CARTIER_COMPLETION N=51 cusp=4 time=605.840
+RANK0_CARTIER_EXPANDED N=51 cusp=4 sufficient_precision=true time=685.080
+RANK0_CARTIER_JET N=51 cusp=4/28 degree=2 reference_order=0 time=685.080
+RANK0_CARTIER_JET_START N=51 cusp=5/28 degree=1 reference_order=2 precision=10 time=685.340
+RANK0_CARTIER_COMPLETION N=51 cusp=5 time=685.360
+RANK0_CARTIER_EXPANDED N=51 cusp=5 sufficient_precision=true time=875.090
+RANK0_CARTIER_JET N=51 cusp=5/28 degree=1 reference_order=2 time=875.090
+RANK0_CARTIER_JET_START N=51 cusp=6/28 degree=2 reference_order=2 precision=6 time=875.330
+RANK0_CARTIER_COMPLETION N=51 cusp=6 time=875.350
+RANK0_CARTIER_EXPANDED N=51 cusp=6 sufficient_precision=true time=1294.820
+RANK0_CARTIER_JET N=51 cusp=6/28 degree=2 reference_order=2 time=1294.820
+RANK0_CARTIER_JET_START N=51 cusp=7/28 degree=1 reference_order=4 precision=10 time=1296.650
+RANK0_CARTIER_COMPLETION N=51 cusp=7 time=1296.720
+RANK0_CARTIER_EXPANDED N=51 cusp=7 sufficient_precision=true time=1416.290
+RANK0_CARTIER_JET N=51 cusp=7/28 degree=1 reference_order=4 time=1416.300
+RANK0_CARTIER_JET_START N=51 cusp=8/28 degree=1 reference_order=4 precision=10 time=1416.830
+RANK0_CARTIER_COMPLETION N=51 cusp=8 time=1416.860
+RANK0_CARTIER_EXPANDED N=51 cusp=8 sufficient_precision=true time=1715.210
+RANK0_CARTIER_JET N=51 cusp=8/28 degree=1 reference_order=4 time=1715.210
+RANK0_CARTIER_JET_START N=51 cusp=9/28 degree=1 reference_order=6 precision=10 time=1715.400
+RANK0_CARTIER_COMPLETION N=51 cusp=9 time=1715.420
+RANK0_CARTIER_EXPANDED N=51 cusp=9 sufficient_precision=true time=1810.440
+RANK0_CARTIER_JET N=51 cusp=9/28 degree=1 reference_order=6 time=1810.440
+RANK0_CARTIER_JET_START N=51 cusp=10/28 degree=2 reference_order=0 precision=6 time=1810.700
+RANK0_CARTIER_COMPLETION N=51 cusp=10 time=1810.750
+RANK0_CARTIER_EXPANDED N=51 cusp=10 sufficient_precision=true time=1823.210
+RANK0_CARTIER_JET N=51 cusp=10/28 degree=2 reference_order=0 time=1823.220
+RANK0_CARTIER_JET_START N=51 cusp=11/28 degree=1 reference_order=4 precision=10 time=1823.470
+RANK0_CARTIER_COMPLETION N=51 cusp=11 time=1823.500
+RANK0_CARTIER_EXPANDED N=51 cusp=11 sufficient_precision=true time=1909.230
+RANK0_CARTIER_JET N=51 cusp=11/28 degree=1 reference_order=4 time=1909.240
+RANK0_CARTIER_JET_START N=51 cusp=12/28 degree=2 reference_order=2 precision=6 time=1909.470
+RANK0_CARTIER_COMPLETION N=51 cusp=12 time=1909.500
+RANK0_CARTIER_EXPANDED N=51 cusp=12 sufficient_precision=true time=2335.870
+RANK0_CARTIER_JET N=51 cusp=12/28 degree=2 reference_order=2 time=2335.870
+RANK0_CARTIER_JET_START N=51 cusp=13/28 degree=1 reference_order=6 precision=10 time=2335.940
+RANK0_CARTIER_COMPLETION N=51 cusp=13 time=2335.960
+RANK0_CARTIER_EXPANDED N=51 cusp=13 sufficient_precision=true time=2423.640
+RANK0_CARTIER_JET N=51 cusp=13/28 degree=1 reference_order=6 time=2423.640
+RANK0_CARTIER_JET_START N=51 cusp=14/28 degree=1 reference_order=10 precision=10 time=2424.060
+RANK0_CARTIER_COMPLETION N=51 cusp=14 time=2424.120
+RANK0_CARTIER_EXPANDED N=51 cusp=14 sufficient_precision=true time=2651.790
+RANK0_CARTIER_JET N=51 cusp=14/28 degree=1 reference_order=10 time=2651.800
+RANK0_CARTIER_JET_START N=51 cusp=15/28 degree=8 reference_order=0 precision=3 time=2652.040
+RANK0_CARTIER_COMPLETION N=51 cusp=15 time=2652.080
+RANK0_CARTIER_EXPANDED N=51 cusp=15 sufficient_precision=true time=2890.000
+RANK0_CARTIER_JET N=51 cusp=15/28 degree=8 reference_order=0 time=2890.000
+RANK0_CARTIER_JET_START N=51 cusp=16/28 degree=8 reference_order=0 precision=3 time=2890.290
+RANK0_CARTIER_COMPLETION N=51 cusp=16 time=2890.320
+RANK0_CARTIER_EXPANDED N=51 cusp=16 sufficient_precision=true time=3119.050
+RANK0_CARTIER_JET N=51 cusp=16/28 degree=8 reference_order=0 time=3119.050
+RANK0_CARTIER_JET_START N=51 cusp=17/28 degree=8 reference_order=0 precision=3 time=3119.330
+RANK0_CARTIER_COMPLETION N=51 cusp=17 time=3119.350
+RANK0_CARTIER_EXPANDED N=51 cusp=17 sufficient_precision=true time=3345.730
+RANK0_CARTIER_JET N=51 cusp=17/28 degree=8 reference_order=0 time=3345.730
+RANK0_CARTIER_JET_START N=51 cusp=18/28 degree=8 reference_order=0 precision=3 time=3346.010
+RANK0_CARTIER_COMPLETION N=51 cusp=18 time=3346.040
+RANK0_CARTIER_EXPANDED N=51 cusp=18 sufficient_precision=true time=3555.680
+RANK0_CARTIER_JET N=51 cusp=18/28 degree=8 reference_order=0 time=3555.680
+RANK0_CARTIER_JET_START N=51 cusp=19/28 degree=1 reference_order=-2 precision=12 time=3559.090
+RANK0_CARTIER_COMPLETION N=51 cusp=19 time=3559.260
+RANK0_CARTIER_EXPANDED N=51 cusp=19 sufficient_precision=true time=4466.330
+RANK0_CARTIER_JET N=51 cusp=19/28 degree=1 reference_order=-2 time=4466.330
+RANK0_CARTIER_JET_START N=51 cusp=20/28 degree=2 reference_order=-2 precision=8 time=4471.230
+RANK0_CARTIER_COMPLETION N=51 cusp=20 time=4471.370
+RANK0_CARTIER_EXPANDED N=51 cusp=20 sufficient_precision=true time=4588.600
+RANK0_CARTIER_JET N=51 cusp=20/28 degree=2 reference_order=-2 time=4588.600
+RANK0_CARTIER_JET_START N=51 cusp=21/28 degree=2 reference_order=-2 precision=8 time=4593.950
+RANK0_CARTIER_COMPLETION N=51 cusp=21 time=4594.120
+RANK0_CARTIER_EXPANDED N=51 cusp=21 sufficient_precision=true time=7505.420
+RANK0_CARTIER_JET N=51 cusp=21/28 degree=2 reference_order=-2 time=7505.420
+RANK0_CARTIER_JET_START N=51 cusp=22/28 degree=1 reference_order=2 precision=10 time=7508.370
+RANK0_CARTIER_COMPLETION N=51 cusp=22 time=7508.470
+RANK0_CARTIER_EXPANDED N=51 cusp=22 sufficient_precision=true time=8168.900
+RANK0_CARTIER_JET N=51 cusp=22/28 degree=1 reference_order=2 time=8168.900
+RANK0_CARTIER_JET_START N=51 cusp=23/28 degree=1 reference_order=4 precision=10 time=8175.580
+RANK0_CARTIER_COMPLETION N=51 cusp=23 time=8175.670
+RANK0_CARTIER_EXPANDED N=51 cusp=23 sufficient_precision=true time=9258.740
+RANK0_CARTIER_JET N=51 cusp=23/28 degree=1 reference_order=4 time=9258.740
+RANK0_CARTIER_JET_START N=51 cusp=24/28 degree=1 reference_order=32 precision=10 time=9272.250
+RANK0_CARTIER_COMPLETION N=51 cusp=24 time=9272.360
+RANK0_CARTIER_EXPANDED N=51 cusp=24 sufficient_precision=true time=10212.270
+RANK0_CARTIER_JET N=51 cusp=24/28 degree=1 reference_order=32 time=10212.270
+RANK0_CARTIER_JET_START N=51 cusp=25/28 degree=2 reference_order=-2 precision=8 time=10212.410
+RANK0_CARTIER_COMPLETION N=51 cusp=25 time=10212.460
+RANK0_CARTIER_EXPANDED N=51 cusp=25 sufficient_precision=true time=10541.060
+RANK0_CARTIER_JET N=51 cusp=25/28 degree=2 reference_order=-2 time=10541.060
+RANK0_CARTIER_JET_START N=51 cusp=26/28 degree=1 reference_order=14 precision=10 time=10548.350
+RANK0_CARTIER_COMPLETION N=51 cusp=26 time=10548.430
+RANK0_CARTIER_EXPANDED N=51 cusp=26 sufficient_precision=true time=11881.710
+RANK0_CARTIER_JET N=51 cusp=26/28 degree=1 reference_order=14 time=11881.710
+RANK0_CARTIER_JET_START N=51 cusp=27/28 degree=1 reference_order=-6 precision=16 time=11884.540
+RANK0_CARTIER_COMPLETION N=51 cusp=27 time=11884.600
+RANK0_CARTIER_EXPANDED N=51 cusp=27 sufficient_precision=true time=13023.420
+RANK0_CARTIER_JET N=51 cusp=27/28 degree=1 reference_order=-6 time=13023.420
+RANK0_CARTIER_JET_START N=51 cusp=28/28 degree=1 reference_order=-6 precision=16 time=13030.990
+RANK0_CARTIER_COMPLETION N=51 cusp=28 time=13031.070
+RANK0_CARTIER_EXPANDED N=51 cusp=28 sufficient_precision=true time=13182.810
+RANK0_CARTIER_JET N=51 cusp=28/28 degree=1 reference_order=-6 time=13182.810
+RANK0_CARTIER_COMPLETION_EXPORT_DONE N=51 D=8 cusps=28 image_dimension=62 complete=true time=13182.990

@@ -1,0 +1,74 @@
+{
+  "level": 46,
+  "degree": 8,
+  "independent_math_audit": "passes",
+  "source_singles": 109,
+  "mixed_pairs": 275,
+  "quotient_rejections": 263,
+  "remaining_pairs_killed_by_Hecke": 12,
+  "total_tests": 384,
+  "nonempty_support_types": [
+    [
+      4
+    ],
+    [
+      4,
+      4
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ],
+    [
+      8
+    ]
+  ],
+  "all_recorded_hashes_pass": true,
+  "files": [
+    {
+      "path": "cyclic_sieves/quotient_class_criterion.tex",
+      "sha256": "c20c9a14b866bfecae621634a6256798eef60536b5c1bf35265062b1b421d880"
+    },
+    {
+      "path": "cyclic_sieves/exclusion46.tex",
+      "sha256": "8f99b8423ea3d8042836c053924e19d21d05d91d30c5fff46218675ecae72297"
+    },
+    {
+      "path": "cyclic_sieves/quotient_class_prefilter.m",
+      "sha256": "6bb7c7b0488803f19cdaf4924a90c064ed3d29e6d2bfdf98558fb2d7f8f966ba"
+    },
+    {
+      "path": "cyclic_sieves/class_rational_reduction.m",
+      "sha256": "43e8ae730876321ba2a2a4fd57860f0826f2480d241e9a158a8d8601d7d1979c"
+    },
+    {
+      "path": "cyclic_sieves/hecke_sieve_quotient.m",
+      "sha256": "cac7c831b17c9d4059f72ef3a1f124f25a1db3685d3e23dbb7b63a0843a0ee30"
+    },
+    {
+      "path": "cyclic_sieves/odd_prime_criterion.tex",
+      "sha256": "a4474aee0a416eab75af14da63cbf46e4d0a3b71f42bfa9869509ffb50d0d7bc"
+    },
+    {
+      "path": "cyclic_sieves/N46_p3_single_completed.log",
+      "sha256": "dfdf77bec921ee0d1290cf6473fdb0815b1e09b83e30aadb0def27c3d8d52d19"
+    },
+    {
+      "path": "cyclic_sieves/N46_p3_mixed_quotient.log",
+      "sha256": "30c3c5e79d0d216923fa2ec31bb565cd3989ee828d69a6682b0d25353897dd3d"
+    },
+    {
+      "path": "cyclic_sieves/N46_combined_audit.json",
+      "sha256": "7a652ff4b5275a5d29e5c8bad1c567fe6e800b3a35314a6f3a1fa9086dba80d3"
+    },
+    {
+      "path": "shared/mdmagma/v2/modular_curves/X1.m",
+      "sha256": "3b4ed1b2fb00f170fd03dfaa59218fc09dcd0243d415ae4bd8ac8c024c94ba7f"
+    }
+  ]
+}

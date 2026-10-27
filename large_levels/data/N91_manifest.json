@@ -1,0 +1,134 @@
+{
+  "degree": 8,
+  "excluded_cyclic_order": 91,
+  "status": "complete",
+  "genus": 265,
+  "rank_dimension_sum": 265,
+  "finite_image_diamond": 3,
+  "finite_image_diamond_order": 6,
+  "residue_automorphism_diamond": 16,
+  "residue_automorphism_diamond_order": 3,
+  "combined_diamond_group_order": 18,
+  "minimum_CM_degree": 24,
+  "gonality_lower_bound": "20475/512",
+  "principal_function_degree_bound": 32,
+  "good_reduction_degrees_through8": [
+    8
+  ],
+  "branches": {
+    "entirely_cuspidal": "usual finite-image diamond argument",
+    "pure_good8": "mixed diamond relation and independent mod3 augmentation witness"
+  },
+  "positive_rank_forms": [
+    {
+      "level": 91,
+      "multiplicity": 1,
+      "id": 16672,
+      "label": "91.2.a.a",
+      "char_orbit_label": "a",
+      "char_order": 1,
+      "char_conductor": 1,
+      "dim": 1,
+      "relative_dim": 1,
+      "analytic_rank": 1,
+      "analytic_rank_proved": true,
+      "is_cm": false,
+      "nf_label": "1.1.1.1"
+    },
+    {
+      "level": 91,
+      "multiplicity": 1,
+      "id": 16673,
+      "label": "91.2.a.b",
+      "char_orbit_label": "a",
+      "char_order": 1,
+      "char_conductor": 1,
+      "dim": 1,
+      "relative_dim": 1,
+      "analytic_rank": 1,
+      "analytic_rank_proved": true,
+      "is_cm": false,
+      "nf_label": "1.1.1.1"
+    },
+    {
+      "level": 91,
+      "multiplicity": 1,
+      "id": 16683,
+      "label": "91.2.g.a",
+      "char_orbit_label": "g",
+      "char_order": 3,
+      "char_conductor": 91,
+      "dim": 2,
+      "relative_dim": 1,
+      "analytic_rank": 1,
+      "analytic_rank_proved": true,
+      "is_cm": false,
+      "nf_label": "2.0.3.1"
+    },
+    {
+      "level": 91,
+      "multiplicity": 1,
+      "id": 16692,
+      "label": "91.2.u.a",
+      "char_orbit_label": "u",
+      "char_order": 6,
+      "char_conductor": 91,
+      "dim": 2,
+      "relative_dim": 1,
+      "analytic_rank": 1,
+      "analytic_rank_proved": true,
+      "is_cm": false,
+      "nf_label": "2.0.3.1"
+    }
+  ],
+  "files": [
+    {
+      "path": "N91_exclusion.tex",
+      "sha256": "08c4d96d666e3be8b51b2cd8d96fcdb50b329ace5bb8825c6ac51596fbec1e5b"
+    },
+    {
+      "path": "certify_91.py",
+      "sha256": "cf11dc817dde4dc52c1a0e926c001f457a264283c01465cbc97d953a8404eba2"
+    },
+    {
+      "path": "N91_group_ring_certificate.json",
+      "sha256": "ff6aea2d2af2e43155773b6e2d7aa64ae1e1d0b1201e9f02ec95c5003c85130f"
+    },
+    {
+      "path": "check_91_characters.m",
+      "sha256": "2ad6c1e2689f4762d334ce50945c3cca1738badfd8c0c3bfc5b6f94e50586294"
+    },
+    {
+      "path": "check_91_characters.log",
+      "sha256": "6b66ec9f0c8b7f8e7f834e0309a7e185e63901fa3ad75f7c9cae1f4f165ad6f7"
+    },
+    {
+      "path": "check_good8_91_certified.m",
+      "sha256": "c77bbeb493db8b969d31a3bf0381789db95cc164522961ae02c286b0a25aa672"
+    },
+    {
+      "path": "check_good8_91_certified.log",
+      "sha256": "cc28730529bdbe66f1a0680d2190583e3e65bc4e7d4462a3aa1bac1a42e0c142"
+    },
+    {
+      "path": "finite_fields_2_octic.m",
+      "sha256": "1170863a5335ec087d9d3d469997a0e0685e08c5b3becdfa0ad56983fe680afd"
+    },
+    {
+      "path": "finite_fields_2_octic.log",
+      "sha256": "7d8fea2aa92eb193837f62c9dc9528d28b9e6a71d120025bcaeb4910d6856250"
+    },
+    {
+      "path": "inputs/lmfdb_newforms_cache.json",
+      "sha256": "f1fdb641a16ab0f02c2cc6a07ea6c4bb2643522d4a3b127dba41dc7d3d023fee"
+    },
+    {
+      "path": "inputs/dcm_list_all_min_orders_X1_10k.m",
+      "sha256": "020ba11c347b70aafd59099994d5df55d969ffeaff468ced1a06ae97868b64cc"
+    },
+    {
+      "path": "../shared/mdmagma/Magma/magma.spec",
+      "sha256": "19eb16416c2febd41a09f10c2da05a5fb01db4974d3a6ce8d0b82f1256d85813"
+    }
+  ]
+}

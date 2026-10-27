@@ -1,0 +1,30 @@
+{
+  "degree": 8,
+  "level": 40,
+  "rational_image_index": 4592,
+  "noncuspidal_place_counts": [
+    0,
+    0,
+    0,
+    32,
+    72,
+    80,
+    408,
+    708
+  ],
+  "representative_counts": [
+    4,
+    9,
+    10,
+    51,
+    96
+  ],
+  "quartic_pairs": 128,
+  "known_octic_classes": 4,
+  "unknown_cuspal_classes": 0,
+  "unknown_noncuspidal_classes": 0,
+  "complete": true,
+  "master_sha256": "46ec83f878d7f337aed51224c3902ac17b3e2df325526afcf57d21bde4d8758a",
+  "disjoint_shards": 4,
+  "exact_class_witnesses": 96
+}

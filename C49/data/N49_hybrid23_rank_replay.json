@@ -1,0 +1,47 @@
+{
+  "level": 49,
+  "degree": 8,
+  "elliptic_model_checks": true,
+  "rational_torsion_2primary_order": 2,
+  "quotient_degree": 21,
+  "cusp_regular_diamond_action": true,
+  "required_rational_cusps": 17,
+  "required_cubic_cusps": 6,
+  "required_mixed_divisors": 125307,
+  "rank_certificate_complete": true,
+  "rank_tests": 125307,
+  "exceptions": 0,
+  "rational_indices": [
+    1,
+    2,
+    3,
+    6,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    19,
+    20,
+    21,
+    22,
+    23
+  ],
+  "cubic_indices": [
+    4,
+    5,
+    7,
+    8,
+    17,
+    18
+  ],
+  "inputs": [
+    {
+      "path": "/home/fnajman/Documents/Codex/2026-10-21/on-this-computer-there-are-files/work/degree8/cyclic_sieves/N49_hybrid23_frozen_jets.m",
+      "sha256": "6a9ee485e80962fefa42621561c44f347f58cd8ee78924188c90e215a8cb1692"
+    }
+  ]
+}

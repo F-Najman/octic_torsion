@@ -1,0 +1,11 @@
+{
+  "native_source": "/opt/magma-2.30-1/package/Ring/FldFun/classgroup.m",
+  "native_source_sha256": "46bca9e4083efda1c0287790f6e9e9968d6fa2ddef82126eb8532ec9fdcef6b3",
+  "helper_sha256": "ddf9882bf4fa1e993fd3d27acf4dc13b456b73cf5971e8cce46559f0546b7e86",
+  "forward_map_copied_byte_identically": true,
+  "projective_enumeration_copied_byte_identically": true,
+  "omitted_step": "Only native inverse-generator Reduction(D,A1) flattening",
+  "requires_proven_classgroup": true,
+  "tiny_native_comparison_log": "test_unflattened_21_v2.log",
+  "wrapper_cached_parent_identity_log": "test_wrapper_field_identity.log"
+}

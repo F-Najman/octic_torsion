@@ -1,0 +1,69 @@
+{
+  "source_genus": 61,
+  "quotient_genus": 31,
+  "source_geometric_cusps": 72,
+  "free_delta29_on_cusps": true,
+  "source_f5_cusp_signature": {
+    "1": 18,
+    "3": 6,
+    "2": 9,
+    "6": 3
+  },
+  "quotient_f5_cusp_signature": {
+    "1": 18,
+    "3": 6
+  },
+  "allowed_Hecke_residues_by_complement_degree": {
+    "1": [
+      1,
+      5,
+      11,
+      13,
+      17,
+      19,
+      23,
+      25,
+      29,
+      31,
+      37,
+      41
+    ],
+    "2": [
+      1,
+      5,
+      11,
+      13,
+      17,
+      19,
+      23,
+      25,
+      29,
+      31,
+      37,
+      41
+    ],
+    "3": [
+      1,
+      5,
+      17,
+      25,
+      37,
+      41
+    ],
+    "4": [
+      1,
+      5,
+      17,
+      25,
+      37,
+      41
+    ]
+  },
+  "noncuspidal_freeness_reason": "delta29 fixes the14-point3Q, hence a7-point; a nontrivial elliptic automorphism cannot fix it",
+  "rational_base_cusp_label": [
+    0,
+    1,
+    1,
+    0
+  ]
+}

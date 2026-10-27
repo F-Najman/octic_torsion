@@ -1,0 +1,60 @@
+{
+  "complete": true,
+  "scope": "Compact global quotient and H1/H2-stabilized non-CM D4 completion; outer finite stabilizer filter and CM bound are separate.",
+  "native_seconds": 0.2,
+  "global_field": "Q(i)",
+  "elliptic_model": [
+    0,
+    0,
+    0,
+    -7,
+    -6
+  ],
+  "ranks_over_Q_and_minus1_twist": [
+    0,
+    0
+  ],
+  "torsion_over_Qi": [
+    2,
+    4
+  ],
+  "global_points": 8,
+  "cusps": 4,
+  "noncuspidal_j_values": [
+    1728
+  ],
+  "files": [
+    {
+      "path": "work/degree8/small_cyclic/C4x20/C420_compact_completion_final.m",
+      "sha256": "149dea551dfe20cf939d2613aca615983d1d0e46fc16dd34d3decb33e7658f18"
+    },
+    {
+      "path": "work/degree8/small_cyclic/C4x20/C420_compact_completion_final.log",
+      "sha256": "d8b99685a82cf65aa347ab4e8f950c4ff0f953578c7815729110dd4d0ef8dc7b"
+    },
+    {
+      "path": "work/degree8/small_cyclic/C4x20/C420_compact_completion_final_console.log",
+      "sha256": "760ba25098222f264b149749e5ecf568caa63af35c2c2a0926c3ff0cc55ca8fa"
+    },
+    {
+      "path": "work/degree8/small_cyclic/C4x20/C420_compact_completion.tex",
+      "sha256": "9beb684a97eec9185239d54890c9290b542efd8a407a78a5b8e3c6bd20ce0821"
+    },
+    {
+      "path": "work/degree8/small_cyclic/C4x20/C420_compact_replay.py",
+      "sha256": "e8cb14e53dbbb92d4bff55ef1c36e2d24ab4e20144528066fa02cdcaa3ffcc39"
+    },
+    {
+      "path": "work/degree8/small_cyclic/C4x20/C420_compact_replay.log",
+      "sha256": "eee86e84ca46d5094765dad1df1d4d3e1e2bcfad87502b3418f6eb8fb9ce6c56"
+    },
+    {
+      "path": "work/degree8/small_cyclic/C4x20/C420_compact_README.txt",
+      "sha256": "10719c2dae0d8877254fd35cfa0cd41b6e76c5bbf7322939f3368c9f088355de"
+    },
+    {
+      "path": "work/degree8/small_cyclic/C4x20/C420_compact_certify.py",
+      "sha256": "584bc9e6afed68bbcea6a9d4a9b8de66af8435707523e5752e1ce8808a4c55b1"
+    }
+  ]
+}

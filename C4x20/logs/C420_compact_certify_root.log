@@ -1,0 +1,8 @@
+C420_CARTAN_SYMBOLIC_PASS degree4 both_generators jidentity
+C420_CYCLIC5_SYMBOLIC_PASS actual2P normalization and jidentity
+C420_BIRATIONAL_SYMBOLIC_PASS both_inverses cusp_poles=[4,20,2,10]
+C420_FINITE_GROUP_INDEPENDENT_PASS E(F9)=[4,4]
+C420_GLOBAL_POINT_INDEPENDENT_PASS four_cusps four_j1728 torsion_halving_criterion
+C420_SUBGROUP_CONJUGACY_INDEPENDENT_PASS T=[[1,0],[1,1]]
+C420_COMPACT_REPLAY_DONE complete=true
+C420_COMPACT_STRICT_PASS files=8

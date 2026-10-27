@@ -1,0 +1,27 @@
+{
+  "status": "incomplete bounded360wall prefix; NO exclusion claim",
+  "single_supports": 18,
+  "completed_pair_cases": 82,
+  "surviving_prefix": [
+    [
+      1,
+      4,
+      4,
+      0
+    ],
+    [
+      1,
+      4,
+      12,
+      0
+    ],
+    [
+      2,
+      2,
+      1,
+      82
+    ]
+  ],
+  "completed": false,
+  "arithmetic_sha256": "ad8d424448ebbab54de09085d56b4741b171ad9c70f0dda7b7eaa9ec38b5ae62"
+}

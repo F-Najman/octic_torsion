@@ -1,0 +1,65 @@
+{
+  "status": "complete necessary-condition filter; not an exclusion",
+  "group": [
+    2,
+    36
+  ],
+  "prime": 5,
+  "genus_source": 41,
+  "genus_target": 7,
+  "map": "(P2,Q36) -> (P2,2Q36)",
+  "generic_map_degree": 4,
+  "actual_Jacobian_relations": [
+    [
+      6,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      84,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      252,
+      0
+    ]
+  ],
+  "global_target_cusp_image_order": 10584,
+  "target_image_index": 12,
+  "all_positive_source_points_verified": true,
+  "single_tests": 2712,
+  "single_pass_counts": {
+    "3": 0,
+    "4": 0,
+    "5": 0,
+    "6": 18,
+    "7": 39,
+    "8": 196
+  },
+  "mixed_tests": 2376,
+  "mixed_pass_counts": {
+    "(3, 3)": 20,
+    "(3, 4)": 32,
+    "(3, 5)": 84,
+    "(4, 4)": 72
+  },
+  "all_residue_degree_weights_verified": true,
+  "remaining_test_records": 461,
+  "verification_boundary": "Replay all source coverage and quotient membership with actual relations.\n\nThe finite Jacobian divisor-to-class map remains the exact Magma computation.\nIts presentation, subgroup arithmetic, residue-degree multipliers, support\ncoverage, pair additions, and final decision assembly are independently checked.\n",
+  "sha256": {
+    "filter_2_36_D8_quotient_arithmetic.txt": "39123345581f2ca6f949de790f6fafa0fe941e65adb41c4cf85d4ee46366745d",
+    "M2N36_D8_direct_full3_arithmetic.txt": "22df7eedc98d9850a29fc4f3683d2020eb9108b1b983514c25b3e4d93dc2f2ce",
+    "M2N36_D8_direct_full4_arithmetic.txt": "bd43c9793dd28c37e8b74ccc822eeb4df07de6ab3d2dcfe50bb3904380483581",
+    "M2N36_D8_direct_full5_arithmetic.txt": "12f6135071cfa8f4ac2064c5e1b6d699f27aee823467373464b062d54fbcb82a",
+    "M2N36_D8_direct_full6_arithmetic.txt": "6c3c710b8e860e79a4d98a0dbf8a5d77ba95ff3c00fce35fc3d04f665b6323b3",
+    "M2N36_D8_direct_full7_arithmetic.txt": "1616cc3327cc7a3d615dd1502e98c31aafa67c01f1c5f621efff15ff5ba05de0",
+    "M2N36_D8_direct_full8_arithmetic.txt": "15a65034268f22d6d012d604672d289ce01a53fe5f6d7017d15e7e4a4c4a8496",
+    "M2N36_D8_direct_small_all_points.txt": "3d78a962041b2a59912261a68fe075520731775281680eacaaec176611b0b1e4"
+  },
+  "seconds": 3.651
+}

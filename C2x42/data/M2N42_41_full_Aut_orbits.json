@@ -1,0 +1,2100 @@
+{
+  "source_Aut_order": 36,
+  "input_divisors": 41,
+  "orbit_count": 30,
+  "group_sizes": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    1,
+    1,
+    2,
+    1,
+    1,
+    1,
+    2,
+    1,
+    1,
+    2,
+    2,
+    2,
+    2,
+    2,
+    1,
+    2,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+  ],
+  "orbits": [
+    {
+      "representative_input_index": 1,
+      "representative_descriptor": [
+        1,
+        4,
+        1
+      ],
+      "representative_supports": [
+        [
+          4,
+          [
+            0,
+            0,
+            0,
+            1,
+            0,
+            2,
+            3,
+            1
+          ]
+        ]
+      ],
+      "representative_key": [
+        [
+          4,
+          125,
+          210
+        ]
+      ],
+      "members": [
+        {
+          "input_index": 1,
+          "descriptor": [
+            1,
+            4,
+            1
+          ],
+          "automorphism_parameter_to_representative": [
+            0,
+            1,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "representative_input_index": 3,
+      "representative_descriptor": [
+        1,
+        4,
+        5
+      ],
+      "representative_supports": [
+        [
+          4,
+          [
+            0,
+            0,
+            2,
+            1,
+            2,
+            0,
+            1,
+            2
+          ]
+        ]
+      ],
+      "representative_key": [
+        [
+          4,
+          175,
+          277
+        ]
+      ],
+      "members": [
+        {
+          "input_index": 3,
+          "descriptor": [
+            1,
+            4,
+            5
+          ],
+          "automorphism_parameter_to_representative": [
+            0,
+            1,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "representative_input_index": 22,
+      "representative_descriptor": [
+        1,
+        7,
+        269
+      ],
+      "representative_supports": [
+        [
+          7,
+          [
+            0,
+            0,
+            0,
+            2,
+            1,
+            2,
+            0,
+            1,
+            4,
+            1,
+            1,
+            0,
+            0,
+            4
+          ]
+        ]
+      ],
+      "representative_key": [
+        [
+          7,
+          7125,
+          62671
+        ]
+      ],
+      "members": [
+        {
+          "input_index": 22,
+          "descriptor": [
+            1,
+            7,
+            269
+          ],
+          "automorphism_parameter_to_representative": [
+            0,
+            1,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "representative_input_index": 43,
+      "representative_descriptor": [
+        2,
+        4,
+        1,
+        4,
+        1
+      ],
+      "representative_supports": [
+        [
+          4,
+          [
+            0,
+            0,
+            0,
+            1,
+            0,
+            2,
+            3,
+            1
+          ]
+        ],
+        [
+          4,
+          [
+            0,
+            0,
+            0,
+            1,
+            0,
+            2,
+            3,
+            1
+          ]
+        ]
+      ],
+      "representative_key": [
+        [
+          4,
+          125,
+          210
+        ],
+        [
+          4,
+          125,
+          210
+        ]
+      ],
+      "members": [
+        {
+          "input_index": 43,
+          "descriptor": [
+            2,
+            4,
+            1,
+            4,
+            1
+          ],
+          "automorphism_parameter_to_representative": [
+            0,
+            1,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "representative_input_index": 56,
+      "representative_descriptor": [
+        2,
+        4,
+        1,
+        4,
+        27
+      ],
+      "representative_supports": [
+        [
+          4,
+          [
+            0,
+            0,
+            0,
+            1,
+            0,
+            2,
+            3,
+            1
+          ]
+        ],
+        [
+          4,
+          [
+            0,
+            1,
+            2,
+            3,
+            3,
+            1,
+            4,
+            0
+          ]
+        ]
+      ],
+      "representative_key": [
+        [
+          4,
+          125,
+          210
+        ],
+        [
+          4,
+          430,
+          108
+        ]
+      ],
+      "members": [
+        {
+          "input_index": 56,
+          "descriptor": [
+            2,
+            4,
+            1,
+            4,
+            27
+          ],
+          "automorphism_parameter_to_representative": [
+            0,
+            1,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "representative_input_index": 57,
+      "representative_descriptor": [
+        2,
+        4,
+        1,
+        4,
+        28
+      ],
+      "representative_supports": [
+        [
+          4,
+          [
+            0,
+            0,
+            0,
+            1,
+            0,
+            2,
+            3,
+            1
+          ]
+        ],
+        [
+          4,
+          [
+            0,
+            1,
+            2,
+            3,
+            3,
+            2,
+            4,
+            3
+          ]
+        ]
+      ],
+      "representative_key": [
+        [
+          4,
+          125,
+          210
+        ],
+        [
+          4,
+          430,
+          488
+        ]
+      ],
+      "members": [
+        {
+          "input_index": 57,
+          "descriptor": [
+            2,
+            4,
+            1,
+            4,
+            28
+          ],
+          "automorphism_parameter_to_representative": [
+            0,
+            1,
+            10
+          ]
+        },
+        {
+          "input_index": 89,
+          "descriptor": [
+            2,
+            4,
+            1,
+            4,
+            113
+          ],
+          "automorphism_parameter_to_representative": [
+            0,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "representative_input_index": 62,
+      "representative_descriptor": [
+        2,
+        4,
+        1,
+        4,
+        39
+      ],
+      "representative_supports": [
+        [
+          4,
+          [
+            0,
+            0,
+            0,
+            1,
+            0,
+            2,
+            3,
+            1
+          ]
+        ],
+        [
+          4,
+          [
+            0,
+            2,
+            1,
+            2,
+            0,
+            2,
+            0,
+            2
+          ]
+        ]
+      ],
+      "representative_key": [
+        [
+          4,
+          125,
+          210
+        ],
+        [
+          4,
+          285,
+          260
+        ]
+      ],
+      "members": [
+        {
+          "input_index": 62,
+          "descriptor": [
+            2,
+            4,
+            1,
+            4,
+            39
+          ],
+          "automorphism_parameter_to_representative": [
+            0,
+            1,
+            10
+          ]
+        },
+        {
+          "input_index": 88,
+          "descriptor": [
+            2,
+            4,
+            1,
+            4,
+            105
+          ],
+          "automorphism_parameter_to_representative": [
+            0,
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "representative_input_index": 97,
+      "representative_descriptor": [
+        2,
+        4,
+        2,
+        4,
+        13
+      ],
+      "representative_supports": [
+        [
+          4,
+          [
+            0,
+            0,
+            1,
+            1,
+            1,
+            3,
+            1,
+            1
+          ]
+        ],
+        [
+          4,
+          [
+            0,
+            0,
+            2,
+            4,
+            4,
+            4,
+            1,
+            2
+          ]
+        ]
+      ],
+      "representative_key": [
+        [
+          4,
+          150,
+          166
+        ],
+        [
+          4,
+          550,
+          299
+        ]
+      ],
+      "members": [
+        {
+          "input_index": 97,
+          "descriptor": [
+            2,
+            4,
+            2,
+            4,
+            13
+          ],
+          "automorphism_parameter_to_representative": [
+            0,
+            1,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "representative_input_index": 110,
+      "representative_descriptor": [
+        2,
+        4,
+        3,
+        4,
+        52
+      ],
+      "representative_supports": [
+        [
+          4,
+          [
+            0,
+            0,
+            0,
+            4,
+            1,
+            1,
+            2,
+            0
+          ]
+        ],
+        [
+          4,
+          [
+            0,
+            3,
+            1,
+            3,
+            0,
+            2,
+            1,
+            1
+          ]
+        ]
+      ],
+      "representative_key": [
+        [
+          4,
+          415,
+          160
+        ],
+        [
+          4,
+          500,
+          56
+        ]
+      ],
+      "members": [
+        {
+          "input_index": 110,
+          "descriptor": [
+            2,
+            4,
+            3,
+            4,
+            52
+          ],
+          "automorphism_parameter_to_representative": [
+            0,
+            1,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "representative_input_index": 111,
+      "representative_descriptor": [
+        2,
+        4,
+        3,
+        4,
+        55
+      ],
+      "representative_supports": [
+        [
+          4,
+          [
+            0,
+            0,
+            0,
+            4,
+            1,
+            1,
+            2,
+            0
+          ]
+        ],
+        [
+          4,
+          [
+            0,
+            3,
+            2,
+            1,
+            0,
+            1,
+            0,
+            2
+          ]
+        ]
+      ],
+      "representative_key": [
+        [
+          4,
+          190,
+          255
+        ],
+        [
+          4,
+          500,
+          56
+        ]
+      ],
+      "members": [
+        {
+          "input_index": 111,
+          "descriptor": [
+            2,
+            4,
+            3,
+            4,
+            55
+          ],
+          "automorphism_parameter_to_representative": [
+            0,
+            1,
+            10
+          ]
+        },
+        {
+          "input_index": 113,
+          "descriptor": [
+            2,
+            4,
+            3,
+            4,
+            65
+          ],
+          "automorphism_parameter_to_representative": [
+            1,
+            2,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "representative_input_index": 114,
+      "representative_descriptor": [
+        2,
+        4,
+        3,
+        4,
+        71
+      ],
+      "representative_supports": [
+        [
+          4,
+          [
+            0,
+            0,
+            0,
+            4,
+            1,
+            1,
+            2,
+            0
+          ]
+        ],
+        [
+          4,
+          [
+            0,
+            4,
+            1,
+            2,
+            0,
+            0,
+            2,
+            2
+          ]
+        ]
+      ],
+      "representative_key": [
+        [
+          4,
+          295,
+          300
+        ],
+        [
+          4,
+          500,
+          56
+        ]
+      ],
+      "members": [
+        {
+          "input_index": 114,
+          "descriptor": [
+            2,
+            4,
+            3,
+            4,
+            71
+          ],
+          "automorphism_parameter_to_representative": [
+            0,
+            1,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "representative_input_index": 117,
+      "representative_descriptor": [
+        2,
+        4,
+        3,
+        4,
+        79
+      ],
+      "representative_supports": [
+        [
+          4,
+          [
+            0,
+            0,
+            0,
+            4,
+            1,
+            1,
+            2,
+            0
+          ]
+        ],
+        [
+          4,
+          [
+            0,
+            4,
+            4,
+            1,
+            2,
+            2,
+            3,
+            4
+          ]
+        ]
+      ],
+      "representative_key": [
+        [
+          4,
+          245,
+          587
+        ],
+        [
+          4,
+          500,
+          56
+        ]
+      ],
+      "members": [
+        {
+          "input_index": 117,
+          "descriptor": [
+            2,
+            4,
+            3,
+            4,
+            79
+          ],
+          "automorphism_parameter_to_representative": [
+            0,
+            1,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "representative_input_index": 118,
+      "representative_descriptor": [
+        2,
+        4,
+        3,
+        4,
+        85
+      ],
+      "representative_supports": [
+        [
+          4,
+          [
+            0,
+            0,
+            0,
+            4,
+            1,
+            1,
+            2,
+            0
+          ]
+        ],
+        [
+          4,
+          [
+            1,
+            0,
+            1,
+            1,
+            2,
+            1,
+            1,
+            2
+          ]
+        ]
+      ],
+      "representative_key": [
+        [
+          4,
+          151,
+          282
+        ],
+        [
+          4,
+          500,
+          56
+        ]
+      ],
+      "members": [
+        {
+          "input_index": 118,
+          "descriptor": [
+            2,
+            4,
+            3,
+            4,
+            85
+          ],
+          "automorphism_parameter_to_representative": [
+            0,
+            1,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "representative_input_index": 127,
+      "representative_descriptor": [
+        2,
+        4,
+        4,
+        4,
+        15
+      ],
+      "representative_supports": [
+        [
+          4,
+          [
+            0,
+            0,
+            1,
+            4,
+            4,
+            1,
+            3,
+            2
+          ]
+        ],
+        [
+          4,
+          [
+            0,
+            0,
+            3,
+            2,
+            3,
+            1,
+            3,
+            4
+          ]
+        ]
+      ],
+      "representative_key": [
+        [
+          4,
+          325,
+          583
+        ],
+        [
+          4,
+          525,
+          334
+        ]
+      ],
+      "members": [
+        {
+          "input_index": 127,
+          "descriptor": [
+            2,
+            4,
+            4,
+            4,
+            15
+          ],
+          "automorphism_parameter_to_representative": [
+            0,
+            1,
+            10
+          ]
+        },
+        {
+          "input_index": 159,
+          "descriptor": [
+            2,
+            4,
+            4,
+            4,
+            97
+          ],
+          "automorphism_parameter_to_representative": [
+            0,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "representative_input_index": 150,
+      "representative_descriptor": [
+        2,
+        4,
+        4,
+        4,
+        68
+      ],
+      "representative_supports": [
+        [
+          4,
+          [
+            0,
+            0,
+            1,
+            4,
+            4,
+            1,
+            3,
+            2
+          ]
+        ],
+        [
+          4,
+          [
+            0,
+            4,
+            0,
+            4,
+            3,
+            4,
+            4,
+            1
+          ]
+        ]
+      ],
+      "representative_key": [
+        [
+          4,
+          520,
+          248
+        ],
+        [
+          4,
+          525,
+          334
+        ]
+      ],
+      "members": [
+        {
+          "input_index": 150,
+          "descriptor": [
+            2,
+            4,
+            4,
+            4,
+            68
+          ],
+          "automorphism_parameter_to_representative": [
+            0,
+            1,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "representative_input_index": 178,
+      "representative_descriptor": [
+        2,
+        4,
+        5,
+        4,
+        9
+      ],
+      "representative_supports": [
+        [
+          4,
+          [
+            0,
+            0,
+            2,
+            1,
+            2,
+            0,
+            1,
+            2
+          ]
+        ],
+        [
+          4,
+          [
+            0,
+            0,
+            2,
+            1,
+            2,
+            0,
+            1,
+            2
+          ]
+        ]
+      ],
+      "representative_key": [
+        [
+          4,
+          175,
+          277
+        ],
+        [
+          4,
+          175,
+          277
+        ]
+      ],
+      "members": [
+        {
+          "input_index": 178,
+          "descriptor": [
+            2,
+            4,
+            5,
+            4,
+            9
+          ],
+          "automorphism_parameter_to_representative": [
+            0,
+            1,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "representative_input_index": 180,
+      "representative_descriptor": [
+        2,
+        4,
+        5,
+        4,
+        14
+      ],
+      "representative_supports": [
+        [
+          4,
+          [
+            0,
+            0,
+            2,
+            1,
+            2,
+            0,
+            1,
+            2
+          ]
+        ],
+        [
+          4,
+          [
+            0,
+            0,
+            3,
+            2,
+            1,
+            2,
+            4,
+            3
+          ]
+        ]
+      ],
+      "representative_key": [
+        [
+          4,
+          175,
+          277
+        ],
+        [
+          4,
+          325,
+          486
+        ]
+      ],
+      "members": [
+        {
+          "input_index": 180,
+          "descriptor": [
+            2,
+            4,
+            5,
+            4,
+            14
+          ],
+          "automorphism_parameter_to_representative": [
+            0,
+            1,
+            4
+          ]
+        },
+        {
+          "input_index": 195,
+          "descriptor": [
+            2,
+            4,
+            5,
+            4,
+            40
+          ],
+          "automorphism_parameter_to_representative": [
+            2,
+            0,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "representative_input_index": 183,
+      "representative_descriptor": [
+        2,
+        4,
+        5,
+        4,
+        18
+      ],
+      "representative_supports": [
+        [
+          4,
+          [
+            0,
+            0,
+            2,
+            1,
+            2,
+            0,
+            1,
+            2
+          ]
+        ],
+        [
+          4,
+          [
+            0,
+            0,
+            4,
+            0,
+            0,
+            1,
+            1,
+            0
+          ]
+        ]
+      ],
+      "representative_key": [
+        [
+          4,
+          100,
+          30
+        ],
+        [
+          4,
+          175,
+          277
+        ]
+      ],
+      "members": [
+        {
+          "input_index": 183,
+          "descriptor": [
+            2,
+            4,
+            5,
+            4,
+            18
+          ],
+          "automorphism_parameter_to_representative": [
+            0,
+            1,
+            4
+          ]
+        },
+        {
+          "input_index": 184,
+          "descriptor": [
+            2,
+            4,
+            5,
+            4,
+            19
+          ],
+          "automorphism_parameter_to_representative": [
+            2,
+            0,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "representative_input_index": 185,
+      "representative_descriptor": [
+        2,
+        4,
+        5,
+        4,
+        21
+      ],
+      "representative_supports": [
+        [
+          4,
+          [
+            0,
+            0,
+            2,
+            1,
+            2,
+            0,
+            1,
+            2
+          ]
+        ],
+        [
+          4,
+          [
+            0,
+            1,
+            0,
+            4,
+            4,
+            1,
+            3,
+            2
+          ]
+        ]
+      ],
+      "representative_key": [
+        [
+          4,
+          175,
+          277
+        ],
+        [
+          4,
+          505,
+          334
+        ]
+      ],
+      "members": [
+        {
+          "input_index": 185,
+          "descriptor": [
+            2,
+            4,
+            5,
+            4,
+            21
+          ],
+          "automorphism_parameter_to_representative": [
+            0,
+            1,
+            4
+          ]
+        },
+        {
+          "input_index": 186,
+          "descriptor": [
+            2,
+            4,
+            5,
+            4,
+            22
+          ],
+          "automorphism_parameter_to_representative": [
+            0,
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "representative_input_index": 187,
+      "representative_descriptor": [
+        2,
+        4,
+        5,
+        4,
+        25
+      ],
+      "representative_supports": [
+        [
+          4,
+          [
+            0,
+            0,
+            2,
+            1,
+            2,
+            0,
+            1,
+            2
+          ]
+        ],
+        [
+          4,
+          [
+            0,
+            1,
+            2,
+            0,
+            1,
+            2,
+            3,
+            2
+          ]
+        ]
+      ],
+      "representative_key": [
+        [
+          4,
+          55,
+          336
+        ],
+        [
+          4,
+          175,
+          277
+        ]
+      ],
+      "members": [
+        {
+          "input_index": 187,
+          "descriptor": [
+            2,
+            4,
+            5,
+            4,
+            25
+          ],
+          "automorphism_parameter_to_representative": [
+            0,
+            1,
+            4
+          ]
+        },
+        {
+          "input_index": 211,
+          "descriptor": [
+            2,
+            4,
+            5,
+            4,
+            95
+          ],
+          "automorphism_parameter_to_representative": [
+            2,
+            0,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "representative_input_index": 191,
+      "representative_descriptor": [
+        2,
+        4,
+        5,
+        4,
+        34
+      ],
+      "representative_supports": [
+        [
+          4,
+          [
+            0,
+            0,
+            2,
+            1,
+            2,
+            0,
+            1,
+            2
+          ]
+        ],
+        [
+          4,
+          [
+            0,
+            1,
+            4,
+            3,
+            1,
+            0,
+            2,
+            3
+          ]
+        ]
+      ],
+      "representative_key": [
+        [
+          4,
+          175,
+          277
+        ],
+        [
+          4,
+          480,
+          426
+        ]
+      ],
+      "members": [
+        {
+          "input_index": 191,
+          "descriptor": [
+            2,
+            4,
+            5,
+            4,
+            34
+          ],
+          "automorphism_parameter_to_representative": [
+            0,
+            1,
+            4
+          ]
+        },
+        {
+          "input_index": 203,
+          "descriptor": [
+            2,
+            4,
+            5,
+            4,
+            64
+          ],
+          "automorphism_parameter_to_representative": [
+            0,
+            2,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "representative_input_index": 193,
+      "representative_descriptor": [
+        2,
+        4,
+        5,
+        4,
+        38
+      ],
+      "representative_supports": [
+        [
+          4,
+          [
+            0,
+            0,
+            2,
+            1,
+            2,
+            0,
+            1,
+            2
+          ]
+        ],
+        [
+          4,
+          [
+            0,
+            2,
+            0,
+            3,
+            1,
+            2,
+            3,
+            2
+          ]
+        ]
+      ],
+      "representative_key": [
+        [
+          4,
+          175,
+          277
+        ],
+        [
+          4,
+          385,
+          336
+        ]
+      ],
+      "members": [
+        {
+          "input_index": 193,
+          "descriptor": [
+            2,
+            4,
+            5,
+            4,
+            38
+          ],
+          "automorphism_parameter_to_representative": [
+            0,
+            1,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "representative_input_index": 200,
+      "representative_descriptor": [
+        2,
+        4,
+        5,
+        4,
+        58
+      ],
+      "representative_supports": [
+        [
+          4,
+          [
+            0,
+            0,
+            2,
+            1,
+            2,
+            0,
+            1,
+            2
+          ]
+        ],
+        [
+          4,
+          [
+            0,
+            3,
+            2,
+            4,
+            2,
+            4,
+            2,
+            4
+          ]
+        ]
+      ],
+      "representative_key": [
+        [
+          4,
+          175,
+          277
+        ],
+        [
+          4,
+          565,
+          572
+        ]
+      ],
+      "members": [
+        {
+          "input_index": 200,
+          "descriptor": [
+            2,
+            4,
+            5,
+            4,
+            58
+          ],
+          "automorphism_parameter_to_representative": [
+            0,
+            1,
+            4
+          ]
+        },
+        {
+          "input_index": 208,
+          "descriptor": [
+            2,
+            4,
+            5,
+            4,
+            80
+          ],
+          "automorphism_parameter_to_representative": [
+            1,
+            0,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "representative_input_index": 201,
+      "representative_descriptor": [
+        2,
+        4,
+        5,
+        4,
+        60
+      ],
+      "representative_supports": [
+        [
+          4,
+          [
+            0,
+            0,
+            2,
+            1,
+            2,
+            0,
+            1,
+            2
+          ]
+        ],
+        [
+          4,
+          [
+            0,
+            3,
+            3,
+            0,
+            1,
+            2,
+            4,
+            3
+          ]
+        ]
+      ],
+      "representative_key": [
+        [
+          4,
+          90,
+          486
+        ],
+        [
+          4,
+          175,
+          277
+        ]
+      ],
+      "members": [
+        {
+          "input_index": 201,
+          "descriptor": [
+            2,
+            4,
+            5,
+            4,
+            60
+          ],
+          "automorphism_parameter_to_representative": [
+            0,
+            1,
+            4
+          ]
+        },
+        {
+          "input_index": 210,
+          "descriptor": [
+            2,
+            4,
+            5,
+            4,
+            92
+          ],
+          "automorphism_parameter_to_representative": [
+            2,
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "representative_input_index": 225,
+      "representative_descriptor": [
+        2,
+        4,
+        5,
+        4,
+        119
+      ],
+      "representative_supports": [
+        [
+          4,
+          [
+            0,
+            0,
+            2,
+            1,
+            2,
+            0,
+            1,
+            2
+          ]
+        ],
+        [
+          4,
+          [
+            3,
+            2,
+            2,
+            2,
+            0,
+            4,
+            4,
+            3
+          ]
+        ]
+      ],
+      "representative_key": [
+        [
+          4,
+          175,
+          277
+        ],
+        [
+          4,
+          313,
+          495
+        ]
+      ],
+      "members": [
+        {
+          "input_index": 225,
+          "descriptor": [
+            2,
+            4,
+            5,
+            4,
+            119
+          ],
+          "automorphism_parameter_to_representative": [
+            0,
+            1,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "representative_input_index": 228,
+      "representative_descriptor": [
+        2,
+        4,
+        5,
+        4,
+        122
+      ],
+      "representative_supports": [
+        [
+          4,
+          [
+            0,
+            0,
+            2,
+            1,
+            2,
+            0,
+            1,
+            2
+          ]
+        ],
+        [
+          4,
+          [
+            4,
+            0,
+            2,
+            2,
+            2,
+            0,
+            1,
+            2
+          ]
+        ]
+      ],
+      "representative_key": [
+        [
+          4,
+          175,
+          277
+        ],
+        [
+          4,
+          304,
+          277
+        ]
+      ],
+      "members": [
+        {
+          "input_index": 228,
+          "descriptor": [
+            2,
+            4,
+            5,
+            4,
+            122
+          ],
+          "automorphism_parameter_to_representative": [
+            0,
+            1,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "representative_input_index": 233,
+      "representative_descriptor": [
+        1,
+        8,
+        314
+      ],
+      "representative_supports": [
+        [
+          8,
+          [
+            0,
+            0,
+            0,
+            1,
+            0,
+            4,
+            0,
+            1,
+            4,
+            1,
+            4,
+            1,
+            4,
+            0,
+            4,
+            0
+          ]
+        ]
+      ],
+      "representative_key": [
+        [
+          8,
+          90750,
+          65234
+        ]
+      ],
+      "members": [
+        {
+          "input_index": 233,
+          "descriptor": [
+            1,
+            8,
+            314
+          ],
+          "automorphism_parameter_to_representative": [
+            0,
+            1,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "representative_input_index": 243,
+      "representative_descriptor": [
+        1,
+        8,
+        1098
+      ],
+      "representative_supports": [
+        [
+          8,
+          [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            3,
+            2,
+            0,
+            1,
+            2,
+            2,
+            1,
+            2,
+            4,
+            3
+          ]
+        ]
+      ],
+      "representative_key": [
+        [
+          8,
+          203250,
+          304055
+        ]
+      ],
+      "members": [
+        {
+          "input_index": 243,
+          "descriptor": [
+            1,
+            8,
+            1098
+          ],
+          "automorphism_parameter_to_representative": [
+            0,
+            1,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "representative_input_index": 277,
+      "representative_descriptor": [
+        1,
+        8,
+        652
+      ],
+      "representative_supports": [
+        [
+          8,
+          [
+            0,
+            0,
+            0,
+            0,
+            2,
+            3,
+            0,
+            4,
+            0,
+            3,
+            1,
+            0,
+            4,
+            3,
+            3,
+            4
+          ]
+        ]
+      ],
+      "representative_key": [
+        [
+          8,
+          323125,
+          371290
+        ]
+      ],
+      "members": [
+        {
+          "input_index": 277,
+          "descriptor": [
+            1,
+            8,
+            652
+          ],
+          "automorphism_parameter_to_representative": [
+            0,
+            1,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "representative_input_index": 284,
+      "representative_descriptor": [
+        1,
+        8,
+        1216
+      ],
+      "representative_supports": [
+        [
+          8,
+          [
+            0,
+            0,
+            0,
+            1,
+            2,
+            2,
+            2,
+            0,
+            4,
+            3,
+            1,
+            1,
+            0,
+            1,
+            0,
+            4
+          ]
+        ]
+      ],
+      "representative_key": [
+        [
+          8,
+          38875,
+          315794
+        ]
+      ],
+      "members": [
+        {
+          "input_index": 284,
+          "descriptor": [
+            1,
+            8,
+            1216
+          ],
+          "automorphism_parameter_to_representative": [
+            0,
+            1,
+            10
+          ]
+        }
+      ]
+    }
+  ],
+  "verification_boundary": "Exact simultaneous source-Aut36 orbits, with repeated supports retained.\n\nNo Hecke propagation through the quotient is assumed. A global source\ntrace divisor can be replaced by its source automorphism image before\napplying the necessary quotient condition to the selected representative.\n",
+  "seconds": 1.111
+}

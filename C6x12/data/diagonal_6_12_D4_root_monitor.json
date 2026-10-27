@@ -1,0 +1,9 @@
+{
+  "child": 1391398,
+  "original_monitor": 1391397,
+  "replacement_limit_seconds": 2400,
+  "reason": "The initial diagnostic bound was too short for7116 proved class maps; preserve state under a longer bounded monitor.",
+  "finished": true,
+  "child_wait_status": 0,
+  "elapsed_replacement_monitor_seconds": 1045.13
+}

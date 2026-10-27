@@ -1,0 +1,41 @@
+Independent final structural audit of Phi(8),26October2026.
+
+The classification consists of the52published infinite-family groups and
+C33,C34,C35,C39,C40,C42,C3xC15,C5xC10. These60distinct types form a
+subgroup-closed set. Their37cyclic types have maximum exponent42.
+The accepted ledger contains8additional realizations and80distinct
+forbidden-subgroup exclusions, whose evidence hashes are all verified.
+
+For normalized invariant factors a|b and m|n, an embedding
+C_a x C_b -> C_m x C_n exists exactly when a|m and b|n. Coordinate
+embeddings give sufficiency. For necessity, exponents give b|n. If
+v_p(a)>v_p(m)=u, the subgroup's p^(u+1)-torsion would have order at
+least p^(2u+2), larger than the target's p^(u+1)-torsion order p^(2u+1).
+The independent program checks the resulting criterion prime by prime.
+
+The prime bound gives prime divisors at most23. The Weil pairing forces
+phi(m)|8, so p|m implies p−1|8 and hence p=2,3,5. The possible exponents
+are at most4,1,1. Direct phi counting in the whole proved range m<=240
+gives exactly1,2,3,4,5,6,8,10,12,15,16,20,24,30.
+
+Any eligible finite group outside the known set contains a subgroup of
+least order outside that set. Every proper subgroup of this minimal type
+is known. A cyclic minimal type C_n has C_(n/p) known for each prime p|n,
+including n/p=1 when n is prime. Hence n<=42*23=966. A noncyclic minimal
+type C_m x C_n has C_n as a proper subgroup, so n is a known cyclic
+exponent. These bounds cover all minimal types without any assumed
+uniform upper bound on torsion order.
+
+The independent enumeration uses maximal subgroup types rather than
+all pairs of divisors. They are obtained by index-prime coordinate
+deletions followed by gcd/lcm normalization. Downward closure makes this
+equivalent to testing all proper subgroups. It finds80minimal types,
+55cyclic and25noncyclic, and matches candidates.json exactly. All80are
+forbidden by the accepted proof ledger. Thus no octic torsion group can
+lie outside the60known groups, and the proved lower bound gives equality.
+
+The JSON records the complete classification, full frontier, evidence
+counts and exact input hashes. Published prime/family results and the
+correctness of the separately reviewed mathematical proof packets are
+explicit inputs. Earlier checkpoint audits, frozen proofs and the ledger
+were not modified by this final audit.

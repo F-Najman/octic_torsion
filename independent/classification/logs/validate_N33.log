@@ -1,0 +1,4 @@
+Loading "helpers8.m"
+PROGRESS [validate N=33 p=2] #J(F_p): class group 635604750, modular symbols 635604750, equal true (cpu 66.020 s)
+PROGRESS [validate N=33 p=2] VALIDATE: 50 divisors (all 18 cusps + random noncuspidal places up to degree 8): representative principal 50/50, wrong class non-principal 50/50 (cpu 287.880 s)
+VALIDATE_DONE N=33 p=2

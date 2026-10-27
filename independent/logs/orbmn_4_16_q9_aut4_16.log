@@ -1,0 +1,4 @@
+group aut4_16 for X1(4,16): 128 transformations (before identification of -1)
+ORBMN X1(4,16) over F_9, degree 3, group aut4_16: 320 closed points, 5 orbits, sizes {* 64^^5 *}
+ORBMN X1(4,16) over F_9, degree 4, group aut4_16: 1808 closed points, 33 orbits, sizes {* 16^^5, 32^^2, 64^^26 *}
+ORBITSMN_DONE

@@ -1,0 +1,8 @@
+Magma V2.30-1     Thu Oct 22 2026 01:29:37 on mordell  [Seed = 4115054944]
+Type <Ctrl>-D to quit.
+
+Loading file "work/degree8/large_levels/rank_audit/check_characters.m"
+OCTIC63_POSITIVE_CHARACTER indices=[ 47, 59 ] common_kernel={ 1, 5, 25, 38, 58, 62 }
+OCTIC_REMAINING_RANK_CHARACTER_DONE
+
+Total time: 0.200 seconds, Total memory usage: 32.09MB

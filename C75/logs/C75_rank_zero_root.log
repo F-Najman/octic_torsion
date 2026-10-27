@@ -1,0 +1,7 @@
+OCTIC75_WINDING order=1 conductor=1 dimension=5 winding=5 coefficient_degree=1 time=0.030
+OCTIC75_WINDING order=20 conductor=75 dimension=8 winding=8 coefficient_degree=8 time=0.050
+OCTIC75_WINDING order=10 conductor=25 dimension=8 winding=8 coefficient_degree=4 time=0.060
+OCTIC75_WINDING order=5 conductor=25 dimension=8 winding=8 coefficient_degree=4 time=0.080
+OCTIC75_WINDING order=4 conductor=15 dimension=4 winding=4 coefficient_degree=2 time=0.090
+OCTIC75_WINDING order=2 conductor=5 dimension=4 winding=4 coefficient_degree=1 time=0.100
+C75_RANK_ZERO_WINDING_COMPLETE 145 0.100

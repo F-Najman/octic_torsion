@@ -1,0 +1,16 @@
+FULL10_INDEPENDENT_MODULI_COUNT 11 1 noncuspidal_points 0 curves 0 groups {@ @}
+0.000
+FULL10_INDEPENDENT_MODULI_COUNT 11 2 noncuspidal_points 300 curves 2 groups {@
+    <[ 10, 10 ], 6>,
+    <[ 10, 10 ], 4>
+@}
+0.020
+FULL10_INDEPENDENT_MODULI_COUNT 31 1 noncuspidal_points 0 curves 0 groups {@ @}
+0.020
+FULL10_INDEPENDENT_MODULI_COUNT 31 2 noncuspidal_points 1620 curves 5 groups {@
+    <[ 10, 100 ], 2>,
+    <[ 30, 30 ], 2>,
+    <[ 30, 30 ], 4>
+@}
+0.860
+FULL10_INDEPENDENT_MODULI_COUNTS_DONE

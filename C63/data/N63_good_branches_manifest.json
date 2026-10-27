@@ -1,0 +1,86 @@
+{
+  "degree": 8,
+  "level": 63,
+  "result": "all branches with noncuspidal dyadic reduction excluded",
+  "complete": true,
+  "remaining_input": "entirely cuspidal reduction, pending separate degree8Cartier certificate",
+  "quotient_genus": 49,
+  "quotient_rank_overQ": 0,
+  "Hecke_prime": 5,
+  "tests": {
+    "7": {
+      "geometric_pairs": 189,
+      "closed_quotient_places": 27,
+      "diamond_orbits": 3,
+      "principal": [
+        false,
+        false,
+        false
+      ]
+    },
+    "8": {
+      "geometric_pairs": 216,
+      "closed_quotient_places": 27,
+      "diamond_orbits": 3,
+      "principal": [
+        false,
+        false,
+        false
+      ]
+    }
+  },
+  "files": [
+    {
+      "path": "certify63_good_branches.py",
+      "sha256": "95d2eef4eb4195fc1cbe86d8cafd1b2db9004da516a049cffe597427b6dfbed3"
+    },
+    {
+      "path": "N63_good_branches.tex",
+      "sha256": "2ad51a0f47619174617759c4f58db6d700841b856ea4ed024d40e8b7addca457"
+    },
+    {
+      "path": "sieve63_quotient_T5.m",
+      "sha256": "e061b8cdfba8c1a335dab4a3a103bdf1ebc41d978c971e94c9c763805c6b97a2"
+    },
+    {
+      "path": "sieve63_quotient_T5_e7.log",
+      "sha256": "594c7c4a915f3125ecae4b356d28629736bc30724eb35081d09d09e1a9eb4494"
+    },
+    {
+      "path": "sieve63_quotient_T5_e8.log",
+      "sha256": "c9ea9c82cd30add9c5a75b91ed4d282754456b0aa239a50449dd1c4350d663b0"
+    },
+    {
+      "path": "winding63_quotient_rank.m",
+      "sha256": "b5c99c9e61cbac940dc10a6b64ea78f03abe257f715897f299208847a3829700"
+    },
+    {
+      "path": "winding63_quotient_rank.log",
+      "sha256": "dfae24df85fec83f423b7e7f0e38d490d18565bf96911a2e2120ce4c49fe475a"
+    },
+    {
+      "path": "cusp63_quotient.py",
+      "sha256": "6b9c80122cbec0703a22947c5c85d8c82cc54f70ebecc29eb7094e724cebda53"
+    },
+    {
+      "path": "cusp63_quotient.json",
+      "sha256": "ca4507a965b0f8eb309ee9f638cb39721cacd026ed97de44356b790fe863c17e"
+    },
+    {
+      "path": "cusp63_quotient.log",
+      "sha256": "09d50190399fc44b471da36531f04842db640d0d9fbed66f9a679dcd6caa1498"
+    },
+    {
+      "path": "C63_inputs/independent_counts.m",
+      "sha256": "619c9bf6a5e539ddcaf31452ee167be17b315fca1caeb9935fb6248ec63a883d"
+    },
+    {
+      "path": "C63_inputs/independent_counts.log",
+      "sha256": "21698f0f5789acc85812604bc68b5a63ac8bd2b41f1004a9c97f25b3fb12ae3e"
+    },
+    {
+      "path": "../shared/mdmagma/v2/mdmagma.spec",
+      "sha256": "71dfa75aac69d36258e9a31f5f86ff15b2fb4c177e668bb3d8f3bc66a38a4a7a"
+    }
+  ]
+}

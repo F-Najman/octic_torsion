@@ -1,0 +1,85 @@
+Loading "formal_common.m"
+numerator of x([7]Q): degree 49, max t-degree of coefficients 112
+irreducible over F2(t): true  (0.010 s)
+GENUS 69 (expected 69)  constant field Finite field of size 2  (675.450 s)
+CUSPS 28 closed cusps, sorted degrees [ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 3, 3, 3, 3, 3, 3, 21 ] (claimed 1^21 3^6 21), j-degree 1176 (expected 1176)  (701.570 s)
+DIMU dim U = 68 (claimed 68); rank C = 69  (881.120 s)
+x_ser_val, n, v, e = 0, 265, 80, 7
+val_den_bound = 1855
+EXPKERNEL cusp 16 deg 3 mmax 2 codims [ 3, 6 ] [979.120 s, total 1880.660 s]
+x_ser_val, n, v, e = 0, 265, 80, 7
+val_den_bound = 1855
+EXPKERNEL cusp 17 deg 3 mmax 2 codims [ 3, 6 ] [887.900 s, total 2768.560 s]
+x_ser_val, n, v, e = 0, 265, 80, 7
+val_den_bound = 1855
+EXPKERNEL cusp 18 deg 3 mmax 2 codims [ 3, 6 ] [1006.880 s, total 3775.440 s]
+x_ser_val, n, v, e = 0, 265, 80, 7
+val_den_bound = 1855
+EXPKERNEL cusp 19 deg 3 mmax 2 codims [ 3, 6 ] [810.990 s, total 4586.430 s]
+x_ser_val, n, v, e = 0, 265, 80, 7
+val_den_bound = 1855
+EXPKERNEL cusp 20 deg 3 mmax 2 codims [ 3, 6 ] [799.540 s, total 5385.970 s]
+x_ser_val, n, v, e = 0, 265, 80, 7
+val_den_bound = 1855
+EXPKERNEL cusp 21 deg 3 mmax 2 codims [ 3, 6 ] [787.470 s, total 6173.440 s]
+EXPKERNEL cusp 1 deg 1 mmax 5 codims [ 1, 2, 3, 4, 5 ] [13.580 s, total 6187.020 s]
+EXPKERNEL cusp 2 deg 1 mmax 5 codims [ 1, 2, 3, 4, 5 ] [28.070 s, total 6215.090 s]
+EXPKERNEL cusp 3 deg 1 mmax 5 codims [ 1, 2, 3, 4, 5 ] [40.240 s, total 6255.330 s]
+EXPKERNEL cusp 4 deg 1 mmax 5 codims [ 1, 2, 3, 4, 5 ] [36.560 s, total 6291.890 s]
+EXPKERNEL cusp 5 deg 1 mmax 5 codims [ 1, 2, 3, 4, 5 ] [38.540 s, total 6330.430 s]
+EXPKERNEL cusp 6 deg 1 mmax 5 codims [ 1, 2, 3, 4, 5 ] [42.090 s, total 6372.520 s]
+EXPKERNEL cusp 7 deg 1 mmax 5 codims [ 1, 2, 3, 4, 5 ] [31.880 s, total 6404.400 s]
+x_ser_val, n, v, e = 0, 255, 83, 7
+val_den_bound = 1785
+x_ser_val, n, v, e = 0, 255, 83, 7
+val_den_bound = 1785
+EXPKERNEL cusp 8 deg 1 mmax 5 codims [ 1, 2, 3, 4, 5 ] [29.510 s, total 6433.910 s]
+x_ser_val, n, v, e = 0, 265, 80, 7
+val_den_bound = 1855
+x_ser_val, n, v, e = 0, 265, 80, 7
+val_den_bound = 1855
+EXPKERNEL cusp 9 deg 1 mmax 5 codims [ 1, 2, 3, 4, 5 ] [41.420 s, total 6475.330 s]
+x_ser_val, n, v, e = 0, 265, 80, 7
+val_den_bound = 1855
+x_ser_val, n, v, e = 0, 265, 80, 7
+val_den_bound = 1855
+EXPKERNEL cusp 10 deg 1 mmax 5 codims [ 1, 2, 3, 4, 5 ] [66.820 s, total 6542.150 s]
+x_ser_val, n, v, e = 0, 265, 80, 7
+val_den_bound = 1855
+x_ser_val, n, v, e = 0, 265, 80, 7
+val_den_bound = 1855
+EXPKERNEL cusp 11 deg 1 mmax 5 codims [ 1, 2, 3, 4, 5 ] [68.580 s, total 6610.730 s]
+x_ser_val, n, v, e = 0, 265, 80, 7
+val_den_bound = 1855
+x_ser_val, n, v, e = 0, 265, 80, 7
+val_den_bound = 1855
+EXPKERNEL cusp 12 deg 1 mmax 5 codims [ 1, 2, 3, 4, 5 ] [64.660 s, total 6675.390 s]
+x_ser_val, n, v, e = 0, 265, 80, 7
+val_den_bound = 1855
+x_ser_val, n, v, e = 0, 265, 80, 7
+val_den_bound = 1855
+EXPKERNEL cusp 13 deg 1 mmax 5 codims [ 1, 2, 3, 4, 5 ] [82.940 s, total 6758.330 s]
+x_ser_val, n, v, e = 0, 265, 80, 7
+val_den_bound = 1855
+x_ser_val, n, v, e = 0, 265, 80, 7
+val_den_bound = 1855
+EXPKERNEL cusp 14 deg 1 mmax 5 codims [ 1, 2, 3, 4, 5 ] [98.160 s, total 6856.490 s]
+EXPKERNEL cusp 22 deg 1 mmax 5 codims [ 1, 2, 3, 4, 5 ] [55.410 s, total 6911.900 s]
+EXPKERNEL cusp 23 deg 1 mmax 5 codims [ 1, 2, 3, 4, 5 ] [328.600 s, total 7240.500 s]
+EXPKERNEL cusp 24 deg 1 mmax 5 codims [ 1, 2, 3, 4, 5 ] [392.920 s, total 7633.420 s]
+EXPKERNEL cusp 25 deg 1 mmax 5 codims [ 1, 2, 3, 4, 5 ] [836.530 s, total 8469.950 s]
+EXPKERNEL cusp 26 deg 1 mmax 5 codims [ 1, 2, 3, 4, 5 ] [933.840 s, total 9403.790 s]
+EXPKERNEL cusp 27 deg 1 mmax 5 codims [ 1, 2, 3, 4, 5 ] [953.520 s, total 10357.310 s]
+EXPKERNEL cusp 28 deg 1 mmax 5 codims [ 1, 2, 3, 4, 5 ] [718.190 s, total 11075.500 s]
+kernel spaces done: 117  (11083.650 s)
+PROGRESS enumerated 100000 failures 0
+PROGRESS enumerated 200000 failures 0
+PROGRESS enumerated 300000 failures 0
+all 21 rational cusps: divisors 323631 (expected 6*C(25,5)+21*C(22,2) = 323631), rank min 8 max 8, failures 0
+PROGRESS enumerated 100000 failures 0
+first 17 rational cusps: divisors 125307 (claimed 125307), rank min 8 max 8, failures 0
+RESULT X1(49)/F2: genus 69, cusp degrees [ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 3, 3, 3, 3, 3, 3, 21 ], dim U 68, divisors with a cubic cusp on 21 rational + 6 cubic cusps 323631, failures 0
+generic fibre: both y-roots give points of exact order 49 with 7Q = +-(0,0): true  (11152.710 s)
+CROSSCHECK DifferentialSpace(1*P_16) (deg 3) equals expansion kernel: true  [2053.130 s]
+CROSSCHECK DifferentialSpace(2*P_1) (deg 1) equals expansion kernel: true  [323.380 s]
+X1_49_V2_DONE (13534.240 s)

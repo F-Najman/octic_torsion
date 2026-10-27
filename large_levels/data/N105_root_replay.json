@@ -1,0 +1,112 @@
+{
+  "degree": 8,
+  "excluded_cyclic_order": 105,
+  "status": "complete",
+  "genus_X1": 289,
+  "finite_image_a": 22,
+  "diamond_order": 4,
+  "minimum_CM_degree_X1": 96,
+  "gonality_lower_bound_X1": "2925/64",
+  "principal_function_degree_bound_X1": 32,
+  "quotient_trace_degree": 2,
+  "rank_J0Q": 0,
+  "genus_X0": 13,
+  "cusps_X0": 8,
+  "all_cusps_X0_rational": true,
+  "all_bad2": true,
+  "Hasse_checks": [
+    {
+      "e": 1,
+      "q": 2,
+      "maximum_trace_absolute_value": 2,
+      "multiples105_in_interval": []
+    },
+    {
+      "e": 2,
+      "q": 4,
+      "maximum_trace_absolute_value": 4,
+      "multiples105_in_interval": []
+    },
+    {
+      "e": 3,
+      "q": 8,
+      "maximum_trace_absolute_value": 5,
+      "multiples105_in_interval": []
+    },
+    {
+      "e": 4,
+      "q": 16,
+      "maximum_trace_absolute_value": 8,
+      "multiples105_in_interval": []
+    },
+    {
+      "e": 5,
+      "q": 32,
+      "maximum_trace_absolute_value": 11,
+      "multiples105_in_interval": []
+    },
+    {
+      "e": 6,
+      "q": 64,
+      "maximum_trace_absolute_value": 16,
+      "multiples105_in_interval": []
+    },
+    {
+      "e": 7,
+      "q": 128,
+      "maximum_trace_absolute_value": 22,
+      "multiples105_in_interval": []
+    },
+    {
+      "e": 8,
+      "q": 256,
+      "maximum_trace_absolute_value": 32,
+      "multiples105_in_interval": []
+    }
+  ],
+  "gonality_lower_bound_X0": 6,
+  "principal_function_degree_bound_X0": 4,
+  "primary_gonality_reference": {
+    "url": "https://arxiv.org/pdf/2207.11650v4",
+    "proposition": "5.18",
+    "PDF_page": 13
+  },
+  "files": [
+    {
+      "path": "N105_exclusion.tex",
+      "sha256": "dbe46070827778b3d65efde2cd9e3adfe6cc2af58d8fc9b06266b3374688eddb"
+    },
+    {
+      "path": "certify_105.py",
+      "sha256": "42c6eef6bb33b6b97203cd17b17093ebb273f5ed72804b1f2175c818abe26bb4"
+    },
+    {
+      "path": "winding_probe.m",
+      "sha256": "46f61f69c8ddbdda0bb734d43d4ff9a1e9490381364da1cd9d19875ad6f8cd01"
+    },
+    {
+      "path": "winding105_octic.log",
+      "sha256": "42a321a3689688988edf5e2d8875805f28a40617b6e029a563929678ebf9dea3"
+    },
+    {
+      "path": "finite_fields_2_octic.m",
+      "sha256": "1170863a5335ec087d9d3d469997a0e0685e08c5b3becdfa0ad56983fe680afd"
+    },
+    {
+      "path": "finite_fields_105_octic.log",
+      "sha256": "aa39726a16dce091a45460695fe64060f629bb93814aeefe4d99747f9e0fb290"
+    },
+    {
+      "path": "inputs/dcm_list_all_min_orders_X1_10k.m",
+      "sha256": "020ba11c347b70aafd59099994d5df55d969ffeaff468ced1a06ae97868b64cc"
+    },
+    {
+      "path": "extra_inputs/gonality_X0_2207.11650v4.pdf",
+      "sha256": "d0bebd2643226e8bafa643e46a2da43405e947feb2894407242b34c28fdf18df"
+    },
+    {
+      "path": "extra_inputs/gonality_X0_2207.11650v4.txt",
+      "sha256": "194fb40e0b8652cd43cbd8dafe7ef5eb67409a77efebcc7919e6bcec7ecf328c"
+    }
+  ]
+}

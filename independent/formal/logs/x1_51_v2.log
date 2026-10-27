@@ -1,0 +1,22 @@
+Loading "formal_common.m"
+CASE 51v2  d = 8  Magma 2
+factors of x(8P)-x(9P): [ <1, 1>, <10, 1> ]
+factor of bidegree (5,7): genus 5
+psi_3 degree 4 irreducible true
+minimal polynomial of y(P3) over X1(17): degree 8, irreducible true
+GENUS 65 (claimed 65)  constant field Finite field of size 2  (5388.810 s)
+cusps of X1(17) over F2: degrees [ 1, 1, 1, 1, 1, 1, 4, 4, 1, 1 ], j-degree 144
+
+Current total memory usage: 45771.7MB, failed memory request: 32.0MB
+System Error: User memory limit has been reached
+CUSPS 12 closed cusps, sorted degrees [ 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2 ] (claimed [ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 8, 8, 8, 8 ]), j-degree 544 (expected 1152)  (24928.820 s)
+j-valuations at cusps (e(P/Q) v_Q(j)): [ -17, -51, -51, -17, -51, -51, -17, -51, -51, -17, -51, -51 ]
+
+Current total memory usage: 45771.7MB, failed memory request: 32.0MB
+System Error: User memory limit has been reached
+
+In file "x1_51_v2.m", line 94, column 18:
+>> assert Dimension(V) eq g;
+                    ^
+Runtime error: Variable 'V' has not been initialized
+

@@ -1,0 +1,6 @@
+C48_D6_HEC_START source_index=171 q=29 master_sha=a95927262796020825fa2064678a536f75013a1081427e02115a789b8790d580
+C48_D6_ISOGENIES source_index=171 orbits=2 time=5.520
+C48_D6_IMAGE source_index=171 kernel_orbit=1 image_degree=6 time=6.580
+C48_D6_IMAGE source_index=171 kernel_orbit=29 image_degree=174 time=22.750
+C48_D6_PRINCIPALITY_START source_index=171 time=23.750
+C48_D6_HEC_DONE source_index=171 q=29 principal=false complete=true time=59.050

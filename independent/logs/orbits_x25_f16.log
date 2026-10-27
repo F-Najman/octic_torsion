@@ -1,0 +1,18 @@
+ORB X1(25)[E[5] rational] over F_16, degree 2: 100 closed points, 12 diamond orbits, orbit sizes {* 5^^4, 10^^8 *}
+STAB X1(25) F_16 deg 2: diamond stabilizers (reps a in 1..N/2) per orbit [
+[ 1 ],
+[ 1, 7 ],
+[ 1 ],
+[ 1 ],
+[ 1 ],
+[ 1, 7 ],
+[ 1 ],
+[ 1 ],
+[ 1, 7 ],
+[ 1 ],
+[ 1, 7 ],
+[ 1 ]
+] ; curves (j-orbit length, #E, group) {*
+<1, 250, [ 5, 50 ]>^^12
+*}
+ORBITS_DONE

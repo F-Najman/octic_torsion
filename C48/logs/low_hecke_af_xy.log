@@ -1,0 +1,162 @@
+C48_LOW_AF_CASE_START row=997 support=[ 3, 5 ] time=32.310
+C48_LOW_AF_INPUT q=7 degree=3 time=34.740
+C48_LOW_AF_ISOGENIES q=7 degree=3 orbits=1 time=34.750
+C48_LOW_AF_IMAGE q=7 source_degree=3 kernel_orbit=8 image_degree=24 time=37.520
+C48_LOW_AF_INPUT q=7 degree=5 time=41.200
+C48_LOW_AF_ISOGENIES q=7 degree=5 orbits=5 time=41.210
+C48_LOW_AF_IMAGE q=7 source_degree=5 kernel_orbit=1 image_degree=5 time=43.030
+C48_LOW_AF_IMAGE q=7 source_degree=5 kernel_orbit=1 image_degree=5 time=44.800
+C48_LOW_AF_IMAGE q=7 source_degree=5 kernel_orbit=2 image_degree=10 time=46.930
+C48_LOW_AF_IMAGE q=7 source_degree=5 kernel_orbit=2 image_degree=10 time=49.110
+C48_LOW_AF_IMAGE q=7 source_degree=5 kernel_orbit=2 image_degree=10 time=51.120
+C48_LOW_AF_TEST row=997 support=[ 3, 5 ] indices=[ 2, 89 ] q=7 principal=false time=114.170
+C48_LOW_AF_CASE_START row=1004 support=[ 3, 5 ] time=114.170
+C48_LOW_AF_INPUT q=7 degree=5 time=116.070
+C48_LOW_AF_ISOGENIES q=7 degree=5 orbits=5 time=116.080
+C48_LOW_AF_IMAGE q=7 source_degree=5 kernel_orbit=1 image_degree=5 time=118.010
+C48_LOW_AF_IMAGE q=7 source_degree=5 kernel_orbit=1 image_degree=5 time=119.790
+C48_LOW_AF_IMAGE q=7 source_degree=5 kernel_orbit=2 image_degree=10 time=122.020
+C48_LOW_AF_IMAGE q=7 source_degree=5 kernel_orbit=2 image_degree=10 time=124.240
+C48_LOW_AF_IMAGE q=7 source_degree=5 kernel_orbit=2 image_degree=10 time=126.330
+C48_LOW_AF_TEST row=1004 support=[ 3, 5 ] indices=[ 2, 96 ] q=7 principal=false time=202.500
+C48_LOW_AF_CASE_START row=1567 support=[ 4, 4 ] time=202.500
+C48_LOW_AF_INPUT q=7 degree=4 time=210.140
+C48_LOW_AF_ISOGENIES q=7 degree=4 orbits=4 time=210.140
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=1 image_degree=4 time=211.990
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=3 image_degree=12 time=214.140
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=3 image_degree=12 time=216.540
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=1 image_degree=4 time=218.300
+C48_LOW_AF_INPUT q=7 degree=4 time=221.810
+C48_LOW_AF_ISOGENIES q=7 degree=4 orbits=4 time=221.820
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=1 image_degree=4 time=223.760
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=3 image_degree=12 time=226.110
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=3 image_degree=12 time=228.240
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=1 image_degree=4 time=230.190
+C48_LOW_AF_TEST row=1567 support=[ 4, 4 ] indices=[ 1, 3 ] q=7 principal=false time=271.160
+C48_LOW_AF_CASE_START row=1570 support=[ 4, 4 ] time=271.160
+C48_LOW_AF_INPUT q=7 degree=4 time=272.970
+C48_LOW_AF_ISOGENIES q=7 degree=4 orbits=4 time=272.970
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=1 image_degree=4 time=274.820
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=1 image_degree=4 time=276.580
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=3 image_degree=12 time=278.930
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=3 image_degree=12 time=281.180
+C48_LOW_AF_TEST row=1570 support=[ 4, 4 ] indices=[ 1, 6 ] q=7 principal=false time=354.130
+C48_LOW_AF_CASE_START row=1589 support=[ 4, 4 ] time=354.130
+C48_LOW_AF_INPUT q=7 degree=4 time=355.980
+C48_LOW_AF_ISOGENIES q=7 degree=4 orbits=4 time=355.980
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=1 image_degree=4 time=357.730
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=3 image_degree=12 time=360.030
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=3 image_degree=12 time=362.350
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=1 image_degree=4 time=364.020
+C48_LOW_AF_TEST row=1589 support=[ 4, 4 ] indices=[ 1, 25 ] q=7 principal=false time=447.120
+C48_LOW_AF_CASE_START row=1596 support=[ 4, 4 ] time=447.120
+C48_LOW_AF_INPUT q=7 degree=4 time=448.980
+C48_LOW_AF_ISOGENIES q=7 degree=4 orbits=4 time=448.990
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=1 image_degree=4 time=450.840
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=3 image_degree=12 time=452.990
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=3 image_degree=12 time=455.210
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=1 image_degree=4 time=462.800
+C48_LOW_AF_TEST row=1596 support=[ 4, 4 ] indices=[ 1, 32 ] q=7 principal=false time=528.310
+C48_LOW_AF_CASE_START row=1757 support=[ 4, 4 ] time=528.310
+C48_LOW_AF_TEST row=1757 support=[ 4, 4 ] indices=[ 4, 1 ] q=7 principal=false time=594.600
+C48_LOW_AF_CASE_START row=1764 support=[ 4, 4 ] time=594.600
+C48_LOW_AF_INPUT q=7 degree=4 time=595.540
+C48_LOW_AF_ISOGENIES q=7 degree=4 orbits=4 time=595.540
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=1 image_degree=4 time=596.570
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=3 image_degree=12 time=597.920
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=3 image_degree=12 time=599.240
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=1 image_degree=4 time=600.240
+C48_LOW_AF_TEST row=1764 support=[ 4, 4 ] indices=[ 4, 8 ] q=7 principal=false time=626.860
+C48_LOW_AF_CASE_START row=1783 support=[ 4, 4 ] time=626.860
+C48_LOW_AF_INPUT q=7 degree=4 time=627.890
+C48_LOW_AF_ISOGENIES q=7 degree=4 orbits=4 time=627.890
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=1 image_degree=4 time=628.880
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=3 image_degree=12 time=630.070
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=3 image_degree=12 time=631.250
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=1 image_degree=4 time=632.270
+C48_LOW_AF_TEST row=1783 support=[ 4, 4 ] indices=[ 4, 27 ] q=7 principal=false time=660.010
+C48_LOW_AF_CASE_START row=1786 support=[ 4, 4 ] time=660.010
+C48_LOW_AF_INPUT q=7 degree=4 time=661.050
+C48_LOW_AF_ISOGENIES q=7 degree=4 orbits=4 time=661.050
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=1 image_degree=4 time=662.020
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=1 image_degree=4 time=663.000
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=3 image_degree=12 time=664.310
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=3 image_degree=12 time=665.690
+C48_LOW_AF_TEST row=1786 support=[ 4, 4 ] indices=[ 4, 30 ] q=7 principal=false time=706.800
+C48_LOW_AF_CASE_START row=1927 support=[ 4, 4 ] time=706.800
+C48_LOW_AF_INPUT q=7 degree=4 time=707.790
+C48_LOW_AF_ISOGENIES q=7 degree=4 orbits=4 time=707.790
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=1 image_degree=4 time=708.850
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=3 image_degree=12 time=710.190
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=3 image_degree=12 time=711.560
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=1 image_degree=4 time=712.540
+C48_LOW_AF_INPUT q=7 degree=4 time=714.580
+C48_LOW_AF_ISOGENIES q=7 degree=4 orbits=4 time=714.580
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=1 image_degree=4 time=715.600
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=3 image_degree=12 time=716.800
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=1 image_degree=4 time=717.750
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=3 image_degree=12 time=718.920
+C48_LOW_AF_TEST row=1927 support=[ 4, 4 ] indices=[ 6, 43 ] q=7 principal=false time=756.710
+C48_LOW_AF_CASE_START row=1930 support=[ 4, 4 ] time=756.710
+C48_LOW_AF_INPUT q=7 degree=4 time=757.660
+C48_LOW_AF_ISOGENIES q=7 degree=4 orbits=4 time=757.670
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=1 image_degree=4 time=758.610
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=3 image_degree=12 time=759.720
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=3 image_degree=12 time=761.040
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=1 image_degree=4 time=762.060
+C48_LOW_AF_TEST row=1930 support=[ 4, 4 ] indices=[ 6, 46 ] q=7 principal=false time=810.430
+C48_LOW_AF_CASE_START row=1936 support=[ 4, 4 ] time=810.430
+C48_LOW_AF_INPUT q=7 degree=4 time=811.420
+C48_LOW_AF_ISOGENIES q=7 degree=4 orbits=4 time=811.430
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=1 image_degree=4 time=812.400
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=3 image_degree=12 time=813.800
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=1 image_degree=4 time=814.810
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=3 image_degree=12 time=816.150
+C48_LOW_AF_TEST row=1936 support=[ 4, 4 ] indices=[ 6, 52 ] q=7 principal=false time=853.450
+C48_LOW_AF_CASE_START row=1937 support=[ 4, 4 ] time=853.450
+C48_LOW_AF_INPUT q=7 degree=4 time=854.390
+C48_LOW_AF_ISOGENIES q=7 degree=4 orbits=4 time=854.390
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=1 image_degree=4 time=855.420
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=3 image_degree=12 time=856.760
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=3 image_degree=12 time=858.070
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=1 image_degree=4 time=859.120
+C48_LOW_AF_TEST row=1937 support=[ 4, 4 ] indices=[ 6, 53 ] q=7 principal=false time=888.680
+C48_LOW_AF_CASE_START row=1992 support=[ 4, 4 ] time=888.680
+C48_LOW_AF_INPUT q=7 degree=4 time=889.700
+C48_LOW_AF_ISOGENIES q=7 degree=4 orbits=4 time=889.700
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=1 image_degree=4 time=890.730
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=3 image_degree=12 time=892.050
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=1 image_degree=4 time=893.050
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=3 image_degree=12 time=894.340
+C48_LOW_AF_INPUT q=7 degree=4 time=896.320
+C48_LOW_AF_ISOGENIES q=7 degree=4 orbits=4 time=896.320
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=1 image_degree=4 time=897.300
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=3 image_degree=12 time=898.580
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=3 image_degree=12 time=899.750
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=1 image_degree=4 time=900.770
+C48_LOW_AF_TEST row=1992 support=[ 4, 4 ] indices=[ 7, 44 ] q=7 principal=false time=931.250
+C48_LOW_AF_CASE_START row=1993 support=[ 4, 4 ] time=931.250
+C48_LOW_AF_INPUT q=7 degree=4 time=932.260
+C48_LOW_AF_ISOGENIES q=7 degree=4 orbits=4 time=932.260
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=1 image_degree=4 time=933.220
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=3 image_degree=12 time=934.530
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=3 image_degree=12 time=935.870
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=1 image_degree=4 time=936.870
+C48_LOW_AF_TEST row=1993 support=[ 4, 4 ] indices=[ 7, 45 ] q=7 principal=false time=979.540
+C48_LOW_AF_CASE_START row=1999 support=[ 4, 4 ] time=979.540
+C48_LOW_AF_INPUT q=7 degree=4 time=980.500
+C48_LOW_AF_ISOGENIES q=7 degree=4 orbits=4 time=980.500
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=1 image_degree=4 time=981.510
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=1 image_degree=4 time=982.470
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=3 image_degree=12 time=983.620
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=3 image_degree=12 time=984.840
+C48_LOW_AF_TEST row=1999 support=[ 4, 4 ] indices=[ 7, 51 ] q=7 principal=false time=1021.010
+C48_LOW_AF_CASE_START row=2002 support=[ 4, 4 ] time=1021.010
+C48_LOW_AF_INPUT q=7 degree=4 time=1021.930
+C48_LOW_AF_ISOGENIES q=7 degree=4 orbits=4 time=1021.930
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=1 image_degree=4 time=1022.980
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=3 image_degree=12 time=1024.260
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=3 image_degree=12 time=1025.470
+C48_LOW_AF_IMAGE q=7 source_degree=4 kernel_orbit=1 image_degree=4 time=1026.420
+C48_LOW_AF_TEST row=2002 support=[ 4, 4 ] indices=[ 7, 54 ] q=7 principal=false time=1064.560
+C48_LOW_AF_DONE tested=18 remaining=0 complete=true time=1064.560

@@ -1,0 +1,366 @@
+This file gives the gonality of X1(N)/Q for N=1..40, and upper bounds for N <= 300.
+It gives explicit proofs for these upper bounds, in the form of a function of that degree.
+
+Other files in this folder http://www.math.fsu.edu/~hoeij/files/X1N/ are:
+
+	*) The file LowDegreePlaces contains non-cuspidal points of degrees d for
+	   which we have no function of degree d (e.g. degrees below the Q-gonality).
+
+	*) Subfields: enumerates subfields of Q(X1(N)) over Q(j), for N=1..100,
+	   to look for functions of low degree in subfields.
+
+	*) cusp_divisors, cusp_divisors_large, and cusp_divisors_program.
+	   These give the divisors of f[2] ... f[floor(N/2)+1],  viewed as
+	   functions on X1(N).  The degrees of the places occurring in these
+	   divisors are listed in the file:  cusp_degrees.
+
+	   After weighing the entries in a divisor by the corresponding cusp_degrees,
+	   the sum of the positive entries will equal the degree of the corresponding
+	   function (and the sum of all entries will be zero).
+
+	*) The folder LowerBoundsGonality contains Magma files for proving
+	   lower bounds (equal to the upper bounds) for all N <= 40.  The case N=37
+	   is treated in a separate sub-folder since it this computation is divided
+	   into numerous subcases.
+
+Let
+
+f[2] := b/(16*b^2+(1-20*c-8*c^2)*b+c*(c-1)^3);
+f[3] := b;
+f[4] := c;
+f[5] := b-c;
+f[6] := s-1;
+f[7] := s-r;
+f[8] := r*s-2*r+1;
+f[9] := s^2-s-r+1;
+f[10] := x-y+1;
+f[11] := x^2*y-x*y^2+y-1;
+f[12] := x-y;
+f[13] := x^3*y-x^2*y^2-x^2*y+x*y^2-y+1;
+f[14] := x^2*y-x*y^2-x*y+y^2-1;
+f[15] := x^2*y-x^2-x*y^2+x*y-x+y-1;
+f[16] := x^2*y^2-2*x^2*y-x*y^3+2*x*y^2-y+1;
+f[17] := x^4*y-x^3*y^3-x^3*y+x^2*y^4+x^2*y-x^2-x*y^4+x*y^3-x*y^2+x*y+y^3-2*y^2+y;
+f[18] := x^4*y-3*x^3*y^2+x^3*y+2*x^2*y^3+x^2*y^2-2*x^2*y-2*x*y^3+2*x*y^2+y^2-2*y+1;
+f[19] := x^5*y^2-3*x^4*y^3+3*x^3*y^4+2*x^3*y^2-2*x^3*y-x^2*y^5-x^2*y^4-x^2*y^3+x^2*y^2+x^2*y+x*y^5-x*y^4+2*x*y^3-2*x*y^2-x*y+x-y^4+2*y^3-y^2;
+f[20] := x^4*y-2*x^3*y^2-x^3*y+x^2*y^3+x^2*y^2+2*x^2*y-x^2-2*x*y^2+x*y+y-1;
+f[21] := x^5*y^2-3*x^4*y^3-x^4*y^2+3*x^3*y^4+3*x^3*y^3-x^2*y^5-3*x^2*y^4-2*x^2*y^2+3*x^2*y+x*y^5+3*x*y^3-4*x*y^2-y^4+y^3+y-1;
+f[22] := x^5*y^2-x^5*y-2*x^4*y^3+2*x^4*y+x^3*y^4+3*x^3*y^3-4*x^3*y^2+x^3-2*x^2*y^4+x^2*y^3+x^2*y^2-x^2*y+x*y^4-x*y^3+x*y^2-x*y-y^3+2*y^2-y;
+...
+
+where
+	{c = r*s-s, b = r^2*s-r*s},
+	{r = b/c  , s = c^2/(b-c)}
+
+	{r = (x^2*y-x*y+y-1)/(x^2*y-x), s = (x*y-y+1)/(x*y)},
+	{x = (s-r)/(r*s-2*r+1), y = (r*s-2*r+1)/(s^2-r-s+1)}
+
+and
+	f[10] .. f[189] can be downloaded from the website of Andrew V. Sutherland,
+	specifically, the first table on: http://math.mit.edu/~drew/X1_altcurves.html
+
+A modular unit is a function whose support (roots and poles) consists solely of cusps.
+For N > 3 we can write a minimal degree modular unit for X1(N) as follows:
+
+Gon_Q(X1(1))  = 1.   For N=1, the j-invariant is a function of degree 1, but there is no modular unit of degree 1 since there is only 1 cusp.
+Gon_Q(X1(2))  = 1.   For N=2, there is a modular unit of degree 1, but we do not write it in terms of b,c because b,c are not defined for N<4.
+Gon_Q(X1(3))  = 1.   For N=3, same comment.
+
+Gon_Q(X1(4))  = 1.   Function of minimal degree: f[3]
+Gon_Q(X1(5))  = 1.   Function of minimal degree: f[3]
+Gon_Q(X1(6))  = 1.   Function of minimal degree: f[4]
+Gon_Q(X1(7))  = 1.   Function of minimal degree: f[4]/f[3]
+Gon_Q(X1(8))  = 1.   Function of minimal degree: f[5]/f[4]
+Gon_Q(X1(9))  = 1.   Function of minimal degree: f[5]/f[4]^2
+Gon_Q(X1(10)) = 1.   Function of minimal degree: f[6]
+Gon_Q(X1(11)) = 2.   Function of minimal degree: f[6]
+Gon_Q(X1(12)) = 1.   Function of minimal degree: f[6]/f[7]
+Gon_Q(X1(13)) = 2.   Function of minimal degree: f[4]*f[7]/(f[5]*f[6])
+Gon_Q(X1(14)) = 2.   Function of minimal degree: f[6]
+Gon_Q(X1(15)) = 2.   Function of minimal degree: f[7]/f[8]
+Gon_Q(X1(16)) = 2.   Function of minimal degree: f[8]/f[9]
+Gon_Q(X1(17)) = 4.   Function of minimal degree: f[7]/f[8]
+Gon_Q(X1(18)) = 2.   Function of minimal degree: f[4]*f[7]^2/(f[5]*f[9]*f[10])
+Gon_Q(X1(19)) = 5.   Function of minimal degree: f[10]
+Gon_Q(X1(20)) = 3.   Function of minimal degree: f[10]
+Gon_Q(X1(21)) = 4.   Function of minimal degree: f[10]
+Gon_Q(X1(22)) = 4.   Function of minimal degree: f[7]/f[8]
+Gon_Q(X1(23)) = 7.   Function of minimal degree: f[7]/f[8]
+Gon_Q(X1(24)) = 4.   Function of minimal degree: f[11]/f[13]
+Gon_Q(X1(25)) = 5.   Function of minimal degree: f[3]*f[4]*f[6]^3*f[7]^2*f[10]*f[12]^3/(f[5]*f[8]^2*f[9]^2*f[13]^3)
+Gon_Q(X1(26)) = 6.   Function of minimal degree: f[8]/f[9]
+Gon_Q(X1(27)) = 6.   Function of minimal degree: f[13]/f[10]
+Gon_Q(X1(28)) = 6.   Function of minimal degree: f[6]^2*f[14]/(f[9]*f[13])
+Gon_Q(X1(29)) = 11.  Function of minimal degree: f[7]/f[8]
+Gon_Q(X1(30)) = 6.   Function of minimal degree: f[6]*f[7]*f[14]/(f[9]*f[16])
+Gon_Q(X1(31)) = 12.  Function of minimal degree: f[11]/f[13]
+Gon_Q(X1(32)) = 8.   Function of minimal degree: f[7]^2*f[16]/(f[8]^2*f[17])
+Gon_Q(X1(33)) = 10.  Function of minimal degree: f[10]*f[11]*f[12]/f[17]
+Gon_Q(X1(34)) = 10.  Function of minimal degree: f[6]/f[12]
+Gon_Q(X1(35)) = 12.  Function of minimal degree: f[17]/f[18]
+Gon_Q(X1(36)) = 8.   Function of minimal degree: f[14]*f[17]^2/f[19]^2
+Gon_Q(X1(37)) = 18.  Function of minimal degree: f[7]/f[8]
+Gon_Q(X1(38)) = 12.  Function of minimal degree: f[8]*f[9]*f[10]*f[11]/(f[6]*f[7]^2*f[14])
+Gon_Q(X1(39)) = 14.  Function of minimal degree: f[12]*f[13]*f[14]/f[19]
+Gon_Q(X1(40)) = 12.  Function of minimal degree: f[11]*f[20]/(f[12]*f[19])
+
+Gon_Q(X1(41)) <= 22.  Function of that degree: f[7]/f[8]
+Gon_Q(X1(42)) <= 12.  Function of that degree: f[11]*f[16]*f[22]/(f[10]*f[19]*f[20])
+Gon_Q(X1(43)) <= 24.  Function of that degree: f[7]/f[8]
+Gon_Q(X1(44)) <= 15.  Function of that degree: f[6]*f[7]*f[13]*f[21]/(f[9]*f[23])
+Gon_Q(X1(45)) <= 18.  Function of that degree: f[11]*f[22]/f[23]
+Gon_Q(X1(46)) <= 19.  Function of that degree: f[10]*f[11]*f[12]/f[18]
+Gon_Q(X1(47)) <= 29.  Function of that degree: f[7]/f[8]
+Gon_Q(X1(48)) <= 16.  Function of that degree: f[10]*f[23]/f[25]
+Gon_Q(X1(49)) <= 21.  Function of that degree: f[3]*f[4]^2*f[6]^3*f[7]^2*f[12]^3*f[14]*f[24]^3/(f[5]^2*f[8]^2*f[9]*f[25]^3)
+Gon_Q(X1(50)) <= 15.  Function of that degree: f[5]*f[9]*f[13]*f[15]*f[26]/(f[4]^2*f[7]*f[12]*f[20]*f[24])
+Gon_Q(X1(51)) <= 24.  Function of that degree: f[12]*f[13]*f[24]/(f[14]*f[17]*f[20])
+Gon_Q(X1(52)) <= 21.  Function of that degree: f[5]*f[6]*f[15]*f[25]/(f[4]*f[9]*f[11]*f[27])
+Gon_Q(X1(53)) <= 37.  Function of that degree: f[7]/f[8]
+Gon_Q(X1(54)) <= 18.  Function of that degree: f[12]*f[13]*f[26]/(f[16]*f[18]*f[20])
+Gon_Q(X1(55)) <= 30.  Function of that degree: f[8]*f[27]/(f[7]*f[14]*f[28])
+Gon_Q(X1(56)) <= 24.  Function of that degree: f[11]*f[27]/f[29]
+Gon_Q(X1(57)) <= 30.  Function of that degree: f[18]*f[19]*f[20]/f[29]
+Gon_Q(X1(58)) <= 31.  Function of that degree: f[16]*f[18]/f[26]
+Gon_Q(X1(59)) <= 46.  Function of that degree: f[7]/f[8]
+Gon_Q(X1(60)) <= 24.  Function of that degree: f[11]*f[29]/f[31]
+Gon_Q(X1(61)) <= 49.  Function of that degree: f[7]/f[8]
+Gon_Q(X1(62)) <= 36.  Function of that degree: f[16]*f[18]/f[26]
+Gon_Q(X1(63)) <= 36.  Function of that degree: f[16]*f[32]/f[31]
+Gon_Q(X1(64)) <= 32.  Function of that degree: f[12]*f[31]/(f[11]*f[33])
+Gon_Q(X1(65)) <= 42.  Function of that degree: f[16]*f[32]/(f[11]*f[33])
+Gon_Q(X1(66)) <= 30.  Function of that degree: f[11]*f[20]*f[22]*f[24]/(f[17]*f[34])
+Gon_Q(X1(67)) <= 58.  Function of that degree: f[15]*f[17]*f[30]/(f[11]*f[33])
+Gon_Q(X1(68)) <= 36.  Function of that degree: f[6]^2*f[16]*f[18]*f[34]/(f[9]*f[11]*f[19]*f[33])
+Gon_Q(X1(69)) <= 44.  Function of that degree: f[13]*f[17]*f[34]/(f[22]*f[23]*f[24])
+Gon_Q(X1(70)) <= 36.  Function of that degree: f[17]*f[34]/(f[18]*f[36])
+Gon_Q(X1(71)) <= 66.  Function of that degree: f[7]/f[8]
+Gon_Q(X1(72)) <= 32.  Function of that degree: f[9]*f[13]*f[26]*f[32]/(f[6]*f[7]*f[17]*f[20]*f[34])
+Gon_Q(X1(73)) <= 70.  Function of that degree: f[7]/f[8]
+Gon_Q(X1(74)) <= 51.  Function of that degree: f[10]*f[27]/f[32]
+Gon_Q(X1(75)) <= 40.  Function of that degree: f[7]^2*f[35]*f[37]^3/(f[6]*f[8]*f[10]*f[19]^3*f[20]*f[30]*f[38]^3)
+Gon_Q(X1(76)) <= 45.  Function of that degree: f[17]*f[21]*f[38]/(f[12]*f[18]*f[23]*f[36])
+Gon_Q(X1(77)) <= 60.  Function of that degree: f[19]*f[38]/(f[13]*f[39])
+Gon_Q(X1(78)) <= 42.  Function of that degree: f[16]*f[19]*f[38]/(f[13]*f[24]*f[26]*f[28])
+Gon_Q(X1(79)) <= 82.  Function of that degree: f[7]/f[8]
+Gon_Q(X1(80)) <= 48.  Function of that degree: f[13]^2*f[39]/f[41]
+Gon_Q(X1(81)) <= 54.  Function of that degree: f[13]*f[18]*f[39]/(f[10]*f[24]*f[27]*f[30])
+Gon_Q(X1(82)) <= 58.  Function of that degree: f[13]*f[26]/(f[10]*f[30])
+Gon_Q(X1(83)) <= 90.  Function of that degree: f[7]/f[8]
+Gon_Q(X1(84)) <= 48.  Function of that degree: f[13]*f[41]/f[43]
+Gon_Q(X1(85)) <= 72.  Function of that degree: f[7]*f[11]*f[14]*f[21]*f[42]/(f[8]*f[43])
+Gon_Q(X1(86)) <= 64.  Function of that degree: f[23]*f[24]/f[31]
+Gon_Q(X1(87)) <= 70.  Function of that degree: f[16]*f[43]/(f[10]*f[28]*f[29]*f[30])
+Gon_Q(X1(88)) <= 60.  Function of that degree: f[8]*f[43]/(f[7]*f[45])
+Gon_Q(X1(89)) <= 104. Function of that degree: f[7]/f[8]
+Gon_Q(X1(90)) <= 48.  Function of that degree: f[4]^4*f[6]*f[7]^5*f[11]^5*f[22]^5*f[35]*f[44]^5/(f[5]^2*f[8]^2*f[9]^3*f[20]*f[23]^5*f[46]^5)
+Gon_Q(X1(91)) <= 84.  Function of that degree: f[5]*f[6]*f[10]*f[15]*f[45]/(f[4]*f[9]*f[23]*f[46])
+Gon_Q(X1(92)) <= 66.  Function of that degree: f[8]*f[19]*f[27]*f[46]/(f[7]*f[14]*f[21]*f[31]*f[42])
+Gon_Q(X1(93)) <= 80.  Function of that degree: f[13]*f[26]*f[43]/(f[24]*f[31]*f[38])
+Gon_Q(X1(94)) <= 83.  Function of that degree: f[18]*f[29]/f[38]
+Gon_Q(X1(95)) <= 90.  Function of that degree: f[9]*f[47]/(f[6]*f[7]*f[16]*f[24]*f[48])
+Gon_Q(X1(96)) <= 56.  Function of that degree: f[9]*f[16]*f[47]/(f[6]*f[7]*f[49])
+Gon_Q(X1(97)) <= 123. Function of that degree: f[7]/f[8]
+Gon_Q(X1(98)) <= 63.  Function of that degree: f[10]*f[21]*f[25]*f[28]*f[50]/(f[12]*f[16]*f[24]*f[35]*f[48])
+Gon_Q(X1(99)) <= 90.  Function of that degree: f[7]*f[49]/(f[8]*f[25]*f[50])
+Gon_Q(X1(100)) <= 60.  Function of that degree: f[17]*f[35]*f[40]*f[51]/(f[15]*f[30]*f[45]*f[49])
+Gon_Q(X1(101)) <= 133. Function of that degree: f[18]*f[36]*f[43]/(f[16]*f[24]*f[29]*f[48])
+Gon_Q(X1(102)) <= 72.  Function of that degree: f[10]*f[13]*f[39]*f[41]/(f[23]*f[24]*f[27]*f[46])
+Gon_Q(X1(103)) <= 139. Function of that degree: f[7]/f[8]
+Gon_Q(X1(104)) <= 84.  Function of that degree: f[17]^2*f[51]/f[53]
+Gon_Q(X1(105)) <= 96.  Function of that degree: f[13]^2*f[26]*f[52]/f[53]
+Gon_Q(X1(106)) <= 105. Function of that degree: f[26]*f[27]/f[40]
+Gon_Q(X1(107)) <= 150. Function of that degree: f[7]/f[8]
+Gon_Q(X1(108)) <= 72.  Function of that degree: f[13]*f[24]*f[26]*f[52]/(f[18]*f[32]*f[36]*f[40])
+Gon_Q(X1(109)) <= 156. Function of that degree: f[7]/f[8]
+Gon_Q(X1(110)) <= 90.  Function of that degree: f[9]*f[16]*f[18]*f[27]*f[54]/(f[6]*f[7]*f[14]*f[28]*f[56])
+Gon_Q(X1(111)) <= 114. Function of that degree: f[18]*f[23]*f[27]*f[54]/(f[34]*f[37]*f[40])
+Gon_Q(X1(112)) <= 96.  Function of that degree: f[11]*f[18]*f[55]/(f[10]*f[19]*f[57])
+Gon_Q(X1(113)) <= 167. Function of that degree: f[7]/f[8]
+Gon_Q(X1(114)) <= 90.  Function of that degree: f[12]*f[19]*f[36]*f[38]*f[40]/(f[16]*f[29]*f[58])
+Gon_Q(X1(115)) <= 132. Function of that degree: f[6]*f[7]*f[14]*f[19]*f[57]/(f[9]*f[29]*f[58])
+Gon_Q(X1(116)) <= 105. Function of that degree: f[19]*f[31]*f[57]/(f[27]*f[59])
+Gon_Q(X1(117)) <= 126. Function of that degree: f[11]*f[29]*f[58]/f[59]
+Gon_Q(X1(118)) <= 120. Function of that degree: f[19]*f[38]/(f[11]*f[14]*f[42])
+Gon_Q(X1(119)) <= 144. Function of that degree: f[4]*f[9]*f[59]/(f[5]*f[6]*f[10]*f[15]*f[20]*f[30]*f[60])
+Gon_Q(X1(120)) <= 96.  Function of that degree: f[16]*f[59]/f[61]
+Gon_Q(X1(121)) <= 132. Function of that degree: f[3]*f[6]^5*f[7]*f[8]*f[10]^3*f[12]^3*f[15]^3*f[20]^3*f[22]*f[30]^3*f[60]^3/(f[9]^5*f[61]^3)
+Gon_Q(X1(122)) <= 139. Function of that degree: f[31]*f[58]/f[59]
+Gon_Q(X1(123)) <= 140. Function of that degree: f[11]*f[22]*f[61]/(f[19]*f[31]*f[62])
+Gon_Q(X1(124)) <= 120. Function of that degree: f[9]*f[11]*f[33]*f[61]/(f[6]*f[7]*f[21]*f[29]*f[63])
+Gon_Q(X1(125)) <= 125. Function of that degree: f[4]*f[5]^2*f[8]^18*f[9]^9*f[10]*f[31]^15*f[50]*f[62]^15/(f[3]^5*f[6]^8*f[7]^26*f[21]^15*f[63]^15)
+Gon_Q(X1(126)) <= 96.  Function of that degree: f[5]^3*f[8]^2*f[9]^3*f[31]^7*f[49]*f[62]^7/(f[4]^7*f[6]*f[7]^4*f[16]^7*f[28]*f[32]^7*f[64]^7)
+Gon_Q(X1(127)) <= 211. Function of that degree: f[7]/f[8]
+Gon_Q(X1(128)) <= 112. Function of that degree: f[3]*f[4]*f[6]^2*f[7]^4*f[21]^3*f[32]*f[63]^3/(f[5]^2*f[8]*f[9]^2*f[13]^3*f[65]^3)
+Gon_Q(X1(129)) <= 154. Function of that degree: f[16]*f[23]*f[32]*f[64]/(f[14]*f[42]*f[43]*f[44])
+Gon_Q(X1(130)) <= 126. Function of that degree: f[16]*f[18]*f[32]*f[64]/(f[11]*f[22]*f[33]*f[66])
+Gon_Q(X1(131)) <= 225. Function of that degree: f[7]/f[8]
+Gon_Q(X1(132)) <= 120. Function of that degree: f[13]*f[17]*f[65]/f[67]
+Gon_Q(X1(133)) <= 180. Function of that degree: f[11]*f[13]*f[22]*f[33]*f[66]/f[67]
+Gon_Q(X1(134)) <= 156. Function of that degree: f[11]*f[16]*f[48]/f[43]
+Gon_Q(X1(135)) <= 144. Function of that degree: f[13]*f[30]*f[65]/(f[40]*f[45]*f[50])
+Gon_Q(X1(136)) <= 144. Function of that degree: f[7]*f[21]*f[67]/(f[8]*f[13]*f[23]*f[69])
+Gon_Q(X1(137)) <= 246. Function of that degree: f[7]/f[8]
+Gon_Q(X1(138)) <= 132. Function of that degree: f[7]*f[21]*f[41]*f[63]/(f[6]*f[12]*f[23]*f[34]*f[46]*f[58])
+Gon_Q(X1(139)) <= 253. Function of that degree: f[7]/f[8]
+Gon_Q(X1(140)) <= 144. Function of that degree: f[49]/f[56]
+Gon_Q(X1(141)) <= 184. Function of that degree: f[16]*f[46]*f[47]*f[48]/(f[11]*f[22]*f[71])
+Gon_Q(X1(142)) <= 189. Function of that degree: f[26]*f[43]/f[56]
+Gon_Q(X1(143)) <= 210. Function of that degree: f[18]*f[24]*f[36]*f[72]/f[71]
+Gon_Q(X1(144)) <= 128. Function of that degree: f[6]*f[8]*f[13]*f[26]*f[52]*f[64]/(f[9]*f[17]*f[34]*f[40]*f[68])
+Gon_Q(X1(145)) <= 210. Function of that degree: f[17]*f[18]*f[24]*f[36]*f[72]/f[73]
+Gon_Q(X1(146)) <= 184. Function of that degree: f[22]*f[59]/(f[31]*f[62])
+Gon_Q(X1(147)) <= 168. Function of that degree: f[8]*f[35]*f[63]*f[73]^3/(f[6]^2*f[14]*f[28]*f[37]^3*f[42]*f[56]*f[74]^3)
+Gon_Q(X1(148)) <= 171. Function of that degree: f[23]*f[29]*f[58]*f[69]/(f[21]*f[32]*f[53]*f[74])
+Gon_Q(X1(149)) <= 291. Function of that degree: f[7]/f[8]
+Gon_Q(X1(150)) <= 120. Function of that degree: f[4]^2*f[6]*f[7]^2*f[19]^3*f[38]^3*f[45]*f[76]^3/(f[5]*f[9]^2*f[12]*f[20]*f[37]^3*f[60]*f[74]^3)
+Gon_Q(X1(151)) <= 299. Function of that degree: f[7]/f[8]
+Gon_Q(X1(152)) <= 180. Function of that degree: f[9]*f[23]*f[25]*f[75]/(f[6]*f[7]*f[11]*f[77])
+Gon_Q(X1(153)) <= 216. Function of that degree: f[8]*f[13]*f[19]*f[38]*f[76]/(f[7]*f[11]*f[77])
+Gon_Q(X1(154)) <= 180. Function of that degree: f[18]*f[19]*f[38]*f[76]/(f[13]*f[26]*f[39]*f[78])
+Gon_Q(X1(155)) <= 240. Function of that degree: f[7]*f[11]*f[18]*f[77]/(f[8]*f[13]^2*f[26]*f[39]*f[78])
+Gon_Q(X1(156)) <= 168. Function of that degree: f[11]*f[19]*f[77]/f[79]
+Gon_Q(X1(157)) <= 323. Function of that degree: f[7]/f[8]
+Gon_Q(X1(158)) <= 234. Function of that degree: f[34]*f[47]/f[64]
+Gon_Q(X1(159)) <= 234. Function of that degree: f[37]*f[43]*f[74]/(f[11]*f[14]*f[42]*f[53]*f[64])
+Gon_Q(X1(160)) <= 184. Function of that degree: f[12]*f[24]*f[79]/(f[16]*f[27]*f[81])
+Gon_Q(X1(161)) <= 264. Function of that degree: f[5]*f[6]*f[10]*f[15]*f[16]*f[20]*f[40]*f[80]/(f[4]*f[9]*f[27]*f[81])
+Gon_Q(X1(162)) <= 162. Function of that degree: f[13]*f[26]*f[36]*f[39]*f[78]/(f[16]*f[20]*f[27]*f[48]*f[54]*f[60])
+Gon_Q(X1(163)) <= 348. Function of that degree: f[7]/f[8]
+Gon_Q(X1(164)) <= 210. Function of that degree: f[27]*f[43]*f[81]/(f[13]*f[39]*f[83])
+Gon_Q(X1(165)) <= 240. Function of that degree: f[13]*f[41]*f[82]/f[83]
+Gon_Q(X1(166)) <= 240. Function of that degree: f[32]*f[61]/f[67]
+Gon_Q(X1(167)) <= 365. Function of that degree: f[7]/f[8]
+Gon_Q(X1(168)) <= 192. Function of that degree: f[49]*f[63]/(f[11]*f[77])
+Gon_Q(X1(169)) <= 260. Function of that degree: f[3]*f[4]^2*f[6]^4*f[7]^6*f[12]^3*f[14]^3*f[21]^3*f[26]*f[28]^3*f[42]^3*f[84]^3/(f[5]^2*f[8]^5*f[9]^2*f[17]^3*f[85]^3)
+Gon_Q(X1(170)) <= 216. Function of that degree: f[19]*f[43]*f[57]*f[86]/(f[12]*f[21]*f[23]*f[31]*f[42]*f[62]*f[84])
+Gon_Q(X1(171)) <= 270. Function of that degree: f[19]*f[56]*f[57]*f[58]/(f[27]*f[43]*f[86])
+Gon_Q(X1(172)) <= 231. Function of that degree: f[13]*f[39]*f[47]*f[86]/(f[17]*f[41]*f[51]*f[82])
+Gon_Q(X1(173)) <= 392. Function of that degree: f[7]/f[8]
+Gon_Q(X1(174)) <= 210. Function of that degree: f[31]*f[62]*f[79]/(f[10]*f[37]*f[50]*f[83])
+Gon_Q(X1(175)) <= 240. Function of that degree: f[3]^7*f[5]^8*f[6]^4*f[9]^6*f[10]*f[14]*f[29]^21*f[70]*f[87]^21/(f[4]^23*f[7]*f[8]^7*f[11]^21*f[22]^21*f[44]^21*f[88]^21)
+Gon_Q(X1(176)) <= 240. Function of that degree: f[19]*f[29]*f[87]/f[89]
+Gon_Q(X1(177)) <= 290. Function of that degree: f[17]*f[29]*f[34]*f[87]/(f[56]*f[59]*f[62])
+Gon_Q(X1(178)) <= 274. Function of that degree: f[37]*f[56]/f[61]
+Gon_Q(X1(179)) <= 420. Function of that degree: f[7]/f[8]
+Gon_Q(X1(180)) <= 192. Function of that degree: f[9]*f[13]*f[16]*f[65]*f[80]/(f[6]*f[7]*f[17]*f[50]*f[85])
+Gon_Q(X1(181)) <= 429. Function of that degree: f[7]/f[8]
+Gon_Q(X1(182)) <= 252. Function of that degree: f[23]^2*f[46]^2*f[92]/(f[10]*f[16]*f[18]*f[30]*f[32]*f[59]*f[90])
+Gon_Q(X1(183)) <= 310. Function of that degree: f[43]*f[47]*f[86]/(f[10]*f[11]*f[24]*f[50]*f[61]*f[72])
+Gon_Q(X1(184)) <= 264. Function of that degree: f[6]*f[7]*f[13]*f[27]*f[91]/(f[9]*f[19]*f[31]*f[93])
+Gon_Q(X1(185)) <= 342. Function of that degree: f[6]*f[7]*f[21]*f[23]*f[46]*f[92]/(f[9]*f[16]*f[31]*f[93])
+Gon_Q(X1(186)) <= 240. Function of that degree: f[6]*f[8]*f[22]*f[71]*f[73]/(f[9]*f[40]*f[41]*f[53]*f[82])
+Gon_Q(X1(187)) <= 360. Function of that degree: f[6]*f[7]^2*f[14]*f[31]*f[93]/(f[8]*f[9]*f[47]*f[94])
+Gon_Q(X1(188)) <= 276. Function of that degree: f[29]*f[37]*f[74]*f[87]/(f[27]*f[40]*f[67]*f[94])
+Gon_Q(X1(189)) <= 288. Function of that degree: f[13]*f[42]*f[91]/(f[10]*f[56]*f[63]*f[70])
+Gon_Q(X1(190)) <= 270. Function of that degree: f[8]*f[9]*f[47]*f[94]/(f[6]*f[7]^2*f[14]*f[16]*f[32]*f[48]*f[96])
+Gon_Q(X1(191)) <= 478. Function of that degree: f[7]/f[8]
+Gon_Q(X1(192)) <= 224. Function of that degree: f[5]*f[19]^2*f[32]*f[95]^2/(f[4]*f[7]*f[97]^2)
+Gon_Q(X1(193)) <= 488. Function of that degree: f[7]/f[8]
+Gon_Q(X1(194)) <= 328. Function of that degree: f[31]*f[62]/(f[10]*f[13]*f[14]*f[70])
+Gon_Q(X1(195)) <= 336. Function of that degree: f[49]*f[98]/f[97]
+Gon_Q(X1(196)) <= 252. Function of that degree: f[10]*f[11]^2*f[33]*f[70]*f[77]*f[99]/(f[12]*f[21]*f[42]*f[63]*f[84]*f[97])
+Gon_Q(X1(197)) <= 508. Function of that degree: f[7]/f[8]
+Gon_Q(X1(198)) <= 240. Function of that degree: f[6]^2*f[7]^8*f[9]*f[14]^11*f[49]^11*f[77]*f[98]^11/(f[4]^5*f[5]*f[8]^2*f[10]^11*f[20]^11*f[25]^11*f[44]*f[50]^11*f[100]^11)
+Gon_Q(X1(199)) <= 519. Function of that degree: f[7]/f[8]
+Gon_Q(X1(200)) <= 240. Function of that degree: f[3]^4*f[6]^13*f[7]^7*f[11]^12*f[16]*f[33]^12*f[80]*f[99]^12/(f[4]^4*f[8]^2*f[9]^9*f[101]^12)
+Gon_Q(X1(201)) <= 374. Function of that degree: f[22]*f[66]*f[67]*f[68]/(f[16]*f[32]*f[101])
+Gon_Q(X1(202)) <= 382. Function of that degree: f[38]*f[61]/(f[16]*f[80])
+Gon_Q(X1(203)) <= 420. Function of that degree: f[18]*f[101]/(f[11]*f[17]*f[34]*f[51]*f[102])
+Gon_Q(X1(204)) <= 288. Function of that degree: f[23]*f[101]/(f[11]*f[103])
+Gon_Q(X1(205)) <= 420. Function of that degree: f[17]*f[23]*f[34]*f[51]*f[102]/(f[18]*f[103])
+Gon_Q(X1(206)) <= 398. Function of that degree: f[31]*f[40]*f[62]/f[82]
+Gon_Q(X1(207)) <= 396. Function of that degree: f[9]*f[16]*f[103]/(f[6]*f[7]*f[13]*f[26]*f[52]*f[104])
+Gon_Q(X1(208)) <= 336. Function of that degree: f[4]*f[9]*f[103]/(f[5]*f[6]*f[15]*f[35]*f[105])
+Gon_Q(X1(209)) <= 450. Function of that degree: f[8]*f[13]*f[26]*f[52]*f[104]/(f[7]*f[21]*f[35]*f[105])
+Gon_Q(X1(210)) <= 288. Function of that degree: f[9]*f[13]*f[91]/(f[8]*f[35]*f[98])
+Gon_Q(X1(211)) <= 583. Function of that degree: f[7]/f[8]
+Gon_Q(X1(212)) <= 351. Function of that degree: f[11]*f[33]*f[40]*f[73]*f[106]/(f[31]*f[43]*f[86]*f[93])
+Gon_Q(X1(213)) <= 420. Function of that degree: f[37]*f[53]*f[106]/(f[17]*f[34]*f[107])
+Gon_Q(X1(214)) <= 396. Function of that degree: f[22]*f[47]*f[66]/(f[37]*f[74])
+Gon_Q(X1(215)) <= 462. Function of that degree: f[24]*f[107]/(f[18]*f[19]*f[27]*f[36]*f[54]*f[108])
+Gon_Q(X1(216)) <= 288. Function of that degree: f[24]*f[107]/f[109]
+Gon_Q(X1(217)) <= 480. Function of that degree: f[18]*f[19]*f[27]*f[36]*f[54]*f[108]/f[109]
+Gon_Q(X1(218)) <= 445. Function of that degree: f[14]*f[42]*f[67]/f[88]
+Gon_Q(X1(219)) <= 444. Function of that degree: f[19]*f[38]*f[109]/(f[24]*f[72]*f[73]*f[74])
+Gon_Q(X1(220)) <= 360. Function of that degree: f[27]*f[109]/(f[17]*f[37]*f[111])
+Gon_Q(X1(221)) <= 504. Function of that degree: f[5]*f[6]*f[10]*f[11]*f[15]*f[22]*f[55]*f[110]/(f[4]*f[9]*f[37]*f[111])
+Gon_Q(X1(222)) <= 342. Function of that degree: f[9]*f[10]*f[79]*f[101]/(f[6]*f[7]*f[47]*f[53]*f[64]*f[106])
+Gon_Q(X1(223)) <= 651. Function of that degree: f[7]/f[8]
+Gon_Q(X1(224)) <= 384. Function of that degree: f[23]*f[37]*f[111]/f[113]
+Gon_Q(X1(225)) <= 360. Function of that degree: f[4]^20*f[6]^26*f[7]^45*f[10]*f[14]^27*f[16]^27*f[18]*f[28]^27*f[30]*f[56]^27*f[90]*f[112]^27/(f[5]^10*f[8]^23*f[9]^29*f[113]^27)
+Gon_Q(X1(226)) <= 444. Function of that degree: f[16]*f[23]*f[80]/f[73]
+Gon_Q(X1(227)) <= 675. Function of that degree: f[7]/f[8]
+Gon_Q(X1(228)) <= 360. Function of that degree: f[25]*f[113]/(f[13]*f[23]*f[115])
+Gon_Q(X1(229)) <= 687. Function of that degree: f[7]/f[8]
+Gon_Q(X1(230)) <= 396. Function of that degree: f[6]*f[7]^2*f[14]*f[19]*f[28]*f[38]*f[57]*f[114]/(f[8]*f[9]*f[18]*f[29]*f[58]*f[116])
+Gon_Q(X1(231)) <= 480. Function of that degree: f[16]*f[23]*f[115]/(f[29]*f[58]*f[116])
+Gon_Q(X1(232)) <= 420. Function of that degree: f[18]*f[49]*f[67]*f[116]/(f[19]*f[38]*f[76]*f[107])
+Gon_Q(X1(233)) <= 711. Function of that degree: f[7]/f[8]
+Gon_Q(X1(234)) <= 336. Function of that degree: f[4]^9*f[7]^4*f[9]^2*f[29]^13*f[58]^13*f[91]*f[116]^13/(f[5]^3*f[6]^2*f[8]^9*f[52]*f[59]^13*f[118]^13)
+Gon_Q(X1(235)) <= 552. Function of that degree: f[9]*f[13]^2*f[26]*f[39]*f[117]/(f[6]*f[7]*f[21]*f[59]*f[118])
+Gon_Q(X1(236)) <= 435. Function of that degree: f[24]*f[47]*f[71]*f[118]/(f[53]*f[83]*f[106])
+Gon_Q(X1(237)) <= 520. Function of that degree: f[41]*f[59]*f[118]/(f[16]*f[26]*f[78]*f[79]*f[80])
+Gon_Q(X1(238)) <= 432. Function of that degree: f[4]*f[9]*f[59]*f[118]/(f[5]*f[6]*f[10]^2*f[15]*f[20]*f[30]*f[40]*f[60]*f[120])
+Gon_Q(X1(239)) <= 748. Function of that degree: f[7]/f[8]
+Gon_Q(X1(240)) <= 384. Function of that degree: f[17]*f[23]*f[119]/(f[11]*f[121])
+Gon_Q(X1(241)) <= 761. Function of that degree: f[7]/f[8]
+Gon_Q(X1(242)) <= 396. Function of that degree: f[9]^3*f[61]^2*f[77]*f[122]^2/(f[3]*f[6]^3*f[7]*f[10]^2*f[12]^2*f[15]^2*f[20]^2*f[24]^2*f[30]^2*f[33]*f[40]^2*f[60]^2*f[88]*f[120]^2)
+Gon_Q(X1(243)) <= 486. Function of that degree: f[11]*f[18]*f[121]/(f[61]*f[122])
+Gon_Q(X1(244)) <= 465. Function of that degree: f[12]*f[36]*f[43]*f[79]*f[122]/(f[13]*f[26]*f[52]*f[97]*f[104])
+Gon_Q(X1(245)) <= 504. Function of that degree: f[4]*f[5]^2*f[8]^5*f[9]^3*f[10]*f[14]*f[61]^15*f[70]*f[122]^15/(f[3]^5*f[6]^2*f[7]^7*f[41]^15*f[123]^15)
+Gon_Q(X1(246)) <= 420. Function of that degree: f[7]*f[11]*f[83]*f[121]/(f[8]*f[16]*f[43]*f[61]*f[80]*f[122])
+Gon_Q(X1(247)) <= 630. Function of that degree: f[16]*f[41]*f[123]/(f[31]*f[62]*f[124])
+Gon_Q(X1(248)) <= 480. Function of that degree: f[7]*f[35]*f[41]*f[123]/(f[8]*f[25]*f[27]*f[125])
+Gon_Q(X1(249)) <= 574. Function of that degree: f[23]*f[41]*f[46]*f[123]/(f[16]*f[80]*f[83]*f[86])
+Gon_Q(X1(250)) <= 375. Function of that degree: f[3]^2*f[5]^3*f[6]^8*f[7]^5*f[14]^5*f[15]*f[18]^5*f[21]^5*f[42]^5*f[63]^5*f[75]*f[126]^5/(f[4]^8*f[8]^4*f[9]^3*f[20]*f[31]^5*f[62]^5*f[100]*f[124]^5)
+Gon_Q(X1(251)) <= 825. Function of that degree: f[7]/f[8]
+Gon_Q(X1(252)) <= 384. Function of that degree: f[13]*f[16]*f[91]*f[112]/(f[10]*f[17]*f[70]*f[119])
+Gon_Q(X1(253)) <= 660. Function of that degree: f[7]*f[14]*f[17]*f[18]*f[21]*f[42]*f[63]*f[126]/(f[8]*f[127])
+Gon_Q(X1(254)) <= 605. Function of that degree: f[14]*f[113]/(f[67]*f[106])
+Gon_Q(X1(255)) <= 576. Function of that degree: f[32]*f[64]*f[128]/f[127]
+Gon_Q(X1(256)) <= 448. Function of that degree: f[4]^3*f[8]^5*f[64]*f[127]^6/(f[3]^2*f[5]*f[6]^2*f[9]^2*f[43]^6*f[129]^6)
+Gon_Q(X1(257)) <= 865. Function of that degree: f[7]/f[8]
+Gon_Q(X1(258)) <= 462. Function of that degree: f[7]*f[40]*f[53]*f[89]*f[106]/(f[8]*f[46]*f[83]*f[109])
+Gon_Q(X1(259)) <= 684. Function of that degree: f[4]*f[9]*f[11]*f[22]*f[43]*f[129]/(f[5]*f[6]*f[10]*f[13]*f[15]*f[26]*f[65]*f[130])
+Gon_Q(X1(260)) <= 504. Function of that degree: f[7]*f[91]/(f[8]*f[104])
+Gon_Q(X1(261)) <= 630. Function of that degree: f[13]*f[19]*f[26]*f[65]*f[130]/f[131]
+Gon_Q(X1(262)) <= 596. Function of that degree: f[11]*f[18]*f[121]/(f[61]*f[122])
+Gon_Q(X1(263)) <= 906. Function of that degree: f[7]/f[8]
+Gon_Q(X1(264)) <= 480. Function of that degree: f[6]*f[7]*f[77]*f[99]/(f[9]*f[121])
+Gon_Q(X1(265)) <= 702. Function of that degree: f[8]*f[11]*f[22]*f[29]*f[33]*f[44]*f[66]*f[132]/(f[7]*f[19]*f[24]*f[133])
+Gon_Q(X1(266)) <= 540. Function of that degree: f[11]*f[13]*f[22]*f[26]*f[33]*f[44]*f[66]*f[132]/(f[67]*f[134])
+Gon_Q(X1(267)) <= 660. Function of that degree: f[7]*f[19]*f[23]*f[46]*f[133]/(f[8]*f[43]*f[67]*f[134])
+Gon_Q(X1(268)) <= 561. Function of that degree: f[12]*f[61]*f[73]*f[134]/(f[16]*f[32]*f[64]*f[79]*f[128])
+Gon_Q(X1(269)) <= 948. Function of that degree: f[7]/f[8]
+Gon_Q(X1(270)) <= 432. Function of that degree: f[12]*f[13]*f[26]*f[60]*f[65]*f[130]/(f[16]*f[18]*f[45]*f[80]*f[90]*f[100])
+Gon_Q(X1(271)) <= 962. Function of that degree: f[7]/f[8]
+Gon_Q(X1(272)) <= 576. Function of that degree: f[5]*f[6]*f[85]*f[136]/(f[4]*f[7]*f[102]*f[119])
+Gon_Q(X1(273)) <= 672. Function of that degree: f[17]^2*f[34]*f[68]*f[136]/f[137]
+Gon_Q(X1(274)) <= 650. Function of that degree: f[8]*f[26]*f[71]*f[78]/(f[7]*f[14]*f[49]*f[98])
+Gon_Q(X1(275)) <= 600. Function of that degree: f[4]^19*f[8]^20*f[9]^20*f[10]*f[22]*f[110]*f[137]^33/(f[3]^11*f[5]^4*f[6]^43*f[7]^21*f[23]^33*f[46]^33*f[69]^33*f[138]^33)
+Gon_Q(X1(276)) <= 528. Function of that degree: f[29]*f[137]/(f[17]*f[139])
+Gon_Q(X1(277)) <= 1005. Function of that degree: f[7]/f[8]
+Gon_Q(X1(278)) <= 672. Function of that degree: f[6]*f[7]*f[13]*f[91]/(f[9]*f[32]*f[37]*f[96])
+Gon_Q(X1(279)) <= 720. Function of that degree: f[8]*f[139]/(f[7]*f[11]*f[14]*f[28]*f[35]*f[70]*f[140])
+Gon_Q(X1(280)) <= 576. Function of that degree: f[49]*f[98]/(f[16]*f[112])
+Gon_Q(X1(281)) <= 1034. Function of that degree: f[7]/f[8]
+Gon_Q(X1(282)) <= 552. Function of that degree: f[14]*f[101]*f[127]/(f[16]*f[61]*f[67]*f[80]*f[134])
+Gon_Q(X1(283)) <= 1049. Function of that degree: f[7]/f[8]
+Gon_Q(X1(284)) <= 630. Function of that degree: f[47]*f[73]*f[141]/(f[11]*f[13]*f[23]*f[69]*f[143])
+Gon_Q(X1(285)) <= 720. Function of that degree: f[17]*f[71]*f[142]/(f[11]*f[13]*f[143])
+Gon_Q(X1(286)) <= 630. Function of that degree: f[71]*f[142]/(f[16]*f[18]*f[36]*f[48]*f[72]*f[144])
+Gon_Q(X1(287)) <= 840. Function of that degree: f[11]*f[13]*f[143]/(f[16]*f[17]*f[18]*f[36]*f[48]*f[72]*f[144])
+Gon_Q(X1(288)) <= 504. Function of that degree: f[4]^2*f[8]^2*f[9]*f[11]^3*f[13]^3*f[16]*f[48]*f[143]^3/(f[5]^2*f[6]^2*f[7]*f[29]^3*f[145]^3)
+Gon_Q(X1(289)) <= 765. Function of that degree: f[3]*f[4]^2*f[6]^3*f[7]*f[12]^3*f[16]^3*f[18]^3*f[24]^3*f[34]*f[36]^3*f[48]^3*f[72]^3*f[144]^3/(f[5]^2*f[8]*f[9]*f[29]^3*f[145]^3)
+Gon_Q(X1(290)) <= 630. Function of that degree: f[16]*f[17]*f[18]*f[34]*f[36]*f[48]*f[72]*f[144]/(f[73]*f[146])
+Gon_Q(X1(291)) <= 784. Function of that degree: f[31]*f[47]*f[62]*f[141]/(f[88]*f[97]*f[106])
+Gon_Q(X1(292)) <= 666. Function of that degree: f[5]*f[6]*f[17]*f[24]*f[61]*f[85]*f[146]/(f[4]*f[8]*f[67]*f[97]*f[134])
+Gon_Q(X1(293)) <= 1124. Function of that degree: f[7]/f[8]
+Gon_Q(X1(294)) <= 504. Function of that degree: f[5]^6*f[6]^2*f[9]^6*f[12]*f[28]*f[73]^9*f[84]*f[146]^9/(f[4]^10*f[7]^4*f[8]^4*f[37]^9*f[74]^9*f[148]^9)
+Gon_Q(X1(295)) <= 870. Function of that degree: f[7]*f[16]*f[21]*f[32]*f[49]*f[147]/(f[8]*f[27]*f[37]*f[74]*f[148])
+Gon_Q(X1(296)) <= 684. Function of that degree: f[6]*f[7]*f[21]*f[41]*f[49]*f[147]/(f[9]*f[11]*f[33]*f[149])
+Gon_Q(X1(297)) <= 720. Function of that degree: f[13]*f[66]*f[143]/(f[10]*f[88]*f[99]*f[110])
+Gon_Q(X1(298)) <= 832. Function of that degree: f[18]*f[131]/(f[79]*f[122])
+Gon_Q(X1(299)) <= 924. Function of that degree: f[4]*f[9]*f[18]*f[149]/(f[5]*f[6]*f[10]*f[15]*f[25]*f[30]*f[50]*f[75]*f[150])
+Gon_Q(X1(300)) <= 480. Function of that degree: f[6]^3*f[7]^8*f[24]*f[40]*f[120]*f[149]^18/(f[8]^5*f[9]^3*f[151]^18)

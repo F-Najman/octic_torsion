@@ -1,0 +1,68 @@
+Loading "formal_common.m"
+genus 12, 18 rational cusps
+KERNEL cusp 1 deg 1 m 1 dim 11 (codim 1) [2.420 s, total 58.900 s]
+KERNEL cusp 2 deg 1 m 1 dim 11 (codim 1) [2.430 s, total 61.330 s]
+KERNEL cusp 3 deg 1 m 1 dim 11 (codim 1) [2.760 s, total 64.090 s]
+KERNEL cusp 4 deg 1 m 1 dim 11 (codim 1) [2.480 s, total 66.570 s]
+KERNEL cusp 5 deg 1 m 1 dim 11 (codim 1) [2.770 s, total 69.340 s]
+KERNEL cusp 7 deg 1 m 1 dim 11 (codim 1) [2.710 s, total 72.050 s]
+KERNEL cusp 8 deg 1 m 1 dim 11 (codim 1) [2.780 s, total 74.830 s]
+KERNEL cusp 9 deg 1 m 1 dim 11 (codim 1) [2.630 s, total 77.460 s]
+KERNEL cusp 10 deg 1 m 1 dim 11 (codim 1) [2.750 s, total 80.210 s]
+KERNEL cusp 12 deg 1 m 1 dim 11 (codim 1) [3.030 s, total 83.240 s]
+KERNEL cusp 13 deg 1 m 1 dim 11 (codim 1) [2.900 s, total 86.140 s]
+KERNEL cusp 14 deg 1 m 1 dim 11 (codim 1) [2.770 s, total 88.910 s]
+KERNEL cusp 15 deg 1 m 1 dim 11 (codim 1) [2.710 s, total 91.620 s]
+KERNEL cusp 16 deg 1 m 1 dim 11 (codim 1) [5.020 s, total 96.640 s]
+KERNEL cusp 17 deg 1 m 1 dim 11 (codim 1) [3.220 s, total 99.860 s]
+KERNEL cusp 18 deg 1 m 1 dim 11 (codim 1) [4.120 s, total 103.980 s]
+KERNEL cusp 19 deg 1 m 1 dim 11 (codim 1) [3.360 s, total 107.340 s]
+KERNEL cusp 20 deg 1 m 1 dim 11 (codim 1) [3.430 s, total 110.770 s]
+EXPKERNEL cusp 1 deg 1 mmax 1 codims [ 1 ] [3.540 s, total 114.330 s]
+EXPKERNEL cusp 2 deg 1 mmax 1 codims [ 1 ] [2.070 s, total 116.400 s]
+EXPKERNEL cusp 3 deg 1 mmax 1 codims [ 1 ] [5.940 s, total 122.340 s]
+EXPKERNEL cusp 4 deg 1 mmax 1 codims [ 1 ] [2.860 s, total 125.200 s]
+EXPKERNEL cusp 5 deg 1 mmax 1 codims [ 1 ] [7.420 s, total 132.620 s]
+x_ser_val, n, v, e = 0, 46, 25, 5
+val_den_bound = 230
+EXPKERNEL cusp 7 deg 1 mmax 1 codims [ 1 ] [1.870 s, total 134.490 s]
+x_ser_val, n, v, e = 0, 46, 25, 5
+val_den_bound = 230
+EXPKERNEL cusp 8 deg 1 mmax 1 codims [ 1 ] [1.880 s, total 136.370 s]
+x_ser_val, n, v, e = 0, 46, 25, 5
+val_den_bound = 230
+EXPKERNEL cusp 9 deg 1 mmax 1 codims [ 1 ] [1.810 s, total 138.180 s]
+x_ser_val, n, v, e = 0, 46, 25, 5
+val_den_bound = 230
+EXPKERNEL cusp 10 deg 1 mmax 1 codims [ 1 ] [1.820 s, total 140.000 s]
+x_ser_val, n, v, e = 0, 46, 25, 5
+val_den_bound = 230
+EXPKERNEL cusp 12 deg 1 mmax 1 codims [ 1 ] [1.890 s, total 141.890 s]
+x_ser_val, n, v, e = 0, 46, 25, 5
+val_den_bound = 230
+EXPKERNEL cusp 13 deg 1 mmax 1 codims [ 1 ] [1.870 s, total 143.760 s]
+x_ser_val, n, v, e = 0, 46, 25, 5
+val_den_bound = 230
+EXPKERNEL cusp 14 deg 1 mmax 1 codims [ 1 ] [1.820 s, total 145.580 s]
+x_ser_val, n, v, e = 0, 46, 25, 5
+val_den_bound = 230
+EXPKERNEL cusp 15 deg 1 mmax 1 codims [ 1 ] [1.800 s, total 147.380 s]
+EXPKERNEL cusp 16 deg 1 mmax 1 codims [ 1 ] [2.450 s, total 149.830 s]
+EXPKERNEL cusp 17 deg 1 mmax 1 codims [ 1 ] [8.560 s, total 158.390 s]
+EXPKERNEL cusp 18 deg 1 mmax 1 codims [ 1 ] [10.660 s, total 169.050 s]
+EXPKERNEL cusp 19 deg 1 mmax 1 codims [ 1 ] [13.580 s, total 182.630 s]
+EXPKERNEL cusp 20 deg 1 mmax 1 codims [ 1 ] [24.630 s, total 207.260 s]
+kernel spaces agree: true
+Riemann-Roch kernels: reduced degree-10 divisors 43758, failures (codim < 10) 2798
+  failure [ 10, 12, 13, 14, 15, 16, 17, 18, 19, 20 ]: direct h0(D) = 2, codim 9
+  failure [ 9, 12, 13, 14, 15, 16, 17, 18, 19, 20 ]: direct h0(D) = 2, codim 9
+  failure [ 9, 10, 13, 14, 15, 16, 17, 18, 19, 20 ]: direct h0(D) = 2, codim 9
+  failure [ 9, 10, 12, 14, 15, 16, 17, 18, 19, 20 ]: direct h0(D) = 2, codim 9
+  failure [ 9, 10, 12, 13, 15, 16, 17, 18, 19, 20 ]: direct h0(D) = 2, codim 9
+expansion kernels: reduced degree-10 divisors 43758, failures (codim < 10) 2798
+  failure [ 10, 12, 13, 14, 15, 16, 17, 18, 19, 20 ]: direct h0(D) = 2, codim 9
+  failure [ 9, 12, 13, 14, 15, 16, 17, 18, 19, 20 ]: direct h0(D) = 2, codim 9
+  failure [ 9, 10, 13, 14, 15, 16, 17, 18, 19, 20 ]: direct h0(D) = 2, codim 9
+  failure [ 9, 10, 12, 14, 15, 16, 17, 18, 19, 20 ]: direct h0(D) = 2, codim 9
+  failure [ 9, 10, 12, 13, 15, 16, 17, 18, 19, 20 ]: direct h0(D) = 2, codim 9
+KNOWN_POSITIVE_DONE (320.890 s)

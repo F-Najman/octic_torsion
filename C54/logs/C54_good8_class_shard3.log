@@ -1,0 +1,60 @@
+Loading "work/degree8/large_levels/C54_via27_preflight.m"
+OCTIC54_F2_CLASSES [ 3, 3, 52497, 0 ]
+[ 3, 3, 52497 ]
+3.830
+OCTIC54_F2_NC_DEGREE 1 0 3.880
+OCTIC54_F2_NC_DEGREE 2 0 3.890
+OCTIC54_F2_NC_DEGREE 3 0 3.890
+OCTIC54_F2_NC_DEGREE 4 0 3.890
+OCTIC54_F2_NC_DEGREE 5 0 3.890
+OCTIC54_F2_NC_DEGREE 6 9 3.890
+OCTIC54_F2_NC_DEGREE 7 9 3.890
+OCTIC54_F2_NC_DEGREE 8 18 3.900
+OCTIC54_F2_CANDIDATES 531 [ <6, 9, 48>, <7, 9, 9>, <8, 18, 1> ]
+11.750
+OCTIC54_F5_CLASSES [ 3, 3, 342175446, 0 ]
+[ 3, 3, 52497 ]
+cuspidal_relations_equal=true 33.760
+OCTIC54_F5_CUSP_CLASSES 0 1 34.630
+OCTIC54_F5_CUSP_CLASSES 1 9 35.530
+OCTIC54_F5_CUSP_CLASSES 2 48 36.390
+OCTIC54_F5_CUSP_CLASSES 3 192 37.250
+OCTIC54_F5_CUSP_CLASSES 4 636 38.120
+OCTIC54_F5_CUSP_CLASSES 5 1836 38.980
+OCTIC54_CROSSPRIME_PREFLIGHT_DONE 38.990
+OCTIC54_GOOD8_CLASS_PROGRESS shard=3 tested=25 members=0 passing=0 time=8.800
+OCTIC54_GOOD8_CLASS_PROGRESS shard=3 tested=50 members=0 passing=0 time=22.680
+OCTIC54_GOOD8_CLASS_PROGRESS shard=3 tested=75 members=0 passing=0 time=35.400
+OCTIC54_GOOD8_CLASS_PROGRESS shard=3 tested=100 members=0 passing=0 time=46.620
+OCTIC54_GOOD8_CLASS_PROGRESS shard=3 tested=125 members=0 passing=0 time=62.000
+OCTIC54_GOOD8_CLASS_PROGRESS shard=3 tested=150 members=0 passing=0 time=74.200
+OCTIC54_GOOD8_CLASS_PROGRESS shard=3 tested=175 members=0 passing=0 time=84.560
+OCTIC54_GOOD8_CLASS_PROGRESS shard=3 tested=200 members=0 passing=0 time=96.880
+OCTIC54_GOOD8_CLASS_PROGRESS shard=3 tested=225 members=0 passing=0 time=107.560
+OCTIC54_GOOD8_CLASS_PROGRESS shard=3 tested=250 members=0 passing=0 time=121.230
+OCTIC54_GOOD8_CLASS_PROGRESS shard=3 tested=275 members=0 passing=0 time=130.490
+OCTIC54_GOOD8_CLASS_PROGRESS shard=3 tested=300 members=0 passing=0 time=142.500
+OCTIC54_GOOD8_CLASS_PROGRESS shard=3 tested=325 members=0 passing=0 time=156.440
+OCTIC54_GOOD8_CLASS_PROGRESS shard=3 tested=350 members=0 passing=0 time=166.950
+OCTIC54_GOOD8_CLASS_PROGRESS shard=3 tested=375 members=0 passing=0 time=184.160
+OCTIC54_GOOD8_CLASS_PROGRESS shard=3 tested=400 members=0 passing=0 time=194.130
+OCTIC54_GOOD8_CLASS_PROGRESS shard=3 tested=425 members=0 passing=0 time=207.780
+OCTIC54_GOOD8_CLASS_PROGRESS shard=3 tested=450 members=0 passing=0 time=219.170
+OCTIC54_GOOD8_CLASS_PROGRESS shard=3 tested=475 members=0 passing=0 time=231.010
+OCTIC54_GOOD8_CLASS_PROGRESS shard=3 tested=500 members=0 passing=0 time=240.900
+OCTIC54_GOOD8_CLASS_PROGRESS shard=3 tested=525 members=0 passing=0 time=256.310
+OCTIC54_GOOD8_CLASS_PROGRESS shard=3 tested=550 members=0 passing=0 time=267.080
+OCTIC54_GOOD8_CLASS_PROGRESS shard=3 tested=575 members=0 passing=0 time=283.870
+OCTIC54_GOOD8_CLASS_PROGRESS shard=3 tested=600 members=0 passing=0 time=295.080
+OCTIC54_GOOD8_CLASS_PROGRESS shard=3 tested=625 members=0 passing=0 time=305.180
+OCTIC54_GOOD8_CLASS_PROGRESS shard=3 tested=650 members=0 passing=0 time=317.810
+OCTIC54_GOOD8_CLASS_PROGRESS shard=3 tested=675 members=0 passing=0 time=334.140
+OCTIC54_GOOD8_CLASS_PROGRESS shard=3 tested=700 members=0 passing=0 time=344.970
+OCTIC54_GOOD8_CLASS_PROGRESS shard=3 tested=725 members=0 passing=0 time=355.880
+OCTIC54_GOOD8_CLASS_PROGRESS shard=3 tested=750 members=0 passing=0 time=366.920
+OCTIC54_GOOD8_CLASS_PROGRESS shard=3 tested=775 members=0 passing=0 time=374.330
+OCTIC54_GOOD8_CLASS_PROGRESS shard=3 tested=800 members=0 passing=0 time=386.140
+OCTIC54_GOOD8_CLASS_PROGRESS shard=3 tested=825 members=0 passing=0 time=396.790
+OCTIC54_GOOD8_CLASS_PROGRESS shard=3 tested=850 members=0 passing=0 time=409.870
+OCTIC54_GOOD8_CLASS_PROGRESS shard=3 tested=875 members=0 passing=0 time=419.920
+OCTIC54_GOOD8_CLASS_DONE shard=3 tested=894 members=0 passing=0 complete=true time=430.370

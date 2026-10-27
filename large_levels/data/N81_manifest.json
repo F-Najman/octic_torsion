@@ -1,0 +1,76 @@
+{
+  "degree": 8,
+  "excluded_cyclic_order": 81,
+  "status": "complete",
+  "genus": 190,
+  "rankQ": 0,
+  "rational2torsion": 0,
+  "integral_homology_rank": 380,
+  "upper2torsion_kernel_dimensions": [
+    8,
+    0
+  ],
+  "good_reduction_degrees_through8": [],
+  "all_cuspidal_degree8_divisors_liftQ": true,
+  "gonality_lower_bound": "236925/8192",
+  "principal_function_degree_bound": 8,
+  "CM_exclusion_needed": false,
+  "files": [
+    {
+      "path": "N81_exclusion.tex",
+      "sha256": "18d17e9d39aff95c6d7846fcb8650f36fc52097b3771888fb566c91264e83084"
+    },
+    {
+      "path": "certify_additional.py",
+      "sha256": "2ba6cd96f5c23f338ce042cbcf027c35e4db248ca99dbf092209890ac8e7f7d3"
+    },
+    {
+      "path": "winding_probe.m",
+      "sha256": "46f61f69c8ddbdda0bb734d43d4ff9a1e9490381364da1cd9d19875ad6f8cd01"
+    },
+    {
+      "path": "winding81_octic.log",
+      "sha256": "941de4c941c5cde4847403432a6edf9c7501fe7d19e0f5966fa943ae2b20282e"
+    },
+    {
+      "path": "rational_two_torsion_8gb.m",
+      "sha256": "196a7636a56322564cf20b0d2b0a116b247b09b890d7d4c1ce730657fd09c1dc"
+    },
+    {
+      "path": "rational_two_torsion_81_v2.log",
+      "sha256": "b89a479f85b45ada9c83d98c8bf430a3a0320d83fe93407d06462b29675d717c"
+    },
+    {
+      "path": "two_torsion_81_v2_matrices.m",
+      "sha256": "749e763cbf441f7bb28dc98548bc0ae6fee6fec1b3cc7bbee247f07a6327bc72"
+    },
+    {
+      "path": "replay_two_torsion_81.py",
+      "sha256": "41400609cbcca7d22635b8a2591fdd437dc90d7910c4565c5c20f7e9ddcae97c"
+    },
+    {
+      "path": "two_torsion_81_replay.log",
+      "sha256": "2cbf1eacc293ae152e7d7bca2013a3990ef85009e74a9dfac58491c48c89165d"
+    },
+    {
+      "path": "cusp_lift_checks.py",
+      "sha256": "56540c39c0c7678274eb7efb8f6edc610cfb2cb367d1eee973cb6c81ef53f8a9"
+    },
+    {
+      "path": "cusp_lift_checks.json",
+      "sha256": "0ecf8f3054076950e18b2e9b79ee4791af841a41116243b1ac6f3902ff20396c"
+    },
+    {
+      "path": "cusp_lift_checks.log",
+      "sha256": "7ac20e1183f80260a9398ebe04f577544b5f92a9a7ac1c07ba831f1aae08e02a"
+    },
+    {
+      "path": "finite_fields_2_octic.m",
+      "sha256": "1170863a5335ec087d9d3d469997a0e0685e08c5b3becdfa0ad56983fe680afd"
+    },
+    {
+      "path": "finite_fields_2_octic.log",
+      "sha256": "7d8fea2aa92eb193837f62c9dc9528d28b9e6a71d120025bcaeb4910d6856250"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+OCTIC65_GOOD8_EXHAUSTIVE pairs=64 closed_places=8 diamond_orbits=2 time=0.820
+OCTIC65_GOOD8_SOURCE_DIAMONDS_VERIFIED a3=t_inverse a6=z_plus1
+OCTIC65_GOOD8_REP index=1 fieldpoly=[ 1, 0, 1, 1, 1, 0, 0, 0, 1 ] z=[ 0, 1, 1, 1, 1, 0, 1, 1 ] t=[ 0, 1, 1, 0, 1, 1, 0, 1 ]
+OCTIC65_GOOD8_REP index=2 fieldpoly=[ 1, 0, 1, 1, 1, 0, 0, 0, 1 ] z=[ 1, 1, 0, 1, 0, 0, 1, 1 ] t=[ 0, 1, 1, 0, 1, 1, 1, 0 ]
+OCTIC65_GOOD8_MODEL genus=21 degree=12 time=1.700
+OCTIC65_GOOD8_TEST_START index=1 image_degrees=[ 16, 16 ] time=1.850
+OCTIC65_GOOD8_A3_DIFFERENCE index=1 principal=false time=2.170
+OCTIC65_GOOD8_TEST_START index=2 image_degrees=[ 16, 16 ] time=2.310
+OCTIC65_GOOD8_A3_DIFFERENCE index=2 principal=false time=2.620
+OCTIC65_GOOD8_A3_DONE

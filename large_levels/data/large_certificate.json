@@ -1,0 +1,1392 @@
+{
+  "degree": 8,
+  "excluded_cyclic_orders": [
+    95,
+    115,
+    119,
+    121,
+    125,
+    133,
+    143,
+    161,
+    169,
+    187,
+    209,
+    221,
+    247,
+    253,
+    289,
+    299,
+    323,
+    361,
+    391,
+    437,
+    529
+  ],
+  "rows": [
+    {
+      "N": 95,
+      "a": 11,
+      "method": "local2",
+      "index": 4320,
+      "genus": 289,
+      "gonality_lower_bound": "43875/1024",
+      "diamond_order": 3,
+      "minimum_CM_degree": 72,
+      "rank_source": "proved archived newforms",
+      "newform_dimension_sum": 289,
+      "positive_rank_forms": [
+        {
+          "level": 95,
+          "multiplicity": 1,
+          "id": 17237,
+          "label": "95.2.l.a",
+          "char_orbit_label": "l",
+          "char_order": 12,
+          "char_conductor": 95,
+          "dim": 4,
+          "relative_dim": 1,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": false,
+          "nf_label": "4.0.144.1"
+        }
+      ],
+      "nontrivial_positive_characters": [
+        [
+          95,
+          "l"
+        ]
+      ],
+      "p": 2,
+      "principal_function_degree_bound": 32,
+      "good_reduction_degrees_through8": []
+    },
+    {
+      "N": 115,
+      "a": 3,
+      "method": "global3",
+      "index": 6336,
+      "genus": 441,
+      "gonality_lower_bound": "32175/512",
+      "diamond_order": 44,
+      "minimum_CM_degree": 88,
+      "rank_source": "exact winding submodules",
+      "winding_log": "inputs/winding115.log",
+      "character_orbits": [
+        {
+          "N": 115,
+          "order": 1,
+          "conductor": 1,
+          "dimension": 11,
+          "winding_dimension": 9,
+          "coefficient_degree": 20
+        },
+        {
+          "N": 115,
+          "order": 2,
+          "conductor": 5,
+          "dimension": 10,
+          "winding_dimension": 10,
+          "coefficient_degree": 20
+        },
+        {
+          "N": 115,
+          "order": 44,
+          "conductor": 115,
+          "dimension": 10,
+          "winding_dimension": 10,
+          "coefficient_degree": 20
+        },
+        {
+          "N": 115,
+          "order": 11,
+          "conductor": 23,
+          "dimension": 10,
+          "winding_dimension": 10,
+          "coefficient_degree": 20
+        },
+        {
+          "N": 115,
+          "order": 22,
+          "conductor": 115,
+          "dimension": 10,
+          "winding_dimension": 10,
+          "coefficient_degree": 20
+        },
+        {
+          "N": 115,
+          "order": 4,
+          "conductor": 115,
+          "dimension": 10,
+          "winding_dimension": 10,
+          "coefficient_degree": 20
+        }
+      ],
+      "q": 3,
+      "kq": 7,
+      "principal_function_degree_bound": 56
+    },
+    {
+      "N": 119,
+      "a": 3,
+      "method": "global3",
+      "index": 6912,
+      "genus": 481,
+      "gonality_lower_bound": "8775/128",
+      "diamond_order": 48,
+      "minimum_CM_degree": 96,
+      "rank_source": "proved archived newforms",
+      "newform_dimension_sum": 481,
+      "positive_rank_forms": [],
+      "nontrivial_positive_characters": [],
+      "q": 3,
+      "kq": 7,
+      "principal_function_degree_bound": 56
+    },
+    {
+      "N": 121,
+      "a": 2,
+      "method": "global3",
+      "index": 7260,
+      "genus": 526,
+      "gonality_lower_bound": "589875/8192",
+      "diamond_order": 55,
+      "minimum_CM_degree": 110,
+      "rank_source": "proved archived newforms",
+      "newform_dimension_sum": 526,
+      "positive_rank_forms": [
+        {
+          "level": 121,
+          "multiplicity": 1,
+          "id": 20957,
+          "label": "121.2.a.b",
+          "char_orbit_label": "a",
+          "char_order": 1,
+          "char_conductor": 1,
+          "dim": 1,
+          "relative_dim": 1,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": true,
+          "nf_label": "1.1.1.1"
+        }
+      ],
+      "nontrivial_positive_characters": [],
+      "q": 3,
+      "kq": 8,
+      "principal_function_degree_bound": 64
+    },
+    {
+      "N": 125,
+      "a": 3,
+      "method": "global3",
+      "index": 7500,
+      "genus": 536,
+      "gonality_lower_bound": "609375/8192",
+      "diamond_order": 50,
+      "minimum_CM_degree": 50,
+      "rank_source": "proved archived newforms",
+      "newform_dimension_sum": 536,
+      "positive_rank_forms": [
+        {
+          "level": 125,
+          "multiplicity": 1,
+          "id": 21350,
+          "label": "125.2.a.a",
+          "char_orbit_label": "a",
+          "char_order": 1,
+          "char_conductor": 1,
+          "dim": 2,
+          "relative_dim": 2,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": false,
+          "nf_label": "2.2.5.1"
+        }
+      ],
+      "nontrivial_positive_characters": [],
+      "q": 3,
+      "kq": 7,
+      "principal_function_degree_bound": 56
+    },
+    {
+      "N": 133,
+      "a": 64,
+      "method": "global3",
+      "index": 8640,
+      "genus": 613,
+      "gonality_lower_bound": "43875/512",
+      "diamond_order": 3,
+      "minimum_CM_degree": 36,
+      "rank_source": "proved archived newforms",
+      "newform_dimension_sum": 613,
+      "positive_rank_forms": [
+        {
+          "level": 133,
+          "multiplicity": 1,
+          "id": 22508,
+          "label": "133.2.a.a",
+          "char_orbit_label": "a",
+          "char_order": 1,
+          "char_conductor": 1,
+          "dim": 2,
+          "relative_dim": 2,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": false,
+          "nf_label": "2.2.5.1"
+        },
+        {
+          "level": 133,
+          "multiplicity": 1,
+          "id": 22509,
+          "label": "133.2.a.b",
+          "char_orbit_label": "a",
+          "char_order": 1,
+          "char_conductor": 1,
+          "dim": 2,
+          "relative_dim": 2,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": false,
+          "nf_label": "2.2.13.1"
+        },
+        {
+          "level": 133,
+          "multiplicity": 1,
+          "id": 22518,
+          "label": "133.2.f.a",
+          "char_orbit_label": "f",
+          "char_order": 3,
+          "char_conductor": 7,
+          "dim": 2,
+          "relative_dim": 1,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": false,
+          "nf_label": "2.0.3.1"
+        },
+        {
+          "level": 133,
+          "multiplicity": 1,
+          "id": 22536,
+          "label": "133.2.s.a",
+          "char_orbit_label": "s",
+          "char_order": 6,
+          "char_conductor": 133,
+          "dim": 2,
+          "relative_dim": 1,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": false,
+          "nf_label": "2.0.3.1"
+        }
+      ],
+      "nontrivial_positive_characters": [
+        [
+          133,
+          "f"
+        ],
+        [
+          133,
+          "s"
+        ]
+      ],
+      "q": 3,
+      "kq": 8,
+      "principal_function_degree_bound": 64
+    },
+    {
+      "N": 143,
+      "a": 67,
+      "method": "global3",
+      "index": 10080,
+      "genus": 721,
+      "gonality_lower_bound": "102375/1024",
+      "diamond_order": 12,
+      "minimum_CM_degree": 120,
+      "rank_source": "proved archived newforms",
+      "newform_dimension_sum": 721,
+      "positive_rank_forms": [
+        {
+          "level": 143,
+          "multiplicity": 1,
+          "id": 23494,
+          "label": "143.2.a.a",
+          "char_orbit_label": "a",
+          "char_order": 1,
+          "char_conductor": 1,
+          "dim": 1,
+          "relative_dim": 1,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": false,
+          "nf_label": "1.1.1.1"
+        },
+        {
+          "level": 143,
+          "multiplicity": 1,
+          "id": 23502,
+          "label": "143.2.h.a",
+          "char_orbit_label": "h",
+          "char_order": 5,
+          "char_conductor": 11,
+          "dim": 4,
+          "relative_dim": 1,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": false,
+          "nf_label": "4.0.125.1"
+        }
+      ],
+      "nontrivial_positive_characters": [
+        [
+          143,
+          "h"
+        ]
+      ],
+      "q": 3,
+      "kq": 8,
+      "principal_function_degree_bound": 64
+    },
+    {
+      "N": 161,
+      "a": 3,
+      "method": "global3",
+      "index": 12672,
+      "genus": 925,
+      "gonality_lower_bound": "32175/256",
+      "diamond_order": 66,
+      "minimum_CM_degree": 132,
+      "rank_source": "exact winding submodules",
+      "winding_log": "inputs/winding161.log",
+      "character_orbits": [
+        {
+          "N": 161,
+          "order": 1,
+          "conductor": 1,
+          "dimension": 15,
+          "winding_dimension": 13,
+          "coefficient_degree": 20
+        },
+        {
+          "N": 161,
+          "order": 3,
+          "conductor": 7,
+          "dimension": 14,
+          "winding_dimension": 14,
+          "coefficient_degree": 20
+        },
+        {
+          "N": 161,
+          "order": 66,
+          "conductor": 161,
+          "dimension": 14,
+          "winding_dimension": 14,
+          "coefficient_degree": 20
+        },
+        {
+          "N": 161,
+          "order": 22,
+          "conductor": 161,
+          "dimension": 14,
+          "winding_dimension": 14,
+          "coefficient_degree": 20
+        },
+        {
+          "N": 161,
+          "order": 11,
+          "conductor": 23,
+          "dimension": 14,
+          "winding_dimension": 14,
+          "coefficient_degree": 20
+        },
+        {
+          "N": 161,
+          "order": 33,
+          "conductor": 161,
+          "dimension": 14,
+          "winding_dimension": 14,
+          "coefficient_degree": 20
+        },
+        {
+          "N": 161,
+          "order": 6,
+          "conductor": 161,
+          "dimension": 14,
+          "winding_dimension": 14,
+          "coefficient_degree": 20
+        },
+        {
+          "N": 161,
+          "order": 2,
+          "conductor": 161,
+          "dimension": 14,
+          "winding_dimension": 14,
+          "coefficient_degree": 20
+        }
+      ],
+      "q": 3,
+      "kq": 7,
+      "principal_function_degree_bound": 56
+    },
+    {
+      "N": 169,
+      "a": 3,
+      "method": "global3",
+      "index": 14196,
+      "genus": 1070,
+      "gonality_lower_bound": "1153425/8192",
+      "diamond_order": 39,
+      "minimum_CM_degree": 52,
+      "rank_source": "proved archived newforms",
+      "newform_dimension_sum": 1070,
+      "positive_rank_forms": [
+        {
+          "level": 169,
+          "multiplicity": 1,
+          "id": 26812,
+          "label": "169.2.a.b",
+          "char_orbit_label": "a",
+          "char_order": 1,
+          "char_conductor": 1,
+          "dim": 3,
+          "relative_dim": 3,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": false,
+          "nf_label": "3.3.49.1"
+        }
+      ],
+      "nontrivial_positive_characters": [],
+      "q": 3,
+      "kq": 7,
+      "principal_function_degree_bound": 56
+    },
+    {
+      "N": 187,
+      "a": 122,
+      "method": "global3",
+      "index": 17280,
+      "genus": 1281,
+      "gonality_lower_bound": "43875/256",
+      "diamond_order": 16,
+      "minimum_CM_degree": 160,
+      "rank_source": "proved archived newforms",
+      "newform_dimension_sum": 1281,
+      "positive_rank_forms": [
+        {
+          "level": 187,
+          "multiplicity": 1,
+          "id": 28979,
+          "label": "187.2.a.c",
+          "char_orbit_label": "a",
+          "char_order": 1,
+          "char_conductor": 1,
+          "dim": 2,
+          "relative_dim": 2,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": false,
+          "nf_label": "2.2.12.1"
+        },
+        {
+          "level": 187,
+          "multiplicity": 1,
+          "id": 28981,
+          "label": "187.2.a.e",
+          "char_orbit_label": "a",
+          "char_order": 1,
+          "char_conductor": 1,
+          "dim": 3,
+          "relative_dim": 3,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": false,
+          "nf_label": "3.3.148.1"
+        },
+        {
+          "level": 187,
+          "multiplicity": 1,
+          "id": 28986,
+          "label": "187.2.g.a",
+          "char_orbit_label": "g",
+          "char_order": 5,
+          "char_conductor": 11,
+          "dim": 4,
+          "relative_dim": 1,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": false,
+          "nf_label": "4.0.125.1"
+        }
+      ],
+      "nontrivial_positive_characters": [
+        [
+          187,
+          "g"
+        ]
+      ],
+      "q": 3,
+      "kq": 8,
+      "principal_function_degree_bound": 64
+    },
+    {
+      "N": 209,
+      "a": 34,
+      "method": "global3",
+      "index": 21600,
+      "genus": 1621,
+      "gonality_lower_bound": "219375/1024",
+      "diamond_order": 18,
+      "minimum_CM_degree": 180,
+      "rank_source": "proved archived newforms",
+      "newform_dimension_sum": 1621,
+      "positive_rank_forms": [
+        {
+          "level": 209,
+          "multiplicity": 1,
+          "id": 31768,
+          "label": "209.2.a.a",
+          "char_orbit_label": "a",
+          "char_order": 1,
+          "char_conductor": 1,
+          "dim": 1,
+          "relative_dim": 1,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": false,
+          "nf_label": "1.1.1.1"
+        },
+        {
+          "level": 209,
+          "multiplicity": 1,
+          "id": 31769,
+          "label": "209.2.a.b",
+          "char_orbit_label": "a",
+          "char_order": 1,
+          "char_conductor": 1,
+          "dim": 2,
+          "relative_dim": 2,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": false,
+          "nf_label": "2.2.8.1"
+        },
+        {
+          "level": 209,
+          "multiplicity": 1,
+          "id": 31777,
+          "label": "209.2.f.a",
+          "char_orbit_label": "f",
+          "char_order": 5,
+          "char_conductor": 11,
+          "dim": 4,
+          "relative_dim": 1,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": false,
+          "nf_label": "4.0.125.1"
+        }
+      ],
+      "nontrivial_positive_characters": [
+        [
+          209,
+          "f"
+        ]
+      ],
+      "q": 3,
+      "kq": 8,
+      "principal_function_degree_bound": 64
+    },
+    {
+      "N": 221,
+      "a": 3,
+      "method": "global3",
+      "index": 24192,
+      "genus": 1825,
+      "gonality_lower_bound": "61425/256",
+      "diamond_order": 48,
+      "minimum_CM_degree": 96,
+      "rank_source": "proved archived newforms",
+      "newform_dimension_sum": 1825,
+      "positive_rank_forms": [
+        {
+          "level": 221,
+          "multiplicity": 1,
+          "id": 32917,
+          "label": "221.2.a.c",
+          "char_orbit_label": "a",
+          "char_order": 1,
+          "char_conductor": 1,
+          "dim": 2,
+          "relative_dim": 2,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": false,
+          "nf_label": "2.2.5.1"
+        },
+        {
+          "level": 221,
+          "multiplicity": 1,
+          "id": 32920,
+          "label": "221.2.a.f",
+          "char_orbit_label": "a",
+          "char_order": 1,
+          "char_conductor": 1,
+          "dim": 3,
+          "relative_dim": 3,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": false,
+          "nf_label": "3.3.229.1"
+        }
+      ],
+      "nontrivial_positive_characters": [],
+      "q": 3,
+      "kq": 7,
+      "principal_function_degree_bound": 56
+    },
+    {
+      "N": 247,
+      "a": 144,
+      "method": "global3",
+      "index": 30240,
+      "genus": 2305,
+      "gonality_lower_bound": "307125/1024",
+      "diamond_order": 3,
+      "minimum_CM_degree": 72,
+      "rank_source": "proved archived newforms",
+      "newform_dimension_sum": 2305,
+      "positive_rank_forms": [
+        {
+          "level": 247,
+          "multiplicity": 1,
+          "id": 36007,
+          "label": "247.2.a.b",
+          "char_orbit_label": "a",
+          "char_order": 1,
+          "char_conductor": 1,
+          "dim": 3,
+          "relative_dim": 3,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": false,
+          "nf_label": "3.3.81.1"
+        },
+        {
+          "level": 247,
+          "multiplicity": 1,
+          "id": 36008,
+          "label": "247.2.a.c",
+          "char_orbit_label": "a",
+          "char_order": 1,
+          "char_conductor": 1,
+          "dim": 4,
+          "relative_dim": 4,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": false,
+          "nf_label": "4.4.6809.1"
+        },
+        {
+          "level": 247,
+          "multiplicity": 1,
+          "id": 36032,
+          "label": "247.2.be.a",
+          "char_orbit_label": "be",
+          "char_order": 12,
+          "char_conductor": 247,
+          "dim": 4,
+          "relative_dim": 1,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": false,
+          "nf_label": "4.0.144.1"
+        },
+        {
+          "level": 247,
+          "multiplicity": 1,
+          "id": 36033,
+          "label": "247.2.be.b",
+          "char_orbit_label": "be",
+          "char_order": 12,
+          "char_conductor": 247,
+          "dim": 4,
+          "relative_dim": 1,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": false,
+          "nf_label": "4.0.144.1"
+        }
+      ],
+      "nontrivial_positive_characters": [
+        [
+          247,
+          "be"
+        ]
+      ],
+      "q": 3,
+      "kq": 8,
+      "principal_function_degree_bound": 64
+    },
+    {
+      "N": 253,
+      "a": 3,
+      "method": "global3",
+      "index": 31680,
+      "genus": 2421,
+      "gonality_lower_bound": "160875/512",
+      "diamond_order": 55,
+      "minimum_CM_degree": 220,
+      "rank_source": "exact winding submodules",
+      "winding_log": "inputs/winding253.log",
+      "character_orbits": [
+        {
+          "N": 253,
+          "order": 1,
+          "conductor": 1,
+          "dimension": 23,
+          "winding_dimension": 15,
+          "coefficient_degree": 40
+        },
+        {
+          "N": 253,
+          "order": 5,
+          "conductor": 11,
+          "dimension": 22,
+          "winding_dimension": 22,
+          "coefficient_degree": 40
+        },
+        {
+          "N": 253,
+          "order": 110,
+          "conductor": 253,
+          "dimension": 22,
+          "winding_dimension": 22,
+          "coefficient_degree": 40
+        },
+        {
+          "N": 253,
+          "order": 22,
+          "conductor": 253,
+          "dimension": 22,
+          "winding_dimension": 22,
+          "coefficient_degree": 40
+        },
+        {
+          "N": 253,
+          "order": 11,
+          "conductor": 23,
+          "dimension": 22,
+          "winding_dimension": 22,
+          "coefficient_degree": 40
+        },
+        {
+          "N": 253,
+          "order": 55,
+          "conductor": 253,
+          "dimension": 22,
+          "winding_dimension": 22,
+          "coefficient_degree": 40
+        },
+        {
+          "N": 253,
+          "order": 10,
+          "conductor": 253,
+          "dimension": 22,
+          "winding_dimension": 22,
+          "coefficient_degree": 40
+        },
+        {
+          "N": 253,
+          "order": 2,
+          "conductor": 253,
+          "dimension": 22,
+          "winding_dimension": 22,
+          "coefficient_degree": 40
+        }
+      ],
+      "q": 3,
+      "kq": 7,
+      "principal_function_degree_bound": 56
+    },
+    {
+      "N": 289,
+      "a": 3,
+      "method": "global3",
+      "index": 41616,
+      "genus": 3269,
+      "gonality_lower_bound": "845325/2048",
+      "diamond_order": 136,
+      "minimum_CM_degree": 136,
+      "rank_source": "proved archived newforms",
+      "newform_dimension_sum": 3269,
+      "positive_rank_forms": [
+        {
+          "level": 289,
+          "multiplicity": 1,
+          "id": 40234,
+          "label": "289.2.a.a",
+          "char_orbit_label": "a",
+          "char_order": 1,
+          "char_conductor": 1,
+          "dim": 1,
+          "relative_dim": 1,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": false,
+          "nf_label": "1.1.1.1"
+        },
+        {
+          "level": 289,
+          "multiplicity": 1,
+          "id": 40235,
+          "label": "289.2.a.b",
+          "char_orbit_label": "a",
+          "char_order": 1,
+          "char_conductor": 1,
+          "dim": 2,
+          "relative_dim": 2,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": false,
+          "nf_label": "2.2.13.1"
+        },
+        {
+          "level": 289,
+          "multiplicity": 1,
+          "id": 40237,
+          "label": "289.2.a.d",
+          "char_orbit_label": "a",
+          "char_order": 1,
+          "char_conductor": 1,
+          "dim": 3,
+          "relative_dim": 3,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": false,
+          "nf_label": "3.3.81.1"
+        }
+      ],
+      "nontrivial_positive_characters": [],
+      "q": 3,
+      "kq": 7,
+      "principal_function_degree_bound": 56
+    },
+    {
+      "N": 299,
+      "a": 3,
+      "method": "global3",
+      "index": 44352,
+      "genus": 3433,
+      "gonality_lower_bound": "225225/512",
+      "diamond_order": 33,
+      "minimum_CM_degree": 264,
+      "rank_source": "exact winding submodules",
+      "winding_log": "inputs/winding299.log",
+      "character_orbits": [
+        {
+          "N": 299,
+          "order": 1,
+          "conductor": 1,
+          "dimension": 27,
+          "winding_dimension": 23,
+          "coefficient_degree": 40
+        },
+        {
+          "N": 299,
+          "order": 6,
+          "conductor": 13,
+          "dimension": 26,
+          "winding_dimension": 26,
+          "coefficient_degree": 40
+        },
+        {
+          "N": 299,
+          "order": 3,
+          "conductor": 13,
+          "dimension": 26,
+          "winding_dimension": 26,
+          "coefficient_degree": 40
+        },
+        {
+          "N": 299,
+          "order": 2,
+          "conductor": 13,
+          "dimension": 26,
+          "winding_dimension": 26,
+          "coefficient_degree": 40
+        },
+        {
+          "N": 299,
+          "order": 132,
+          "conductor": 299,
+          "dimension": 26,
+          "winding_dimension": 26,
+          "coefficient_degree": 40
+        },
+        {
+          "N": 299,
+          "order": 44,
+          "conductor": 299,
+          "dimension": 26,
+          "winding_dimension": 26,
+          "coefficient_degree": 40
+        },
+        {
+          "N": 299,
+          "order": 11,
+          "conductor": 23,
+          "dimension": 26,
+          "winding_dimension": 26,
+          "coefficient_degree": 40
+        },
+        {
+          "N": 299,
+          "order": 66,
+          "conductor": 299,
+          "dimension": 26,
+          "winding_dimension": 26,
+          "coefficient_degree": 40
+        },
+        {
+          "N": 299,
+          "order": 33,
+          "conductor": 299,
+          "dimension": 26,
+          "winding_dimension": 26,
+          "coefficient_degree": 40
+        },
+        {
+          "N": 299,
+          "order": 22,
+          "conductor": 299,
+          "dimension": 26,
+          "winding_dimension": 26,
+          "coefficient_degree": 40
+        },
+        {
+          "N": 299,
+          "order": 12,
+          "conductor": 299,
+          "dimension": 26,
+          "winding_dimension": 26,
+          "coefficient_degree": 40
+        },
+        {
+          "N": 299,
+          "order": 4,
+          "conductor": 299,
+          "dimension": 26,
+          "winding_dimension": 26,
+          "coefficient_degree": 40
+        }
+      ],
+      "q": 3,
+      "kq": 7,
+      "principal_function_degree_bound": 56
+    },
+    {
+      "N": 323,
+      "a": 101,
+      "method": "global3",
+      "index": 51840,
+      "genus": 4033,
+      "gonality_lower_bound": "131625/256",
+      "diamond_order": 18,
+      "minimum_CM_degree": 288,
+      "rank_source": "proved archived newforms",
+      "newform_dimension_sum": 4033,
+      "positive_rank_forms": [
+        {
+          "level": 323,
+          "multiplicity": 1,
+          "id": 43641,
+          "label": "323.2.a.c",
+          "char_orbit_label": "a",
+          "char_order": 1,
+          "char_conductor": 1,
+          "dim": 4,
+          "relative_dim": 4,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": false,
+          "nf_label": "4.4.1957.1"
+        },
+        {
+          "level": 323,
+          "multiplicity": 1,
+          "id": 43642,
+          "label": "323.2.a.d",
+          "char_orbit_label": "a",
+          "char_order": 1,
+          "char_conductor": 1,
+          "dim": 5,
+          "relative_dim": 5,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": false,
+          "nf_label": "5.5.106069.1"
+        },
+        {
+          "level": 323,
+          "multiplicity": 1,
+          "id": 43659,
+          "label": "323.2.k.a",
+          "char_orbit_label": "k",
+          "char_order": 8,
+          "char_conductor": 17,
+          "dim": 4,
+          "relative_dim": 1,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": false,
+          "nf_label": "4.0.256.1"
+        }
+      ],
+      "nontrivial_positive_characters": [
+        [
+          323,
+          "k"
+        ]
+      ],
+      "q": 3,
+      "kq": 8,
+      "principal_function_degree_bound": 64
+    },
+    {
+      "N": 361,
+      "a": 3,
+      "method": "global3",
+      "index": 64980,
+      "genus": 5164,
+      "gonality_lower_bound": "5279625/8192",
+      "diamond_order": 171,
+      "minimum_CM_degree": 114,
+      "rank_source": "proved archived newforms",
+      "newform_dimension_sum": 5164,
+      "positive_rank_forms": [
+        {
+          "level": 361,
+          "multiplicity": 1,
+          "id": 47477,
+          "label": "361.2.a.a",
+          "char_orbit_label": "a",
+          "char_order": 1,
+          "char_conductor": 1,
+          "dim": 1,
+          "relative_dim": 1,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": true,
+          "nf_label": "1.1.1.1"
+        },
+        {
+          "level": 361,
+          "multiplicity": 1,
+          "id": 47483,
+          "label": "361.2.a.g",
+          "char_orbit_label": "a",
+          "char_order": 1,
+          "char_conductor": 1,
+          "dim": 3,
+          "relative_dim": 3,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": false,
+          "nf_label": "3.3.81.1"
+        },
+        {
+          "level": 361,
+          "multiplicity": 1,
+          "id": 47485,
+          "label": "361.2.a.i",
+          "char_orbit_label": "a",
+          "char_order": 1,
+          "char_conductor": 1,
+          "dim": 4,
+          "relative_dim": 4,
+          "analytic_rank": 1,
+          "analytic_rank_proved": true,
+          "is_cm": false,
+          "nf_label": "4.4.2000.1"
+        }
+      ],
+      "nontrivial_positive_characters": [],
+      "q": 3,
+      "kq": 7,
+      "principal_function_degree_bound": 56
+    },
+    {
+      "N": 391,
+      "a": 3,
+      "method": "global3",
+      "index": 76032,
+      "genus": 5985,
+      "gonality_lower_bound": "96525/128",
+      "diamond_order": 176,
+      "minimum_CM_degree": 352,
+      "rank_source": "exact winding submodules",
+      "winding_log": "inputs/winding391.log",
+      "character_orbits": [
+        {
+          "N": 391,
+          "order": 1,
+          "conductor": 1,
+          "dimension": 35,
+          "winding_dimension": 27,
+          "coefficient_degree": 80
+        },
+        {
+          "N": 391,
+          "order": 8,
+          "conductor": 17,
+          "dimension": 34,
+          "winding_dimension": 34,
+          "coefficient_degree": 80
+        },
+        {
+          "N": 391,
+          "order": 4,
+          "conductor": 17,
+          "dimension": 34,
+          "winding_dimension": 34,
+          "coefficient_degree": 80
+        },
+        {
+          "N": 391,
+          "order": 2,
+          "conductor": 17,
+          "dimension": 34,
+          "winding_dimension": 34,
+          "coefficient_degree": 80
+        },
+        {
+          "N": 391,
+          "order": 176,
+          "conductor": 391,
+          "dimension": 34,
+          "winding_dimension": 34,
+          "coefficient_degree": 80
+        },
+        {
+          "N": 391,
+          "order": 11,
+          "conductor": 23,
+          "dimension": 34,
+          "winding_dimension": 34,
+          "coefficient_degree": 80
+        },
+        {
+          "N": 391,
+          "order": 88,
+          "conductor": 391,
+          "dimension": 34,
+          "winding_dimension": 34,
+          "coefficient_degree": 80
+        },
+        {
+          "N": 391,
+          "order": 44,
+          "conductor": 391,
+          "dimension": 34,
+          "winding_dimension": 34,
+          "coefficient_degree": 80
+        },
+        {
+          "N": 391,
+          "order": 22,
+          "conductor": 391,
+          "dimension": 34,
+          "winding_dimension": 34,
+          "coefficient_degree": 80
+        },
+        {
+          "N": 391,
+          "order": 16,
+          "conductor": 391,
+          "dimension": 34,
+          "winding_dimension": 34,
+          "coefficient_degree": 80
+        }
+      ],
+      "q": 3,
+      "kq": 7,
+      "principal_function_degree_bound": 56
+    },
+    {
+      "N": 437,
+      "a": 3,
+      "method": "global3",
+      "index": 95040,
+      "genus": 7525,
+      "gonality_lower_bound": "482625/512",
+      "diamond_order": 198,
+      "minimum_CM_degree": 396,
+      "rank_source": "exact winding submodules",
+      "winding_log": "inputs/winding437.log",
+      "character_orbits": [
+        {
+          "N": 437,
+          "order": 1,
+          "conductor": 1,
+          "dimension": 39,
+          "winding_dimension": 27,
+          "coefficient_degree": 60
+        },
+        {
+          "N": 437,
+          "order": 9,
+          "conductor": 19,
+          "dimension": 38,
+          "winding_dimension": 38,
+          "coefficient_degree": 60
+        },
+        {
+          "N": 437,
+          "order": 3,
+          "conductor": 19,
+          "dimension": 38,
+          "winding_dimension": 38,
+          "coefficient_degree": 60
+        },
+        {
+          "N": 437,
+          "order": 198,
+          "conductor": 437,
+          "dimension": 38,
+          "winding_dimension": 38,
+          "coefficient_degree": 60
+        },
+        {
+          "N": 437,
+          "order": 66,
+          "conductor": 437,
+          "dimension": 38,
+          "winding_dimension": 38,
+          "coefficient_degree": 60
+        },
+        {
+          "N": 437,
+          "order": 22,
+          "conductor": 437,
+          "dimension": 38,
+          "winding_dimension": 38,
+          "coefficient_degree": 60
+        },
+        {
+          "N": 437,
+          "order": 11,
+          "conductor": 23,
+          "dimension": 38,
+          "winding_dimension": 38,
+          "coefficient_degree": 60
+        },
+        {
+          "N": 437,
+          "order": 99,
+          "conductor": 437,
+          "dimension": 38,
+          "winding_dimension": 38,
+          "coefficient_degree": 60
+        },
+        {
+          "N": 437,
+          "order": 33,
+          "conductor": 437,
+          "dimension": 38,
+          "winding_dimension": 38,
+          "coefficient_degree": 60
+        },
+        {
+          "N": 437,
+          "order": 18,
+          "conductor": 437,
+          "dimension": 38,
+          "winding_dimension": 38,
+          "coefficient_degree": 60
+        },
+        {
+          "N": 437,
+          "order": 6,
+          "conductor": 437,
+          "dimension": 38,
+          "winding_dimension": 38,
+          "coefficient_degree": 60
+        },
+        {
+          "N": 437,
+          "order": 2,
+          "conductor": 437,
+          "dimension": 38,
+          "winding_dimension": 38,
+          "coefficient_degree": 60
+        }
+      ],
+      "q": 3,
+      "kq": 7,
+      "principal_function_degree_bound": 56
+    },
+    {
+      "N": 529,
+      "a": 3,
+      "method": "global3",
+      "index": 139656,
+      "genus": 11265,
+      "gonality_lower_bound": "5673525/4096",
+      "diamond_order": 253,
+      "minimum_CM_degree": 506,
+      "rank_source": "exact winding submodules",
+      "winding_log": "inputs/winding529_krylov_modp_v2.log",
+      "character_orbits": [
+        {
+          "N": 529,
+          "order": 1,
+          "conductor": 1,
+          "dimension": 35,
+          "winding_dimension": 22,
+          "coefficient_degree": 1
+        },
+        {
+          "N": 529,
+          "order": 253,
+          "conductor": 529,
+          "dimension": 45,
+          "winding_dimension": 45,
+          "coefficient_degree": 220
+        },
+        {
+          "N": 529,
+          "order": 23,
+          "conductor": 529,
+          "dimension": 45,
+          "winding_dimension": 45,
+          "coefficient_degree": 22
+        },
+        {
+          "N": 529,
+          "order": 11,
+          "conductor": 23,
+          "dimension": 34,
+          "winding_dimension": 34,
+          "coefficient_degree": 10
+        }
+      ],
+      "q": 3,
+      "kq": 7,
+      "principal_function_degree_bound": 56
+    }
+  ],
+  "unresolved_original_large_frontier": [
+    77,
+    81,
+    85,
+    91
+  ],
+  "status": "complete exact degree8 numerical, rank, character, CM and finite-field certificate",
+  "rank_input_sha256": "f1fdb641a16ab0f02c2cc6a07ea6c4bb2643522d4a3b127dba41dc7d3d023fee",
+  "CM_input_sha256": "020ba11c347b70aafd59099994d5df55d969ffeaff468ced1a06ae97868b64cc",
+  "exact_character_log_sha256": "28d642cb4326965c3d7f74d21560286df88395f981741c63ead57319cfc0f469"
+}

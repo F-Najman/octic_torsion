@@ -1,0 +1,33 @@
+{
+  "degree": 8,
+  "level": 35,
+  "complete": true,
+  "rational_image_index": 13,
+  "noncuspidal_place_counts": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    24,
+    24,
+    30
+  ],
+  "classes_checked": 78,
+  "bad_cusp_singles_checked": 4,
+  "bad_cusp_pairs_checked": 10,
+  "bad_cusp_zero_pairs": [
+    [
+      1,
+      3
+    ],
+    [
+      2,
+      4
+    ]
+  ],
+  "sextic_members": 0,
+  "septic_members": 0,
+  "known_octic_classes": 6,
+  "unknown": 0
+}

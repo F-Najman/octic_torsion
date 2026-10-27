@@ -1,0 +1,96 @@
+Loading "work/degree8/small_cyclic/inputs/vanhoeij_octic_input.m"
+OCTIC_EXACT_POINT index=1 N=33 field_degree=8 j_degree=4 rational_two_roots=0 torsion_lower=33 anticipated_invariants=[ 33 ] time=0.010
+OCTIC_GOOD_REDUCTION index=1 p=7 residue_degree=8 order=5760579 gcd=5760579 time=0.020
+OCTIC_GOOD_REDUCTION index=1 p=13 residue_degree=8 order=815675619 gcd=33 time=0.020
+OCTIC_TORSION_ORDER_BOUND index=1 N=33 lower=33 upper=33 primes_used=2
+OCTIC_FULL_TORSION_CERTIFIED index=1 invariants=[ 33 ] exact=true time=0.020
+OCTIC_EXACT_POINT index=2 N=34 field_degree=8 j_degree=1 rational_two_roots=1 torsion_lower=34 anticipated_invariants=[ 34 ] time=0.030
+OCTIC_GOOD_REDUCTION index=2 p=3 residue_degree=8 order=6562 gcd=6562 time=0.030
+OCTIC_GOOD_REDUCTION index=2 p=5 residue_degree=2 order=34 gcd=34 time=0.030
+OCTIC_TORSION_ORDER_BOUND index=2 N=34 lower=34 upper=34 primes_used=2
+OCTIC_FULL_TORSION_CERTIFIED index=2 invariants=[ 34 ] exact=true time=0.030
+OCTIC_EXACT_POINT index=3 N=34 field_degree=8 j_degree=2 rational_two_roots=1 torsion_lower=34 anticipated_invariants=[ 34 ] time=0.040
+OCTIC_GOOD_REDUCTION index=3 p=7 residue_degree=4 order=2448 gcd=2448 time=0.040
+OCTIC_GOOD_REDUCTION index=3 p=7 residue_degree=4 order=2448 gcd=2448 time=0.040
+OCTIC_GOOD_REDUCTION index=3 p=11 residue_degree=2 order=102 gcd=102 time=0.040
+OCTIC_GOOD_REDUCTION index=3 p=11 residue_degree=2 order=102 gcd=102 time=0.040
+OCTIC_GOOD_REDUCTION index=3 p=11 residue_degree=2 order=102 gcd=102 time=0.040
+OCTIC_GOOD_REDUCTION index=3 p=11 residue_degree=2 order=102 gcd=102 time=0.040
+OCTIC_GOOD_REDUCTION index=3 p=13 residue_degree=4 order=28900 gcd=34 time=0.040
+OCTIC_TORSION_ORDER_BOUND index=3 N=34 lower=34 upper=34 primes_used=7
+OCTIC_FULL_TORSION_CERTIFIED index=3 invariants=[ 34 ] exact=true time=0.040
+OCTIC_EXACT_POINT index=4 N=34 field_degree=8 j_degree=4 rational_two_roots=1 torsion_lower=34 anticipated_invariants=[ 34 ] time=0.040
+OCTIC_GOOD_REDUCTION index=4 p=7 residue_degree=4 order=2482 gcd=2482 time=0.050
+OCTIC_GOOD_REDUCTION index=4 p=7 residue_degree=4 order=2482 gcd=2482 time=0.050
+OCTIC_GOOD_REDUCTION index=4 p=13 residue_degree=4 order=28424 gcd=34 time=0.050
+OCTIC_TORSION_ORDER_BOUND index=4 N=34 lower=34 upper=34 primes_used=3
+OCTIC_FULL_TORSION_CERTIFIED index=4 invariants=[ 34 ] exact=true time=0.050
+OCTIC_EXACT_POINT index=5 N=35 field_degree=8 j_degree=4 rational_two_roots=0 torsion_lower=35 anticipated_invariants=[ 35 ] time=0.050
+OCTIC_GOOD_REDUCTION index=5 p=3 residue_degree=8 order=6720 gcd=6720 time=0.050
+OCTIC_GOOD_REDUCTION index=5 p=7 residue_degree=8 order=5763520 gcd=2240 time=0.050
+OCTIC_GOOD_REDUCTION index=5 p=11 residue_degree=2 order=105 gcd=35 time=0.050
+OCTIC_TORSION_ORDER_BOUND index=5 N=35 lower=35 upper=35 primes_used=3
+OCTIC_FULL_TORSION_CERTIFIED index=5 invariants=[ 35 ] exact=true time=0.050
+OCTIC_EXACT_POINT index=6 N=39 field_degree=8 j_degree=1 rational_two_roots=0 torsion_lower=39 anticipated_invariants=[ 39 ] time=0.060
+OCTIC_GOOD_REDUCTION index=6 p=5 residue_degree=8 order=389376 gcd=389376 time=0.070
+OCTIC_GOOD_REDUCTION index=6 p=7 residue_degree=2 order=39 gcd=39 time=0.070
+OCTIC_TORSION_ORDER_BOUND index=6 N=39 lower=39 upper=39 primes_used=2
+OCTIC_FULL_TORSION_CERTIFIED index=6 invariants=[ 39 ] exact=true time=0.070
+OCTIC_EXACT_POINT index=7 N=40 field_degree=8 j_degree=4 rational_two_roots=1 torsion_lower=40 anticipated_invariants=[ 40 ] time=0.080
+OCTIC_GOOD_REDUCTION index=7 p=3 residue_degree=4 order=80 gcd=80 time=0.080
+OCTIC_GOOD_REDUCTION index=7 p=3 residue_degree=4 order=80 gcd=80 time=0.080
+OCTIC_GOOD_REDUCTION index=7 p=7 residue_degree=4 order=2400 gcd=80 time=0.080
+OCTIC_GOOD_REDUCTION index=7 p=7 residue_degree=4 order=2400 gcd=80 time=0.080
+OCTIC_GOOD_REDUCTION index=7 p=11 residue_degree=8 order=214384320 gcd=80 time=0.090
+OCTIC_GOOD_REDUCTION index=7 p=13 residue_degree=8 order=815784000 gcd=80 time=0.090
+OCTIC_GOOD_REDUCTION index=7 p=17 residue_degree=2 order=320 gcd=80 time=0.090
+OCTIC_GOOD_REDUCTION index=7 p=17 residue_degree=2 order=320 gcd=80 time=0.090
+OCTIC_GOOD_REDUCTION index=7 p=17 residue_degree=4 order=84000 gcd=80 time=0.090
+OCTIC_GOOD_REDUCTION index=7 p=19 residue_degree=8 order=16983709440 gcd=80 time=0.090
+OCTIC_GOOD_REDUCTION index=7 p=23 residue_degree=4 order=279680 gcd=80 time=0.100
+OCTIC_GOOD_REDUCTION index=7 p=23 residue_degree=4 order=279680 gcd=80 time=0.100
+OCTIC_GOOD_REDUCTION index=7 p=29 residue_degree=4 order=706800 gcd=80 time=0.110
+OCTIC_GOOD_REDUCTION index=7 p=29 residue_degree=4 order=706800 gcd=80 time=0.120
+OCTIC_GOOD_REDUCTION index=7 p=31 residue_degree=2 order=960 gcd=80 time=0.120
+OCTIC_GOOD_REDUCTION index=7 p=31 residue_degree=3 order=29560 gcd=40 time=0.120
+OCTIC_TORSION_ORDER_BOUND index=7 N=40 lower=40 upper=40 primes_used=16
+OCTIC_FULL_TORSION_CERTIFIED index=7 invariants=[ 40 ] exact=true time=0.120
+OCTIC_EXACT_POINT index=8 N=42 field_degree=8 j_degree=4 rational_two_roots=1 torsion_lower=42 anticipated_invariants=[ 42 ] time=0.120
+OCTIC_GOOD_REDUCTION index=8 p=11 residue_degree=4 order=14784 gcd=14784 time=0.130
+OCTIC_GOOD_REDUCTION index=8 p=11 residue_degree=4 order=14784 gcd=14784 time=0.130
+OCTIC_GOOD_REDUCTION index=8 p=13 residue_degree=4 order=28224 gcd=1344 time=0.130
+OCTIC_GOOD_REDUCTION index=8 p=13 residue_degree=4 order=28224 gcd=1344 time=0.130
+OCTIC_GOOD_REDUCTION index=8 p=17 residue_degree=4 order=84000 gcd=672 time=0.130
+OCTIC_GOOD_REDUCTION index=8 p=17 residue_degree=4 order=84000 gcd=672 time=0.130
+OCTIC_GOOD_REDUCTION index=8 p=19 residue_degree=2 order=336 gcd=336 time=0.130
+OCTIC_GOOD_REDUCTION index=8 p=19 residue_degree=2 order=336 gcd=336 time=0.130
+OCTIC_GOOD_REDUCTION index=8 p=19 residue_degree=2 order=336 gcd=336 time=0.130
+OCTIC_GOOD_REDUCTION index=8 p=19 residue_degree=2 order=336 gcd=336 time=0.130
+OCTIC_GOOD_REDUCTION index=8 p=23 residue_degree=4 order=279300 gcd=84 time=0.130
+OCTIC_GOOD_REDUCTION index=8 p=23 residue_degree=4 order=279300 gcd=84 time=0.130
+OCTIC_GOOD_REDUCTION index=8 p=29 residue_degree=4 order=705600 gcd=84 time=0.140
+OCTIC_GOOD_REDUCTION index=8 p=29 residue_degree=4 order=705600 gcd=84 time=0.150
+OCTIC_GOOD_REDUCTION index=8 p=31 residue_degree=2 order=1008 gcd=84 time=0.150
+OCTIC_GOOD_REDUCTION index=8 p=31 residue_degree=2 order=1008 gcd=84 time=0.150
+OCTIC_GOOD_REDUCTION index=8 p=31 residue_degree=2 order=1008 gcd=84 time=0.150
+OCTIC_GOOD_REDUCTION index=8 p=31 residue_degree=2 order=1008 gcd=84 time=0.150
+OCTIC_GOOD_REDUCTION index=8 p=37 residue_degree=4 order=1876896 gcd=84 time=0.150
+OCTIC_GOOD_REDUCTION index=8 p=37 residue_degree=4 order=1876896 gcd=84 time=0.150
+OCTIC_GOOD_REDUCTION index=8 p=41 residue_degree=1 order=42 gcd=42 time=0.150
+OCTIC_TORSION_ORDER_BOUND index=8 N=42 lower=42 upper=42 primes_used=21
+OCTIC_FULL_TORSION_CERTIFIED index=8 invariants=[ 42 ] exact=true time=0.150
+OCTIC_EXACT_POINT index=9 N=42 field_degree=8 j_degree=8 rational_two_roots=1 torsion_lower=42 anticipated_invariants=[ 42 ] time=0.160
+OCTIC_GOOD_REDUCTION index=9 p=5 residue_degree=8 order=390348 gcd=390348 time=0.190
+OCTIC_GOOD_REDUCTION index=9 p=7 residue_degree=8 order=5765886 gcd=126 time=0.200
+OCTIC_GOOD_REDUCTION index=9 p=11 residue_degree=8 order=214356744 gcd=126 time=0.200
+OCTIC_GOOD_REDUCTION index=9 p=13 residue_degree=2 order=168 gcd=42 time=0.200
+OCTIC_TORSION_ORDER_BOUND index=9 N=42 lower=42 upper=42 primes_used=4
+OCTIC_FULL_TORSION_CERTIFIED index=9 invariants=[ 42 ] exact=true time=0.200
+OCTIC_EXACT_POINT index=10 N=42 field_degree=8 j_degree=8 rational_two_roots=1 torsion_lower=42 anticipated_invariants=[ 42 ] time=0.210
+OCTIC_GOOD_REDUCTION index=10 p=5 residue_degree=8 order=390348 gcd=390348 time=0.240
+OCTIC_GOOD_REDUCTION index=10 p=7 residue_degree=8 order=5765886 gcd=126 time=0.250
+OCTIC_GOOD_REDUCTION index=10 p=11 residue_degree=8 order=214356744 gcd=126 time=0.260
+OCTIC_GOOD_REDUCTION index=10 p=13 residue_degree=2 order=168 gcd=42 time=0.260
+OCTIC_TORSION_ORDER_BOUND index=10 N=42 lower=42 upper=42 primes_used=4
+OCTIC_FULL_TORSION_CERTIFIED index=10 invariants=[ 42 ] exact=true time=0.260
+OCTIC_VANHOEIJ_EXAMPLES_DONE count=10 complete=true time=0.260

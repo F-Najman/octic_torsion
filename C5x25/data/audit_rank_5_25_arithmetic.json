@@ -1,0 +1,9 @@
+{
+  "all_32_character_twists_checked": true,
+  "wild_nebentype_unchanged": true,
+  "H26_invariant": true,
+  "delta6_unchanged_and_order5": true,
+  "J25_F11_order": 5014032203125,
+  "odd": true,
+  "rank_twist_theory_audit": "passes; see audit_rank_5_25.txt"
+}

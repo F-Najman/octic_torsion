@@ -1,0 +1,55 @@
+Magma V2.30-1     Thu Oct 22 2026 06:57:47 on mordell  [Seed = 4266465383]
+Type <Ctrl>-D to quit.
+
+Loading file "work/degree8/large_levels/C54_good8_enumeration_v2.m"
+OCTIC54_GOOD8_ENUM_PROGRESS j_orbits=1000 curves=2004 representatives=69 weight=1035 counttime=0.690 time=2.300
+OCTIC54_GOOD8_ENUM_PROGRESS j_orbits=2000 curves=4004 representatives=159 weight=2205 counttime=1.400 time=3.030
+OCTIC54_GOOD8_ENUM_PROGRESS j_orbits=3000 curves=6004 representatives=238 weight=3204 counttime=2.110 time=3.770
+OCTIC54_GOOD8_ENUM_PROGRESS j_orbits=4000 curves=8004 representatives=318 weight=4356 counttime=2.800 time=4.500
+OCTIC54_GOOD8_ENUM_PROGRESS j_orbits=5000 curves=10004 representatives=388 weight=5364 counttime=3.470 time=5.220
+OCTIC54_GOOD8_ENUM_PROGRESS j_orbits=6000 curves=12004 representatives=460 weight=6372 counttime=4.160 time=5.950
+OCTIC54_GOOD8_ENUM_PROGRESS j_orbits=7000 curves=14004 representatives=524 weight=7074 counttime=4.880 time=6.680
+OCTIC54_GOOD8_ENUM_PROGRESS j_orbits=8000 curves=16004 representatives=606 weight=8262 counttime=5.590 time=7.430
+OCTIC54_GOOD8_ENUM_PROGRESS j_orbits=9000 curves=18004 representatives=660 weight=8928 counttime=6.320 time=8.160
+OCTIC54_GOOD8_ENUM_PROGRESS j_orbits=10000 curves=20004 representatives=734 weight=9900 counttime=7.020 time=8.900
+OCTIC54_GOOD8_ENUM_PROGRESS j_orbits=11000 curves=22004 representatives=797 weight=10791 counttime=7.710 time=9.640
+OCTIC54_GOOD8_ENUM_PROGRESS j_orbits=12000 curves=24004 representatives=888 weight=11844 counttime=8.440 time=10.390
+OCTIC54_GOOD8_ENUM_PROGRESS j_orbits=13000 curves=26004 representatives=947 weight=12699 counttime=9.150 time=11.120
+OCTIC54_GOOD8_ENUM_PROGRESS j_orbits=14000 curves=28004 representatives=1016 weight=13572 counttime=9.890 time=11.870
+OCTIC54_GOOD8_ENUM_PROGRESS j_orbits=15000 curves=30004 representatives=1077 weight=14409 counttime=10.620 time=12.620
+OCTIC54_GOOD8_ENUM_PROGRESS j_orbits=16000 curves=32004 representatives=1143 weight=15129 counttime=11.350 time=13.380
+OCTIC54_GOOD8_ENUM_PROGRESS j_orbits=17000 curves=34004 representatives=1227 weight=16137 counttime=12.080 time=14.130
+OCTIC54_GOOD8_ENUM_PROGRESS j_orbits=18000 curves=36004 representatives=1290 weight=17010 counttime=12.800 time=14.900
+OCTIC54_GOOD8_ENUM_PROGRESS j_orbits=19000 curves=38004 representatives=1345 weight=17739 counttime=13.550 time=15.660
+OCTIC54_GOOD8_ENUM_PROGRESS j_orbits=20000 curves=40004 representatives=1438 weight=18864 counttime=14.260 time=16.430
+OCTIC54_GOOD8_ENUM_PROGRESS j_orbits=21000 curves=42004 representatives=1489 weight=19485 counttime=14.980 time=17.200
+OCTIC54_GOOD8_ENUM_PROGRESS j_orbits=22000 curves=44004 representatives=1532 weight=20034 counttime=15.720 time=17.960
+OCTIC54_GOOD8_ENUM_PROGRESS j_orbits=23000 curves=46004 representatives=1595 weight=20997 counttime=16.440 time=18.740
+OCTIC54_GOOD8_ENUM_PROGRESS j_orbits=24000 curves=48004 representatives=1650 weight=21708 counttime=17.170 time=19.520
+OCTIC54_GOOD8_ENUM_PROGRESS j_orbits=25000 curves=50004 representatives=1736 weight=22716 counttime=17.930 time=20.310
+OCTIC54_GOOD8_ENUM_PROGRESS j_orbits=26000 curves=52004 representatives=1825 weight=23877 counttime=18.700 time=21.100
+OCTIC54_GOOD8_ENUM_PROGRESS j_orbits=27000 curves=54004 representatives=1889 weight=24831 counttime=19.480 time=21.900
+OCTIC54_GOOD8_ENUM_PROGRESS j_orbits=28000 curves=56004 representatives=1965 weight=25893 counttime=20.240 time=22.700
+OCTIC54_GOOD8_ENUM_PROGRESS j_orbits=29000 curves=58004 representatives=2052 weight=27360 counttime=20.990 time=23.500
+OCTIC54_GOOD8_ENUM_PROGRESS j_orbits=30000 curves=60004 representatives=2117 weight=28251 counttime=21.750 time=24.300
+OCTIC54_GOOD8_ENUM_PROGRESS j_orbits=31000 curves=62004 representatives=2193 weight=29241 counttime=22.500 time=25.110
+OCTIC54_GOOD8_ENUM_PROGRESS j_orbits=32000 curves=64004 representatives=2260 weight=30078 counttime=23.280 time=25.910
+OCTIC54_GOOD8_ENUM_PROGRESS j_orbits=33000 curves=66004 representatives=2337 weight=31239 counttime=24.030 time=26.710
+OCTIC54_GOOD8_ENUM_PROGRESS j_orbits=34000 curves=68004 representatives=2400 weight=32112 counttime=24.800 time=27.510
+OCTIC54_GOOD8_ENUM_PROGRESS j_orbits=35000 curves=70004 representatives=2481 weight=33327 counttime=25.560 time=28.310
+OCTIC54_GOOD8_ENUM_PROGRESS j_orbits=36000 curves=72004 representatives=2579 weight=34569 counttime=26.340 time=29.120
+OCTIC54_GOOD8_ENUM_PROGRESS j_orbits=37000 curves=74004 representatives=2652 weight=35550 counttime=27.130 time=29.940
+OCTIC54_GOOD8_ENUM_PROGRESS j_orbits=38000 curves=76004 representatives=2718 weight=36558 counttime=27.880 time=30.750
+OCTIC54_GOOD8_ENUM_PROGRESS j_orbits=39000 curves=78004 representatives=2804 weight=37782 counttime=28.660 time=31.580
+OCTIC54_GOOD8_ENUM_PROGRESS j_orbits=40000 curves=80004 representatives=2890 weight=38790 counttime=29.450 time=32.400
+OCTIC54_GOOD8_ENUM_PROGRESS j_orbits=41000 curves=82004 representatives=2951 weight=39537 counttime=30.210 time=33.220
+OCTIC54_GOOD8_ENUM_PROGRESS j_orbits=42000 curves=84004 representatives=3032 weight=40500 counttime=30.980 time=34.050
+OCTIC54_GOOD8_ENUM_PROGRESS j_orbits=43000 curves=86004 representatives=3109 weight=41427 counttime=31.760 time=34.880
+OCTIC54_GOOD8_ENUM_PROGRESS j_orbits=44000 curves=88004 representatives=3187 weight=42471 counttime=32.540 time=35.710
+OCTIC54_GOOD8_ENUM_PROGRESS j_orbits=45000 curves=90004 representatives=3261 weight=43443 counttime=33.330 time=36.540
+OCTIC54_GOOD8_ENUM_PROGRESS j_orbits=46000 curves=92004 representatives=3340 weight=44424 counttime=34.130 time=37.380
+OCTIC54_GOOD8_ENUM_PROGRESS j_orbits=47000 curves=94004 representatives=3427 weight=45747 counttime=34.920 time=38.220
+OCTIC54_GOOD8_ENUM_PROGRESS j_orbits=48000 curves=96004 representatives=3505 weight=46953 counttime=35.710 time=39.060
+OCTIC54_GOOD8_ENUM_DONE representatives=3579 weighted_source_places=47961 other_degree4_lifts=126 j_orbits=48915 curves=97836 rank2_curves=396 proper_j_records=0 jd_counts=[ <1, 0>, <2, 0>, <4, 0>, <8, 3579> ] max_count_trials=2 complete=true time=39.920
+
+Total time: 39.929 seconds, Total memory usage: 32.09MB

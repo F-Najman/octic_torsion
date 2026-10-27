@@ -1,0 +1,24 @@
+{
+  "degree": 8,
+  "level": 34,
+  "complete": true,
+  "rational_image_index": 128,
+  "single_counts": {
+    "4": 26,
+    "5": 32,
+    "6": 80,
+    "7": 256,
+    "8": 734
+  },
+  "single_members": {
+    "4": 0,
+    "5": 0,
+    "6": 0,
+    "7": 0,
+    "8": 1
+  },
+  "quartic_pair_count": 351,
+  "quartic_pair_members": 6,
+  "known_octic_classes": 7,
+  "unknown": 0
+}

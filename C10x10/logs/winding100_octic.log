@@ -1,0 +1,8 @@
+WINDING N=100 order=1 conductor=1 relative_dimension=7 winding_dimension=7 coefficient_degree=1 time=0.050
+WINDING N=100 order=20 conductor=100 relative_dimension=13 winding_dimension=13 coefficient_degree=8 time=0.040
+WINDING N=100 order=10 conductor=25 relative_dimension=12 winding_dimension=12 coefficient_degree=4 time=0.030
+WINDING N=100 order=5 conductor=25 relative_dimension=12 winding_dimension=12 coefficient_degree=4 time=0.030
+WINDING N=100 order=4 conductor=20 relative_dimension=9 winding_dimension=9 coefficient_degree=2 time=0.020
+WINDING N=100 order=2 conductor=5 relative_dimension=6 winding_dimension=6 coefficient_degree=1 time=0.020
+WINDING_FINAL N=100 genus=231 total_dimension=231 bad_orders=[] admissible=[ 3, 7, 9, 11, 13, 17, 19, 21, 23, 27, 29, 31, 33, 37, 39, 41, 43, 47, 49, 51, 53, 57, 59, 61, 63, 67, 69, 71, 73, 77, 79, 81, 83, 87, 89, 91, 93, 97 ]
+WINDING_CHARACTER_PROBE_DONE

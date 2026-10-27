@@ -1,0 +1,10 @@
+{
+  "differential_space_reference": "work/degree8/cyclic_sieves/N45_reference_RR_geometry_D7.m",
+  "completion_export": "work/degree8/cyclic_sieves/N45_completion_jets.m",
+  "reference_sha256": "46628d1a5c445b11f4fe72dcf0fbe381a0598e07e648335c157329b74c935e3b",
+  "completion_sha256": "6febea0d7eb0fe3c668b998ab318ce30439cc12de51d3a48140f5c353aec58b4",
+  "identical_Cartier_matrix_and_image": true,
+  "exact_kernel_equalities_checked": 103,
+  "boundary": "Only exported RR kernels are compared; this is not the exhaustive divisor-rank replay."
+}
+RR_COMPLETION_CROSS_CHECK_DONE

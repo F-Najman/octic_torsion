@@ -1,0 +1,236 @@
+ORB X1(33) over F_2, degree 1: 0 closed points, 0 diamond orbits, orbit sizes {* *}
+ORB X1(33) over F_2, degree 2: 0 closed points, 0 diamond orbits, orbit sizes {* *}
+ORB X1(33) over F_2, degree 3: 0 closed points, 0 diamond orbits, orbit sizes {* *}
+ORB X1(33) over F_2, degree 4: 0 closed points, 0 diamond orbits, orbit sizes {* *}
+ORB X1(33) over F_2, degree 5: 2 closed points, 1 diamond orbits, orbit sizes {* 2 *}
+STAB X1(33) F_2 deg 5: diamond stabilizers (reps a in 1..N/2) per orbit [
+[ 1, 2, 4, 8, 16 ]
+] ; curves (j-orbit length, #E, group) {*
+<1, 33, [ 33 ]>
+*}
+ORB X1(33) over F_2, degree 6: 20 closed points, 2 diamond orbits, orbit sizes {* 10^^2 *}
+STAB X1(33) F_2 deg 6: diamond stabilizers (reps a in 1..N/2) per orbit [
+[ 1 ],
+[ 1 ]
+] ; curves (j-orbit length, #E, group) {*
+<6, 66, [ 66 ]>^^2
+*}
+ORB X1(33) over F_2, degree 7: 30 closed points, 3 diamond orbits, orbit sizes {* 10^^3 *}
+STAB X1(33) F_2 deg 7: diamond stabilizers (reps a in 1..N/2) per orbit [
+[ 1 ],
+[ 1 ],
+[ 1 ]
+] ; curves (j-orbit length, #E, group) {*
+<7, 132, [ 132 ]>^^3
+*}
+ORB X1(33) over F_2, degree 8: 25 closed points, 3 diamond orbits, orbit sizes {* 5, 10^^2 *}
+STAB X1(33) F_2 deg 8: diamond stabilizers (reps a in 1..N/2) per orbit [
+[ 1, 10 ],
+[ 1 ],
+[ 1 ]
+] ; curves (j-orbit length, #E, group) {*
+<4, 264, [ 264 ]>,
+<8, 264, [ 264 ]>^^2
+*}
+ORB X1(35) over F_2, degree 1: 0 closed points, 0 diamond orbits, orbit sizes {* *}
+ORB X1(35) over F_2, degree 2: 0 closed points, 0 diamond orbits, orbit sizes {* *}
+ORB X1(35) over F_2, degree 3: 0 closed points, 0 diamond orbits, orbit sizes {* *}
+ORB X1(35) over F_2, degree 4: 0 closed points, 0 diamond orbits, orbit sizes {* *}
+ORB X1(35) over F_2, degree 5: 0 closed points, 0 diamond orbits, orbit sizes {* *}
+ORB X1(35) over F_2, degree 6: 24 closed points, 2 diamond orbits, orbit sizes {* 12^^2 *}
+STAB X1(35) F_2 deg 6: diamond stabilizers (reps a in 1..N/2) per orbit [
+[ 1 ],
+[ 1 ]
+] ; curves (j-orbit length, #E, group) {*
+<6, 70, [ 70 ]>^^2
+*}
+ORB X1(35) over F_2, degree 7: 24 closed points, 2 diamond orbits, orbit sizes {* 12^^2 *}
+STAB X1(35) F_2 deg 7: diamond stabilizers (reps a in 1..N/2) per orbit [
+[ 1 ],
+[ 1 ]
+] ; curves (j-orbit length, #E, group) {*
+<7, 140, [ 140 ]>^^2
+*}
+ORB X1(35) over F_2, degree 8: 30 closed points, 3 diamond orbits, orbit sizes {* 6, 12^^2 *}
+STAB X1(35) F_2 deg 8: diamond stabilizers (reps a in 1..N/2) per orbit [
+[ 1 ],
+[ 1, 6 ],
+[ 1 ]
+] ; curves (j-orbit length, #E, group) {*
+<4, 280, [ 280 ]>,
+<8, 280, [ 280 ]>^^2
+*}
+ORB X1(39) over F_2, degree 1: 0 closed points, 0 diamond orbits, orbit sizes {* *}
+ORB X1(39) over F_2, degree 2: 0 closed points, 0 diamond orbits, orbit sizes {* *}
+ORB X1(39) over F_2, degree 3: 0 closed points, 0 diamond orbits, orbit sizes {* *}
+ORB X1(39) over F_2, degree 4: 0 closed points, 0 diamond orbits, orbit sizes {* *}
+ORB X1(39) over F_2, degree 5: 0 closed points, 0 diamond orbits, orbit sizes {* *}
+ORB X1(39) over F_2, degree 6: 12 closed points, 1 diamond orbits, orbit sizes {* 12 *}
+STAB X1(39) F_2 deg 6: diamond stabilizers (reps a in 1..N/2) per orbit [
+[ 1 ]
+] ; curves (j-orbit length, #E, group) {*
+<6, 78, [ 78 ]>
+*}
+ORB X1(39) over F_2, degree 7: 0 closed points, 0 diamond orbits, orbit sizes {* *}
+ORB X1(39) over F_2, degree 8: 49 closed points, 5 diamond orbits, orbit sizes {* 1, 12^^4 *}
+STAB X1(39) F_2 deg 8: diamond stabilizers (reps a in 1..N/2) per orbit [
+[ 1, 2, 4, 5, 7, 8, 10, 11, 14, 16, 17, 19 ],
+[ 1 ],
+[ 1 ],
+[ 1 ],
+[ 1 ]
+] ; curves (j-orbit length, #E, group) {*
+<1, 273, [ 273 ]>,
+<4, 234, [ 3, 78 ]>^^2,
+<8, 234, [ 234 ]>^^2
+*}
+ORB X1(45) over F_2, degree 1: 0 closed points, 0 diamond orbits, orbit sizes {* *}
+ORB X1(45) over F_2, degree 2: 0 closed points, 0 diamond orbits, orbit sizes {* *}
+ORB X1(45) over F_2, degree 3: 0 closed points, 0 diamond orbits, orbit sizes {* *}
+ORB X1(45) over F_2, degree 4: 0 closed points, 0 diamond orbits, orbit sizes {* *}
+ORB X1(45) over F_2, degree 5: 0 closed points, 0 diamond orbits, orbit sizes {* *}
+ORB X1(45) over F_2, degree 6: 0 closed points, 0 diamond orbits, orbit sizes {* *}
+ORB X1(45) over F_2, degree 7: 0 closed points, 0 diamond orbits, orbit sizes {* *}
+ORB X1(45) over F_2, degree 8: 60 closed points, 5 diamond orbits, orbit sizes {* 12^^5 *}
+STAB X1(45) F_2 deg 8: diamond stabilizers (reps a in 1..N/2) per orbit [
+[ 1 ],
+[ 1 ],
+[ 1 ],
+[ 1 ],
+[ 1 ]
+] ; curves (j-orbit length, #E, group) {*
+<8, 270, [ 3, 90 ]>^^3,
+<8, 270, [ 270 ]>^^2
+*}
+ORB X1(55) over F_2, degree 1: 0 closed points, 0 diamond orbits, orbit sizes {* *}
+ORB X1(55) over F_2, degree 2: 0 closed points, 0 diamond orbits, orbit sizes {* *}
+ORB X1(55) over F_2, degree 3: 0 closed points, 0 diamond orbits, orbit sizes {* *}
+ORB X1(55) over F_2, degree 4: 0 closed points, 0 diamond orbits, orbit sizes {* *}
+ORB X1(55) over F_2, degree 5: 0 closed points, 0 diamond orbits, orbit sizes {* *}
+ORB X1(55) over F_2, degree 6: 0 closed points, 0 diamond orbits, orbit sizes {* *}
+ORB X1(55) over F_2, degree 7: 20 closed points, 1 diamond orbits, orbit sizes {* 20 *}
+STAB X1(55) F_2 deg 7: diamond stabilizers (reps a in 1..N/2) per orbit [
+[ 1 ]
+] ; curves (j-orbit length, #E, group) {*
+<7, 110, [ 110 ]>
+*}
+ORB X1(55) over F_2, degree 8: 0 closed points, 0 diamond orbits, orbit sizes {* *}
+ORB X1(57) over F_2, degree 1: 0 closed points, 0 diamond orbits, orbit sizes {* *}
+ORB X1(57) over F_2, degree 2: 0 closed points, 0 diamond orbits, orbit sizes {* *}
+ORB X1(57) over F_2, degree 3: 0 closed points, 0 diamond orbits, orbit sizes {* *}
+ORB X1(57) over F_2, degree 4: 0 closed points, 0 diamond orbits, orbit sizes {* *}
+ORB X1(57) over F_2, degree 5: 0 closed points, 0 diamond orbits, orbit sizes {* *}
+ORB X1(57) over F_2, degree 6: 2 closed points, 1 diamond orbits, orbit sizes {* 2 *}
+STAB X1(57) F_2 deg 6: diamond stabilizers (reps a in 1..N/2) per orbit [
+[ 1, 2, 4, 7, 8, 14, 16, 25, 28 ]
+] ; curves (j-orbit length, #E, group) {*
+<1, 57, [ 57 ]>
+*}
+ORB X1(57) over F_2, degree 7: 36 closed points, 2 diamond orbits, orbit sizes {* 18^^2 *}
+STAB X1(57) F_2 deg 7: diamond stabilizers (reps a in 1..N/2) per orbit [
+[ 1 ],
+[ 1 ]
+] ; curves (j-orbit length, #E, group) {*
+<7, 114, [ 114 ]>^^2
+*}
+ORB X1(57) over F_2, degree 8: 18 closed points, 1 diamond orbits, orbit sizes {* 18 *}
+STAB X1(57) F_2 deg 8: diamond stabilizers (reps a in 1..N/2) per orbit [
+[ 1 ]
+] ; curves (j-orbit length, #E, group) {*
+<8, 228, [ 228 ]>
+*}
+ORB X1(63) over F_2, degree 1: 0 closed points, 0 diamond orbits, orbit sizes {* *}
+ORB X1(63) over F_2, degree 2: 0 closed points, 0 diamond orbits, orbit sizes {* *}
+ORB X1(63) over F_2, degree 3: 0 closed points, 0 diamond orbits, orbit sizes {* *}
+ORB X1(63) over F_2, degree 4: 0 closed points, 0 diamond orbits, orbit sizes {* *}
+ORB X1(63) over F_2, degree 5: 0 closed points, 0 diamond orbits, orbit sizes {* *}
+ORB X1(63) over F_2, degree 6: 0 closed points, 0 diamond orbits, orbit sizes {* *}
+ORB X1(63) over F_2, degree 7: 54 closed points, 3 diamond orbits, orbit sizes {* 18^^3 *}
+STAB X1(63) F_2 deg 7: diamond stabilizers (reps a in 1..N/2) per orbit [
+[ 1 ],
+[ 1 ],
+[ 1 ]
+] ; curves (j-orbit length, #E, group) {*
+<7, 126, [ 126 ]>^^3
+*}
+ORB X1(63) over F_2, degree 8: 54 closed points, 3 diamond orbits, orbit sizes {* 18^^3 *}
+STAB X1(63) F_2 deg 8: diamond stabilizers (reps a in 1..N/2) per orbit [
+[ 1 ],
+[ 1 ],
+[ 1 ]
+] ; curves (j-orbit length, #E, group) {*
+<8, 252, [ 252 ]>^^3
+*}
+ORB X1(65) over F_2, degree 1: 0 closed points, 0 diamond orbits, orbit sizes {* *}
+ORB X1(65) over F_2, degree 2: 0 closed points, 0 diamond orbits, orbit sizes {* *}
+ORB X1(65) over F_2, degree 3: 0 closed points, 0 diamond orbits, orbit sizes {* *}
+ORB X1(65) over F_2, degree 4: 0 closed points, 0 diamond orbits, orbit sizes {* *}
+ORB X1(65) over F_2, degree 5: 0 closed points, 0 diamond orbits, orbit sizes {* *}
+ORB X1(65) over F_2, degree 6: 2 closed points, 1 diamond orbits, orbit sizes {* 2 *}
+STAB X1(65) F_2 deg 6: diamond stabilizers (reps a in 1..N/2) per orbit [
+[ 1, 2, 4, 7, 8, 9, 14, 16, 18, 28, 29, 32 ]
+] ; curves (j-orbit length, #E, group) {*
+<1, 65, [ 65 ]>
+*}
+ORB X1(65) over F_2, degree 7: 48 closed points, 2 diamond orbits, orbit sizes {* 24^^2 *}
+STAB X1(65) F_2 deg 7: diamond stabilizers (reps a in 1..N/2) per orbit [
+[ 1 ],
+[ 1 ]
+] ; curves (j-orbit length, #E, group) {*
+<7, 130, [ 130 ]>^^2
+*}
+ORB X1(65) over F_2, degree 8: 48 closed points, 2 diamond orbits, orbit sizes {* 24^^2 *}
+STAB X1(65) F_2 deg 8: diamond stabilizers (reps a in 1..N/2) per orbit [
+[ 1 ],
+[ 1 ]
+] ; curves (j-orbit length, #E, group) {*
+<8, 260, [ 260 ]>^^2
+*}
+ORB X1(69) over F_2, degree 1: 0 closed points, 0 diamond orbits, orbit sizes {* *}
+ORB X1(69) over F_2, degree 2: 0 closed points, 0 diamond orbits, orbit sizes {* *}
+ORB X1(69) over F_2, degree 3: 0 closed points, 0 diamond orbits, orbit sizes {* *}
+ORB X1(69) over F_2, degree 4: 0 closed points, 0 diamond orbits, orbit sizes {* *}
+ORB X1(69) over F_2, degree 5: 0 closed points, 0 diamond orbits, orbit sizes {* *}
+ORB X1(69) over F_2, degree 6: 0 closed points, 0 diamond orbits, orbit sizes {* *}
+ORB X1(69) over F_2, degree 7: 66 closed points, 3 diamond orbits, orbit sizes {* 22^^3 *}
+STAB X1(69) F_2 deg 7: diamond stabilizers (reps a in 1..N/2) per orbit [
+[ 1 ],
+[ 1 ],
+[ 1 ]
+] ; curves (j-orbit length, #E, group) {*
+<7, 138, [ 138 ]>^^3
+*}
+ORB X1(69) over F_2, degree 8: 44 closed points, 2 diamond orbits, orbit sizes {* 22^^2 *}
+STAB X1(69) F_2 deg 8: diamond stabilizers (reps a in 1..N/2) per orbit [
+[ 1 ],
+[ 1 ]
+] ; curves (j-orbit length, #E, group) {*
+<8, 276, [ 276 ]>^^2
+*}
+ORB X1(75) over F_2, degree 1: 0 closed points, 0 diamond orbits, orbit sizes {* *}
+ORB X1(75) over F_2, degree 2: 0 closed points, 0 diamond orbits, orbit sizes {* *}
+ORB X1(75) over F_2, degree 3: 0 closed points, 0 diamond orbits, orbit sizes {* *}
+ORB X1(75) over F_2, degree 4: 0 closed points, 0 diamond orbits, orbit sizes {* *}
+ORB X1(75) over F_2, degree 5: 0 closed points, 0 diamond orbits, orbit sizes {* *}
+ORB X1(75) over F_2, degree 6: 0 closed points, 0 diamond orbits, orbit sizes {* *}
+ORB X1(75) over F_2, degree 7: 20 closed points, 1 diamond orbits, orbit sizes {* 20 *}
+STAB X1(75) F_2 deg 7: diamond stabilizers (reps a in 1..N/2) per orbit [
+[ 1 ]
+] ; curves (j-orbit length, #E, group) {*
+<7, 150, [ 150 ]>
+*}
+ORB X1(75) over F_2, degree 8: 0 closed points, 0 diamond orbits, orbit sizes {* *}
+ORB X1(91) over F_2, degree 1: 0 closed points, 0 diamond orbits, orbit sizes {* *}
+ORB X1(91) over F_2, degree 2: 0 closed points, 0 diamond orbits, orbit sizes {* *}
+ORB X1(91) over F_2, degree 3: 0 closed points, 0 diamond orbits, orbit sizes {* *}
+ORB X1(91) over F_2, degree 4: 0 closed points, 0 diamond orbits, orbit sizes {* *}
+ORB X1(91) over F_2, degree 5: 0 closed points, 0 diamond orbits, orbit sizes {* *}
+ORB X1(91) over F_2, degree 6: 0 closed points, 0 diamond orbits, orbit sizes {* *}
+ORB X1(91) over F_2, degree 7: 0 closed points, 0 diamond orbits, orbit sizes {* *}
+ORB X1(91) over F_2, degree 8: 3 closed points, 1 diamond orbits, orbit sizes {* 3 *}
+STAB X1(91) F_2 deg 8: diamond stabilizers (reps a in 1..N/2) per orbit [
+[ 1, 2, 4, 8, 16, 17, 23, 27, 32, 34, 37, 45 ]
+] ; curves (j-orbit length, #E, group) {*
+<1, 273, [ 273 ]>
+*}
+ORBITS_DONE

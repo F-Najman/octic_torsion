@@ -1,0 +1,681 @@
+{
+  "level": 77,
+  "degree": 8,
+  "total_geometric_cusps": 120,
+  "global_signature": {
+    "1": 30,
+    "30": 1,
+    "6": 5,
+    "10": 3
+  },
+  "F2_signature": {
+    "1": 30,
+    "30": 1,
+    "3": 10,
+    "10": 3
+  },
+  "cusps_through_degree8": [
+    {
+      "F2_degree": 1,
+      "global_Galois_degree": 1,
+      "label_indices": [
+        0
+      ],
+      "representatives": [
+        [
+          0,
+          1
+        ]
+      ],
+      "diamond23_preserves_divisor": false
+    },
+    {
+      "F2_degree": 1,
+      "global_Galois_degree": 1,
+      "label_indices": [
+        1
+      ],
+      "representatives": [
+        [
+          0,
+          2
+        ]
+      ],
+      "diamond23_preserves_divisor": false
+    },
+    {
+      "F2_degree": 1,
+      "global_Galois_degree": 1,
+      "label_indices": [
+        2
+      ],
+      "representatives": [
+        [
+          0,
+          3
+        ]
+      ],
+      "diamond23_preserves_divisor": false
+    },
+    {
+      "F2_degree": 1,
+      "global_Galois_degree": 1,
+      "label_indices": [
+        3
+      ],
+      "representatives": [
+        [
+          0,
+          4
+        ]
+      ],
+      "diamond23_preserves_divisor": false
+    },
+    {
+      "F2_degree": 1,
+      "global_Galois_degree": 1,
+      "label_indices": [
+        4
+      ],
+      "representatives": [
+        [
+          0,
+          5
+        ]
+      ],
+      "diamond23_preserves_divisor": false
+    },
+    {
+      "F2_degree": 1,
+      "global_Galois_degree": 1,
+      "label_indices": [
+        5
+      ],
+      "representatives": [
+        [
+          0,
+          6
+        ]
+      ],
+      "diamond23_preserves_divisor": false
+    },
+    {
+      "F2_degree": 1,
+      "global_Galois_degree": 1,
+      "label_indices": [
+        6
+      ],
+      "representatives": [
+        [
+          0,
+          8
+        ]
+      ],
+      "diamond23_preserves_divisor": false
+    },
+    {
+      "F2_degree": 1,
+      "global_Galois_degree": 1,
+      "label_indices": [
+        7
+      ],
+      "representatives": [
+        [
+          0,
+          9
+        ]
+      ],
+      "diamond23_preserves_divisor": false
+    },
+    {
+      "F2_degree": 1,
+      "global_Galois_degree": 1,
+      "label_indices": [
+        8
+      ],
+      "representatives": [
+        [
+          0,
+          10
+        ]
+      ],
+      "diamond23_preserves_divisor": false
+    },
+    {
+      "F2_degree": 1,
+      "global_Galois_degree": 1,
+      "label_indices": [
+        9
+      ],
+      "representatives": [
+        [
+          0,
+          12
+        ]
+      ],
+      "diamond23_preserves_divisor": false
+    },
+    {
+      "F2_degree": 1,
+      "global_Galois_degree": 1,
+      "label_indices": [
+        10
+      ],
+      "representatives": [
+        [
+          0,
+          13
+        ]
+      ],
+      "diamond23_preserves_divisor": false
+    },
+    {
+      "F2_degree": 1,
+      "global_Galois_degree": 1,
+      "label_indices": [
+        11
+      ],
+      "representatives": [
+        [
+          0,
+          15
+        ]
+      ],
+      "diamond23_preserves_divisor": false
+    },
+    {
+      "F2_degree": 1,
+      "global_Galois_degree": 1,
+      "label_indices": [
+        12
+      ],
+      "representatives": [
+        [
+          0,
+          16
+        ]
+      ],
+      "diamond23_preserves_divisor": false
+    },
+    {
+      "F2_degree": 1,
+      "global_Galois_degree": 1,
+      "label_indices": [
+        13
+      ],
+      "representatives": [
+        [
+          0,
+          17
+        ]
+      ],
+      "diamond23_preserves_divisor": false
+    },
+    {
+      "F2_degree": 1,
+      "global_Galois_degree": 1,
+      "label_indices": [
+        14
+      ],
+      "representatives": [
+        [
+          0,
+          18
+        ]
+      ],
+      "diamond23_preserves_divisor": false
+    },
+    {
+      "F2_degree": 1,
+      "global_Galois_degree": 1,
+      "label_indices": [
+        15
+      ],
+      "representatives": [
+        [
+          0,
+          19
+        ]
+      ],
+      "diamond23_preserves_divisor": false
+    },
+    {
+      "F2_degree": 1,
+      "global_Galois_degree": 1,
+      "label_indices": [
+        16
+      ],
+      "representatives": [
+        [
+          0,
+          20
+        ]
+      ],
+      "diamond23_preserves_divisor": false
+    },
+    {
+      "F2_degree": 1,
+      "global_Galois_degree": 1,
+      "label_indices": [
+        17
+      ],
+      "representatives": [
+        [
+          0,
+          23
+        ]
+      ],
+      "diamond23_preserves_divisor": false
+    },
+    {
+      "F2_degree": 1,
+      "global_Galois_degree": 1,
+      "label_indices": [
+        18
+      ],
+      "representatives": [
+        [
+          0,
+          24
+        ]
+      ],
+      "diamond23_preserves_divisor": false
+    },
+    {
+      "F2_degree": 1,
+      "global_Galois_degree": 1,
+      "label_indices": [
+        19
+      ],
+      "representatives": [
+        [
+          0,
+          25
+        ]
+      ],
+      "diamond23_preserves_divisor": false
+    },
+    {
+      "F2_degree": 1,
+      "global_Galois_degree": 1,
+      "label_indices": [
+        20
+      ],
+      "representatives": [
+        [
+          0,
+          26
+        ]
+      ],
+      "diamond23_preserves_divisor": false
+    },
+    {
+      "F2_degree": 1,
+      "global_Galois_degree": 1,
+      "label_indices": [
+        21
+      ],
+      "representatives": [
+        [
+          0,
+          27
+        ]
+      ],
+      "diamond23_preserves_divisor": false
+    },
+    {
+      "F2_degree": 1,
+      "global_Galois_degree": 1,
+      "label_indices": [
+        22
+      ],
+      "representatives": [
+        [
+          0,
+          29
+        ]
+      ],
+      "diamond23_preserves_divisor": false
+    },
+    {
+      "F2_degree": 1,
+      "global_Galois_degree": 1,
+      "label_indices": [
+        23
+      ],
+      "representatives": [
+        [
+          0,
+          30
+        ]
+      ],
+      "diamond23_preserves_divisor": false
+    },
+    {
+      "F2_degree": 1,
+      "global_Galois_degree": 1,
+      "label_indices": [
+        24
+      ],
+      "representatives": [
+        [
+          0,
+          31
+        ]
+      ],
+      "diamond23_preserves_divisor": false
+    },
+    {
+      "F2_degree": 1,
+      "global_Galois_degree": 1,
+      "label_indices": [
+        25
+      ],
+      "representatives": [
+        [
+          0,
+          32
+        ]
+      ],
+      "diamond23_preserves_divisor": false
+    },
+    {
+      "F2_degree": 1,
+      "global_Galois_degree": 1,
+      "label_indices": [
+        26
+      ],
+      "representatives": [
+        [
+          0,
+          34
+        ]
+      ],
+      "diamond23_preserves_divisor": false
+    },
+    {
+      "F2_degree": 1,
+      "global_Galois_degree": 1,
+      "label_indices": [
+        27
+      ],
+      "representatives": [
+        [
+          0,
+          36
+        ]
+      ],
+      "diamond23_preserves_divisor": false
+    },
+    {
+      "F2_degree": 1,
+      "global_Galois_degree": 1,
+      "label_indices": [
+        28
+      ],
+      "representatives": [
+        [
+          0,
+          37
+        ]
+      ],
+      "diamond23_preserves_divisor": false
+    },
+    {
+      "F2_degree": 1,
+      "global_Galois_degree": 1,
+      "label_indices": [
+        29
+      ],
+      "representatives": [
+        [
+          0,
+          38
+        ]
+      ],
+      "diamond23_preserves_divisor": false
+    },
+    {
+      "F2_degree": 3,
+      "global_Galois_degree": 6,
+      "label_indices": [
+        31,
+        48,
+        80
+      ],
+      "representatives": [
+        [
+          1,
+          7
+        ],
+        [
+          2,
+          7
+        ],
+        [
+          3,
+          70
+        ]
+      ],
+      "diamond23_preserves_divisor": true
+    },
+    {
+      "F2_degree": 3,
+      "global_Galois_degree": 6,
+      "label_indices": [
+        33,
+        50,
+        78
+      ],
+      "representatives": [
+        [
+          1,
+          14
+        ],
+        [
+          2,
+          14
+        ],
+        [
+          3,
+          63
+        ]
+      ],
+      "diamond23_preserves_divisor": true
+    },
+    {
+      "F2_degree": 3,
+      "global_Galois_degree": 6,
+      "label_indices": [
+        34,
+        51,
+        77
+      ],
+      "representatives": [
+        [
+          1,
+          21
+        ],
+        [
+          2,
+          21
+        ],
+        [
+          3,
+          56
+        ]
+      ],
+      "diamond23_preserves_divisor": true
+    },
+    {
+      "F2_degree": 3,
+      "global_Galois_degree": 6,
+      "label_indices": [
+        36,
+        53,
+        75
+      ],
+      "representatives": [
+        [
+          1,
+          28
+        ],
+        [
+          2,
+          28
+        ],
+        [
+          3,
+          49
+        ]
+      ],
+      "diamond23_preserves_divisor": true
+    },
+    {
+      "F2_degree": 3,
+      "global_Galois_degree": 6,
+      "label_indices": [
+        38,
+        55,
+        73
+      ],
+      "representatives": [
+        [
+          1,
+          35
+        ],
+        [
+          2,
+          35
+        ],
+        [
+          3,
+          42
+        ]
+      ],
+      "diamond23_preserves_divisor": true
+    },
+    {
+      "F2_degree": 3,
+      "global_Galois_degree": 6,
+      "label_indices": [
+        39,
+        56,
+        72
+      ],
+      "representatives": [
+        [
+          1,
+          42
+        ],
+        [
+          2,
+          42
+        ],
+        [
+          3,
+          35
+        ]
+      ],
+      "diamond23_preserves_divisor": true
+    },
+    {
+      "F2_degree": 3,
+      "global_Galois_degree": 6,
+      "label_indices": [
+        41,
+        58,
+        70
+      ],
+      "representatives": [
+        [
+          1,
+          49
+        ],
+        [
+          2,
+          49
+        ],
+        [
+          3,
+          28
+        ]
+      ],
+      "diamond23_preserves_divisor": true
+    },
+    {
+      "F2_degree": 3,
+      "global_Galois_degree": 6,
+      "label_indices": [
+        43,
+        60,
+        68
+      ],
+      "representatives": [
+        [
+          1,
+          56
+        ],
+        [
+          2,
+          56
+        ],
+        [
+          3,
+          21
+        ]
+      ],
+      "diamond23_preserves_divisor": true
+    },
+    {
+      "F2_degree": 3,
+      "global_Galois_degree": 6,
+      "label_indices": [
+        44,
+        61,
+        67
+      ],
+      "representatives": [
+        [
+          1,
+          63
+        ],
+        [
+          2,
+          63
+        ],
+        [
+          3,
+          14
+        ]
+      ],
+      "diamond23_preserves_divisor": true
+    },
+    {
+      "F2_degree": 3,
+      "global_Galois_degree": 6,
+      "label_indices": [
+        46,
+        63,
+        65
+      ],
+      "representatives": [
+        [
+          1,
+          70
+        ],
+        [
+          2,
+          70
+        ],
+        [
+          3,
+          7
+        ]
+      ],
+      "diamond23_preserves_divisor": true
+    }
+  ],
+  "nonQ_lifted_cuspidal_divisors_are_diamond23_invariant": true,
+  "rational_remainder_cusps_lift_toQ": true
+}

@@ -1,0 +1,51 @@
+{
+  "degree": 8,
+  "excluded_groups": [
+    [
+      2,
+      26
+    ],
+    [
+      1,
+      52
+    ]
+  ],
+  "actual_relation_HNF_replay": true,
+  "finite_Jacobian_order": 124501550040000,
+  "rational_image_order": 355718714400,
+  "rational_image_index": 350,
+  "place_counts": [
+    0,
+    0,
+    0,
+    0,
+    36,
+    122,
+    288,
+    936
+  ],
+  "diamond_representatives": [
+    6,
+    26,
+    48,
+    159
+  ],
+  "representatives_tested": 239,
+  "cubic_cusp_cosets": 6,
+  "individual_HNF_membership_tests": 275,
+  "survivors": 0,
+  "Frobenius_closed_point_counts": [
+    18,
+    0,
+    6,
+    0,
+    36,
+    122,
+    288,
+    936
+  ],
+  "Tate_rational_cusps_verified": 18,
+  "arithmetic_sha256": "953e9432624155828771a8a7632d06741a380fcf20e91f1ede254004f26e7387",
+  "boundary": "Finite class maps and geometric hash are reproducible Magma stages; exact group membership and zeta/Tate arithmetic independently replayed."
+}
+N26_D8_INDEPENDENT_HNF_REPLAY_DONE

@@ -1,0 +1,12 @@
+{
+  "complete": true,
+  "native_proven_flag": true,
+  "finite_order": 4246732800,
+  "factorbase_primes": 810,
+  "raw_relations_checked": 1026,
+  "factorbase_map_surjective": true,
+  "degree_coordinates_exact": true,
+  "actual_relation_lattice_checked": true,
+  "state_sha256": "e172fccd7438d091b7013b541f0089d430f8b999da1b048180572a2a91a08cbf",
+  "geometry_sha256": "bd50e15e9e6c08efb84bfff123a14a023687256a062d6cec45b0b38d6d958c27"
+}

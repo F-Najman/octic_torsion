@@ -1,0 +1,19 @@
+{
+  "degree": 8,
+  "group": [
+    6,
+    12
+  ],
+  "cubic_places": 96,
+  "diamond_representatives": 48,
+  "independent_level_orders": [
+    6,
+    12
+  ],
+  "subgroup_order": 72,
+  "all_positive_coordinates_and_images_checked": true,
+  "nonprincipal_A13_records": 48,
+  "generic_reference_degree": 42,
+  "Newton_counts_checked": true
+}
+M6N12_CUBIC_INDEPENDENT_REPLAY_DONE

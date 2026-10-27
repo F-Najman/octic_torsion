@@ -1,0 +1,4 @@
+C48_D8_SOURCE_NEWTON all=[ 16, 12, 16, 68, 656, 2712, 10784, 48992 ] cusps=[ 16, 12, 0, 4, 0, 0, 0, 0 ] noncuspidal=[ 0, 0, 16, 64, 656, 2712, 10784, 48992 ] JF5=539709447827880557936640000 time=0.790
+C48_D8_TARGET_MODEL genus=13 cusps=[ 1, 1, 1, 1, 2, 1, 1, 2, 2, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 2, 1 ] rational_block_degrees=[ 1, 1, 1, 2, 2, 1, 4, 4, 4, 4, 2, 2, 1, 4, 2, 2, 1, 1, 1 ] noncuspidal=[ 0, 0, 16, 96, 672, 2712, 11184, 48760 ] JF5=4246732800 prospective_index=4608 time=7.700
+C48_D8_TARGET_GROUP invariants=[ 2, 2, 4, 4, 12, 24, 480, 480, 0 ] rational_image=[ 2, 4, 4, 120, 240 ] quotient=[ 2, 2, 24, 48, 0 ] time=77.460
+C48_D8_TARGET_SETUP_DONE complete=true exclusion_claimed=false complement_counts=[ 1, 5, 23, 75, 178, 378, 661, 1065, 1487 ] time=77.480

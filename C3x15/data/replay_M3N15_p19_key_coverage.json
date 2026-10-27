@@ -1,0 +1,29 @@
+{
+  "degree": 8,
+  "group": [
+    3,
+    15
+  ],
+  "prime": 19,
+  "closed_place_counts": [
+    16,
+    152,
+    2336,
+    32076
+  ],
+  "quartic_actual_keys": 32076,
+  "all_keys_distinct": true,
+  "primitive_coordinate_flags": {
+    "1": 72,
+    "0": 32004
+  },
+  "shard_sha256": {
+    "M3N15_p19_native_keys_shard1.txt": "5adf7ad3cb702ecff3d49755cd10b4bbeecd2837af138fbd879cf78511e68557",
+    "M3N15_p19_native_keys_shard2.txt": "9afdbaffc8fbbb341056416dc1ab4eb448e8c04a1802747de733e6d7c73a07b5",
+    "M3N15_p19_native_keys_shard3.txt": "2d6de2f493fb2f759df893ae85f601abedaf20d06f70682ac97dca011917bef1",
+    "M3N15_p19_native_keys_shard4.txt": "6c93eb2c95187d070940aed9ce2c18627a10846cf12a20eae616a476b046d877",
+    "M3N15_p19_native_keys_shard5.txt": "dcf8ea8c223d1afcae6711c3680169b7fcf9e8ae20ff9b13244eddf48917ae83",
+    "M3N15_p19_native_keys_shard6.txt": "ad0ce935c310a8d43809af650527aa61a0c7056e263c9db60f3647776cac43f0"
+  },
+  "coverage_argument": "Each exported key is an actual normalized-curve quartic place; keys are injective on Frobenius orbits. Their distinct count equals the independently replayed Frobenius count. No cross-run place-index stability is assumed."
+}

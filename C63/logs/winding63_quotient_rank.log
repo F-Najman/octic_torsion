@@ -1,0 +1,12 @@
+Magma V2.30-1     Thu Oct 22 2026 01:35:19 on mordell  [Seed = 3965705865]
+Type <Ctrl>-D to quit.
+
+Loading file "work/degree8/large_levels/winding63_quotient_rank.m"
+Y63_RANK0_CHARACTER order=1 conductor=1 invariant8=1 dimension=5 winding_dimension=5
+Y63_RANK0_CHARACTER order=3 conductor=9 invariant8=1 dimension=6 winding_dimension=6
+Y63_RANK0_CHARACTER order=3 conductor=7 invariant8=1 dimension=4 winding_dimension=4
+Y63_RANK0_CHARACTER order=3 conductor=63 invariant8=1 dimension=6 winding_dimension=6
+Y63_RANK0_CHARACTER order=3 conductor=63 invariant8=1 dimension=6 winding_dimension=6
+Y63_RANK0_DONE invariant_character_orbits=5 dimension_sum=49 all_winding_full=true
+
+Total time: 0.090 seconds, Total memory usage: 32.09MB

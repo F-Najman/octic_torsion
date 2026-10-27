@@ -1,0 +1,9 @@
+start
+CASE 51d  d = 8  Magma 2
+factors of x(8P)-x(9P): [ <1, 1>, <10, 1> ]
+factor of bidegree (5,7): genus 5
+psi_3 degree 4 irreducible true
+minimal polynomial of y(P3) over X1(17): degree 8, irreducible true
+minimal polynomial of y(P3) over F2(x1): degree 40, max x1-degree of coefficients 190
+irreducible over F2(x1): true  (0.160 s)
+gcd of gg(S) and M(S,y3) over F has degree 1

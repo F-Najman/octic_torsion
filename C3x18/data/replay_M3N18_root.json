@@ -1,0 +1,53 @@
+{
+  "degree": 8,
+  "group": [
+    3,
+    18
+  ],
+  "genus": 10,
+  "relative_degree": 4,
+  "source_NC_counts": [
+    0,
+    27,
+    144,
+    513
+  ],
+  "target_NC_counts": [
+    0,
+    54,
+    846,
+    7506
+  ],
+  "source_Hecke_orbits": [
+    1,
+    8,
+    19
+  ],
+  "source_quartics_after_Hecke": 216,
+  "target_quartic_orbits": 278,
+  "independent_elliptic_representatives": 312,
+  "Aut_order": 27,
+  "cusp_subgroup_order": 20253807,
+  "quotient_exponent_bound": 9,
+  "matched_cubic_cases": 270,
+  "matched_cubic_supports": 54,
+  "cubic_orbits_stabilizer_excluded": 6,
+  "matched_quartic_orbits_Hecke_excluded": 9,
+  "remaining": 0,
+  "Weil_pairings": {
+    "7": 4,
+    "13": 9
+  },
+  "boundary": "Independent finite-field and elliptic arithmetic, all automorphism images/partitions, cusp Galois action, Newton counts, and proof assembly. The separate HNF comparator reconstructs all26225 states. Native proved class groups and exact IsPrincipal are not reimplemented in Python.",
+  "input_sha256": {
+    "M3N18_9multiple_fresh_p7_group_data.m": "8a4ad87a79b43b874bbef9ea6281b54141f7116e237f5ae078d1ddb5f170d0b1",
+    "M3N18_9multiple_aut27_p13_group_data.m": "9efaee6bd9e56775c535af2de1e49c52c17b1a7522c2093de80e05ba8a910353",
+    "sieve_3_18_D4_fullaut_root_v4_arithmetic.txt": "9b2b37af044fad967be7771e5f2fa3b7a61c93ed48147395a3a40696da830725",
+    "M3N18_9multiple_fresh_p7_degree2_data.m": "b1af89aa7c38fb0e48f1e4c40817ddc019741a235b06fba42d42902e9032c49d",
+    "M3N18_9multiple_fresh_p7_degree3_data.m": "7f4c55cb71fe06e6831d87e977a5455567438edc63259d838e077842d2743b0b",
+    "M3N18_9multiple_fresh_p7_degree4_data.m": "905bb67de5bb2a4b2a6ca7ebfa21c48525f65e910c973017ae1cefc8568dca26",
+    "M3N18_9multiple_aut27_p13_degree4_data.m": "58e78859dccf2121dfa675ca321f71cdf39d106eae6ae0157f02f49625af4bfd",
+    "M3N18_p13_postdiagonal_arithmetic_root.txt": "7ec617c89bb1140254750d9c045e0c48fa719f4c110ad0aa70d5167501e36010",
+    "M3N18_9multiple_aut27_p13_degree3_data.m": "69a978d9a50e7049356b95c69407adad5e1eaa7106efa0f9156aad91679c8cb1"
+  }
+}

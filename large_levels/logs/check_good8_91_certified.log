@@ -1,0 +1,6 @@
+GOOD91_STABILIZER_CHECK [ 1, 16, 17, 74, 75, 90 ]
+GOOD2 N=91 j=0 curve=[ 0, 0, F.1, 0, 0 ] order=273 aut_count=6 stabilizer_multipliers=[ 1, 16, 17, 74, 75, 90 ]
+GOOD91_STABILIZER_CHECK [ 1, 16, 17, 74, 75, 90 ]
+GOOD2 N=91 j=0 curve=[ 0, 0, F.1^254, 0, 0 ] order=273 aut_count=6 stabilizer_multipliers=[ 1, 16, 17, 74, 75, 90 ]
+GOOD2_ALL_CURVES N=91 qualifying_twists=2
+OCTIC_GOOD91_AUTOMORPHISM_DONE complete=true

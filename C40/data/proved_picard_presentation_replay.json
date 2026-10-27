@@ -1,0 +1,11 @@
+{
+  "level": 40,
+  "degree": 8,
+  "native_proven_flag": true,
+  "finite_order": 31579088486400,
+  "factorbase_primes": 616,
+  "raw_relations_checked": 766,
+  "factorbase_map_surjective": true,
+  "degree_coordinates_exact": true,
+  "actual_relation_lattice": true
+}

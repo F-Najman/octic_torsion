@@ -1,0 +1,1492 @@
+C34_D8_KNOWN_DIVISORS classes=7 weighted_reduction_patterns=[
+[
+[ 1, 8 ]
+],
+[
+[ 2, 4 ]
+],
+[
+[ 1, 4 ],
+[ 1, 4 ]
+]
+] time=305.340
+C34_D8_CLASS_TEST degree=4 index=1/26 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=4 index=2/26 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=4 index=3/26 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=4 index=4/26 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=4 index=5/26 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=4 index=6/26 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=4 index=7/26 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=4 index=8/26 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=4 index=9/26 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=4 index=10/26 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=4 index=11/26 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=4 index=12/26 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=4 index=13/26 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=4 index=14/26 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=4 index=15/26 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=4 index=16/26 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=4 index=17/26 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=4 index=18/26 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=4 index=19/26 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=4 index=20/26 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=4 index=21/26 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=4 index=22/26 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=4 index=23/26 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=4 index=24/26 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=4 index=25/26 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=4 index=26/26 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=5 index=1/32 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=5 index=2/32 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=5 index=3/32 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=5 index=4/32 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=5 index=5/32 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=5 index=6/32 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=5 index=7/32 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=5 index=8/32 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=5 index=9/32 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=5 index=10/32 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=5 index=11/32 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=5 index=12/32 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=5 index=13/32 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=5 index=14/32 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=5 index=15/32 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=5 index=16/32 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=5 index=17/32 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=5 index=18/32 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=5 index=19/32 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=5 index=20/32 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=5 index=21/32 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=5 index=22/32 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=5 index=23/32 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=5 index=24/32 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=5 index=25/32 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=5 index=26/32 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=5 index=27/32 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=5 index=28/32 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=5 index=29/32 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=5 index=30/32 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=5 index=31/32 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=5 index=32/32 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=1/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=2/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=3/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=4/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=5/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=6/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=7/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=8/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=9/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=10/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=11/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=12/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=13/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=14/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=15/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=16/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=17/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=18/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=19/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=20/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=21/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=22/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=23/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=24/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=25/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=26/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=27/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=28/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=29/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=30/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=31/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=32/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=33/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=34/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=35/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=36/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=37/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=38/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=39/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=40/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=41/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=42/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=43/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=44/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=45/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=46/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=47/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=48/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=49/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=50/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=51/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=52/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=53/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=54/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=55/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=56/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=57/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=58/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=59/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=60/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=61/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=62/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=63/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=64/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=65/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=66/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=67/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=68/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=69/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=70/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=71/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=72/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=73/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=74/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=75/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=76/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=77/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=78/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=79/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=6 index=80/80 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=1/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=2/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=3/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=4/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=5/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=6/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=7/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=8/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=9/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=10/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=11/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=12/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=13/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=14/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=15/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=16/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=17/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=18/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=19/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=20/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=21/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=22/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=23/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=24/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=25/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=26/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=27/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=28/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=29/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=30/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=31/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=32/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=33/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=34/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=35/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=36/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=37/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=38/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=39/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=40/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=41/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=42/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=43/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=44/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=45/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=46/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=47/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=48/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=49/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=50/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=51/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=52/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=53/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=54/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=55/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=56/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=57/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=58/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=59/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=60/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=61/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=62/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=63/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=64/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=65/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=66/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=67/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=68/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=69/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=70/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=71/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=72/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=73/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=74/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=75/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=76/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=77/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=78/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=79/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=80/256 in_rational_image=false time=305.380
+C34_D8_CLASS_TEST degree=7 index=81/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=82/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=83/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=84/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=85/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=86/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=87/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=88/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=89/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=90/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=91/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=92/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=93/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=94/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=95/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=96/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=97/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=98/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=99/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=100/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=101/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=102/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=103/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=104/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=105/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=106/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=107/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=108/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=109/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=110/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=111/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=112/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=113/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=114/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=115/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=116/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=117/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=118/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=119/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=120/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=121/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=122/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=123/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=124/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=125/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=126/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=127/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=128/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=129/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=130/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=131/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=132/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=133/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=134/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=135/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=136/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=137/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=138/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=139/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=140/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=141/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=142/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=143/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=144/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=145/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=146/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=147/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=148/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=149/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=150/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=151/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=152/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=153/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=154/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=155/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=156/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=157/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=158/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=159/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=160/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=161/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=162/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=163/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=164/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=165/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=166/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=167/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=168/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=169/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=170/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=171/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=172/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=173/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=174/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=175/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=176/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=177/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=178/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=179/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=180/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=181/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=182/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=183/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=184/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=185/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=186/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=187/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=188/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=189/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=190/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=191/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=192/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=193/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=194/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=195/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=196/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=197/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=198/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=199/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=200/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=201/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=202/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=203/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=204/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=205/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=206/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=207/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=208/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=209/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=210/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=211/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=212/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=213/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=214/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=215/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=216/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=217/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=218/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=219/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=220/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=221/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=222/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=223/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=224/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=225/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=226/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=227/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=228/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=229/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=230/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=231/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=232/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=233/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=234/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=235/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=236/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=237/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=238/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=239/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=240/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=241/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=242/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=243/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=244/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=245/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=246/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=247/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=248/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=249/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=250/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=251/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=252/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=253/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=254/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=255/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=7 index=256/256 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=1/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=2/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=3/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=4/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=5/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=6/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=7/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=8/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=9/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=10/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=11/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=12/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=13/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=14/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=15/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=16/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=17/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=18/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=19/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=20/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=21/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=22/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=23/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=24/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=25/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=26/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=27/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=28/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=29/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=30/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=31/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=32/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=33/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=34/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=35/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=36/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=37/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=38/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=39/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=40/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=41/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=42/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=43/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=44/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=45/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=46/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=47/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=48/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=49/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=50/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=51/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=52/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=53/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=54/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=55/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=56/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=57/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=58/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=59/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=60/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=61/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=62/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=63/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=64/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=65/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=66/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=67/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=68/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=69/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=70/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=71/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=72/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=73/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=74/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=75/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=76/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=77/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=78/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=79/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=80/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=81/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=82/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=83/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=84/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=85/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=86/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=87/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=88/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=89/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=90/734 in_rational_image=false time=305.390
+C34_D8_CLASS_TEST degree=8 index=91/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=92/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=93/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=94/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=95/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=96/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=97/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=98/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=99/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=100/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=101/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=102/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=103/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=104/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=105/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=106/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=107/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=108/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=109/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=110/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=111/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=112/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=113/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=114/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=115/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=116/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=117/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=118/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=119/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=120/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=121/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=122/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=123/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=124/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=125/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=126/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=127/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=128/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=129/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=130/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=131/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=132/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=133/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=134/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=135/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=136/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=137/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=138/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=139/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=140/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=141/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=142/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=143/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=144/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=145/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=146/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=147/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=148/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=149/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=150/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=151/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=152/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=153/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=154/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=155/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=156/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=157/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=158/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=159/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=160/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=161/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=162/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=163/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=164/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=165/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=166/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=167/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=168/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=169/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=170/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=171/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=172/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=173/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=174/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=175/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=176/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=177/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=178/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=179/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=180/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=181/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=182/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=183/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=184/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=185/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=186/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=187/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=188/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=189/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=190/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=191/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=192/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=193/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=194/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=195/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=196/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=197/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=198/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=199/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=200/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=201/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=202/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=203/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=204/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=205/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=206/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=207/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=208/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=209/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=210/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=211/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=212/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=213/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=214/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=215/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=216/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=217/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=218/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=219/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=220/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=221/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=222/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=223/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=224/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=225/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=226/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=227/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=228/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=229/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=230/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=231/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=232/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=233/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=234/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=235/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=236/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=237/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=238/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=239/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=240/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=241/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=242/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=243/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=244/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=245/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=246/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=247/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=248/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=249/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=250/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=251/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=252/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=253/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=254/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=255/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=256/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=257/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=258/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=259/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=260/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=261/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=262/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=263/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=264/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=265/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=266/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=267/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=268/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=269/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=270/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=271/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=272/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=273/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=274/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=275/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=276/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=277/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=278/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=279/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=280/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=281/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=282/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=283/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=284/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=285/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=286/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=287/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=288/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=289/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=290/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=291/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=292/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=293/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=294/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=295/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=296/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=297/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=298/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=299/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=300/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=301/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=302/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=303/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=304/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=305/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=306/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=307/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=308/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=309/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=310/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=311/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=312/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=313/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=314/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=315/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=316/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=317/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=318/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=319/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=320/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=321/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=322/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=323/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=324/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=325/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=326/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=327/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=328/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=329/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=330/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=331/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=332/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=333/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=334/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=335/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=336/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=337/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=338/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=339/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=340/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=341/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=342/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=343/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=344/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=345/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=346/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=347/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=348/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=349/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=350/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=351/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=352/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=353/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=354/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=355/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=356/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=357/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=358/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=359/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=360/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=361/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=362/734 in_rational_image=false time=305.400
+C34_D8_CLASS_TEST degree=8 index=363/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=364/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=365/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=366/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=367/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=368/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=369/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=370/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=371/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=372/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=373/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=374/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=375/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=376/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=377/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=378/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=379/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=380/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=381/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=382/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=383/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=384/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=385/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=386/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=387/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=388/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=389/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=390/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=391/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=392/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=393/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=394/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=395/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=396/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=397/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=398/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=399/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=400/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=401/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=402/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=403/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=404/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=405/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=406/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=407/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=408/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=409/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=410/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=411/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=412/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=413/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=414/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=415/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=416/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=417/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=418/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=419/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=420/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=421/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=422/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=423/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=424/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=425/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=426/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=427/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=428/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=429/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=430/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=431/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=432/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=433/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=434/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=435/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=436/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=437/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=438/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=439/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=440/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=441/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=442/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=443/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=444/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=445/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=446/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=447/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=448/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=449/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=450/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=451/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=452/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=453/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=454/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=455/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=456/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=457/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=458/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=459/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=460/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=461/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=462/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=463/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=464/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=465/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=466/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=467/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=468/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=469/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=470/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=471/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=472/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=473/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=474/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=475/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=476/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=477/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=478/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=479/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=480/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=481/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=482/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=483/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=484/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=485/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=486/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=487/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=488/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=489/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=490/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=491/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=492/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=493/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=494/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=495/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=496/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=497/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=498/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=499/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=500/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=501/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=502/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=503/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=504/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=505/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=506/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=507/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=508/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=509/734 in_rational_image=true time=305.410
+C34_D8_CLASS_TEST degree=8 index=510/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=511/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=512/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=513/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=514/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=515/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=516/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=517/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=518/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=519/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=520/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=521/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=522/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=523/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=524/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=525/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=526/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=527/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=528/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=529/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=530/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=531/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=532/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=533/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=534/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=535/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=536/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=537/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=538/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=539/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=540/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=541/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=542/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=543/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=544/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=545/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=546/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=547/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=548/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=549/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=550/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=551/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=552/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=553/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=554/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=555/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=556/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=557/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=558/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=559/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=560/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=561/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=562/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=563/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=564/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=565/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=566/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=567/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=568/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=569/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=570/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=571/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=572/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=573/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=574/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=575/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=576/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=577/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=578/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=579/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=580/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=581/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=582/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=583/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=584/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=585/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=586/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=587/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=588/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=589/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=590/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=591/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=592/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=593/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=594/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=595/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=596/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=597/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=598/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=599/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=600/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=601/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=602/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=603/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=604/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=605/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=606/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=607/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=608/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=609/734 in_rational_image=false time=305.410
+C34_D8_CLASS_TEST degree=8 index=610/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=611/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=612/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=613/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=614/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=615/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=616/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=617/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=618/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=619/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=620/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=621/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=622/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=623/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=624/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=625/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=626/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=627/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=628/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=629/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=630/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=631/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=632/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=633/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=634/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=635/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=636/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=637/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=638/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=639/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=640/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=641/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=642/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=643/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=644/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=645/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=646/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=647/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=648/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=649/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=650/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=651/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=652/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=653/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=654/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=655/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=656/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=657/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=658/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=659/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=660/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=661/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=662/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=663/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=664/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=665/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=666/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=667/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=668/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=669/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=670/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=671/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=672/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=673/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=674/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=675/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=676/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=677/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=678/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=679/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=680/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=681/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=682/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=683/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=684/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=685/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=686/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=687/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=688/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=689/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=690/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=691/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=692/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=693/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=694/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=695/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=696/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=697/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=698/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=699/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=700/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=701/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=702/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=703/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=704/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=705/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=706/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=707/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=708/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=709/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=710/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=711/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=712/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=713/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=714/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=715/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=716/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=717/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=718/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=719/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=720/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=721/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=722/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=723/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=724/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=725/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=726/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=727/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=728/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=729/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=730/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=731/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=732/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=733/734 in_rational_image=false time=305.420
+C34_D8_CLASS_TEST degree=8 index=734/734 in_rational_image=false time=305.420
+C34_D8_QUARTIC_PAIR i=1 j=1 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=1 j=2 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=1 j=3 in_rational_image=true
+C34_D8_QUARTIC_PAIR i=1 j=4 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=1 j=5 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=1 j=6 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=1 j=7 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=1 j=8 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=1 j=9 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=1 j=10 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=1 j=11 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=1 j=12 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=1 j=13 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=1 j=14 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=1 j=15 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=1 j=16 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=1 j=17 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=1 j=18 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=1 j=19 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=1 j=20 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=1 j=21 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=1 j=22 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=1 j=23 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=1 j=24 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=1 j=25 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=1 j=26 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=2 j=2 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=2 j=3 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=2 j=4 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=2 j=5 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=2 j=6 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=2 j=7 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=2 j=8 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=2 j=9 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=2 j=10 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=2 j=11 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=2 j=12 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=2 j=13 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=2 j=14 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=2 j=15 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=2 j=16 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=2 j=17 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=2 j=18 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=2 j=19 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=2 j=20 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=2 j=21 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=2 j=22 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=2 j=23 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=2 j=24 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=2 j=25 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=2 j=26 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=3 j=3 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=3 j=4 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=3 j=5 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=3 j=6 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=3 j=7 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=3 j=8 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=3 j=9 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=3 j=10 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=3 j=11 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=3 j=12 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=3 j=13 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=3 j=14 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=3 j=15 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=3 j=16 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=3 j=17 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=3 j=18 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=3 j=19 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=3 j=20 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=3 j=21 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=3 j=22 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=3 j=23 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=3 j=24 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=3 j=25 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=3 j=26 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=4 j=4 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=4 j=5 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=4 j=6 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=4 j=7 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=4 j=8 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=4 j=9 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=4 j=10 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=4 j=11 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=4 j=12 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=4 j=13 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=4 j=14 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=4 j=15 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=4 j=16 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=4 j=17 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=4 j=18 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=4 j=19 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=4 j=20 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=4 j=21 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=4 j=22 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=4 j=23 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=4 j=24 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=4 j=25 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=4 j=26 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=5 j=5 in_rational_image=true
+C34_D8_QUARTIC_PAIR i=5 j=6 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=5 j=7 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=5 j=8 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=5 j=9 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=5 j=10 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=5 j=11 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=5 j=12 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=5 j=13 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=5 j=14 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=5 j=15 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=5 j=16 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=5 j=17 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=5 j=18 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=5 j=19 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=5 j=20 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=5 j=21 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=5 j=22 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=5 j=23 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=5 j=24 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=5 j=25 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=5 j=26 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=6 j=6 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=6 j=7 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=6 j=8 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=6 j=9 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=6 j=10 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=6 j=11 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=6 j=12 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=6 j=13 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=6 j=14 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=6 j=15 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=6 j=16 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=6 j=17 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=6 j=18 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=6 j=19 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=6 j=20 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=6 j=21 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=6 j=22 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=6 j=23 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=6 j=24 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=6 j=25 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=6 j=26 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=7 j=7 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=7 j=8 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=7 j=9 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=7 j=10 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=7 j=11 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=7 j=12 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=7 j=13 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=7 j=14 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=7 j=15 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=7 j=16 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=7 j=17 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=7 j=18 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=7 j=19 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=7 j=20 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=7 j=21 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=7 j=22 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=7 j=23 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=7 j=24 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=7 j=25 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=7 j=26 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=8 j=8 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=8 j=9 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=8 j=10 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=8 j=11 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=8 j=12 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=8 j=13 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=8 j=14 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=8 j=15 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=8 j=16 in_rational_image=true
+C34_D8_QUARTIC_PAIR i=8 j=17 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=8 j=18 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=8 j=19 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=8 j=20 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=8 j=21 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=8 j=22 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=8 j=23 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=8 j=24 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=8 j=25 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=8 j=26 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=9 j=9 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=9 j=10 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=9 j=11 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=9 j=12 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=9 j=13 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=9 j=14 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=9 j=15 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=9 j=16 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=9 j=17 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=9 j=18 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=9 j=19 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=9 j=20 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=9 j=21 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=9 j=22 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=9 j=23 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=9 j=24 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=9 j=25 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=9 j=26 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=10 j=10 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=10 j=11 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=10 j=12 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=10 j=13 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=10 j=14 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=10 j=15 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=10 j=16 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=10 j=17 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=10 j=18 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=10 j=19 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=10 j=20 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=10 j=21 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=10 j=22 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=10 j=23 in_rational_image=true
+C34_D8_QUARTIC_PAIR i=10 j=24 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=10 j=25 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=10 j=26 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=11 j=11 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=11 j=12 in_rational_image=true
+C34_D8_QUARTIC_PAIR i=11 j=13 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=11 j=14 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=11 j=15 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=11 j=16 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=11 j=17 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=11 j=18 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=11 j=19 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=11 j=20 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=11 j=21 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=11 j=22 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=11 j=23 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=11 j=24 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=11 j=25 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=11 j=26 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=12 j=12 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=12 j=13 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=12 j=14 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=12 j=15 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=12 j=16 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=12 j=17 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=12 j=18 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=12 j=19 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=12 j=20 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=12 j=21 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=12 j=22 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=12 j=23 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=12 j=24 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=12 j=25 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=12 j=26 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=13 j=13 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=13 j=14 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=13 j=15 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=13 j=16 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=13 j=17 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=13 j=18 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=13 j=19 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=13 j=20 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=13 j=21 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=13 j=22 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=13 j=23 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=13 j=24 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=13 j=25 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=13 j=26 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=14 j=14 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=14 j=15 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=14 j=16 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=14 j=17 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=14 j=18 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=14 j=19 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=14 j=20 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=14 j=21 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=14 j=22 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=14 j=23 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=14 j=24 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=14 j=25 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=14 j=26 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=15 j=15 in_rational_image=true
+C34_D8_QUARTIC_PAIR i=15 j=16 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=15 j=17 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=15 j=18 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=15 j=19 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=15 j=20 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=15 j=21 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=15 j=22 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=15 j=23 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=15 j=24 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=15 j=25 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=15 j=26 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=16 j=16 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=16 j=17 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=16 j=18 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=16 j=19 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=16 j=20 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=16 j=21 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=16 j=22 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=16 j=23 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=16 j=24 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=16 j=25 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=16 j=26 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=17 j=17 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=17 j=18 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=17 j=19 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=17 j=20 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=17 j=21 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=17 j=22 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=17 j=23 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=17 j=24 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=17 j=25 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=17 j=26 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=18 j=18 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=18 j=19 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=18 j=20 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=18 j=21 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=18 j=22 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=18 j=23 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=18 j=24 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=18 j=25 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=18 j=26 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=19 j=19 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=19 j=20 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=19 j=21 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=19 j=22 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=19 j=23 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=19 j=24 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=19 j=25 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=19 j=26 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=20 j=20 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=20 j=21 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=20 j=22 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=20 j=23 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=20 j=24 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=20 j=25 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=20 j=26 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=21 j=21 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=21 j=22 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=21 j=23 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=21 j=24 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=21 j=25 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=21 j=26 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=22 j=22 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=22 j=23 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=22 j=24 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=22 j=25 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=22 j=26 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=23 j=23 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=23 j=24 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=23 j=25 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=23 j=26 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=24 j=24 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=24 j=25 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=24 j=26 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=25 j=25 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=25 j=26 in_rational_image=false
+C34_D8_QUARTIC_PAIR i=26 j=26 in_rational_image=false
+C34_OCTIC_CLASSIFICATION_DONE single_counts=[ 26, 32, 80, 256, 734 ] single_members=[ 0, 0, 0, 0, 1 ] quartic_pairs=351 pair_members=6 candidate_classes=7 known_octic_classes=7 unknown_octic_classes=0 complete=true time=305.440

@@ -1,0 +1,54 @@
+{
+  "degree": 8,
+  "excluded_group": [
+    5,
+    35
+  ],
+  "winding_log_sha256": "97c70b440c2e09bbb26e41918653248f8683e20eedfec483946243012416b2f3",
+  "even_characters": 60,
+  "galois_character_orbits": 12,
+  "genus_X1_175": 1033,
+  "bad_winding_orders": [
+    1,
+    5
+  ],
+  "H": [
+    1,
+    36,
+    71,
+    106,
+    141
+  ],
+  "H_fixed_character_orders": [
+    1,
+    2,
+    3,
+    4,
+    6,
+    12
+  ],
+  "delta_moving_character_orders": [
+    3,
+    6,
+    12
+  ],
+  "H_fixed_dimension": 169,
+  "delta_moving_dimension": 112,
+  "PSL_index_mixed": 2880,
+  "gonality_lower": "14625/512",
+  "Hasse_intervals": [
+    [
+      16,
+      9,
+      25
+    ],
+    [
+      256,
+      225,
+      289
+    ]
+  ],
+  "quartic_nebentype_twists_checked": 32,
+  "boundary": "Elementary arithmetic and recorded winding exhaustion replayed; modular symbols remain the exact Magma stage."
+}
+FIVE_THIRTY_FIVE_ARITHMETIC_REPLAY_DONE

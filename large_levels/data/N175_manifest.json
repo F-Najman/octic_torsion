@@ -1,0 +1,48 @@
+{
+  "degree": 8,
+  "excluded_cyclic_order": 175,
+  "status": "complete",
+  "genus": 1033,
+  "a": 24,
+  "diamond_order": 3,
+  "incomplete_winding_character_orders": [
+    1,
+    5
+  ],
+  "q": 3,
+  "kq": 8,
+  "index": 14400,
+  "gonality_lower_bound": "73125/512",
+  "principal_function_degree_bound": 64,
+  "minimum_CM_degree": 120,
+  "files": [
+    {
+      "path": "N175_exclusion.tex",
+      "sha256": "b0df2ba7a3e632f4ea785abf252c84fc293bf37509fb83192ed72503ef879ddf"
+    },
+    {
+      "path": "certify_additional.py",
+      "sha256": "2ba6cd96f5c23f338ce042cbcf027c35e4db248ca99dbf092209890ac8e7f7d3"
+    },
+    {
+      "path": "winding_probe.m",
+      "sha256": "46f61f69c8ddbdda0bb734d43d4ff9a1e9490381364da1cd9d19875ad6f8cd01"
+    },
+    {
+      "path": "winding175_octic.log",
+      "sha256": "97c70b440c2e09bbb26e41918653248f8683e20eedfec483946243012416b2f3"
+    },
+    {
+      "path": "inputs/dcm_list_all_min_orders_X1_10k.m",
+      "sha256": "020ba11c347b70aafd59099994d5df55d969ffeaff468ced1a06ae97868b64cc"
+    },
+    {
+      "path": "inputs/least_cm_degree_README.md",
+      "sha256": "6985663cf78f5da3b67b0cdfca6a6d1e8fceffe4f9b33a6f06b95fc2e9cb8cc2"
+    },
+    {
+      "path": "inputs/DN_2412.16016_main.tex",
+      "sha256": "eb539fac24689b2a44ef28f5242b3a076a2796d92d565cef0b7ff8fb6c36c7b6"
+    }
+  ]
+}

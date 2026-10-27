@@ -1,0 +1,25 @@
+{
+  "degree": 8,
+  "excluded_group": [
+    1,
+    69
+  ],
+  "status": "complete",
+  "source_genus": 133,
+  "quotient_genus": 13,
+  "base_genus": 7,
+  "closed_source_counts_7_8": [
+    66,
+    44
+  ],
+  "base_images_7_8": [
+    3,
+    2
+  ],
+  "good7_lift_tests": 8,
+  "good8_base_tests": 2,
+  "all_bad_branch": "rank zero and rational gonality greater than16",
+  "source_cusp_complement": "Every F2-rational source cusp is Q-rational.",
+  "path_base": "work/degree8"
+}
+OCTIC69_COMPLETE_CERTIFICATE_DONE

@@ -1,0 +1,8 @@
+C48_D8_HEC_START source_index=2286 q=7 master_sha=a95927262796020825fa2064678a536f75013a1081427e02115a789b8790d580
+C48_D8_ISOGENIES source_index=2286 orbits=4 time=0.000
+C48_D8_IMAGE source_index=2286 kernel_orbit=2 image_degree=16 time=0.000
+C48_D8_IMAGE source_index=2286 kernel_orbit=2 image_degree=16 time=0.000
+C48_D8_IMAGE source_index=2286 kernel_orbit=2 image_degree=16 time=0.000
+C48_D8_IMAGE source_index=2286 kernel_orbit=2 image_degree=16 time=0.000
+C48_D8_PRINCIPALITY_START source_index=2286 time=0.000
+C48_D8_HEC_DONE source_index=2286 q=7 principal=false complete=true time=25.430

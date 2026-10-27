@@ -1,0 +1,10 @@
+SetColumns(0);SetQuitOnError(true);SetMemoryLimit(2*10^9);
+AttachSpec("mdmagma/Magma/magma.spec");
+N:=63;
+idx:=[c:c in [1..N-1]|GCD(c,N) eq 1 and ConreyCharacterOrbitLabel(N,c) eq "63.s"];
+assert #idx eq 2;
+ker:={a:a in [1..N-1]|GCD(a,N) eq 1 and &and[ConreyCharacterValue(N,c,a) eq 1:c in idx]};
+assert ker eq {1,5,25,38,58,62};
+printf "OCTIC63_POSITIVE_CHARACTER indices=%o common_kernel=%o\n",idx,ker;
+print "OCTIC_REMAINING_RANK_CHARACTER_DONE";
+quit;

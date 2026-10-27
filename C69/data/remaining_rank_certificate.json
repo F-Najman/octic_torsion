@@ -1,0 +1,127 @@
+{
+  "45": {
+    "genus": 41,
+    "weighted_newform_dimension": 41,
+    "positive_rank_forms": [],
+    "rank_zero": true,
+    "Abramovich_lower_bound": "8775/1024"
+  },
+  "55": {
+    "genus": 81,
+    "weighted_newform_dimension": 81,
+    "positive_rank_forms": [],
+    "rank_zero": true,
+    "Abramovich_lower_bound": "14625/1024"
+  },
+  "57": {
+    "genus": 85,
+    "weighted_newform_dimension": 85,
+    "positive_rank_forms": [
+      {
+        "oldform_multiplicity": 1,
+        "id": 11043,
+        "label": "57.2.a.a",
+        "char_orbit_label": "a",
+        "char_order": 1,
+        "char_conductor": 1,
+        "dim": 1,
+        "relative_dim": 1,
+        "analytic_rank": 1,
+        "analytic_rank_proved": true,
+        "is_cm": false,
+        "nf_label": "1.1.1.1"
+      }
+    ],
+    "rank_zero": false,
+    "Abramovich_lower_bound": "14625/1024"
+  },
+  "63": {
+    "genus": 97,
+    "weighted_newform_dimension": 97,
+    "positive_rank_forms": [
+      {
+        "oldform_multiplicity": 1,
+        "id": 11781,
+        "label": "63.2.s.a",
+        "char_orbit_label": "s",
+        "char_order": 6,
+        "char_conductor": 63,
+        "dim": 2,
+        "relative_dim": 1,
+        "analytic_rank": 1,
+        "analytic_rank_proved": true,
+        "is_cm": false,
+        "nf_label": "2.0.3.1"
+      }
+    ],
+    "rank_zero": false,
+    "Abramovich_lower_bound": "8775/512"
+  },
+  "65": {
+    "genus": 121,
+    "weighted_newform_dimension": 121,
+    "positive_rank_forms": [
+      {
+        "oldform_multiplicity": 1,
+        "id": 12421,
+        "label": "65.2.a.a",
+        "char_orbit_label": "a",
+        "char_order": 1,
+        "char_conductor": 1,
+        "dim": 1,
+        "relative_dim": 1,
+        "analytic_rank": 1,
+        "analytic_rank_proved": true,
+        "is_cm": false,
+        "nf_label": "1.1.1.1"
+      }
+    ],
+    "rank_zero": false,
+    "Abramovich_lower_bound": "20475/1024"
+  },
+  "75": {
+    "genus": 145,
+    "weighted_newform_dimension": 145,
+    "positive_rank_forms": [],
+    "rank_zero": true,
+    "Abramovich_lower_bound": "24375/1024"
+  },
+  "69": {
+    "genus": 133,
+    "weighted_winding_dimension": 133,
+    "rank_zero": true,
+    "Abramovich_lower_bound": "10725/512"
+  },
+  "all_cuspidal2": {
+    "75": "excluded by rankzero and gonality>16; Parent implies2(D-C) principal, then base change gives h0(2D)>1 overQ",
+    "69": "excluded by the same rankzero argument and gonality>16",
+    "45": "not excluded by this bound: lower bound<16",
+    "55": "not excluded by this bound: lower bound<16"
+  },
+  "files": [
+    {
+      "path": "audit_remaining.py",
+      "sha256": "a075a7ea140ac524f51288f5ef46f32b5d528eb74fc503fa6f6da2defade5732"
+    },
+    {
+      "path": "check_characters.m",
+      "sha256": "b61a744cb4701b72d2e828b22462e51cefd27936aa2ffadeae08a04abb93e97d"
+    },
+    {
+      "path": "check_characters.log",
+      "sha256": "405120c0651ca26781c4a615ce89f96370961ee0b893fc8d8dc35f921decddd1"
+    },
+    {
+      "path": "winding69_octic.log",
+      "sha256": "58827cbc8b6cef47750b937394b4f747527503102621690636adc50d8b94a03b"
+    },
+    {
+      "path": "../winding_probe.m",
+      "sha256": "46f61f69c8ddbdda0bb734d43d4ff9a1e9490381364da1cd9d19875ad6f8cd01"
+    },
+    {
+      "path": "../inputs/lmfdb_newforms_cache.json",
+      "sha256": "f1fdb641a16ab0f02c2cc6a07ea6c4bb2643522d4a3b127dba41dc7d3d023fee"
+    }
+  ]
+}

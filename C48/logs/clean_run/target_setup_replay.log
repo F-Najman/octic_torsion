@@ -1,0 +1,22 @@
+{
+  "arithmetic_sha256": "20f7e53a71b273fb09168220025d8346b6d55376828b34a7bad290c4e8bc4490",
+  "target_group_order": 4246732800,
+  "rational_cusp_image_order": 921600,
+  "finite_quotient_index": 4608,
+  "complement_counts": [
+    1,
+    5,
+    23,
+    75,
+    178,
+    378,
+    661,
+    1065,
+    1487
+  ],
+  "newton_counts_verified": true,
+  "integer_lattice_verified": true,
+  "setup_only": true,
+  "exclusion_claimed": false,
+  "complete": true
+}

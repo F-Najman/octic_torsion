@@ -1,0 +1,33 @@
+{
+  "degree": 8,
+  "excluded_groups": [
+    [
+      2,
+      28
+    ],
+    [
+      1,
+      56
+    ]
+  ],
+  "status": "complete; awaiting independent root review",
+  "full_aut_representatives": 49,
+  "two_prime_Hecke_survivors": [
+    35,
+    46
+  ],
+  "quotient_class_obstruction_kills": [
+    46
+  ],
+  "exact_global_cusp_lift_replayed": true,
+  "final_orbit": 35,
+  "global_RR_dimension": 1,
+  "unique_effective_divisor_degree": 8,
+  "psi2_factor_degrees": [
+    1,
+    2
+  ],
+  "independent_good_prime_2torsion_obstruction": 23,
+  "final_source_orbits_remaining": 0,
+  "verification_boundary": "Python independently replays field/count/partition/integer-class/local2 arithmetic. Native exact RR dimension and divisor identification are checked by the completed fresh Magma end-to-end source; no independent Python RR implementation is claimed."
+}

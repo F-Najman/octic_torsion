@@ -1,0 +1,70 @@
+Magma V2.30-1     Thu Oct 22 2026 06:05:18 on mordell  [Seed = 4115009272]
+Type <Ctrl>-D to quit.
+
+Loading file "work/degree8/large_levels/C65_genus61_preflight_v3.m"
+C65_GENUS61_IRREDUCIBILITY_START 0.010
+C65_GENUS61_IRREDUCIBILITY_DONE 0.030
+C65_GENUS61_NORMALIZATION_START 0.050
+C65_GENUS61_FIBRE_MODEL_VERIFIED irreducible12=true genus61=true index1008=true time=179.110
+C65_GENUS61_CUSP_START 179.110
+C65_GENUS61_BASE_CUSP_START index=1 degree=1 time=179.110
+C65_GENUS61_BASE_CUSP_DONE index=1 output=[ <1, 2>, <5, 1>, <5, 1> ] time=355.520
+C65_GENUS61_BASE_CUSP_START index=2 degree=1 time=355.520
+C65_GENUS61_BASE_CUSP_DONE index=2 output=[ <1, 2>, <5, 1>, <5, 1> ] time=461.530
+C65_GENUS61_BASE_CUSP_START index=3 degree=1 time=461.530
+C65_GENUS61_BASE_CUSP_DONE index=3 output=[ <1, 2>, <5, 1>, <5, 1> ] time=492.750
+C65_GENUS61_BASE_CUSP_START index=4 degree=1 time=492.750
+C65_GENUS61_BASE_CUSP_DONE index=4 output=[ <1, 2>, <5, 1>, <5, 1> ] time=656.310
+C65_GENUS61_BASE_CUSP_START index=5 degree=6 time=656.310
+C65_GENUS61_BASE_CUSP_DONE index=5 output=[ <1, 6>, <1, 6>, <5, 6>, <5, 6> ] time=672.480
+C65_GENUS61_BASE_CUSP_START index=6 degree=1 time=672.480
+C65_GENUS61_BASE_CUSP_DONE index=6 output=[ <1, 2>, <5, 1>, <5, 1> ] time=902.350
+C65_GENUS61_BASE_CUSP_START index=7 degree=1 time=902.350
+C65_GENUS61_BASE_CUSP_DONE index=7 output=[ <1, 2>, <5, 1>, <5, 1> ] time=902.810
+C65_GENUS61_CUSPS_VERIFIED count=22 degrees=[ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 6, 6, 6, 6 ] widths=[ <1, 6>, <1, 6>, <5, 6>, <5, 6>, <13, 2>, <13, 2>, <13, 2>, <13, 2>, <13, 2>, <13, 2>, <65, 1>, <65, 1>, <65, 1>, <65, 1>, <65, 1>, <65, 1>, <65, 1>, <65, 1>, <65, 1>, <65, 1>, <65, 1>, <65, 1> ] time=902.910
+C65_GENUS61_DECK_GROUP_VERIFIED C2xC6=true order12=true 903.020
+C65_GENUS61_COTANGENT_VERIFIED Cartier_rank=61 diamond5_image=26 diamond13_image=44 Hecke6_image=21 joint_image=48 time=1002.960
+
+In file "work/degree8/large_levels/C65_genus61_preflight_v3.m", line 56, column 15:
+>> for item65 in [<"CartierMatrix",CM65>,<"Diamond5Matrix",M5>,<"Diamond13Matr
+                 ^
+Runtime error in [ ... ]: No valid universe containing all elements
+
+Loading "work/degree8/large_levels/C65_genus61_export_recovery.m"
+C65_GENUS61_RETAINED_MATRICES_EXPORTED
+Loading "work/degree8/large_levels/C65_genus61_transport_setup.m"
+C65_GENUS61_TRANSPORT_SETUP_DONE orbits=[ 6, 12, 2 ] source_representatives=[ 1, 2, 13 ] source_degrees=[ 2, 1, 6 ] steps=[ 2, 1, 1 ] time=5.170
+C65_GENUS61_CUSP_PERMUTATIONS [ 1, 3, 2, 4, 6, 5, 7, 9, 8, 10, 12, 11, 14, 13, 16, 15, 17, 19, 18, 20, 22, 21 ]
+[ 17, 18, 19, 20, 21, 22, 1, 2, 3, 4, 5, 6, 14, 13, 15, 16, 10, 11, 12, 7, 8, 9 ]
+Loading "work/degree8/large_levels/C65_genus61_rr_max8.m"
+C65_GENUS61_RR_MAX8_START cusp=2 time=0.000
+C65_GENUS61_RR_MAX8_DONE kernel_dim=53 full_rank=8 rank_on_U=8 time=56.580
+Loading "work/degree8/large_levels/C65_genus61_rr_transport.m"
+C65_RR_SOURCE_START cusp=2 degree=1 multiplicity=1 time=0.000
+C65_RR_SOURCE_DONE cusp=2 multiplicity=1 kernel_dim=60 U_rank=1 time=33.400
+C65_RR_SOURCE_START cusp=2 degree=1 multiplicity=2 time=33.400
+C65_RR_SOURCE_DONE cusp=2 multiplicity=2 kernel_dim=59 U_rank=2 time=70.310
+C65_RR_SOURCE_START cusp=2 degree=1 multiplicity=3 time=70.310
+C65_RR_SOURCE_DONE cusp=2 multiplicity=3 kernel_dim=58 U_rank=3 time=104.120
+C65_RR_SOURCE_START cusp=2 degree=1 multiplicity=4 time=104.120
+C65_RR_SOURCE_DONE cusp=2 multiplicity=4 kernel_dim=57 U_rank=4 time=137.200
+C65_RR_SOURCE_START cusp=2 degree=1 multiplicity=5 time=137.200
+C65_RR_SOURCE_DONE cusp=2 multiplicity=5 kernel_dim=56 U_rank=5 time=170.500
+C65_RR_SOURCE_START cusp=2 degree=1 multiplicity=6 time=170.500
+C65_RR_SOURCE_DONE cusp=2 multiplicity=6 kernel_dim=55 U_rank=6 time=206.840
+C65_RR_SOURCE_START cusp=2 degree=1 multiplicity=7 time=206.840
+C65_RR_SOURCE_DONE cusp=2 multiplicity=7 kernel_dim=54 U_rank=7 time=239.200
+C65_RR_SOURCE_START cusp=2 degree=1 multiplicity=8 time=239.200
+C65_RR_SOURCE_DONE cusp=2 multiplicity=8 kernel_dim=53 U_rank=8 time=239.200
+C65_RR_SOURCE_START cusp=1 degree=2 multiplicity=2 time=239.200
+C65_RR_SOURCE_DONE cusp=1 multiplicity=2 kernel_dim=57 U_rank=4 time=275.160
+C65_RR_SOURCE_START cusp=1 degree=2 multiplicity=4 time=275.160
+C65_RR_SOURCE_DONE cusp=1 multiplicity=4 kernel_dim=53 U_rank=8 time=306.410
+C65_RR_SOURCE_START cusp=13 degree=6 multiplicity=1 time=306.410
+C65_RR_SOURCE_DONE cusp=13 multiplicity=1 kernel_dim=55 U_rank=6 time=335.800
+C65_RR_DIRECT_TARGET_CHECK cusp=4 multiplicity=2 time=371.790
+C65_RR_DIRECT_TARGET_CHECK cusp=3 multiplicity=1 time=404.200
+C65_RR_DIRECT_TARGET_CHECK cusp=14 multiplicity=1 time=433.930
+C65_GENUS61_FI_DONE tested=83949 total=83949 exceptions=0 complete=true time=435.650
+
+Total time: 1501.190 seconds, Total memory usage: 947.56MB

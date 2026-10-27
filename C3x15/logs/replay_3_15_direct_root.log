@@ -1,0 +1,36 @@
+{
+  "degree": 8,
+  "group": [
+    3,
+    15
+  ],
+  "relative_quartic_irreducible_over_Q_zeta3": true,
+  "relative_polynomial": [
+    3,
+    -6,
+    8,
+    -5,
+    1
+  ],
+  "relative_polynomial_discriminant": -507,
+  "good_unramified_split_prime": 43,
+  "zeta3_maps_to": 6,
+  "quartic_generator_maps_to": 4,
+  "reduced_a_invariants": [
+    4,
+    0,
+    40,
+    0,
+    0
+  ],
+  "reduced_discriminant": 41,
+  "independently_counted_reduction_order": 45,
+  "independent_reduction_subgroup_3_15_order": 45,
+  "full_global_torsion_exact": [
+    3,
+    15
+  ],
+  "native_exact_level_check_required": true,
+  "input_sha256": "1913a610ff2692a4a986234e7014be057f0969545abb0f16ac15c18c978f5381"
+}
+M3N15_DIRECT_OCCURRENCE_INDEPENDENT_REPLAY_DONE

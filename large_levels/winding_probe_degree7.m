@@ -1,0 +1,19 @@
+SetColumns(0);SetQuitOnError(true);SetMemoryLimit(8*10^9);
+if assigned N then N:=StringToInteger(N);else N:=115;end if;
+D:=FullDirichletGroup(N);bad:=[];allchi:=[];total:=0;
+for chi in GaloisConjugacyRepresentatives(D) do
+ if IsOdd(chi) then continue;end if;
+ tt:=Cputime();
+ S:=CuspidalSubspace(ModularSymbols(chi,2,1));
+ dd:=Dimension(S);ww:=Dimension(WindingSubmodule(S));
+ printf "WINDING N=%o order=%o conductor=%o relative_dimension=%o winding_dimension=%o coefficient_degree=%o time=%o\n",N,Order(chi),Conductor(chi),dd,ww,Degree(BaseRing(S)),Cputime(tt);
+ total+:=dd*EulerPhi(Order(chi));
+ Append(~allchi,chi);if dd ne ww then Append(~bad,chi);end if;
+end for;
+I:=EulerPhi(N)*N*&*[Rationals()|1+1/p[1]:p in Factorization(N)]/2;
+g:=Integers()!(1+I/12-&+[EulerPhi(d)*EulerPhi(N div d):d in Divisors(N)]/4);
+assert total eq g;
+admissible:=[a:a in [2..N-2]|GCD(a,N) eq 1 and &and[Evaluate(chi,a) eq 1:chi in bad]];
+printf "WINDING_FINAL N=%o genus=%o total_dimension=%o bad_orders=%o admissible=%o\n",N,g,total,[Order(chi):chi in bad],admissible;
+print "WINDING_CHARACTER_PROBE_DONE";
+quit;

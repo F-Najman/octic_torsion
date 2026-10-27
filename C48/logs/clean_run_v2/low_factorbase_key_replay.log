@@ -1,0 +1,5 @@
+C48_LOW_FB_TARGET_TABLE_COMPLETE counts=[ 0, 0, 16, 96, 672 ] places=784 time=0.480
+C48_LOW_FB_SOURCE_DEGREE_PASS degree=3 tested=16 time=0.480
+C48_LOW_FB_SOURCE_DEGREE_PASS degree=4 tested=64 time=0.480
+C48_LOW_FB_SOURCE_DEGREE_PASS degree=5 tested=656 time=0.530
+C48_LOW_FB_KEY_REPLAY_DONE target_places=784 source_images=736 actual_vectors_exact=true complete=true time=0.530

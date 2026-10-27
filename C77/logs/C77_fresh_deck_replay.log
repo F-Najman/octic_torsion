@@ -1,0 +1,1 @@
+{'level': 77, 'deck_group_order': 6, 'cusp_orbit_size': 6, 'direct_source_RR_kernels': 8, 'independent_target_RR_checks': 5, 'transported_kernel_equalities': 48, 'Cartier_commutes': True, 'image_stable': True, 'independent_C6_transport_replay': True}

@@ -1,0 +1,15 @@
+{
+  "legacy_Magma_CPU": 1916.51,
+  "legacy_complete_divisors": 17742,
+  "legacy_exceptions": 0,
+  "legacy_wrapper_exit": 124,
+  "legacy_wrapper_exit_explanation": "Pending original GNU timeout timer fired only after successfully completed child was reaped; complete export independently replayed.",
+  "guarded_supervisor_exit": 0,
+  "independent_native_AF_CPU": 472.94,
+  "independent_native_AF_exit": 0,
+  "independent_native_AF_bound_seconds": 600,
+  "independent_native_AF_local_dimension_checks": 104,
+  "independent_native_AF_complete_divisors": 17742,
+  "independent_native_AF_exceptions": 0,
+  "both_exhaustive_GF4_replays_passed": true
+}

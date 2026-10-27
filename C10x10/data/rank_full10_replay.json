@@ -1,0 +1,18 @@
+{
+  "degree": 8,
+  "curve": "X(10) over Q(zeta5)",
+  "claim": "rank zero; no exclusion claim",
+  "full_winding_absolute_dimension": 231,
+  "H_order": 10,
+  "H_fixed_even_character_orders": [
+    1,
+    2
+  ],
+  "H_fixed_dimension": 13,
+  "local_twist_hypothesis": "H-fixed nebentypes have conductor1 or5, hence tame determinant at5; conductor exponent<=2 forces tame wild-inertia action, and every character-mod5 twist stays within level100.",
+  "files": {
+    "winding_probe_100.m": "46f61f69c8ddbdda0bb734d43d4ff9a1e9490381364da1cd9d19875ad6f8cd01",
+    "winding100_octic.log": "beef2e0d7c9583c55effb665c587da9252fb2d3a3bbe23562f2bb947574e07fc",
+    "rank_full10_octic.tex": "68ab4f26cbc92b109307d73b23306436967e3414348e58bc5fdff91db5163f40"
+  }
+}

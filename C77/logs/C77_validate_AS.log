@@ -1,0 +1,35 @@
+Magma V2.30-1     Thu Oct 22 2026 03:04:48 on mordell  [Seed = 2670494448]
+Type <Ctrl>-D to quit.
+
+Loading file "work/degree8/large_levels/C77_validate_AS.m"
+OCTIC77_X0_MODEL genus7=true modular_polynomial_verified=true cusp_widths=[ 11, 77, 1, 7 ] time=32.200
+OCTIC77_PICARD invariants=[ 30, 60, 0 ] time=85.160
+OCTIC77_CUSP_CLASS index=1 class=[ 0, 0, 1 ] time=85.770
+OCTIC77_CUSP_CLASS index=2 class=[ 20, 22, 1 ] time=100.440
+OCTIC77_CUSP_CLASS index=3 class=[ 9, 57, 1 ] time=117.410
+OCTIC77_CUSP_CLASS index=4 class=[ 29, 55, 1 ] time=141.520
+OCTIC77_C6_CUSP_CHARACTERS count=6 images=[
+[ 0, 1, 2 ],
+[ 1, 2, 2 ],
+[ 2, 3, 2 ],
+[ 3, 4, 2 ],
+[ 4, 5, 2 ],
+[ 5, 0, 2 ]
+] time=141.540
+OCTIC77_X011_FINITE_LOOKUP exponent=10 pairs=1020 time=141.600
+OCTIC77_FULL_SOURCE_SPLIT exponent=10 Eorder=1078 invariants=[ 1, a^977, 0, 0, a^432 ] j=[ 1, 0, 0, 1, 0, 0, 0, 1, 1, 1 ] class=[ 5, 10, 10 ] previous_values=[ 0, 3, 0, 3, 0, 3 ] remaining_characters=3 time=155.480
+OCTIC77_FULL_SOURCE_SPLIT exponent=10 Eorder=1078 invariants=[ 1, a^463, 0, 0, a^776 ] j=[ 1, 0, 1, 0, 1, 1, 0, 0, 1, 1 ] class=[ 15, 20, 10 ] previous_values=[ 4, 2, 0 ] remaining_characters=1 time=175.410
+OCTIC77_COVER_IDENTIFICATION_DONE source_places=2 remaining=1 characters=[
+[ 4, 5, 2 ]
+] complete=true time=175.440
+Loading "work/degree8/large_levels/C77_AS_component.m"
+OCTIC77_FIXED_AS_COEFFICIENT_LOADED
+OCTIC77_AS_FROBENIUS degree=1 class=[ 0, 0, 1 ] value=0 generated=2 total=8 time=176.230
+OCTIC77_AS_FROBENIUS degree=1 class=[ 20, 22, 1 ] value=0 generated=2 total=8 time=191.210
+OCTIC77_AS_FROBENIUS degree=1 class=[ 18, 1, 1 ] value=1 generated=4 total=8 time=200.620
+OCTIC77_AS_FROBENIUS degree=7 class=[ 26, 9, 7 ] value=1 generated=4 total=8 time=216.840
+OCTIC77_AS_FROBENIUS degree=2 class=[ 19, 15, 2 ] value=1 generated=8 total=8 time=236.870
+OCTIC77_AS_CHARACTER_VERIFIED samples=5 all_Picard_mod2=true time=236.890
+OCTIC77_FIXED_AS_CHARACTER_VALIDATED
+
+Total time: 236.889 seconds, Total memory usage: 258.41MB

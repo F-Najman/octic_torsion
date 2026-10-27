@@ -1,0 +1,4 @@
+C57_INTEGER_REPLAY_CASE {'index': 1, 'degree': 7, 'lift_choices': 8, 'zero_classes': 0}
+C57_INTEGER_REPLAY_CASE {'index': 2, 'degree': 7, 'lift_choices': 8, 'zero_classes': 0}
+C57_INTEGER_REPLAY_CASE {'index': 3, 'degree': 8, 'lift_choices': 4, 'zero_classes': 1}
+C57_GOOD78_INTEGER_REPLAY_DONE {'source_cases': 3, 'operator_classes': 20, 'nonzero_classes': 19, 'remaining_cases': [{'index': 3, 'degree': 8, 'survivors': 1}], 'all_split_inert_lift_choices_covered': True, 'independent_integer_HNF_replay': True}

@@ -1,0 +1,40 @@
+{
+  "degree": 8,
+  "level": 33,
+  "complete": true,
+  "noncuspidal_place_counts": [
+    0,
+    0,
+    0,
+    0,
+    2,
+    20,
+    30,
+    25
+  ],
+  "tests_by_degree": {
+    "0": 62595,
+    "5": 540,
+    "6": 1200,
+    "7": 300,
+    "8": 25
+  },
+  "rational_image_passes": {
+    "0": 62055,
+    "5": 0,
+    "6": 0,
+    "7": 100,
+    "8": 5
+  },
+  "rational_effective_passes": {
+    "0": 62055,
+    "5": 0,
+    "6": 0,
+    "7": 0,
+    "8": 0
+  },
+  "candidate_classes": 105,
+  "known_septic_plus_cusp": 100,
+  "known_octic_classes": 5,
+  "unknown": 0
+}

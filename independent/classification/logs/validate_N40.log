@@ -1,0 +1,3 @@
+Loading "helpers8.m"
+PROGRESS [validate N=40 p=3] #J(F_p): class group 31579088486400, modular symbols 31579088486400, equal true (cpu 3869.230 s)
+STOPPED by reviewer after about 8 h inside the IsPrincipal spot checks: NOT FINISHED (only the #J line above is a result)

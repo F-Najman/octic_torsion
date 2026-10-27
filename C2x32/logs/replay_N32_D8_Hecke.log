@@ -1,0 +1,92 @@
+{
+  "degree": 8,
+  "group": [
+    2,
+    32
+  ],
+  "finite_field": 3,
+  "genus": 37,
+  "full_aut_group_order": 32,
+  "NC_counts": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    192,
+    320,
+    960
+  ],
+  "representatives": [
+    8,
+    10,
+    32
+  ],
+  "total_representatives": 50,
+  "all_actual_keys": 1472,
+  "all_finite_field_record_roundtrips_replayed": true,
+  "independent_Newton_full_partition_and_parameter_group_replay": true,
+  "q11_q19_admissible_degree2_complements": true,
+  "all_Galois_stabilizes_degree1_cusp_orbits": true,
+  "input_sha256": {
+    "preflight_2_32_Frob_arithmetic.txt": "61dcc21fc6dea6fa99da76fa938ee9416f63a6716d3d4ab8fd849f29a002598e",
+    "N32_D8_fullaut_Hecke_input.txt": "dd78c8e439cbd659466eccbfaa0cb54a1ab96b358d1de8ba2eeaac4833c0ab3b"
+  }
+}
+N32_D8_FULL32_AUT_COVERAGE_REPLAY_DONE
+{
+  "degree": 8,
+  "excluded_groups": [
+    [
+      2,
+      32
+    ],
+    [
+      1,
+      64
+    ]
+  ],
+  "genus": 37,
+  "NC_counts": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    192,
+    320,
+    960
+  ],
+  "full_Aut_order": 32,
+  "support_records": 50,
+  "records_by_degree": [
+    8,
+    10,
+    32
+  ],
+  "all_shard_decisions_replayed": true,
+  "two_prime_survivors": [
+    2
+  ],
+  "degree6_cusp_unit_profile_sizes": [
+    2,
+    1,
+    2,
+    1,
+    1,
+    1
+  ],
+  "final_q5_corrections": 17,
+  "generic_q5_reference_degree": 36,
+  "remaining_candidates": 0,
+  "status": "complete; awaiting independent root review",
+  "verification_boundary": "Independent Python checks Frobenius/place counts, full orbit partitions, input field arithmetic, Tate complement admissibility and complete assembly of exact Hecke/principality decisions. Divisor arithmetic and IsPrincipal are the exact native Magma computations; no independent Python divisor-arithmetic implementation is claimed.",
+  "checksums": {
+    "N32_D8_fullaut_Hecke_input.txt": "dd78c8e439cbd659466eccbfaa0cb54a1ab96b358d1de8ba2eeaac4833c0ab3b",
+    "N32_D8_fullaut_Hecke_shard0.log": "8b67d1897993e147c85f5902512c09bcf85cfda54c24a2d1254399426f0be6ca",
+    "N32_D8_fullaut_Hecke_shard1.log": "b90a644451418c7a0a1e146bf781862561fed02b32013ffbd4d5aa8ff072c9dc",
+    "N32_D8_degree6_correction_v2_arithmetic.txt": "e78145829b36fae9d401171e667031193cda643136ef538e33c7643a6acb95fb",
+    "N32_D8_degree6_cusp_corrections_v2.log": "68775e10abb7c40484909720cbff5e3b2a8f43009227cb50ba0efdf94aad4f46"
+  }
+}
+N32_D8_COMPLETE_EXCLUSION_REPLAY_DONE

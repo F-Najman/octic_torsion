@@ -1,0 +1,11 @@
+J25_CYCLO5_RANK_SUPPORT level=25 order=1 conductor=1 dimension=0 winding=0 coefficient_degree=1 eigen6_nontrivial=false
+J25_CYCLO5_RANK_SUPPORT level=25 order=10 conductor=25 dimension=2 winding=2 coefficient_degree=4 eigen6_nontrivial=true
+J25_CYCLO5_RANK_SUPPORT level=25 order=5 conductor=25 dimension=1 winding=1 coefficient_degree=4 eigen6_nontrivial=true
+J25_CYCLO5_RANK_SUPPORT level=25 order=2 conductor=5 dimension=0 winding=0 coefficient_degree=1 eigen6_nontrivial=false
+J25_CYCLO5_RANK_SUPPORT level=125 order=1 conductor=1 dimension=8 winding=6 coefficient_degree=1 eigen6_nontrivial=false
+J25_CYCLO5_RANK_SUPPORT level=125 order=10 conductor=25 dimension=8 winding=8 coefficient_degree=4 eigen6_nontrivial=true
+J25_CYCLO5_RANK_SUPPORT level=125 order=5 conductor=25 dimension=7 winding=7 coefficient_degree=4 eigen6_nontrivial=true
+J25_CYCLO5_RANK_SUPPORT level=125 order=2 conductor=5 dimension=8 winding=8 coefficient_degree=1 eigen6_nontrivial=false
+J25_CYCLO5_SPLIT11_ODD_ORDER 5014032203125
+J25_CYCLO5_FINITE16_TOTAL_POINTS 18
+J25_CYCLO5_RANK_SUPPORT_COMPLETE 0.200

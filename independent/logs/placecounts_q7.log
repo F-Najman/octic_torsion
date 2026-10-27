@@ -1,0 +1,78 @@
+FIELD q=7 e=1 orbits=7 cputime=0.010
+FIELD q=7 e=2 orbits=28 cputime=0.020
+FIELD q=7 e=3 orbits=119 cputime=0.070
+FIELD q=7 e=4 orbits=616 cputime=1.520
+MASS_ERRORS 0
+POINTS X1(3,18) q=7: [ 0, 54, 432, 2106 ]
+PLACES X1(3,18) q=7: [ 0, 27, 144, 513 ]
+QUAL X1(3,18) q=7 e=2: #iso classes of curves=2; (N, invariants, j-orbit length, #Aut) {*
+<54, [ 3, 18 ], 2, 2>
+*}
+QUAL X1(3,18) q=7 e=3: #iso classes of curves=8; (N, invariants, j-orbit length, #Aut) {*
+<324, [ 3, 108 ], 3, 2>,
+<324, [ 6, 54 ], 1, 2>,
+<324, [ 9, 36 ], 1, 2>,
+<324, [ 18, 18 ], 1, 6>,
+<378, [ 3, 126 ], 1, 2>^^2
+*}
+QUAL X1(3,18) q=7 e=4: #iso classes of curves=50; (N, invariants, j-orbit length, #Aut) {*
+<2322, [ 3, 774 ], 4, 2>^^3,
+<2376, [ 3, 792 ], 4, 2>^^4,
+<2376, [ 6, 396 ], 4, 2>^^2,
+<2484, [ 3, 828 ], 4, 2>^^2,
+<2484, [ 6, 414 ], 2, 2>,
+<2484, [ 6, 414 ], 4, 2>
+*}
+POINTS X1(3,24) q=7: [ 0, 0, 144, 1824 ]
+PLACES X1(3,24) q=7: [ 0, 0, 48, 456 ]
+QUAL X1(3,24) q=7 e=3: #iso classes of curves=3; (N, invariants, j-orbit length, #Aut) {*
+<360, [ 3, 120 ], 3, 2>
+*}
+QUAL X1(3,24) q=7 e=4: #iso classes of curves=29; (N, invariants, j-orbit length, #Aut) {*
+<2304, [ 48, 48 ], 1, 4>,
+<2376, [ 3, 792 ], 4, 2>^^4,
+<2448, [ 3, 816 ], 4, 2>^^2,
+<2448, [ 6, 408 ], 4, 2>
+*}
+POINTS X1(6,12) q=7: [ 0, 0, 288, 1872 ]
+PLACES X1(6,12) q=7: [ 0, 0, 96, 468 ]
+QUAL X1(6,12) q=7 e=3: #iso classes of curves=3; (N, invariants, j-orbit length, #Aut) {*
+<360, [ 6, 60 ], 3, 2>
+*}
+QUAL X1(6,12) q=7 e=4: #iso classes of curves=15; (N, invariants, j-orbit length, #Aut) {*
+<2304, [ 48, 48 ], 1, 4>,
+<2376, [ 6, 396 ], 4, 2>^^2,
+<2448, [ 6, 408 ], 4, 2>,
+<2448, [ 12, 204 ], 2, 2>
+*}
+POINTS X1(3,15) q=7: [ 0, 48, 432, 1632 ]
+PLACES X1(3,15) q=7: [ 0, 24, 144, 396 ]
+QUAL X1(3,15) q=7 e=2: #iso classes of curves=1; (N, invariants, j-orbit length, #Aut) {*
+<45, [ 3, 15 ], 1, 2>
+*}
+QUAL X1(3,15) q=7 e=3: #iso classes of curves=9; (N, invariants, j-orbit length, #Aut) {*
+<315, [ 3, 105 ], 3, 2>,
+<360, [ 3, 120 ], 3, 2>,
+<360, [ 6, 60 ], 3, 2>
+*}
+QUAL X1(3,15) q=7 e=4: #iso classes of curves=29; (N, invariants, j-orbit length, #Aut) {*
+<2340, [ 3, 780 ], 4, 2>^^2,
+<2340, [ 6, 390 ], 2, 2>^^3,
+<2385, [ 3, 795 ], 2, 2>,
+<2385, [ 3, 795 ], 4, 2>^^2,
+<2475, [ 3, 825 ], 4, 2>,
+<2475, [ 15, 165 ], 1, 2>
+*}
+POINTS X1(30) q=7: [ 0, 40, 384, 2448 ]
+PLACES X1(30) q=7: [ 0, 20, 128, 602 ]
+QUAL X1(30) q=7 e=2: #iso classes of curves=6; (N, invariants, j-orbit length, #Aut) {*
+<60, [ 2, 30 ], 1, 2>^^2,
+<60, [ 60 ], 2, 2>^^2
+*}
+QUAL X1(30) q=7 e=3: #iso classes of curves=30; (N, invariants, j-orbit length, #Aut) {*
+<360, [ 2, 180 ], 3, 2>^^4,
+<360, [ 3, 120 ], 3, 2>,
+<360, [ 6, 60 ], 3, 2>,
+<360, [ 360 ], 3, 2>^^4
+*}
+PLACECOUNTS8_DONE

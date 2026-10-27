@@ -1,0 +1,48 @@
+{
+  "degree": 8,
+  "group": [
+    3,
+    21
+  ],
+  "relative_degree": 4,
+  "genus": 25,
+  "finite_field": 4,
+  "closed_places_degrees1_to4": [
+    24,
+    0,
+    8,
+    144
+  ],
+  "noncuspidal_places_degrees1_to4": [
+    0,
+    0,
+    0,
+    144
+  ],
+  "distinct_actual_place_keys": 144,
+  "full_automorphism_group_order": 72,
+  "orbits": [
+    72,
+    72
+  ],
+  "Hecke_prime": 13,
+  "tests": [
+    [
+      1,
+      13,
+      0
+    ],
+    [
+      2,
+      13,
+      0
+    ]
+  ],
+  "survivors": [],
+  "fresh_moduli_and_Hecke_reference_checks": true,
+  "independent_Newton_and_coverage_replay": true,
+  "input_sha256": {
+    "preflight_3_21_Frob_arithmetic.txt": "e38c0aba8fc3ac312723cdd5cd55f1e4cc5fffce8085ad068199ac97a0aa9b51",
+    "sieve_3_21_D4_arithmetic.txt": "c2a1f85fd2c4400ebfe815029a8b26937a63dfe4cfa516833106ca437251d76a"
+  }
+}

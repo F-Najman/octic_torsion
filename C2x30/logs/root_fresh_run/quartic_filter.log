@@ -1,0 +1,5 @@
+X130_D4_GROUP G=[ 4, 4, 4, 136, 16320, 0 ] H=[ 4, 8160 ] quotient=[ 2, 4, 4, 136, 0 ] rational_cusp_degree4_classes=488 time=18.070
+X130_D4_POINTS degree=2 noncuspidal=20 time=18.090
+X130_D4_POINTS degree=3 noncuspidal=128 time=18.120
+X130_D4_POINTS degree=4 noncuspidal=602 time=146.450
+X130_D4_FILTER_DONE tested=960 remaining=0 data=[] complete=true time=146.460

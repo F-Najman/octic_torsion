@@ -1,0 +1,21 @@
+C48_PARTITION_PROGRESS degree=8 input=2000 total=48992 representatives=1741 time=14.190
+C48_PARTITION_PROGRESS degree=8 input=4000 total=48992 representatives=3027 time=32.370
+C48_PARTITION_PROGRESS degree=8 input=6000 total=48992 representatives=4003 time=54.590
+C48_PARTITION_PROGRESS degree=8 input=8000 total=48992 representatives=4671 time=79.940
+C48_PARTITION_PROGRESS degree=8 input=10000 total=48992 representatives=5175 time=108.510
+C48_PARTITION_PROGRESS degree=8 input=12000 total=48992 representatives=5494 time=138.880
+C48_PARTITION_PROGRESS degree=8 input=14000 total=48992 representatives=5716 time=169.950
+C48_PARTITION_PROGRESS degree=8 input=16000 total=48992 representatives=5879 time=200.550
+C48_PARTITION_PROGRESS degree=8 input=18000 total=48992 representatives=5979 time=234.400
+C48_PARTITION_PROGRESS degree=8 input=20000 total=48992 representatives=6056 time=269.130
+C48_PARTITION_PROGRESS degree=8 input=22000 total=48992 representatives=6108 time=321.610
+C48_PARTITION_PROGRESS degree=8 input=24000 total=48992 representatives=6135 time=382.100
+C48_PARTITION_PROGRESS degree=8 input=26000 total=48992 representatives=6153 time=446.190
+C48_PARTITION_PROGRESS degree=8 input=28000 total=48992 representatives=6158 time=512.230
+C48_PARTITION_PROGRESS degree=8 input=30000 total=48992 representatives=6163 time=579.760
+C48_PARTITION_PROGRESS degree=8 input=32000 total=48992 representatives=6166 time=645.350
+C48_PARTITION_PROGRESS degree=8 input=34000 total=48992 representatives=6171 time=710.840
+C48_PARTITION_PROGRESS degree=8 input=36000 total=48992 representatives=6171 time=776.300
+C48_PARTITION_PROGRESS degree=8 input=38000 total=48992 representatives=6171 time=845.570
+C48_PARTITION_DONE degree=8 places=48992 representatives=6172 orbit_size_sum=48992 complete_by_newton_count=true time=851.660
+C48_ALL_PARTITIONS_COUNT_DONE complete=true disjoint_octic_places=48992 time=851.660

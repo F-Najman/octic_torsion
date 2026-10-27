@@ -1,0 +1,13 @@
+Loading "work/degree8/small_cyclic/C40/diagnostics/class_group_direct_RR_checked_v4.m"
+CHECKED_HIGH_DEGREE_TEST_START genus=5 factorbase_max_degree=4 time=1.300
+CHECKED_HIGH_DEGREE_NATIVE_MATCH index=1 input_place_degree=8 explicit_principal_identity=true time=1.330
+CHECKED_HIGH_DEGREE_NATIVE_MATCH index=2 input_place_degree=8 explicit_principal_identity=true time=1.400
+CHECKED_HIGH_DEGREE_NATIVE_MATCH index=3 input_place_degree=8 explicit_principal_identity=true time=1.430
+CHECKED_HIGH_DEGREE_NATIVE_MATCH index=4 input_place_degree=8 explicit_principal_identity=true time=1.490
+CHECKED_HIGH_DEGREE_NATIVE_MATCH index=5 input_place_degree=8 explicit_principal_identity=true time=1.530
+CHECKED_HIGH_DEGREE_NATIVE_MATCH index=6 input_place_degree=8 explicit_principal_identity=true time=1.580
+CHECKED_HIGH_DEGREE_NATIVE_MATCH index=7 input_place_degree=8 explicit_principal_identity=true time=1.610
+CHECKED_HIGH_DEGREE_NATIVE_MATCH index=8 input_place_degree=8 explicit_principal_identity=true time=1.680
+CHECKED_HIGH_DEGREE_NATIVE_MATCH index=9 input_place_degree=8 explicit_principal_identity=true time=1.720
+CHECKED_HIGH_DEGREE_NATIVE_MATCH index=10 input_place_degree=8 explicit_principal_identity=true time=1.770
+DIRECT_RR_RANDOM_DEGREE8_DONE samples=10 mixed_samples=5 total=15 all_native_classes_match=true all_explicit_principal_identities=true time=1.770

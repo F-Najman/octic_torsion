@@ -1,0 +1,11 @@
+Magma V2.30-1     Thu Oct 22 2026 08:54:21 on mordell  [Seed = 1407227777]
+Type <Ctrl>-D to quit.
+
+Loading file "work/degree8/noncyclic/reference_C242_genus31_Hecke_v2.m"
+C242_FORGET3SIGN_GENUS31_MODEL 31 74.920
+Loading "work/degree8/noncyclic/deps/af_place_three_via_base.m"
+Loading "work/degree8/noncyclic/deps/pair_af_place_linear_C48.m"
+C242_G31_NATIVE_MD_ISOGENIES_REFERENCE_EQUAL 11 4 48 81.280
+C242_G31_NATIVE_REFERENCE_DONE complete=true 81.280
+
+Total time: 81.280 seconds, Total memory usage: 96.16MB

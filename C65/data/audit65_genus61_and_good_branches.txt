@@ -1,0 +1,73 @@
+Independent static theory review of the final level65 strategy, degree8.
+
+Read C65_genus61_model.tex, C65_genus61_criterion.tex,
+C65_good7_D8.tex, C65_good8_D8.tex, and the good6 proof/source separately
+recorded in audit65_good6_D8_theory.txt. No heavy Magma run duplicated.
+Result: mathematical strategy PASSES. The completed rank/kernel data and
+finite enumerations remain separate exact computational requirements.
+
+Model and specialization:
+The quotient by delta51 is the normalization of the fibre product of
+X1(5) and X1(13), since51 gives the two independent signs. OverX1(13)
+its degree12 descriptions via j5 and a nonzero5-torsion abscissa are
+consistent. Freeness in characteristic2 is justified without a CM
+minimum: after choosing the common sign, a fixed point would give a
+nonidentity origin-preserving elliptic automorphism fixing an order5
+point. The degree of u-1 is at most4, so this is impossible. Identity
+cannot negate the13-component. The separate primitive-label cusp audit
+establishes freeness there. Thus the quotient is finite etale, has good
+reduction at2 and genus61. No assumption about reduction of a singular
+plane model is used.
+
+Admissible all-cusp images:
+The source signature1^24,4^6,6^4,12^2 and target width-refined signature
+(1,65)^12,(2,13)^6,(6,1)^2,(6,5)^2 imply precisely the restrictions in
+the proof. Pushforward of source quartic cusp places has even
+multiplicity on the quadratic target cusps. The width5 sextics cannot
+appear under total source degree8. Therefore the generating series is
+(1-t)^(-12)*(1-t^4)^(-6)*(1-t^6)^(-2), whose octic coefficient is83949.
+Testing all these divisors is an overapproximation even if further
+global/source restrictions exist.
+
+Finite-image criterion:
+The winding certificate must prove every nontrivial-character factor
+has rank0 and the sole possible positive quotient has T2=-1; the
+displayed certificate states exactly this. Consequently both diamond
+differences and alpha6=T2^6-1 have finite rational image. Pullback from
+the actual quotient has finite kernel, sufficient for this conclusion.
+On the good F2 model, T2*=delta2* C, delta2^6=1, and all operators
+commute. Hence alpha6*=C^6-1 and beta*=delta2*(C-1). Omitting the
+invertible delta2 factor from the three invariant image spaces is valid.
+The summed image is exactly the cotangent image of the product of
+the three beta-alpha Abel maps.
+
+For a rational trace D and a cuspidal lift C defined over a cyclotomic
+decomposition field with completionQ2, alpha_i[D-C] is torsion: the D
+part has finite rational image and the C part is cuspidal torsion.
+This does not assert rank0 over that decomposition field. The accepted
+dyadic finite-flat Hecke lemma kills this local torsion obstruction by
+beta. Full rank8 then gives formal immersion and equality of the two
+points of the symmetric power in the same residue disk. Thus rank8 at
+all83949 admissible divisors excludes the all-cuspidal source branch.
+Transport must keep one actual global differential basis; the reported
+single-source/transport construction is compatible with this requirement.
+
+Good7 and good8:
+With minimum noncuspidal degree6, each branch contains exactly one
+noncuspidal support. In good7 the remaining degree1 is cuspidal, and
+the exact source rational-cusp audit makes A3 vanish on it as a divisor.
+In good8 there is no complement. OnY0 delta3=s, so
+ (s-1)A3(P)=sT-T+2(sP-P).
+The reported finite scans enumerate every order65 source point, all
+actual isogeny images and the exact quotient moduli map. The good7
+output has degree28/multiplicity1; good8 has two degree16 outputs,
+each multiplicity1. The same formula therefore tests the actual
+proper Hecke pushforwards. Diamond-orbit reduction is legitimate because
+the chosen finite-image operator commutes with the residual action.
+
+Minor prose correction requested from the author: the first sentence
+of C65_good7_D8.tex says 'noncuspidal complement'; it means 'cuspidal
+complement'. The subsequent proof and formulas already use the latter.
+
+This record audits the mathematics and interfaces, not literature
+priority and not an independent rerun of every rank/principality test.

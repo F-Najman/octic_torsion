@@ -1,0 +1,5 @@
+group aut4_20 for X1(4,20): 192 transformations (before identification of -1)
+ORBMN X1(4,20) over F_9, degree 2, group aut4_20: 96 closed points, 2 orbits, sizes {* 48^^2 *}
+ORBMN X1(4,20) over F_9, degree 3, group aut4_20: 320 closed points, 4 orbits, sizes {* 32, 96^^3 *}
+ORBMN X1(4,20) over F_9, degree 4, group aut4_20: 888 closed points, 12 orbits, sizes {* 12^^2, 48^^2, 96^^8 *}
+ORBITSMN_DONE

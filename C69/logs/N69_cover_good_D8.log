@@ -1,0 +1,44 @@
+DATABASE_ELL_MODEL N=69 ell=23 genus=2 good_reduction=true j_degree=24 time=0.050
+X0_3ELL_MODEL N=69 genus=7 degree_over_X0ell=4 integral_coordinates_ready=true time=0.740
+X0_3ELL_NC7 N=69 curves=21 closed_image_points=3 time=0.840
+C69_COVER_CUSP_CHARACTERS 2 [
+    (0 1 1),
+    (1 1 1)
+]
+C69_COVER_IDENTIFIED (0 1 1)
+cusp_widths [ 23, 1, 69, 3 ]
+cusp_values [ 1, 1, 0, 0 ]
+nc7_classes [
+    (0 1 1),
+    (1 1 1),
+    (1 1 1)
+]
+12.870
+C69_FRESH_CLASS_FIELD_READY 13 36.230
+COVER_GENERATOR_FROBENIUS_VERIFIED 1 0
+COVER_GENERATOR_FROBENIUS_VERIFIED 2 1
+COVER_GENERATOR_FROBENIUS_VERIFIED 3 1
+COVER_INDEPENDENT_FIELD_VERIFIED 69 13 104.930
+C69_BASE_A5_TEST 1 key [ 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0 ]
+principal true 105.630
+C69_COVER_CASE_START 1 lift_choices 8 106.070
+C69_COVER_CASE_TEST 1 1 principal false 120.710
+C69_COVER_CASE_TEST 1 2 principal false 137.760
+C69_COVER_CASE_TEST 1 3 principal false 152.750
+C69_COVER_CASE_TEST 1 4 principal false 168.210
+C69_COVER_CASE_TEST 1 5 principal false 182.610
+C69_COVER_CASE_TEST 1 6 principal false 197.440
+C69_COVER_CASE_TEST 1 7 principal false 213.140
+C69_COVER_CASE_TEST 1 8 principal false 228.350
+C69_COVER_CASE_DONE 1 survivors 0 228.350
+C69_BASE_A5_TEST 2 key [ 1, 0, 0, 1, 0, 1, 1, 1, 0, 0, 1, 0, 1, 0, 1, 0, 1, 0, 0, 1, 0 ]
+principal false 229.020
+C69_CASE_EXCLUDED_ON_BASE 2
+C69_BASE_A5_TEST 3 key [ 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0 ]
+principal false 229.510
+C69_CASE_EXCLUDED_ON_BASE 3
+C69_COVER_GOOD7_DONE cases=3 tests=8 remaining=0 complete=true time=229.520
+C69_D8_BASE_IMAGES curves=16 images=2 marked_points=352 time=229.700
+C69_D8_BASE_TEST index=1 base_degree=8 principal=false time=230.190
+C69_D8_BASE_TEST index=2 base_degree=8 principal=false time=230.600
+C69_D8_GOOD_DONE nc7_cases=3 nc7_remaining=0 nc8_cases=2 nc8_tests=0 nc8_remaining=0 complete=true time=230.610

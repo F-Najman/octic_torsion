@@ -1,0 +1,283 @@
+SETUP N=46 M=1 p=3 genus=45 time=38.340
+CUSPS number=24 degrees=[ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 11, 11 ]
+CUSPFIELDS orbits over Q (degree, F_p-degree): [ <11, 11>, <11, 11>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1>, <1, 1> ] ; predicted F_p cusp degrees match model: true
+CC complement degree <= 1: q mod 46 in [ 1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 25, 27, 29, 31, 33, 35, 37, 39, 41, 43, 45 ] ; usable q from list: [ 5, 7, 11, 13, 17, 19 ]
+CC complement degree <= 2: q mod 46 in [ 1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 25, 27, 29, 31, 33, 35, 37, 39, 41, 43, 45 ] ; usable q from list: [ 5, 7, 11, 13, 17, 19 ]
+CC complement degree <= 3: q mod 46 in [ 1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 25, 27, 29, 31, 33, 35, 37, 39, 41, 43, 45 ] ; usable q from list: [ 5, 7, 11, 13, 17, 19 ]
+CC complement degree <= 4: q mod 46 in [ 1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 25, 27, 29, 31, 33, 35, 37, 39, 41, 43, 45 ] ; usable q from list: [ 5, 7, 11, 13, 17, 19 ]
+CC complement degree <= 5: q mod 46 in [ 1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 25, 27, 29, 31, 33, 35, 37, 39, 41, 43, 45 ] ; usable q from list: [ 5, 7, 11, 13, 17, 19 ]
+CC complement degree <= 6: q mod 46 in [ 1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 25, 27, 29, 31, 33, 35, 37, 39, 41, 43, 45 ] ; usable q from list: [ 5, 7, 11, 13, 17, 19 ]
+CC complement degree <= 7: q mod 46 in [ 1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 25, 27, 29, 31, 33, 35, 37, 39, 41, 43, 45 ] ; usable q from list: [ 5, 7, 11, 13, 17, 19 ]
+QLIST all (used when there is no cuspidal part): [ 5, 7, 11, 13, 17, 19 ]
+DEGREES with points of the required type over F_p^d (d=1..8): [ false, false, false, true, true, true, true, true ]  time=82.730
+NONCUSP counts deg 1..8: [ 0, 0, 0, 55, 44, 55, 264, 781 ]  time=104.860
+REPS up to diamond: [ 0, 0, 0, 5, 4, 5, 24, 71 ]  time=110.260
+TYPE [ 1 ]: no divisors
+TYPE [ 2 ]: no divisors
+TYPE [ 1, 1 ]: no divisors
+TYPE [ 3 ]: no divisors
+TYPE [ 2, 1 ]: no divisors
+TYPE [ 1, 1, 1 ]: no divisors
+TYPE [ 4 ]: 5 divisors (up to diamond), qlist=[ 5, 7, 11, 13, 17, 19 ]
+SMART_CASE_START type=[ 4 ] index=1 primes=[ 5, 19, 11, 7, 13, 17 ] time=110.280
+SMART_CASE_RESULT type=[ 4 ] index=1 killed=true time=135.290
+SMART_CASE_START type=[ 4 ] index=2 primes=[ 5, 19, 11, 7, 13, 17 ] time=135.290
+SMART_CASE_RESULT type=[ 4 ] index=2 killed=true time=150.380
+SMART_CASE_START type=[ 4 ] index=3 primes=[ 5, 19, 11, 7, 13, 17 ] time=150.390
+SMART_CASE_RESULT type=[ 4 ] index=3 killed=true time=181.640
+SMART_CASE_START type=[ 4 ] index=4 primes=[ 5, 19, 11, 7, 13, 17 ] time=181.650
+SMART_CASE_RESULT type=[ 4 ] index=4 killed=true time=205.090
+SMART_CASE_START type=[ 4 ] index=5 primes=[ 5, 19, 11, 7, 13, 17 ] time=205.100
+SMART_CASE_RESULT type=[ 4 ] index=5 killed=true time=242.560
+RESULT type=[ 4 ] total=5 survivors=0 time=242.560
+TYPE [ 3, 1 ]: no divisors
+TYPE [ 2, 2 ]: no divisors
+TYPE [ 2, 1, 1 ]: no divisors
+TYPE [ 1, 1, 1, 1 ]: no divisors
+TYPE [ 5 ]: 4 divisors (up to diamond), qlist=[ 5, 7, 11, 13, 17, 19 ]
+SMART_CASE_START type=[ 5 ] index=1 primes=[ 7, 5, 11, 13, 17, 19 ] time=242.560
+SMART_CASE_RESULT type=[ 5 ] index=1 killed=true time=263.680
+SMART_CASE_START type=[ 5 ] index=2 primes=[ 7, 5, 11, 13, 17, 19 ] time=263.680
+SMART_CASE_RESULT type=[ 5 ] index=2 killed=true time=292.520
+SMART_CASE_START type=[ 5 ] index=3 primes=[ 7, 5, 11, 13, 17, 19 ] time=292.530
+SMART_CASE_RESULT type=[ 5 ] index=3 killed=true time=325.230
+SMART_CASE_START type=[ 5 ] index=4 primes=[ 7, 5, 11, 13, 17, 19 ] time=325.230
+SMART_CASE_RESULT type=[ 5 ] index=4 killed=true time=349.060
+RESULT type=[ 5 ] total=4 survivors=0 time=349.060
+TYPE [ 4, 1 ]: no divisors
+TYPE [ 3, 2 ]: no divisors
+TYPE [ 3, 1, 1 ]: no divisors
+TYPE [ 2, 2, 1 ]: no divisors
+TYPE [ 2, 1, 1, 1 ]: no divisors
+TYPE [ 1, 1, 1, 1, 1 ]: no divisors
+TYPE [ 6 ]: 5 divisors (up to diamond), qlist=[ 5, 7, 11, 13, 17, 19 ]
+SMART_CASE_START type=[ 6 ] index=1 primes=[ 13, 5, 7, 11, 17, 19 ] time=349.070
+SMART_CASE_RESULT type=[ 6 ] index=1 killed=true time=424.590
+SMART_CASE_START type=[ 6 ] index=2 primes=[ 5, 13, 11, 19, 7, 17 ] time=424.590
+SMART_CASE_RESULT type=[ 6 ] index=2 killed=true time=439.170
+SMART_CASE_START type=[ 6 ] index=3 primes=[ 5, 13, 11, 19, 7, 17 ] time=439.170
+SMART_CASE_RESULT type=[ 6 ] index=3 killed=true time=481.320
+SMART_CASE_START type=[ 6 ] index=4 primes=[ 5, 13, 11, 19, 7, 17 ] time=481.330
+SMART_CASE_RESULT type=[ 6 ] index=4 killed=true time=502.080
+SMART_CASE_START type=[ 6 ] index=5 primes=[ 5, 13, 11, 19, 7, 17 ] time=502.080
+SMART_CASE_RESULT type=[ 6 ] index=5 killed=true time=529.520
+RESULT type=[ 6 ] total=5 survivors=0 time=529.520
+TYPE [ 5, 1 ]: no divisors
+TYPE [ 4, 2 ]: no divisors
+TYPE [ 4, 1, 1 ]: no divisors
+TYPE [ 3, 3 ]: no divisors
+TYPE [ 3, 2, 1 ]: no divisors
+TYPE [ 3, 1, 1, 1 ]: no divisors
+TYPE [ 2, 2, 2 ]: no divisors
+TYPE [ 2, 2, 1, 1 ]: no divisors
+TYPE [ 2, 1, 1, 1, 1 ]: no divisors
+TYPE [ 1, 1, 1, 1, 1, 1 ]: no divisors
+TYPE [ 7 ]: 24 divisors (up to diamond), qlist=[ 5, 7, 11, 13, 17, 19 ]
+SMART_CASE_START type=[ 7 ] index=1 primes=[ 5, 11, 7, 13, 17, 19 ] time=529.530
+SMART_CASE_RESULT type=[ 7 ] index=1 killed=true time=565.930
+SMART_CASE_START type=[ 7 ] index=2 primes=[ 5, 11, 7, 13, 17, 19 ] time=565.930
+SMART_CASE_RESULT type=[ 7 ] index=2 killed=true time=586.630
+SMART_CASE_START type=[ 7 ] index=3 primes=[ 5, 11, 7, 13, 17, 19 ] time=586.640
+SMART_CASE_RESULT type=[ 7 ] index=3 killed=true time=609.570
+SMART_CASE_START type=[ 7 ] index=4 primes=[ 13, 5, 11, 7, 17, 19 ] time=609.580
+SMART_CASE_RESULT type=[ 7 ] index=4 killed=true time=684.180
+SMART_CASE_START type=[ 7 ] index=5 primes=[ 5, 11, 7, 13, 17, 19 ] time=684.180
+SMART_CASE_RESULT type=[ 7 ] index=5 killed=true time=705.290
+SMART_CASE_START type=[ 7 ] index=6 primes=[ 13, 5, 11, 7, 17, 19 ] time=705.300
+SMART_CASE_RESULT type=[ 7 ] index=6 killed=true time=790.640
+SMART_CASE_START type=[ 7 ] index=7 primes=[ 13, 5, 11, 7, 17, 19 ] time=790.640
+SMART_CASE_RESULT type=[ 7 ] index=7 killed=true time=884.710
+SMART_CASE_START type=[ 7 ] index=8 primes=[ 5, 11, 7, 13, 17, 19 ] time=884.720
+SMART_CASE_RESULT type=[ 7 ] index=8 killed=true time=908.190
+SMART_CASE_START type=[ 7 ] index=9 primes=[ 5, 11, 7, 13, 17, 19 ] time=908.200
+SMART_CASE_RESULT type=[ 7 ] index=9 killed=true time=927.140
+SMART_CASE_START type=[ 7 ] index=10 primes=[ 5, 11, 7, 13, 17, 19 ] time=927.140
+SMART_CASE_RESULT type=[ 7 ] index=10 killed=true time=953.950
+SMART_CASE_START type=[ 7 ] index=11 primes=[ 5, 11, 7, 13, 17, 19 ] time=953.960
+SMART_CASE_RESULT type=[ 7 ] index=11 killed=true time=972.670
+SMART_CASE_START type=[ 7 ] index=12 primes=[ 5, 11, 7, 13, 17, 19 ] time=972.680
+SMART_CASE_RESULT type=[ 7 ] index=12 killed=true time=1003.920
+SMART_CASE_START type=[ 7 ] index=13 primes=[ 5, 11, 7, 13, 17, 19 ] time=1003.930
+SMART_CASE_RESULT type=[ 7 ] index=13 killed=true time=1043.600
+SMART_CASE_START type=[ 7 ] index=14 primes=[ 5, 11, 7, 13, 17, 19 ] time=1043.610
+SMART_CASE_RESULT type=[ 7 ] index=14 killed=true time=1067.700
+SMART_CASE_START type=[ 7 ] index=15 primes=[ 5, 11, 7, 13, 17, 19 ] time=1067.700
+SMART_CASE_RESULT type=[ 7 ] index=15 killed=true time=1089.750
+SMART_CASE_START type=[ 7 ] index=16 primes=[ 5, 11, 7, 13, 17, 19 ] time=1089.760
+SMART_CASE_RESULT type=[ 7 ] index=16 killed=true time=1113.660
+SMART_CASE_START type=[ 7 ] index=17 primes=[ 5, 11, 7, 13, 17, 19 ] time=1113.670
+SMART_CASE_RESULT type=[ 7 ] index=17 killed=true time=1127.650
+SMART_CASE_START type=[ 7 ] index=18 primes=[ 5, 11, 7, 13, 17, 19 ] time=1127.650
+SMART_CASE_RESULT type=[ 7 ] index=18 killed=true time=1146.790
+SMART_CASE_START type=[ 7 ] index=19 primes=[ 13, 5, 11, 7, 17, 19 ] time=1146.790
+SMART_CASE_RESULT type=[ 7 ] index=19 killed=true time=1232.080
+SMART_CASE_START type=[ 7 ] index=20 primes=[ 5, 11, 7, 13, 17, 19 ] time=1232.080
+SMART_CASE_RESULT type=[ 7 ] index=20 killed=true time=1255.710
+SMART_CASE_START type=[ 7 ] index=21 primes=[ 5, 11, 7, 13, 17, 19 ] time=1255.720
+SMART_CASE_RESULT type=[ 7 ] index=21 killed=true time=1283.440
+SMART_CASE_START type=[ 7 ] index=22 primes=[ 5, 11, 7, 13, 17, 19 ] time=1283.450
+SMART_CASE_RESULT type=[ 7 ] index=22 killed=true time=1314.710
+SMART_CASE_START type=[ 7 ] index=23 primes=[ 5, 11, 7, 13, 17, 19 ] time=1314.720
+SMART_CASE_RESULT type=[ 7 ] index=23 killed=true time=1341.170
+SMART_CASE_START type=[ 7 ] index=24 primes=[ 5, 11, 7, 13, 17, 19 ] time=1341.180
+SMART_CASE_RESULT type=[ 7 ] index=24 killed=true time=1368.920
+RESULT type=[ 7 ] total=24 survivors=0 time=1368.920
+TYPE [ 6, 1 ]: no divisors
+TYPE [ 5, 2 ]: no divisors
+TYPE [ 5, 1, 1 ]: no divisors
+TYPE [ 4, 3 ]: no divisors
+TYPE [ 4, 2, 1 ]: no divisors
+TYPE [ 4, 1, 1, 1 ]: no divisors
+TYPE [ 3, 3, 1 ]: no divisors
+TYPE [ 3, 2, 2 ]: no divisors
+TYPE [ 3, 2, 1, 1 ]: no divisors
+TYPE [ 3, 1, 1, 1, 1 ]: no divisors
+TYPE [ 2, 2, 2, 1 ]: no divisors
+TYPE [ 2, 2, 1, 1, 1 ]: no divisors
+TYPE [ 2, 1, 1, 1, 1, 1 ]: no divisors
+TYPE [ 1, 1, 1, 1, 1, 1, 1 ]: no divisors
+TYPE [ 8 ]: 71 divisors (up to diamond), qlist=[ 5, 7, 11, 13, 17, 19 ]
+SMART_CASE_START type=[ 8 ] index=1 primes=[ 11, 13, 19, 5, 7, 17 ] time=1368.930
+SMART_CASE_RESULT type=[ 8 ] index=1 killed=true time=1439.810
+SMART_CASE_START type=[ 8 ] index=2 primes=[ 19, 5, 11, 7, 13, 17 ] time=1439.820
+SMART_CASE_RESULT type=[ 8 ] index=2 killed=true time=1559.400
+SMART_CASE_START type=[ 8 ] index=3 primes=[ 5, 13, 7, 11, 17, 19 ] time=1559.410
+SMART_CASE_RESULT type=[ 8 ] index=3 killed=true time=1575.610
+SMART_CASE_START type=[ 8 ] index=4 primes=[ 11, 13, 19, 5, 7, 17 ] time=1575.610
+SMART_CASE_RESULT type=[ 8 ] index=4 killed=true time=1662.130
+SMART_CASE_START type=[ 8 ] index=5 primes=[ 11, 13, 19, 5, 7, 17 ] time=1662.140
+SMART_CASE_RESULT type=[ 8 ] index=5 killed=true time=1710.740
+SMART_CASE_START type=[ 8 ] index=6 primes=[ 11, 13, 19, 5, 7, 17 ] time=1710.750
+SMART_CASE_RESULT type=[ 8 ] index=6 killed=true time=1749.990
+SMART_CASE_START type=[ 8 ] index=7 primes=[ 7, 5, 11, 13, 17, 19 ] time=1750.000
+SMART_CASE_RESULT type=[ 8 ] index=7 killed=true time=1783.910
+SMART_CASE_START type=[ 8 ] index=8 primes=[ 7, 5, 11, 13, 17, 19 ] time=1783.910
+SMART_CASE_RESULT type=[ 8 ] index=8 killed=true time=1817.420
+SMART_CASE_START type=[ 8 ] index=9 primes=[ 7, 5, 11, 13, 17, 19 ] time=1817.430
+SMART_CASE_RESULT type=[ 8 ] index=9 killed=true time=1844.700
+SMART_CASE_START type=[ 8 ] index=10 primes=[ 7, 5, 11, 13, 17, 19 ] time=1844.710
+SMART_CASE_RESULT type=[ 8 ] index=10 killed=true time=1866.060
+SMART_CASE_START type=[ 8 ] index=11 primes=[ 7, 5, 11, 13, 17, 19 ] time=1866.060
+SMART_CASE_RESULT type=[ 8 ] index=11 killed=true time=1892.140
+SMART_CASE_START type=[ 8 ] index=12 primes=[ 5, 13, 7, 11, 17, 19 ] time=1892.150
+SMART_CASE_RESULT type=[ 8 ] index=12 killed=true time=1916.840
+SMART_CASE_START type=[ 8 ] index=13 primes=[ 7, 11, 5, 13, 17, 19 ] time=1916.850
+SMART_CASE_RESULT type=[ 8 ] index=13 killed=true time=1957.310
+SMART_CASE_START type=[ 8 ] index=14 primes=[ 7, 11, 5, 13, 17, 19 ] time=1957.320
+SMART_CASE_RESULT type=[ 8 ] index=14 killed=true time=1992.370
+SMART_CASE_START type=[ 8 ] index=15 primes=[ 7, 11, 5, 13, 17, 19 ] time=1992.370
+SMART_CASE_RESULT type=[ 8 ] index=15 killed=true time=2030.320
+SMART_CASE_START type=[ 8 ] index=16 primes=[ 11, 13, 19, 5, 7, 17 ] time=2030.330
+SMART_CASE_RESULT type=[ 8 ] index=16 killed=true time=2101.570
+SMART_CASE_START type=[ 8 ] index=17 primes=[ 7, 11, 5, 13, 17, 19 ] time=2101.600
+SMART_CASE_RESULT type=[ 8 ] index=17 killed=true time=2143.580
+SMART_CASE_START type=[ 8 ] index=18 primes=[ 5, 13, 7, 11, 17, 19 ] time=2143.590
+SMART_CASE_RESULT type=[ 8 ] index=18 killed=true time=2183.290
+SMART_CASE_START type=[ 8 ] index=19 primes=[ 11, 13, 19, 5, 7, 17 ] time=2183.300
+SMART_CASE_RESULT type=[ 8 ] index=19 killed=true time=2236.480
+SMART_CASE_START type=[ 8 ] index=20 primes=[ 11, 13, 19, 5, 7, 17 ] time=2236.490
+SMART_CASE_RESULT type=[ 8 ] index=20 killed=true time=2311.000
+SMART_CASE_START type=[ 8 ] index=21 primes=[ 5, 13, 7, 11, 17, 19 ] time=2311.010
+SMART_CASE_RESULT type=[ 8 ] index=21 killed=true time=2339.120
+SMART_CASE_START type=[ 8 ] index=22 primes=[ 11, 13, 19, 5, 7, 17 ] time=2339.130
+SMART_CASE_RESULT type=[ 8 ] index=22 killed=true time=2390.620
+SMART_CASE_START type=[ 8 ] index=23 primes=[ 19, 5, 11, 7, 13, 17 ] time=2390.620
+SMART_CASE_RESULT type=[ 8 ] index=23 killed=true time=2564.420
+SMART_CASE_START type=[ 8 ] index=24 primes=[ 11, 13, 19, 5, 7, 17 ] time=2564.430
+SMART_CASE_RESULT type=[ 8 ] index=24 killed=true time=2676.580
+SMART_CASE_START type=[ 8 ] index=25 primes=[ 11, 13, 19, 5, 7, 17 ] time=2676.590
+SMART_CASE_RESULT type=[ 8 ] index=25 killed=true time=2791.330
+SMART_CASE_START type=[ 8 ] index=26 primes=[ 5, 13, 7, 11, 17, 19 ] time=2791.330
+SMART_CASE_RESULT type=[ 8 ] index=26 killed=true time=2820.470
+SMART_CASE_START type=[ 8 ] index=27 primes=[ 5, 13, 7, 11, 17, 19 ] time=2820.480
+SMART_CASE_RESULT type=[ 8 ] index=27 killed=true time=2838.570
+SMART_CASE_START type=[ 8 ] index=28 primes=[ 11, 13, 19, 5, 7, 17 ] time=2838.580
+SMART_CASE_RESULT type=[ 8 ] index=28 killed=true time=2922.090
+SMART_CASE_START type=[ 8 ] index=29 primes=[ 11, 13, 19, 5, 7, 17 ] time=2922.100
+SMART_CASE_RESULT type=[ 8 ] index=29 killed=true time=3009.300
+SMART_CASE_START type=[ 8 ] index=30 primes=[ 11, 13, 19, 5, 7, 17 ] time=3009.320
+SMART_CASE_RESULT type=[ 8 ] index=30 killed=true time=3061.160
+SMART_CASE_START type=[ 8 ] index=31 primes=[ 7, 5, 11, 13, 17, 19 ] time=3061.170
+SMART_CASE_RESULT type=[ 8 ] index=31 killed=true time=3109.540
+SMART_CASE_START type=[ 8 ] index=32 primes=[ 19, 5, 11, 7, 13, 17 ] time=3109.540
+SMART_CASE_RESULT type=[ 8 ] index=32 killed=true time=3282.160
+SMART_CASE_START type=[ 8 ] index=33 primes=[ 11, 13, 19, 5, 7, 17 ] time=3282.160
+SMART_CASE_RESULT type=[ 8 ] index=33 killed=true time=3378.270
+SMART_CASE_START type=[ 8 ] index=34 primes=[ 11, 13, 19, 5, 7, 17 ] time=3378.270
+SMART_CASE_RESULT type=[ 8 ] index=34 killed=true time=3429.220
+SMART_CASE_START type=[ 8 ] index=35 primes=[ 11, 13, 19, 5, 7, 17 ] time=3429.230
+SMART_CASE_RESULT type=[ 8 ] index=35 killed=true time=3511.190
+SMART_CASE_START type=[ 8 ] index=36 primes=[ 7, 5, 11, 13, 17, 19 ] time=3511.250
+SMART_CASE_RESULT type=[ 8 ] index=36 killed=true time=3538.280
+SMART_CASE_START type=[ 8 ] index=37 primes=[ 7, 5, 11, 13, 17, 19 ] time=3538.290
+SMART_CASE_RESULT type=[ 8 ] index=37 killed=true time=3568.790
+SMART_CASE_START type=[ 8 ] index=38 primes=[ 7, 5, 11, 13, 17, 19 ] time=3568.800
+SMART_CASE_RESULT type=[ 8 ] index=38 killed=true time=3622.750
+SMART_CASE_START type=[ 8 ] index=39 primes=[ 11, 13, 19, 5, 7, 17 ] time=3622.760
+SMART_CASE_RESULT type=[ 8 ] index=39 killed=true time=3706.180
+SMART_CASE_START type=[ 8 ] index=40 primes=[ 11, 13, 19, 5, 7, 17 ] time=3706.190
+SMART_CASE_RESULT type=[ 8 ] index=40 killed=true time=3799.710
+SMART_CASE_START type=[ 8 ] index=41 primes=[ 11, 13, 19, 5, 7, 17 ] time=3799.720
+SMART_CASE_RESULT type=[ 8 ] index=41 killed=true time=3893.420
+SMART_CASE_START type=[ 8 ] index=42 primes=[ 19, 5, 11, 7, 13, 17 ] time=3893.430
+SMART_CASE_RESULT type=[ 8 ] index=42 killed=true time=4031.970
+SMART_CASE_START type=[ 8 ] index=43 primes=[ 5, 13, 7, 11, 17, 19 ] time=4032.070
+SMART_CASE_RESULT type=[ 8 ] index=43 killed=true time=4063.790
+SMART_CASE_START type=[ 8 ] index=44 primes=[ 19, 5, 11, 7, 13, 17 ] time=4063.920
+SMART_CASE_RESULT type=[ 8 ] index=44 killed=true time=4253.590
+SMART_CASE_START type=[ 8 ] index=45 primes=[ 11, 13, 19, 5, 7, 17 ] time=4253.600
+SMART_CASE_RESULT type=[ 8 ] index=45 killed=true time=4328.330
+SMART_CASE_START type=[ 8 ] index=46 primes=[ 7, 5, 11, 13, 17, 19 ] time=4328.340
+SMART_CASE_RESULT type=[ 8 ] index=46 killed=true time=4370.290
+SMART_CASE_START type=[ 8 ] index=47 primes=[ 19, 5, 11, 7, 13, 17 ] time=4370.290
+SMART_CASE_RESULT type=[ 8 ] index=47 killed=true time=4471.170
+SMART_CASE_START type=[ 8 ] index=48 primes=[ 19, 5, 11, 7, 13, 17 ] time=4471.170
+SMART_CASE_RESULT type=[ 8 ] index=48 killed=true time=4575.690
+SMART_CASE_START type=[ 8 ] index=49 primes=[ 7, 5, 11, 13, 17, 19 ] time=4575.700
+SMART_CASE_RESULT type=[ 8 ] index=49 killed=true time=4611.710
+SMART_CASE_START type=[ 8 ] index=50 primes=[ 11, 13, 19, 5, 7, 17 ] time=4611.720
+SMART_CASE_RESULT type=[ 8 ] index=50 killed=true time=4684.540
+SMART_CASE_START type=[ 8 ] index=51 primes=[ 11, 13, 19, 5, 7, 17 ] time=4684.550
+SMART_CASE_RESULT type=[ 8 ] index=51 killed=true time=4739.580
+SMART_CASE_START type=[ 8 ] index=52 primes=[ 11, 13, 19, 5, 7, 17 ] time=4739.580
+SMART_CASE_RESULT type=[ 8 ] index=52 killed=true time=4806.870
+SMART_CASE_START type=[ 8 ] index=53 primes=[ 11, 13, 19, 5, 7, 17 ] time=4806.880
+SMART_CASE_RESULT type=[ 8 ] index=53 killed=true time=4863.540
+SMART_CASE_START type=[ 8 ] index=54 primes=[ 19, 5, 11, 7, 13, 17 ] time=4863.550
+SMART_CASE_RESULT type=[ 8 ] index=54 killed=true time=5045.930
+SMART_CASE_START type=[ 8 ] index=55 primes=[ 7, 5, 11, 13, 17, 19 ] time=5045.940
+SMART_CASE_RESULT type=[ 8 ] index=55 killed=true time=5094.950
+SMART_CASE_START type=[ 8 ] index=56 primes=[ 11, 13, 19, 5, 7, 17 ] time=5094.950
+SMART_CASE_RESULT type=[ 8 ] index=56 killed=true time=5149.240
+SMART_CASE_START type=[ 8 ] index=57 primes=[ 7, 11, 5, 13, 17, 19 ] time=5149.250
+SMART_CASE_RESULT type=[ 8 ] index=57 killed=true time=5174.770
+SMART_CASE_START type=[ 8 ] index=58 primes=[ 7, 5, 11, 13, 17, 19 ] time=5174.790
+SMART_CASE_RESULT type=[ 8 ] index=58 killed=true time=5205.590
+SMART_CASE_START type=[ 8 ] index=59 primes=[ 7, 5, 11, 13, 17, 19 ] time=5205.600
+SMART_CASE_RESULT type=[ 8 ] index=59 killed=true time=5259.120
+SMART_CASE_START type=[ 8 ] index=60 primes=[ 7, 5, 11, 13, 17, 19 ] time=5259.130
+SMART_CASE_RESULT type=[ 8 ] index=60 killed=true time=5316.880
+SMART_CASE_START type=[ 8 ] index=61 primes=[ 7, 5, 11, 13, 17, 19 ] time=5316.890
+SMART_CASE_RESULT type=[ 8 ] index=61 killed=true time=5359.750
+SMART_CASE_START type=[ 8 ] index=62 primes=[ 7, 5, 11, 13, 17, 19 ] time=5359.760
+SMART_CASE_RESULT type=[ 8 ] index=62 killed=true time=5405.410
+SMART_CASE_START type=[ 8 ] index=63 primes=[ 7, 5, 11, 13, 17, 19 ] time=5405.420
+SMART_CASE_RESULT type=[ 8 ] index=63 killed=true time=5447.970
+SMART_CASE_START type=[ 8 ] index=64 primes=[ 5, 13, 7, 11, 17, 19 ] time=5448.190
+SMART_CASE_RESULT type=[ 8 ] index=64 killed=true time=5473.300
+SMART_CASE_START type=[ 8 ] index=65 primes=[ 11, 13, 19, 5, 7, 17 ] time=5473.300
+SMART_CASE_RESULT type=[ 8 ] index=65 killed=true time=5586.840
+SMART_CASE_START type=[ 8 ] index=66 primes=[ 11, 13, 19, 5, 7, 17 ] time=5586.850
+SMART_CASE_RESULT type=[ 8 ] index=66 killed=true time=5685.250
+SMART_CASE_START type=[ 8 ] index=67 primes=[ 11, 13, 19, 5, 7, 17 ] time=5685.260
+SMART_CASE_RESULT type=[ 8 ] index=67 killed=true time=5775.060
+SMART_CASE_START type=[ 8 ] index=68 primes=[ 7, 5, 11, 13, 17, 19 ] time=5775.060
+SMART_CASE_RESULT type=[ 8 ] index=68 killed=true time=5821.200
+SMART_CASE_START type=[ 8 ] index=69 primes=[ 7, 5, 11, 13, 17, 19 ] time=5821.220
+SMART_CASE_RESULT type=[ 8 ] index=69 killed=true time=5881.340
+SMART_CASE_START type=[ 8 ] index=70 primes=[ 11, 13, 19, 5, 7, 17 ] time=5881.350
+SMART_CASE_RESULT type=[ 8 ] index=70 killed=true time=5945.270
+SMART_CASE_START type=[ 8 ] index=71 primes=[ 11, 13, 19, 5, 7, 17 ] time=5945.280
+SMART_CASE_RESULT type=[ 8 ] index=71 killed=true time=6044.450
+RESULT type=[ 8 ] total=71 survivors=0 time=6044.450
+SINGLE_BRANCH_CHECKPOINT_DONE level=46 p=3 D=8 completed_degrees=4,5,6,7,8

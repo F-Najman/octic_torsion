@@ -1,0 +1,1 @@
+{'level': 65, 'genus': 61, 'image_dimension': 48, 'source_kernels': 11, 'transported_kernels': 110, 'direct_target_checks': 3, 'Tate_cusp_action_match': True, 'admissible_divisors_tested': 83949, 'exceptions': 0, 'first_exceptions': [], 'independent_replay': True}

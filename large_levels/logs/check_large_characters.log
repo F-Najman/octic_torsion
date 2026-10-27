@@ -1,0 +1,23 @@
+OCTIC_FINITE_IMAGE_INPUT N=119 a=3 nontrivial_positive_characters=0 verified=true
+OCTIC_FINITE_IMAGE_INPUT N=121 a=2 nontrivial_positive_characters=0 verified=true
+OCTIC_FINITE_IMAGE_INPUT N=125 a=3 nontrivial_positive_characters=0 verified=true
+OCTIC_CHARACTER_KERNEL N=133 a=64 orbit=f indices=[ 39, 58 ] verified=true
+OCTIC_CHARACTER_KERNEL N=133 a=64 orbit=s indices=[ 31, 103 ] verified=true
+OCTIC_FINITE_IMAGE_INPUT N=133 a=64 nontrivial_positive_characters=2 verified=true
+OCTIC_CHARACTER_KERNEL N=143 a=67 orbit=h indices=[ 14, 27, 53, 92 ] verified=true
+OCTIC_FINITE_IMAGE_INPUT N=143 a=67 nontrivial_positive_characters=1 verified=true
+OCTIC_FINITE_IMAGE_INPUT N=169 a=3 nontrivial_positive_characters=0 verified=true
+OCTIC_CHARACTER_KERNEL N=187 a=122 orbit=g indices=[ 69, 86, 103, 137 ] verified=true
+OCTIC_FINITE_IMAGE_INPUT N=187 a=122 nontrivial_positive_characters=1 verified=true
+OCTIC_CHARACTER_KERNEL N=209 a=34 orbit=f indices=[ 20, 58, 115, 191 ] verified=true
+OCTIC_FINITE_IMAGE_INPUT N=209 a=34 nontrivial_positive_characters=1 verified=true
+OCTIC_FINITE_IMAGE_INPUT N=221 a=3 nontrivial_positive_characters=0 verified=true
+OCTIC_CHARACTER_KERNEL N=247 a=144 orbit=be indices=[ 8, 31, 122, 164 ] verified=true
+OCTIC_FINITE_IMAGE_INPUT N=247 a=144 nontrivial_positive_characters=1 verified=true
+OCTIC_FINITE_IMAGE_INPUT N=289 a=3 nontrivial_positive_characters=0 verified=true
+OCTIC_CHARACTER_KERNEL N=323 a=101 orbit=k indices=[ 77, 134, 172, 229 ] verified=true
+OCTIC_FINITE_IMAGE_INPUT N=323 a=101 nontrivial_positive_characters=1 verified=true
+OCTIC_FINITE_IMAGE_INPUT N=361 a=3 nontrivial_positive_characters=0 verified=true
+OCTIC_CHARACTER_KERNEL N=95 a=11 orbit=l indices=[ 8, 12, 27, 88 ] verified=true
+OCTIC_FINITE_IMAGE_INPUT N=95 a=11 nontrivial_positive_characters=1 verified=true
+OCTIC_LARGE_CHARACTER_CERTIFICATE_DONE

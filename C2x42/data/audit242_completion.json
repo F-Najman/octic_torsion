@@ -1,0 +1,36 @@
+{
+  "complete": true,
+  "representatives": 30,
+  "initial_nonprincipal": 28,
+  "pair118_killed_by": 17,
+  "pair193_deck_exact": true,
+  "remaining": 0,
+  "initial_partition_sizes": [
+    4,
+    13,
+    13
+  ],
+  "source_support_types": {
+    "(4,)": 2,
+    "(7,)": 1,
+    "(4, 4)": 23,
+    "(8,)": 4
+  },
+  "kernel_weight_records_checked": 106,
+  "quotient_genus": 31,
+  "source_geometric_gonality_lower_bound": 12,
+  "source_cusp_signature": {
+    "1": 18,
+    "3": 6,
+    "2": 9,
+    "6": 3
+  },
+  "boundary": "Native exact RR decisions are supplied by completed logs/serialized replays; global quartic42 absence is DNTheorem1.1.",
+  "sha256": {
+    "M2N42_full_Aut_representative_supports.m": "cf994c291fd12454ce2c58737e8abe0e057fc6bf9c50e81d466e5dd9ec76f19f",
+    "C242_g31_bounded_Hecke_v3_arithmetic.txt": "35cdfcf5a9e9bca149d1ab96e34487206ca398202cdd1ca76b08740f5fe47ed5",
+    "C242_g31_remaining_shard0_arithmetic.txt": "eec049f1d79956ad88a79a78b46b9b15669916c92ba8c10c6322867dc02c0c88",
+    "C242_g31_remaining_shard1_arithmetic.txt": "462dcb9378760080e675bf5ea064cf681bf6fa84aafca7506b4b41ad63ea8c94",
+    "C242_g31_pair118_refinement_arithmetic.txt": "e9e13a8b4793bba7a838e4248ad74575e327de90fabdd6667bbbb5e1b4c8166e"
+  }
+}

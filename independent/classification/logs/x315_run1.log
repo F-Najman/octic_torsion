@@ -1,0 +1,56 @@
+Loading "helpers8.m"
+PROGRESS [X1(3,15)] F4 model: genus 9, deg j 288 (expected 3*96=288); P3 order 3, P15 order 15 (cpu 2.740 s, wall 4.540 s)
+PROGRESS [X1(3,15)] F7 model (zeta_3 -> 2): genus 9, deg j 288 (cpu 7.540 s, wall 11.700 s)
+PROGRESS [X1(3,15)] F7 cusp degrees [ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 4, 4, 4, 4 ] (= F-rational cusp orbit degrees); F4 cusp degrees [ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2 ] (cpu 7.540 s, wall 11.710 s)
+PROGRESS [X1(3,15)] 20 F-rational cusp orbits, matched between F4 and F7 by unit signatures; F4 splitting: [
+[ 1 ],
+[ 1 ],
+[ 1 ],
+[ 1 ],
+[ 2, 2 ],
+[ 1 ],
+[ 1 ],
+[ 1 ],
+[ 1 ],
+[ 1 ],
+[ 1 ],
+[ 2, 2 ],
+[ 1 ],
+[ 1 ],
+[ 1 ],
+[ 1 ],
+[ 2, 2 ],
+[ 1 ],
+[ 1 ],
+[ 2, 2 ]
+] (cpu 7.540 s, wall 11.710 s)
+PROGRESS [X1(3,15)] Cl(F4 model) [ 3, 3, 3, 24, 96, 96, 0 ], #J(F4) = 5971968 (cpu 12.400 s, wall 18.010 s)
+PROGRESS [X1(3,15)] Cl(F7 model) [ 3, 3, 3, 24, 480, 480, 0 ], #J(F7) = 149299200 (cpu 24.980 s, wall 35.530 s)
+PROGRESS [X1(3,15)] cuspidal group C: image at F7 [ 3, 3, 24, 96, 96 ] (order 1990656), image at F4 [ 3, 3, 24, 96, 96 ] (order 1990656); kernels of Z^20 -> J(F4), J(F7) equal: true (cpu 26.290 s, wall 37.470 s)
+PROGRESS [X1(3,15)] #J(F_13) = 12230590464 ([ 4, 12, 12, 12, 48, 192, 192, 0 ]) (cpu 70.480 s, wall 100.770 s)
+PROGRESS [X1(3,15)] #J(F_19) = 247669456896 ([ 6, 24, 144, 144, 288, 288, 0 ]) (cpu 376.160 s, wall 416.710 s)
+PROGRESS [X1(3,15)] #J(F_7), #J(F_13), #J(F_19) = [ 149299200, 12230590464, 247669456896 ]; gcd 5971968 = 3 * #C; so [J(F):C] divides 3 (given rank J(F)=0) (cpu 376.210 s, wall 416.750 s)
+PROGRESS [X1(3,15)] noncuspidal place counts deg 1..4: F4 [ 0, 0, 0, 102 ], F7 [ 0, 24, 144, 396 ] (cpu 377.600 s, wall 418.150 s)
+PROGRESS [X1(3,15)] effective degree-4 divisors: F4 all 5102 (entirely cuspidal 5000); F7 with noncuspidal support 6264 (cpu 377.780 s, wall 418.330 s)
+PROGRESS [X1(3,15)] F4 classes computed (cpu 377.860 s, wall 418.410 s)
+PROGRESS [X1(3,15)] GONALITY_CHECK: the 5102 effective degree-4 divisors over F4 have 5102 distinct classes (equal => gon over F4, hence over F, exceeds 4) (cpu 377.860 s, wall 418.410 s)
+PROGRESS [X1(3,15)] F7 classes computed (cpu 689.340 s, wall 750.290 s)
+PROGRESS [X1(3,15)] pairs (R4,R7) with 3[x] in C at both primes: 60 divisor pairs, 60 class pairs; all their F4 classes in H4 (=> [D-4c0] in C): true (cpu 691.380 s, wall 752.860 s)
+PROGRESS [X1(3,15)] TWELVE: class pairs with [x] in C at both primes: 12, distinct elements of C: 12 (cpu 691.420 s, wall 752.900 s)
+PROGRESS [X1(3,15)] noncuspidal support types at F7 of the surviving R7: {*
+[ 2, 2 ]^^12
+*} (cpu 691.430 s, wall 752.900 s)
+PROGRESS [X1(3,15)] 12 of the surviving F7 divisors are purely noncuspidal (cpu 691.550 s, wall 753.030 s)
+PROGRESS [X1(3,15)] ORBIT: the 96 (=48 up to sign) automorphisms applied to one surviving divisor give 12 classes; equal to the 12 surviving classes: true (cpu 691.600 s, wall 753.080 s)
+PROGRESS [X1(3,15)] known point: P3 order 3, P15 order 15, j = 1331/8, Weil pairing e3(P3,5P15) = zeta^[ 2 ] (cpu 691.670 s, wall 753.150 s)
+PROGRESS [X1(3,15)] the triple (E, 1P3, P15) lies on the model; F(q,t) has degree 8 over Q (so the point is a closed degree-4 point over F) (cpu 691.700 s, wall 753.180 s)
+
+redknown(
+    p: 2,
+    zval: 0,
+    keyfun: function(key) ... end function
+)
+In file "x315.m", line 156, column 5:
+>>     assert Valuation(qK,pp[1]) ge 0 and Valuation(tK,pp[1]) ge 0; qb:=red(q
+       ^
+Runtime error in assert: Assertion failed

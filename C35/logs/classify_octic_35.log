@@ -1,0 +1,100 @@
+C35_D8_START
+C35_D8_MODEL_NORMALIZED genus=25 time=3.410
+C35_D8_CUSPS_READY finite=20 rational_orbits=18 JF2_order=18446099880 time=27.730
+C35_D8_GROUP_READY invariants=[ 13, 13, 109148520, 0 ] rational_image=[ 13, 109148520 ] time=2003.430
+C35_D8_COUNTS_VERIFIED noncuspidal=[ 0, 0, 0, 0, 0, 24, 24, 30 ] time=2004.500
+C35_D8_CUSP_SINGLE index=1 in_rational_image=false
+C35_D8_CUSP_PAIR i=1 j=1 in_rational_image=false rational_orbit_pair=false
+C35_D8_CUSP_PAIR i=1 j=2 in_rational_image=false rational_orbit_pair=false
+C35_D8_CUSP_PAIR i=1 j=3 in_rational_image=true rational_orbit_pair=true
+C35_D8_CUSP_PAIR i=1 j=4 in_rational_image=false rational_orbit_pair=false
+C35_D8_CUSP_SINGLE index=2 in_rational_image=false
+C35_D8_CUSP_PAIR i=2 j=2 in_rational_image=false rational_orbit_pair=false
+C35_D8_CUSP_PAIR i=2 j=3 in_rational_image=false rational_orbit_pair=false
+C35_D8_CUSP_PAIR i=2 j=4 in_rational_image=true rational_orbit_pair=true
+C35_D8_CUSP_SINGLE index=3 in_rational_image=false
+C35_D8_CUSP_PAIR i=3 j=3 in_rational_image=false rational_orbit_pair=false
+C35_D8_CUSP_PAIR i=3 j=4 in_rational_image=false rational_orbit_pair=false
+C35_D8_CUSP_SINGLE index=4 in_rational_image=false
+C35_D8_CUSP_PAIR i=4 j=4 in_rational_image=false rational_orbit_pair=false
+C35_D8_CUSP_CLASSIFICATION_DONE complete=true
+C35_D8_KNOWN_OCTICS orbit=6 classes=6 time=2004.600
+C35_D8_CLASS_TEST degree=6 index=1/24 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=6 index=2/24 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=6 index=3/24 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=6 index=4/24 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=6 index=5/24 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=6 index=6/24 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=6 index=7/24 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=6 index=8/24 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=6 index=9/24 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=6 index=10/24 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=6 index=11/24 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=6 index=12/24 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=6 index=13/24 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=6 index=14/24 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=6 index=15/24 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=6 index=16/24 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=6 index=17/24 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=6 index=18/24 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=6 index=19/24 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=6 index=20/24 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=6 index=21/24 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=6 index=22/24 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=6 index=23/24 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=6 index=24/24 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=7 index=1/24 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=7 index=2/24 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=7 index=3/24 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=7 index=4/24 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=7 index=5/24 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=7 index=6/24 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=7 index=7/24 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=7 index=8/24 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=7 index=9/24 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=7 index=10/24 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=7 index=11/24 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=7 index=12/24 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=7 index=13/24 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=7 index=14/24 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=7 index=15/24 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=7 index=16/24 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=7 index=17/24 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=7 index=18/24 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=7 index=19/24 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=7 index=20/24 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=7 index=21/24 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=7 index=22/24 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=7 index=23/24 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=7 index=24/24 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=8 index=1/30 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=8 index=2/30 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=8 index=3/30 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=8 index=4/30 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=8 index=5/30 in_rational_image=true time=2004.620
+C35_D8_CLASS_TEST degree=8 index=6/30 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=8 index=7/30 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=8 index=8/30 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=8 index=9/30 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=8 index=10/30 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=8 index=11/30 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=8 index=12/30 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=8 index=13/30 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=8 index=14/30 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=8 index=15/30 in_rational_image=true time=2004.620
+C35_D8_CLASS_TEST degree=8 index=16/30 in_rational_image=true time=2004.620
+C35_D8_CLASS_TEST degree=8 index=17/30 in_rational_image=true time=2004.620
+C35_D8_CLASS_TEST degree=8 index=18/30 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=8 index=19/30 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=8 index=20/30 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=8 index=21/30 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=8 index=22/30 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=8 index=23/30 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=8 index=24/30 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=8 index=25/30 in_rational_image=true time=2004.620
+C35_D8_CLASS_TEST degree=8 index=26/30 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=8 index=27/30 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=8 index=28/30 in_rational_image=false time=2004.620
+C35_D8_CLASS_TEST degree=8 index=29/30 in_rational_image=true time=2004.620
+C35_D8_CLASS_TEST degree=8 index=30/30 in_rational_image=false time=2004.620
+C35_OCTIC_CLASSIFICATION_DONE sextic_members=0 septic_members=0 octic_members=6 known_octic_classes=6 unknown_octic_classes=0 cusp_classification=true complete=true time=2004.630

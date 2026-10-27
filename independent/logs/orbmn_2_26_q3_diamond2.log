@@ -1,0 +1,6 @@
+group diamond2 for X1(2,26): 6 transformations (before identification of -1)
+ORBMN X1(2,26) over F_3, degree 5, group diamond2: 36 closed points, 6 orbits, sizes {* 6^^6 *}
+ORBMN X1(2,26) over F_3, degree 6, group diamond2: 122 closed points, 26 orbits, sizes {* 1^^2, 2^^6, 6^^18 *}
+ORBMN X1(2,26) over F_3, degree 7, group diamond2: 288 closed points, 48 orbits, sizes {* 6^^48 *}
+ORBMN X1(2,26) over F_3, degree 8, group diamond2: 936 closed points, 159 orbits, sizes {* 3^^6, 6^^153 *}
+ORBITSMN_DONE

@@ -1,0 +1,3 @@
+M5N25_TARGET25_COTANGENT genus=12 diamond_image=12 invariant_dimension=0 cartier4_rank=12 joint_image=12 time=0.910
+M5N25_TARGET25_CUSP_DEGREES [ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 5 ] time=1.320
+M5N25_TARGET25_ALLBAD_DIAGNOSTIC_DONE tested=171 exceptions=0 data=[] time=1.960

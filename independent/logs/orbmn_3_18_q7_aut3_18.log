@@ -1,0 +1,5 @@
+group aut3_18 for X1(3,18): 27 transformations (before identification of -1)
+ORBMN X1(3,18) over F_7, degree 2, group aut3_18: 27 closed points, 1 orbits, sizes {* 27 *}
+ORBMN X1(3,18) over F_7, degree 3, group aut3_18: 144 closed points, 8 orbits, sizes {* 9^^4, 27^^4 *}
+ORBMN X1(3,18) over F_7, degree 4, group aut3_18: 513 closed points, 19 orbits, sizes {* 27^^19 *}
+ORBITSMN_DONE

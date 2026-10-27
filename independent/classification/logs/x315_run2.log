@@ -1,0 +1,61 @@
+Loading "helpers8.m"
+PROGRESS [X1(3,15)] F4 model: genus 9, deg j 288 (expected 3*96=288); P3 order 3, P15 order 15 (cpu 2.780 s, wall 2.800 s)
+PROGRESS [X1(3,15)] F7 model (zeta_3 -> 2): genus 9, deg j 288 (cpu 7.740 s, wall 7.830 s)
+PROGRESS [X1(3,15)] F7 cusp degrees [ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 4, 4, 4, 4 ] (= F-rational cusp orbit degrees); F4 cusp degrees [ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2 ] (cpu 7.740 s, wall 7.830 s)
+PROGRESS [X1(3,15)] 20 F-rational cusp orbits, matched between F4 and F7 by unit signatures; F4 splitting: [
+[ 1 ],
+[ 1 ],
+[ 1 ],
+[ 1 ],
+[ 2, 2 ],
+[ 1 ],
+[ 1 ],
+[ 1 ],
+[ 1 ],
+[ 1 ],
+[ 1 ],
+[ 2, 2 ],
+[ 1 ],
+[ 1 ],
+[ 1 ],
+[ 1 ],
+[ 2, 2 ],
+[ 1 ],
+[ 1 ],
+[ 2, 2 ]
+] (cpu 7.740 s, wall 7.830 s)
+PROGRESS [X1(3,15)] Cl(F4 model) [ 3, 3, 3, 24, 96, 96, 0 ], #J(F4) = 5971968 (cpu 12.430 s, wall 12.520 s)
+PROGRESS [X1(3,15)] Cl(F7 model) [ 3, 3, 3, 24, 480, 480, 0 ], #J(F7) = 149299200 (cpu 24.780 s, wall 24.870 s)
+PROGRESS [X1(3,15)] cuspidal group C: image at F7 [ 3, 3, 24, 96, 96 ] (order 1990656), image at F4 [ 3, 3, 24, 96, 96 ] (order 1990656); kernels of Z^20 -> J(F4), J(F7) equal: true (cpu 27.770 s, wall 27.860 s)
+PROGRESS [X1(3,15)] #J(F_7), #J(F_13), #J(F_19) = [ 149299200 ]; gcd 149299200 = 75 * #C; so [J(F):C] divides 75 (given rank J(F)=0) (cpu 27.770 s, wall 27.860 s)
+PROGRESS [X1(3,15)] noncuspidal place counts deg 1..4: F4 [ 0, 0, 0, 102 ], F7 [ 0, 24, 144, 396 ] (cpu 29.050 s, wall 29.140 s)
+PROGRESS [X1(3,15)] effective degree-4 divisors: F4 all 5102 (entirely cuspidal 5000); F7 with noncuspidal support 6264 (cpu 29.200 s, wall 29.290 s)
+PROGRESS [X1(3,15)] F4 classes computed (cpu 29.260 s, wall 29.350 s)
+PROGRESS [X1(3,15)] GONALITY_CHECK: the 5102 effective degree-4 divisors over F4 have 5102 distinct classes (equal => gon over F4, hence over F, exceeds 4) (cpu 29.260 s, wall 29.350 s)
+PROGRESS [X1(3,15)] F7 classes computed (cpu 351.910 s, wall 353.060 s)
+PROGRESS [X1(3,15)] pairs (R4,R7) with 3[x] in C at both primes: 60 divisor pairs, 60 class pairs; all their F4 classes in H4 (=> [D-4c0] in C): true (cpu 353.690 s, wall 354.830 s)
+PROGRESS [X1(3,15)] TWELVE: class pairs with [x] in C at both primes: 12, distinct elements of C: 12 (cpu 353.710 s, wall 354.860 s)
+PROGRESS [X1(3,15)] noncuspidal support types at F7 of the surviving R7: {*
+[ 2, 2 ]^^12
+*} (cpu 353.710 s, wall 354.860 s)
+PROGRESS [X1(3,15)] 12 of the surviving F7 divisors are purely noncuspidal (cpu 353.800 s, wall 354.940 s)
+PROGRESS [X1(3,15)] ORBIT: the 96 (=48 up to sign) automorphisms applied to one surviving divisor give 12 classes; equal to the 12 surviving classes: true (cpu 353.820 s, wall 354.970 s)
+PROGRESS [X1(3,15)] known point: P3 order 3, P15 order 15, j = 1331/8, Weil pairing e3(P3,5P15) = zeta^[ 2 ] (cpu 353.850 s, wall 354.990 s)
+PROGRESS [X1(3,15)] the triple (E, 1P3, P15) lies on the model; F(q,t) has degree 8 over Q (so the point is a closed degree-4 point over F) (cpu 353.860 s, wall 355.000 s)
+PROGRESS [X1(3,15)] known point: j = 1331/8, valuations at 2 and 7: -3, 0 (cpu 353.910 s, wall 355.050 s)
+PROGRESS [X1(3,15)] KNOWN: reduction at the prime (7, zeta-2): [ <2, 1>, <2, 1> ] (noncuspidal); its class [D-4c0] is one of the twelve (F7 classes): true (cpu 353.910 s, wall 355.060 s)
+
+redknown(
+    p: 2,
+    zval: 0,
+    keyfun: function(key) ... end function
+)
+curve_qt(
+    q: $.1^10,
+    t: 1
+)
+In file "x315.m", line 28, column 40:
+>> function curve_qt(q,t) E:=EllipticCurve([(1+q)*t+(2-q),0,q*t^2+(1-q)*t,0,0]
+                                          ^
+Runtime error in 'EllipticCurve': Curve is singular
+

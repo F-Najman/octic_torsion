@@ -1,0 +1,45 @@
+Loading "formal_common.m"
+numerator of x([5]Q): degree 25, irreducible over F16(t) true
+GENUS 12 (expected 12)  constant field Finite field of size 2^4  (76.900 s)
+generic fibre: both y-roots in F give points Q of exact order 25 with 5Q = +-(0,0): true
+CUSPS 20 closed cusps over F16, sorted degrees [ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 5 ] (claimed 1^18 5^2), j-degree 300 (expected 300)
+number of F16-rational places of X1(25): 18 (claimed 18), all cusps: true
+KERNEL cusp 1 deg 1 m 1 dim 11 (codim 1) [3.850 s, total 89.060 s]
+KERNEL cusp 1 deg 1 m 2 dim 10 (codim 2) [3.430 s, total 92.490 s]
+KERNEL cusp 2 deg 1 m 1 dim 11 (codim 1) [3.820 s, total 96.320 s]
+KERNEL cusp 2 deg 1 m 2 dim 10 (codim 2) [3.490 s, total 99.810 s]
+KERNEL cusp 3 deg 1 m 1 dim 11 (codim 1) [5.580 s, total 105.390 s]
+KERNEL cusp 3 deg 1 m 2 dim 10 (codim 2) [3.950 s, total 109.340 s]
+KERNEL cusp 4 deg 1 m 1 dim 11 (codim 1) [4.190 s, total 113.530 s]
+KERNEL cusp 4 deg 1 m 2 dim 10 (codim 2) [4.250 s, total 117.780 s]
+KERNEL cusp 5 deg 1 m 1 dim 11 (codim 1) [3.910 s, total 121.690 s]
+KERNEL cusp 5 deg 1 m 2 dim 10 (codim 2) [3.840 s, total 125.530 s]
+KERNEL cusp 7 deg 1 m 1 dim 11 (codim 1) [4.420 s, total 129.950 s]
+KERNEL cusp 7 deg 1 m 2 dim 10 (codim 2) [4.660 s, total 134.610 s]
+KERNEL cusp 8 deg 1 m 1 dim 11 (codim 1) [4.620 s, total 139.230 s]
+KERNEL cusp 8 deg 1 m 2 dim 10 (codim 2) [4.580 s, total 143.810 s]
+KERNEL cusp 9 deg 1 m 1 dim 11 (codim 1) [5.880 s, total 149.690 s]
+KERNEL cusp 9 deg 1 m 2 dim 10 (codim 2) [4.470 s, total 154.160 s]
+KERNEL cusp 10 deg 1 m 1 dim 11 (codim 1) [4.520 s, total 158.680 s]
+KERNEL cusp 10 deg 1 m 2 dim 10 (codim 2) [4.370 s, total 163.050 s]
+KERNEL cusp 12 deg 1 m 1 dim 11 (codim 1) [4.680 s, total 167.730 s]
+KERNEL cusp 12 deg 1 m 2 dim 10 (codim 2) [4.310 s, total 172.040 s]
+KERNEL cusp 13 deg 1 m 1 dim 11 (codim 1) [4.280 s, total 176.320 s]
+KERNEL cusp 13 deg 1 m 2 dim 10 (codim 2) [4.390 s, total 180.710 s]
+KERNEL cusp 14 deg 1 m 1 dim 11 (codim 1) [4.260 s, total 184.970 s]
+KERNEL cusp 14 deg 1 m 2 dim 10 (codim 2) [4.530 s, total 189.500 s]
+KERNEL cusp 15 deg 1 m 1 dim 11 (codim 1) [6.160 s, total 195.660 s]
+KERNEL cusp 15 deg 1 m 2 dim 10 (codim 2) [4.690 s, total 200.350 s]
+KERNEL cusp 16 deg 1 m 1 dim 11 (codim 1) [3.400 s, total 203.750 s]
+KERNEL cusp 16 deg 1 m 2 dim 10 (codim 2) [9.900 s, total 213.650 s]
+KERNEL cusp 17 deg 1 m 1 dim 11 (codim 1) [4.890 s, total 218.540 s]
+KERNEL cusp 17 deg 1 m 2 dim 10 (codim 2) [5.750 s, total 224.290 s]
+KERNEL cusp 18 deg 1 m 1 dim 11 (codim 1) [6.590 s, total 230.880 s]
+KERNEL cusp 18 deg 1 m 2 dim 10 (codim 2) [5.810 s, total 236.690 s]
+KERNEL cusp 19 deg 1 m 1 dim 11 (codim 1) [3.680 s, total 240.370 s]
+KERNEL cusp 19 deg 1 m 2 dim 10 (codim 2) [9.790 s, total 250.160 s]
+KERNEL cusp 20 deg 1 m 1 dim 11 (codim 1) [3.700 s, total 253.860 s]
+KERNEL cusp 20 deg 1 m 2 dim 10 (codim 2) [11.290 s, total 265.150 s]
+via kernel spaces: divisors 171 (expected 171), codim of Omega(-C) min 2 max 2 (need 2, i.e. h^0(K-C) = 10), failures 0
+RESULT X1(25)/F16: genus 12, cusp degrees [ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 5, 5 ], rational places 18; divisors 171, h0(K-C) = 10 and h0(C) = 1 for all (direct RR failures 0, kernel-space failures 0)
+X1_25_F16_DONE (1198.600 s)

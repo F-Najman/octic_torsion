@@ -1,0 +1,10 @@
+C48_D6_HEC_START source_index=85 q=29 master_sha=a95927262796020825fa2064678a536f75013a1081427e02115a789b8790d580
+C48_D6_ISOGENIES source_index=85 orbits=6 time=0.000
+C48_D6_IMAGE source_index=85 kernel_orbit=5 image_degree=30 time=0.000
+C48_D6_IMAGE source_index=85 kernel_orbit=5 image_degree=30 time=0.000
+C48_D6_IMAGE source_index=85 kernel_orbit=5 image_degree=30 time=0.000
+C48_D6_IMAGE source_index=85 kernel_orbit=5 image_degree=30 time=0.000
+C48_D6_IMAGE source_index=85 kernel_orbit=5 image_degree=30 time=0.000
+C48_D6_IMAGE source_index=85 kernel_orbit=5 image_degree=30 time=0.300
+C48_D6_PRINCIPALITY_START source_index=85 time=2.160
+C48_D6_HEC_DONE source_index=85 q=29 principal=false complete=true time=68.140

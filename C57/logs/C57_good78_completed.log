@@ -1,0 +1,104 @@
+Magma V2.30-1     Thu Oct 22 2026 03:49:42 on mordell  [Seed = 3982424890]
+Type <Ctrl>-D to quit.
+
+Loading file "work/degree8/large_levels/C57_good78_v2.m"
+DATABASE_ELL_MODEL N=57 ell=19 genus=1 good_reduction=true j_degree=20 time=0.070
+X0_3ELL_MODEL N=57 genus=5 degree_over_X0ell=4 integral_coordinates_ready=true time=1.380
+C57_BASE_NC_COVERAGE degree=7 curves=14 closed_image_points=2 expected=2 time=1.460
+C57_BASE_NC_COVERAGE degree=8 curves=8 closed_image_points=1 expected=1 time=1.610
+C57_COVER_CUSP_CHARACTERS 1 [
+    (1 1)
+]
+C57_COVER_IDENTIFIED (1 1)
+cusp_widths [ 19, 57, 1, 3 ]
+cusp_values [ 1, 0, 0, 1 ]
+nc7_classes [
+    (1 1),
+    (1 1),
+    (0 0)
+]
+23.460
+COVER_HOM_VALUES_VERIFIED [
+    0,
+    C2.1,
+    C2.1
+]
+C57_COVER_CLASS_FIELD_START 38.880
+C57_CLASS_FIELD_READY 9 53.300
+COVER_GENERATOR_FROBENIUS_VERIFIED 1 0
+COVER_GENERATOR_FROBENIUS_VERIFIED 2 1
+COVER_GENERATOR_FROBENIUS_VERIFIED 3 1
+COVER_CHARACTER_VERIFIED 57 9 88.130
+C57_CLASS_GROUP_READY [ 105, 210, 0 ]
+266.740
+C57_GOOD78_CASE_START index=1 degree=7 lift_choices=8 time=385.530
+C57_POINT_CLASS 14 [ 15, 17, 14 ]
+388.070
+C57_POINT_CLASS 14 [ 22, 43, 14 ]
+392.780
+C57_POINT_CLASS 14 [ 38, 183, 14 ]
+397.460
+C57_POINT_CLASS 14 [ 90, 137, 14 ]
+400.660
+C57_POINT_CLASS 14 [ 97, 13, 14 ]
+403.870
+C57_POINT_CLASS 14 [ 53, 153, 14 ]
+410.820
+C57_POINT_CLASS 7 [ 21, 127, 7 ]
+410.890
+C57_POINT_CLASS 7 [ 21, 202, 7 ]
+410.940
+C57_GOOD78_OPERATOR_CLASS index=1 degree=7 choice=1 value=[ 45, 60, 0 ] principal=false
+C57_GOOD78_OPERATOR_CLASS index=1 degree=7 choice=2 value=[ 90, 90, 0 ] principal=false
+C57_GOOD78_OPERATOR_CLASS index=1 degree=7 choice=3 value=[ 90, 0, 0 ] principal=false
+C57_GOOD78_OPERATOR_CLASS index=1 degree=7 choice=4 value=[ 30, 30, 0 ] principal=false
+C57_GOOD78_OPERATOR_CLASS index=1 degree=7 choice=5 value=[ 75, 0, 0 ] principal=false
+C57_GOOD78_OPERATOR_CLASS index=1 degree=7 choice=6 value=[ 15, 30, 0 ] principal=false
+C57_GOOD78_OPERATOR_CLASS index=1 degree=7 choice=7 value=[ 15, 150, 0 ] principal=false
+C57_GOOD78_OPERATOR_CLASS index=1 degree=7 choice=8 value=[ 60, 180, 0 ] principal=false
+C57_GOOD78_CASE_DONE index=1 degree=7 survivors=0 time=445.060
+C57_GOOD78_CASE_START index=2 degree=7 lift_choices=8 time=473.200
+C57_POINT_CLASS 14 [ 95, 18, 14 ]
+476.570
+C57_POINT_CLASS 14 [ 35, 189, 14 ]
+480.970
+C57_POINT_CLASS 14 [ 56, 48, 14 ]
+490.430
+C57_POINT_CLASS 14 [ 80, 108, 14 ]
+493.260
+C57_POINT_CLASS 14 [ 35, 189, 14 ]
+496.490
+C57_POINT_CLASS 14 [ 56, 78, 14 ]
+503.640
+C57_POINT_CLASS 7 [ 88, 93, 7 ]
+503.690
+C57_POINT_CLASS 7 [ 73, 138, 7 ]
+503.750
+C57_GOOD78_OPERATOR_CLASS index=2 degree=7 choice=1 value=[ 75, 120, 0 ] principal=false
+C57_GOOD78_OPERATOR_CLASS index=2 degree=7 choice=2 value=[ 45, 90, 0 ] principal=false
+C57_GOOD78_OPERATOR_CLASS index=2 degree=7 choice=3 value=[ 75, 120, 0 ] principal=false
+C57_GOOD78_OPERATOR_CLASS index=2 degree=7 choice=4 value=[ 45, 90, 0 ] principal=false
+C57_GOOD78_OPERATOR_CLASS index=2 degree=7 choice=5 value=[ 75, 180, 0 ] principal=false
+C57_GOOD78_OPERATOR_CLASS index=2 degree=7 choice=6 value=[ 45, 150, 0 ] principal=false
+C57_GOOD78_OPERATOR_CLASS index=2 degree=7 choice=7 value=[ 75, 180, 0 ] principal=false
+C57_GOOD78_OPERATOR_CLASS index=2 degree=7 choice=8 value=[ 45, 150, 0 ] principal=false
+C57_GOOD78_CASE_DONE index=2 degree=7 survivors=0 time=503.750
+C57_GOOD78_CASE_START index=3 degree=8 lift_choices=4 time=519.170
+C57_POINT_CLASS 24 [ 73, 158, 24 ]
+525.450
+C57_POINT_CLASS 24 [ 41, 28, 24 ]
+525.980
+C57_POINT_CLASS 24 [ 88, 68, 24 ]
+530.700
+C57_POINT_CLASS 24 [ 71, 58, 24 ]
+531.220
+C57_POINT_CLASS 8 [ 90, 200, 8 ]
+531.280
+C57_POINT_CLASS 8 [ 15, 20, 8 ]
+531.340
+C57_GOOD78_OPERATOR_CLASS index=3 degree=8 choice=1 value=[ 45, 150, 0 ] principal=false
+C57_GOOD78_OPERATOR_CLASS index=3 degree=8 choice=2 value=[ 75, 180, 0 ] principal=false
+C57_GOOD78_OPERATOR_CLASS index=3 degree=8 choice=3 value=[ 0, 0, 0 ] principal=true
+C57_GOOD78_OPERATOR_CLASS index=3 degree=8 choice=4 value=[ 30, 30, 0 ] principal=false
+C57_GOOD78_CASE_DONE index=3 degree=8 survivors=1 time=555.980
+C57_GOOD78_DONE cases=3 tests=20 remaining=1 complete=true time=555.980

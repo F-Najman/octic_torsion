@@ -1,0 +1,6 @@
+C48_SOURCE_PARTITION_INDEPENDENT_PASS 3 {'representatives': 2, 'places': 16, 'orbit_size_distribution': {8: 2}}
+C48_SOURCE_PARTITION_INDEPENDENT_PASS 4 {'representatives': 8, 'places': 64, 'orbit_size_distribution': {8: 8}}
+C48_SOURCE_PARTITION_INDEPENDENT_PASS 5 {'representatives': 82, 'places': 656, 'orbit_size_distribution': {8: 82}}
+C48_SOURCE_PARTITION_INDEPENDENT_PASS 6 {'representatives': 342, 'places': 2712, 'orbit_size_distribution': {8: 336, 4: 6}}
+C48_SOURCE_PARTITION_INDEPENDENT_PASS 7 {'representatives': 1348, 'places': 10784, 'orbit_size_distribution': {8: 1348}}
+C48_SOURCE_PARTITION_INDEPENDENT_PASS 8 {'representatives': 6172, 'places': 48992, 'orbit_size_distribution': {8: 6084, 4: 72, 2: 16}}

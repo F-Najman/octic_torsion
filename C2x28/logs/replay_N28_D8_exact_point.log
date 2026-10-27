@@ -1,0 +1,26 @@
+{
+  "field_degree": 8,
+  "field_irreducible_over_Q": true,
+  "exact_nonzero_rational_2_points": 1,
+  "independent_local_obstruction_to_full_2_torsion": {
+    "prime": 23,
+    "simple_root_of_field_polynomial": 2,
+    "a_invariants": [
+      3,
+      16,
+      16,
+      0,
+      0
+    ],
+    "good_reduction_discriminant": 15,
+    "psi2_roots": [
+      6
+    ],
+    "psi2_factor_degrees": [
+      1,
+      2
+    ]
+  },
+  "input_sha256": "668d7ee6e7ea0cda9bcd95bcd9613cb7d41adbe57dc1c0bf745b8b393c5c20b8"
+}
+N28_D8_EXACT_FIELD_LOCAL2_REPLAY_DONE

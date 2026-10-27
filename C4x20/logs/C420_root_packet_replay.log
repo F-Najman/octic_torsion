@@ -1,0 +1,18 @@
+C420_FINITE_FIELD_ORBITS_PASS 2 96 2 [48, 48]
+C420_FINITE_FIELD_ORBITS_PASS 3 320 4 [96, 96, 96, 32]
+C420_FINITE_FIELD_ORBITS_PASS 4 888 12 [48, 48, 96, 12, 96, 96, 96, 96, 96, 96, 96, 12]
+C420_NEWTON_COUNTS_PASS
+C420_CUSP_GALOIS_PASS {'geometric': 48, 'closed_degrees': {1: 24, 2: 12}, 'rational_cusps_global_over_Qi': 24, 'admissible_q_for_complement_1': [13, 17, 29], 'admissible_q_for_complement_2': [29]}
+C420_SUPPORT_COVERAGE_PASS singles=18 pairs=192 prefix82+tail110=192 remaining=4
+C420_STABILIZERS_PASS quartic=8,8 pair=4,4 conjugacy=SL2
+C420_FULL_FINITE_REPLAY_DONE complete=true
+C420_CARTAN_SYMBOLIC_PASS degree4 both_generators jidentity
+C420_CYCLIC5_SYMBOLIC_PASS actual2P normalization and jidentity
+C420_BIRATIONAL_SYMBOLIC_PASS both_inverses cusp_poles=[4,20,2,10]
+C420_FINITE_GROUP_INDEPENDENT_PASS E(F9)=[4,4]
+C420_GLOBAL_POINT_INDEPENDENT_PASS four_cusps four_j1728 torsion_halving_criterion
+C420_SUBGROUP_CONJUGACY_INDEPENDENT_PASS T=[[1,0],[1,1]]
+C420_COMPACT_REPLAY_DONE complete=true
+C420_COMPACT_STRICT_PASS files=8
+C420_LOG_ARITHMETIC_AGREEMENT_PASS records=214+9 prefix_explicitly_incomplete=true
+C420_FULL_STRICT_PASS complete=true remaining=0 files=335

@@ -1,0 +1,95 @@
+{
+  "degree": 8,
+  "excluded_cyclic_order": 85,
+  "status": "complete",
+  "a": 2,
+  "diamond_order": 8,
+  "rank_dimension_sum": 225,
+  "positive_rank_forms": [
+    {
+      "level": 85,
+      "id": 15777,
+      "label": "85.2.a.b",
+      "char_orbit_label": "a",
+      "char_order": 1,
+      "char_conductor": 1,
+      "dim": 2,
+      "relative_dim": 2,
+      "analytic_rank": 1,
+      "analytic_rank_proved": true,
+      "is_cm": false,
+      "nf_label": "2.2.8.1"
+    },
+    {
+      "level": 85,
+      "id": 15783,
+      "label": "85.2.j.a",
+      "char_orbit_label": "j",
+      "char_order": 4,
+      "char_conductor": 85,
+      "dim": 2,
+      "relative_dim": 1,
+      "analytic_rank": 1,
+      "analytic_rank_proved": true,
+      "is_cm": false,
+      "nf_label": "2.0.4.1"
+    }
+  ],
+  "minimum_CM_degree": 32,
+  "gonality_lower_bound": "8775/256",
+  "principal_function_degree_bound": 32,
+  "orbit_size": 8,
+  "quotient_image_degree": 1,
+  "final_obstruction": "X0(85)(Q) has no noncuspidal point",
+  "reference": {
+    "url": "https://arxiv.org/pdf/2001.05616v3",
+    "theorem": "4.6",
+    "PDF_page": 8
+  },
+  "files": [
+    {
+      "path": "certify_85_99.py",
+      "sha256": "17a81270a7402edd6f7422c85942e479c2862996dd4ad949a7ca29ce8b073a0e"
+    },
+    {
+      "path": "inputs/dcm_list_all_min_orders_X1_10k.m",
+      "sha256": "020ba11c347b70aafd59099994d5df55d969ffeaff468ced1a06ae97868b64cc"
+    },
+    {
+      "path": "N85_exclusion.tex",
+      "sha256": "254bcad48d8b57d0ad9d977e7c800ee805f9cd43f33194e8c1c53dba62e69773"
+    },
+    {
+      "path": "inputs/lmfdb_newforms_cache.json",
+      "sha256": "f1fdb641a16ab0f02c2cc6a07ea6c4bb2643522d4a3b127dba41dc7d3d023fee"
+    },
+    {
+      "path": "check_85_characters.m",
+      "sha256": "5ef3646cdd053559e27f5f8c6b0f1338191ea0501fbc8def6171e397d258e3e2"
+    },
+    {
+      "path": "check_85_characters.log",
+      "sha256": "242dab2d026cce46cbc09e70dfc4a12098ffe1461588fb5ab86c4bb992c393df"
+    },
+    {
+      "path": "finite_fields_2_octic.m",
+      "sha256": "1170863a5335ec087d9d3d469997a0e0685e08c5b3becdfa0ad56983fe680afd"
+    },
+    {
+      "path": "finite_fields_2_octic.log",
+      "sha256": "7d8fea2aa92eb193837f62c9dc9528d28b9e6a71d120025bcaeb4910d6856250"
+    },
+    {
+      "path": "extra_inputs/isogeny_graphs_2001.05616v3.pdf",
+      "sha256": "ceaaf3fe15cf387fb40f61a754c54c35ac9d6c8e066e9debf95a327fe66d0f7d"
+    },
+    {
+      "path": "extra_inputs/isogeny_graphs_2001.05616v3.txt",
+      "sha256": "1234f4e7000b2c426d0b14dde7ca71937f3c7e7d89eda235bbb9bf90e42258ca"
+    },
+    {
+      "path": "../shared/mdmagma/Magma/magma.spec",
+      "sha256": "19eb16416c2febd41a09f10c2da05a5fb01db4974d3a6ce8d0b82f1256d85813"
+    }
+  ]
+}

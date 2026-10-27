@@ -1,0 +1,11 @@
+SetColumns(0);SetQuitOnError(true);SetMemoryLimit(8*10^9);tm:=Cputime();
+F<z>:=CyclotomicField(5);A<t>:=FunctionField(F);
+aa:=t^20-228*t^15+494*t^10+228*t^5+1;
+bb:=t^30+522*t^25-10005*t^20-10005*t^10-522*t^5+1;
+den:=t^5*(t^10+11*t^5-1)^5;
+assert bb^2-aa^3 eq 1728*den;
+E:=EllipticCurve([A!0,0,0,-27*aa,54*bb]);j:=-aa^3/den;
+assert jInvariant(E) eq j and Degree(j) eq 60;
+f:=DivisionPolynomial(E,5);assert Degree(f) eq 12;
+ff:=Factorization(f);assert #ff eq 12 and &and[Degree(a[1]) eq 1 and a[2] eq 1:a in ff];
+print "FULL10_KLEIN5_LINEAR_FACTORS_DONE characteristic_zero=true count12=true jdegree60=true time",Cputime(tm);quit;

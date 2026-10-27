@@ -1,0 +1,176 @@
+{
+  "group": [
+    4,
+    16
+  ],
+  "relative_degree": 4,
+  "fields": [
+    5,
+    9
+  ],
+  "cusp_group_order": 327680000,
+  "finite_J5_order": 10485760000,
+  "finite_J9_order": 10737418240000,
+  "quotient_J5_C_exponent": 2,
+  "cusp_graph_has_injective_projections": true,
+  "source_divisors": 1184,
+  "source_classes_in_C": 0,
+  "target_patterns": {
+    "cubic_plus_cusp": 120,
+    "quartic": 33
+  },
+  "matching_pairs": [
+    [
+      29,
+      [
+        1055
+      ]
+    ],
+    [
+      73,
+      [
+        290
+      ]
+    ],
+    [
+      74,
+      [
+        289
+      ]
+    ],
+    [
+      76,
+      [
+        302
+      ]
+    ],
+    [
+      80,
+      [
+        298
+      ]
+    ],
+    [
+      81,
+      [
+        301
+      ]
+    ],
+    [
+      82,
+      [
+        300
+      ]
+    ],
+    [
+      83,
+      [
+        293
+      ]
+    ],
+    [
+      84,
+      [
+        295
+      ]
+    ],
+    [
+      86,
+      [
+        299
+      ]
+    ],
+    [
+      87,
+      [
+        303
+      ]
+    ],
+    [
+      91,
+      [
+        297
+      ]
+    ],
+    [
+      92,
+      [
+        304
+      ]
+    ],
+    [
+      93,
+      [
+        296
+      ]
+    ],
+    [
+      94,
+      [
+        294
+      ]
+    ],
+    [
+      95,
+      [
+        291
+      ]
+    ],
+    [
+      96,
+      [
+        292
+      ]
+    ]
+  ],
+  "exclusion_proved": false,
+  "input_sha256": "98d215d7667a3a682572422adb2c147e1b543cc36cd58c72cf9002ccf28cb058"
+}
+M4N16_D4_DIAGONAL_INTEGER_REPLAY_DONE
+{
+  "degree": 8,
+  "excluded_group": [
+    4,
+    16
+  ],
+  "relative_degree": 4,
+  "Aut_order": 64,
+  "NC_counts_at_5": [
+    0,
+    0,
+    64,
+    160
+  ],
+  "NC_counts_at_9": [
+    0,
+    0,
+    320,
+    1808
+  ],
+  "source_divisors": 1184,
+  "target_divisors": 153,
+  "diagonal_matches": 17,
+  "refined_Hecke_matches": [
+    [
+      29,
+      [
+        1055
+      ]
+    ]
+  ],
+  "global_doubled_cusp_lift_replayed": true,
+  "RR_prime": 13,
+  "RR_dimension": 1,
+  "effective_degrees": [
+    4,
+    4
+  ],
+  "effective_multiplicities": [
+    1,
+    1
+  ],
+  "even_multiplicity_obstruction": true,
+  "remaining_candidates": 0,
+  "verification_boundary": "Independent Python checks actual integer relations, cusp graph, exhaustive support partitions, all64 orbit images, Frobenius counts, correction subsetting, exact doubled lift and parity. Exact native RR dimension/function/divisor are certified by the fresh Magma source; no independent Python RR implementation is claimed."
+}
+M4N16_D4_COMPLETE_EXCLUSION_REPLAY_DONE

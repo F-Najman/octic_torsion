@@ -1,0 +1,9 @@
+Loading "work/degree8/small_cyclic/inputs/vanhoeij_octic_input.m"
+OCTIC_TWO_ISOGENY_CERTIFIED index=2 N=34 image_point_order=17 target_invariants=[ 34 ] target_order_bound=34 exact=true time=0.010
+OCTIC_TWO_ISOGENY_CERTIFIED index=3 N=34 image_point_order=17 target_invariants=[ 34 ] target_order_bound=34 exact=true time=0.020
+OCTIC_TWO_ISOGENY_CERTIFIED index=4 N=34 image_point_order=17 target_invariants=[ 34 ] target_order_bound=34 exact=true time=0.030
+OCTIC_TWO_ISOGENY_CERTIFIED index=7 N=40 image_point_order=20 target_invariants=[ 2, 20 ] target_order_bound=40 exact=true time=0.040
+OCTIC_TWO_ISOGENY_CERTIFIED index=8 N=42 image_point_order=21 target_invariants=[ 42 ] target_order_bound=42 exact=true time=0.050
+OCTIC_TWO_ISOGENY_CERTIFIED index=9 N=42 image_point_order=21 target_invariants=[ 42 ] target_order_bound=42 exact=true time=0.060
+OCTIC_TWO_ISOGENY_CERTIFIED index=10 N=42 image_point_order=21 target_invariants=[ 42 ] target_order_bound=42 exact=true time=0.070
+OCTIC_TWO_ISOGENIES_DONE targets=7 complete=true time=0.070

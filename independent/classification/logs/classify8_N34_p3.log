@@ -1,0 +1,87 @@
+Loading "helpers8.m"
+PROGRESS [N=34 p=3] KNOWN f1, j=1728: degree 8, exact order 34; 1 distinct closed points among the 8 diamond translates; gcd of #E(k_v) at good unramified odd v [ <3, 8, 6562>, <5, 2, 34>, <7, 8, 5764802>, <11, 8, 214358882>, <13, 4, 28322>, <19, 4, 130322>, <23, 8, 78310985282>, <29, 1, 34> ] = 34 (cpu 0.280 s, wall 0.660 s)
+PROGRESS [N=34 p=3] KNOWN f2, degj=2: degree 8, exact order 34; 2 distinct closed points among the 8 diamond translates; gcd of #E(k_v) at good unramified odd v [ <7, 4, 2448>, <11, 2, 102>, <13, 4, 28900>, <19, 2, 340>, <23, 4, 279684>, <29, 2, 850>, <31, 1, 34>, <37, 4, 1871428> ] = 34 (cpu 0.500 s, wall 0.900 s)
+PROGRESS [N=34 p=3] KNOWN f3, degj=4: degree 8, exact order 34; 4 distinct closed points among the 8 diamond translates; gcd of #E(k_v) at good unramified odd v [ <3, 4, 68>, <7, 4, 2482>, <11, 2, 102>, <13, 4, 28424>, <19, 2, 340>, <23, 4, 279684>, <29, 1, 34>, <31, 2, 918> ] = 34 (cpu 0.730 s, wall 1.170 s)
+PROGRESS [N=34 p=3] genus 21 (expected 21), deg j 432 (expected 432) (cpu 9.570 s, wall 11.750 s)
+PROGRESS [N=34 p=3] P=(0,0) has exact order N over the function field (cpu 16.870 s, wall 22.300 s)
+PROGRESS [N=34 p=3] F_p cusp degrees [ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 8, 8 ]; rational orbit degrees [ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 8, 8 ]; 18 signature groups with degree sums [ 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 8, 8 ], members [
+[ 1 ],
+[ 1 ],
+[ 1 ],
+[ 1 ],
+[ 1 ],
+[ 1 ],
+[ 1 ],
+[ 1 ],
+[ 1 ],
+[ 1 ],
+[ 1 ],
+[ 1 ],
+[ 1 ],
+[ 1 ],
+[ 1 ],
+[ 1 ],
+[ 8 ],
+[ 8 ]
+] (cpu 58.700 s, wall 72.880 s)
+PROGRESS [N=34 p=3] class group [ 4, 4, 4, 8760, 1191360, 0 ], #J(F_p) = 667924070400 (cpu 259.140 s, wall 322.330 s)
+PROGRESS [N=34 p=3] H (image of rational cuspidal classes) [ 8760, 595680 ], order 5218156800; DEHMZ J_1(N)(Q) = [ 8760, 595680 ] of order 5218156800; equal orders: true; index [J(F_p):H] = 128 (cpu 259.160 s, wall 322.350 s)
+PROGRESS [N=34 p=3] noncuspidal places of degree 1: 0 (cpu 260.560 s, wall 323.750 s)
+PROGRESS [N=34 p=3] noncuspidal places of degree 2: 0 (cpu 260.560 s, wall 323.750 s)
+PROGRESS [N=34 p=3] noncuspidal places of degree 3: 0 (cpu 260.560 s, wall 323.750 s)
+PROGRESS [N=34 p=3] noncuspidal places of degree 4: 26 (cpu 260.580 s, wall 323.780 s)
+PROGRESS [N=34 p=3] noncuspidal places of degree 5: 32 (cpu 260.610 s, wall 323.810 s)
+PROGRESS [N=34 p=3] noncuspidal places of degree 6: 80 (cpu 260.690 s, wall 323.880 s)
+PROGRESS [N=34 p=3] noncuspidal places of degree 7: 256 (cpu 260.950 s, wall 324.140 s)
+PROGRESS [N=34 p=3] noncuspidal places of degree 8: 734 (cpu 261.700 s, wall 324.900 s)
+PROGRESS [N=34 p=3] NONCUSPIDAL_COUNTS [ 0, 0, 0, 26, 32, 80, 256, 734 ] (cpu 261.740 s, wall 324.930 s)
+PROGRESS [N=34 p=3] KNOWN f1, j=1728: reductions of the diamond translates: 1 distinct divisors, support degrees and multiplicities [
+[ <8, 1> ]
+] (cpu 262.810 s, wall 326.020 s)
+PROGRESS [N=34 p=3] KNOWN f2, degj=2: reductions of the diamond translates: 2 distinct divisors, support degrees and multiplicities [
+[ <4, 2> ],
+[ <4, 2> ]
+] (cpu 263.170 s, wall 326.380 s)
+PROGRESS [N=34 p=3] KNOWN f3, degj=4: reductions of the diamond translates: 4 distinct divisors, support degrees and multiplicities [
+[ <4, 1>, <4, 1> ],
+[ <4, 1>, <4, 1> ],
+[ <4, 1>, <4, 1> ],
+[ <4, 1>, <4, 1> ]
+] (cpu 263.540 s, wall 326.760 s)
+PROGRESS [N=34 p=3] known global noncuspidal-support degree-8 divisors: 7 (octic reductions 7), distinct classes 7; all in H: true (cpu 263.610 s, wall 326.830 s)
+PROGRESS [N=34 p=3] effective cuspidal divisors of degree 0: 1 (classes mod H: 1) (cpu 263.620 s, wall 326.840 s)
+PROGRESS [N=34 p=3] effective cuspidal divisors of degree 1: 16 (classes mod H: 1) (cpu 263.620 s, wall 326.840 s)
+PROGRESS [N=34 p=3] effective cuspidal divisors of degree 2: 136 (classes mod H: 1) (cpu 263.620 s, wall 326.840 s)
+PROGRESS [N=34 p=3] effective cuspidal divisors of degree 3: 816 (classes mod H: 1) (cpu 263.630 s, wall 326.850 s)
+PROGRESS [N=34 p=3] effective cuspidal divisors of degree 4: 3876 (classes mod H: 1) (cpu 263.670 s, wall 326.890 s)
+PROGRESS [N=34 p=3] effective cuspidal divisors of degree 5: 15504 (classes mod H: 1) (cpu 263.830 s, wall 327.050 s)
+PROGRESS [N=34 p=3] effective cuspidal divisors of degree 6: 54264 (classes mod H: 1) (cpu 264.410 s, wall 327.640 s)
+PROGRESS [N=34 p=3] effective cuspidal divisors of degree 7: 170544 (classes mod H: 1) (cpu 266.390 s, wall 329.630 s)
+PROGRESS [N=34 p=3] effective cuspidal divisors of degree 8: 490316 (classes mod H: 1) (cpu 278.980 s, wall 345.850 s)
+PROGRESS [N=34 p=3] ENTIRELY_CUSPIDAL degree 8: 490316 divisors, 490316 liftable classes, 490316 with class in H, 0 of these non-liftable, 0 non-liftable in H with class outside the liftable classes (cpu 289.870 s, wall 363.850 s)
+PROGRESS [N=34 p=3] classes of noncuspidal places: 100 of 1128 (cpu 290.360 s, wall 365.020 s)
+PROGRESS [N=34 p=3] classes of noncuspidal places: 200 of 1128 (cpu 290.370 s, wall 365.020 s)
+PROGRESS [N=34 p=3] classes of noncuspidal places: 300 of 1128 (cpu 290.370 s, wall 365.030 s)
+PROGRESS [N=34 p=3] classes of noncuspidal places: 400 of 1128 (cpu 290.370 s, wall 365.040 s)
+PROGRESS [N=34 p=3] classes of noncuspidal places: 500 of 1128 (cpu 290.380 s, wall 365.050 s)
+PROGRESS [N=34 p=3] classes of noncuspidal places: 600 of 1128 (cpu 290.380 s, wall 365.050 s)
+PROGRESS [N=34 p=3] classes of noncuspidal places: 700 of 1128 (cpu 290.380 s, wall 365.060 s)
+PROGRESS [N=34 p=3] classes of noncuspidal places: 800 of 1128 (cpu 290.390 s, wall 365.070 s)
+PROGRESS [N=34 p=3] classes of noncuspidal places: 900 of 1128 (cpu 290.390 s, wall 365.080 s)
+PROGRESS [N=34 p=3] classes of noncuspidal places: 1000 of 1128 (cpu 290.390 s, wall 365.080 s)
+PROGRESS [N=34 p=3] classes of noncuspidal places: 1100 of 1128 (cpu 290.400 s, wall 365.090 s)
+PROGRESS [N=34 p=3] classes of all 1128 noncuspidal places computed (cpu 290.510 s, wall 365.320 s)
+PROGRESS [N=34 p=3] noncuspidal parts of degree <= 8: 1479 (cpu 290.920 s, wall 366.180 s)
+PROGRESS [N=34 p=3] TEST noncuspidal type [ 4 ]: 100776 divisors tested, 0 with class in H (cpu 291.420 s, wall 366.970 s)
+PROGRESS [N=34 p=3] TEST noncuspidal type [ 4, 4 ]: 351 divisors tested, 6 with class in H (cpu 291.420 s, wall 366.970 s)
+PROGRESS [N=34 p=3] TEST noncuspidal type [ 5 ]: 26112 divisors tested, 0 with class in H (cpu 291.420 s, wall 366.970 s)
+PROGRESS [N=34 p=3] TEST noncuspidal type [ 6 ]: 10880 divisors tested, 0 with class in H (cpu 291.420 s, wall 366.970 s)
+PROGRESS [N=34 p=3] TEST noncuspidal type [ 7 ]: 4096 divisors tested, 0 with class in H (cpu 291.420 s, wall 366.970 s)
+PROGRESS [N=34 p=3] TEST noncuspidal type [ 8 ]: 734 divisors tested, 1 with class in H (cpu 291.420 s, wall 366.970 s)
+PROGRESS [N=34 p=3] SURVIVORS: 7 divisors (noncuspidal support types {*
+[ 4, 4 ]^^6,
+[ 8 ]
+*}), 7 distinct classes; every survivor class is the reduction class of a known global effective degree-8 divisor: true (cpu 292.110 s, wall 368.000 s)
+PROGRESS [N=34 p=3] survivor classes equal to classes of reductions of known octic translates: 7 of 7 known octic classes; survivors equal (as divisors) to a known octic reduction: 7 (cpu 292.340 s, wall 368.280 s)
+PROGRESS [N=34 p=3] CONCLUSION N=34: injective=true, bad entirely-cuspidal=0, unexplained survivors=0 (cpu 292.470 s, wall 368.410 s)
+CLASSIFY8_DONE N=34 p=3 (cpu 292.580 s)

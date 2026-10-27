@@ -1,0 +1,25 @@
+N51_EXHAUSTIVE_CURVES 1 twists 5 orders_divisible51 {}
+groups {}
+curves_with_order51_point 0 0.000
+N51_EXHAUSTIVE_CURVES 2 twists 13 orders_divisible51 {}
+groups {}
+curves_with_order51_point 0 0.000
+N51_EXHAUSTIVE_CURVES 3 twists 17 orders_divisible51 {}
+groups {}
+curves_with_order51_point 0 0.000
+N51_EXHAUSTIVE_CURVES 4 twists 37 orders_divisible51 {}
+groups {}
+curves_with_order51_point 0 0.000
+N51_EXHAUSTIVE_CURVES 5 twists 65 orders_divisible51 {}
+groups {}
+curves_with_order51_point 0 0.000
+N51_EXHAUSTIVE_CURVES 6 twists 133 orders_divisible51 {}
+groups {}
+curves_with_order51_point 0 0.010
+N51_EXHAUSTIVE_CURVES 7 twists 257 orders_divisible51 {}
+groups {}
+curves_with_order51_point 0 0.030
+N51_EXHAUSTIVE_CURVES 8 twists 517 orders_divisible51 {}
+groups {}
+curves_with_order51_point 0 0.100
+N51_INDEPENDENT_CURVE_ENUMERATION_DONE

@@ -1,0 +1,16 @@
+{
+  "degree": 8,
+  "group": [
+    10,
+    10
+  ],
+  "relative_degree": 2,
+  "source_places": 150,
+  "target_places": 810,
+  "cusp_group_order": 7873200000000,
+  "source_quotient_order": 81,
+  "cusp_transport_kernels_equal": true,
+  "multiplier": 3,
+  "matches": 0,
+  "arithmetic_sha256": "fe0c06a2326c5f97428f99fa2c65b00484ad4055e85d23bdc09f198dd69a44ca"
+}

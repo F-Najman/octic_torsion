@@ -1,0 +1,6 @@
+FIELD q=5 e=1 orbits=5 cputime=0.000
+FIELD q=5 e=2 orbits=15 cputime=0.010
+FIELD q=5 e=3 orbits=45 cputime=0.030
+FIELD q=5 e=4 orbits=165 cputime=0.180
+FIELD q=5 e=5 orbits=629 cputime=2.150
+FIELD q=5 e=6 orbits=2635 cputime=5.770

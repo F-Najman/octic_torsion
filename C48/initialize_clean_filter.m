@@ -1,0 +1,25 @@
+/* Run only in a NEW target-group session after fixed integer data is verified. */
+assert FR`cld`proven and Genus(Y) eq 13;
+assert Invariants(HQ) eq [2,4,4,120,240];
+Attach("common/fast_hecke.m");
+Attach("common/fast_hecke_11.m");
+Attach("common/fast_diamond_hash_m2.m");
+load "C48/two_isogeny_48_to_2_24.m";
+load "common/pair_place_linear.m";
+load "C48/load_fixed_source_inputs.m";
+load "common/class_group_direct_RR_checked_v4.m";
+Grr48,_,phiRR48,RRwitness48:=MDClassGroupDirectRRCheckedV4(F0,"C48/data/clean_run/lower_RR_identities.log");
+assert Grr48 cmpeq G;
+assert [phiRR48(FunctionFieldDivisor(Divisor(c)-Degree(c)*Divisor(c0))):c in cs] eq cuspclasses;
+load "C48/target_class_from_bc.m";
+load "C48/export_target_factorbase_geometry.m";
+proof48:=Open("C48/data/clean_run/proven_relation_state.py","w");
+fprintf proof48,"proven = True\norder = 4246732800\nabstract_relations = %o\n",[Eltseq(r):r in Rows(RelationMatrix(G))];
+fprintf proof48,"raw_relations = %o\n",[Eltseq(r):r in FR`cld`rels];
+fprintf proof48,"raw_factorbase_degrees = %o\n",[Degree(v`place):v in FR`cld`fb];
+fprintf proof48,"generator_factorbase_degrees = %o\n",Reverse([Degree(v`place):v in FR`cld`fb]);
+fprintf proof48,"factorbase_images = %o\n",[Eltseq(FR`cld`ZnToCl(Domain(FR`cld`ZnToCl).i)):i in [1..Ngens(Domain(FR`cld`ZnToCl))]];
+delete proof48;
+load "C48/filter_lower_supports_clean.m";
+fprintf RRwitness48,"]\n";delete RRwitness48;
+print "C48_CLEAN_LOW_FILTER_FINISHED_PROVEN_STATE_RETAINED";

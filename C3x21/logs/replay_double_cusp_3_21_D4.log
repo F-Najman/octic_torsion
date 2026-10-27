@@ -1,0 +1,20 @@
+{
+  "degree": 8,
+  "group": [
+    3,
+    21
+  ],
+  "relative_degree": 4,
+  "finite_field": 4,
+  "genus": 25,
+  "local_constraint_matrices": 104,
+  "cusp_divisors_tested": 17742,
+  "RR_dimensions": {
+    "1": 17742
+  },
+  "exceptions": 0,
+  "independent_GF4_exhaustive_replay": true,
+  "method": "Hensel completion",
+  "arithmetic_sha256": "abf415a15a8565829b676c67897133dc7ca99e9e1d02a6bf5f3585b0e987899c"
+}
+M3N21_D4_DOUBLE_CUSP_INDEPENDENT_REPLAY_DONE

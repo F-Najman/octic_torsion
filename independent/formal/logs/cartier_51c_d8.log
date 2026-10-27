@@ -1,0 +1,18 @@
+Loading "formal_common.m"
+CASE 51c  d = 8  Magma 2
+factors of x(8P)-x(9P): [ <1, 1>, <10, 1> ]
+factor of bidegree (5,7): genus 5
+psi_3 degree 4 irreducible true
+minimal polynomial of y(P3) over X1(17): degree 8, irreducible true
+minimal polynomial of y(P3) over F2(x1): degree 56, max x1-degree of coefficients 184
+irreducible over F2(x1): true  (0.320 s)
+gcd of gg(S) and M(S,y3) over F has degree 1
+
+Current total memory usage: 19048.1MB, failed memory request: 32.0MB
+System Error: User memory limit has been reached
+
+In file "cartier_51c_d8.m", line 92, column 69:
+>> Say(pf, Sprintf("GENUS %o (claimed %o)  constant field %o  (%o s)", g, expe
+                                                                       ^
+Runtime error: Variable 'g' has not been initialized
+

@@ -1,0 +1,3 @@
+C230_QUARTIC_INTEGER_PASS tests=960 quotient_index=4352
+C230_QUARTIC_ALLCUSPS_COVERAGE_PASS divisors=3880 dimension=1
+C230_FINAL_INTEGER_PASS sources=18 maps=54 targets=9 remaining=0

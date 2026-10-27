@@ -1,0 +1,5 @@
+group aut2 for X1(2,32): 32 transformations (before identification of -1)
+ORBMN X1(2,32) over F_3, degree 6, group aut2: 192 closed points, 8 orbits, sizes {* 16^^4, 32^^4 *}
+ORBMN X1(2,32) over F_3, degree 7, group aut2: 320 closed points, 10 orbits, sizes {* 32^^10 *}
+ORBMN X1(2,32) over F_3, degree 8, group aut2: 960 closed points, 32 orbits, sizes {* 16^^4, 32^^28 *}
+ORBITSMN_DONE

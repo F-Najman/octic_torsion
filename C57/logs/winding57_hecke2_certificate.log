@@ -1,0 +1,9 @@
+OCTIC57_WINDING order=1 conductor=1 relative_dim=5 winding_dim=4 coefficient_degree=1 time=0.060
+OCTIC57_POSITIVE_UPPER_T2_EXACTLY_MINUS2 [ -2 ]
+OCTIC57_WINDING order=18 conductor=57 relative_dim=5 winding_dim=5 coefficient_degree=6 time=0.070
+OCTIC57_WINDING order=9 conductor=19 relative_dim=5 winding_dim=5 coefficient_degree=6 time=0.080
+OCTIC57_WINDING order=6 conductor=57 relative_dim=4 winding_dim=4 coefficient_degree=2 time=0.090
+OCTIC57_WINDING order=3 conductor=19 relative_dim=4 winding_dim=4 coefficient_degree=2 time=0.090
+OCTIC57_WINDING order=2 conductor=57 relative_dim=4 winding_dim=4 coefficient_degree=1 time=0.100
+OCTIC57_FINITE_IMAGE_T2_PLUS2_AND_DIAMONDS_CERTIFIED 85 [ 1 ]
+0.100

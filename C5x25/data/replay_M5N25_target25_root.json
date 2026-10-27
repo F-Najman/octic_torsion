@@ -1,0 +1,30 @@
+{
+  "complete": true,
+  "independent_full_ordinary_j_twist_scan": true,
+  "qualifying_twists": 4,
+  "all_quadratic_places": 100,
+  "diamond_orbits": 12,
+  "orbit_sizes": [
+    10,
+    10,
+    10,
+    10,
+    5,
+    5,
+    10,
+    5,
+    10,
+    10,
+    10,
+    5
+  ],
+  "native_nonprincipal_hecke_tests": 12,
+  "cusp_divisors_with_h0_one": 171,
+  "rank_twist_support_checked": true,
+  "split11_order_odd": true,
+  "inputs": {
+    "M5N25_target25_good_arithmetic_root.txt": "10ff874bfa55ebb697c66cdeb73df10864a16504c8f22506965bb878b44aa049",
+    "M5N25_target25_cusp_spaces_root.txt": "cfbd912d4ccded5cb4e94d689d3ba70fcb211c0168aa89d69e7aca26fe2d4257",
+    "rank_J25_Qzeta5_root.log": "acd43c3b72f66b08aa200f8703b23e13384fb7e27d2e222847cacb0f80dbded7"
+  }
+}

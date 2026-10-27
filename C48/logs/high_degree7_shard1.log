@@ -1,0 +1,5 @@
+C48_D7_HEC_START source_index=1102 q=13 master_sha=a95927262796020825fa2064678a536f75013a1081427e02115a789b8790d580
+C48_D7_ISOGENIES source_index=1102 orbits=1 time=2.830
+C48_D7_IMAGE source_index=1102 kernel_orbit=14 image_degree=98 time=11.770
+C48_D7_PRINCIPALITY_START source_index=1102 time=12.810
+C48_D7_HEC_DONE source_index=1102 q=13 principal=false complete=true time=39.970

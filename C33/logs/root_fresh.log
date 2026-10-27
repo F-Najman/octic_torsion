@@ -1,0 +1,21 @@
+C33_D8_FROBENIUS_ORDER order=635604750 time=0.530
+C33_D8_MODEL_READY genus=21 Q_cusp_orbits=17 finite_cusps=18 time=11.970
+C33_D8_GROUP_READY invariants=[ 15, 42373650, 0 ] rational_image=[ 5, 42373650 ] time=242.940
+C33_D8_COUNTS_VERIFIED noncuspidal=[ 0, 0, 0, 0, 2, 20, 30, 25 ] all_places=[ 10, 5, 0, 0, 4, 20, 30, 25 ] time=244.550
+C33_D8_KNOWN_CLASSES septic_plus_cusp=100 octic_orbit=5 octic_classes=5 time=244.650
+C33_D8_Q_EFFECTIVE divisors=62055 classes=62055 time=244.760
+C33_D8_ALL_CUSPS divisors=62595 classes=62595 time=244.870
+C33_D8_COMPLEMENTS degree=0 divisors=1 classes=1
+C33_D8_COMPLEMENTS degree=1 divisors=10 classes=10
+C33_D8_COMPLEMENTS degree=2 divisors=60 classes=60
+C33_D8_COMPLEMENTS degree=3 divisors=270 classes=270
+C33_D8_TEST_TYPE noncuspidal_degree=0 total=62595 in_rational_image=62055 rational_effective=62055 candidates=0 time=245.200
+C33_D8_TEST_TYPE noncuspidal_degree=5 total=540 in_rational_image=0 rational_effective=0 candidates=0 time=245.210
+C33_D8_TYPE_PROGRESS degree=6 place=20/20 time=245.210
+C33_D8_TEST_TYPE noncuspidal_degree=6 total=1200 in_rational_image=0 rational_effective=0 candidates=0 time=245.210
+C33_D8_TYPE_PROGRESS degree=7 place=20/30 time=245.210
+C33_D8_TEST_TYPE noncuspidal_degree=7 total=300 in_rational_image=100 rational_effective=0 candidates=100 time=245.210
+C33_D8_TYPE_PROGRESS degree=8 place=20/25 time=245.210
+C33_D8_TEST_TYPE noncuspidal_degree=8 total=25 in_rational_image=5 rational_effective=0 candidates=105 time=245.210
+C33_OCTIC_CLASSIFICATION_DONE candidates=105 septic_plus_cusp=100 octic_classes=5 unknown=0 complete=true time=245.220
+C33_D8_TYPE_COUNTS [ <0, 62595, 62055, 62055>, <5, 540, 0, 0>, <6, 1200, 0, 0>, <7, 300, 100, 0>, <8, 25, 5, 0> ]

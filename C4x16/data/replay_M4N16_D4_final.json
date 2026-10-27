@@ -1,0 +1,46 @@
+{
+  "degree": 8,
+  "excluded_group": [
+    4,
+    16
+  ],
+  "relative_degree": 4,
+  "Aut_order": 64,
+  "NC_counts_at_5": [
+    0,
+    0,
+    64,
+    160
+  ],
+  "NC_counts_at_9": [
+    0,
+    0,
+    320,
+    1808
+  ],
+  "source_divisors": 1184,
+  "target_divisors": 153,
+  "diagonal_matches": 17,
+  "refined_Hecke_matches": [
+    [
+      29,
+      [
+        1055
+      ]
+    ]
+  ],
+  "global_doubled_cusp_lift_replayed": true,
+  "RR_prime": 13,
+  "RR_dimension": 1,
+  "effective_degrees": [
+    4,
+    4
+  ],
+  "effective_multiplicities": [
+    1,
+    1
+  ],
+  "even_multiplicity_obstruction": true,
+  "remaining_candidates": 0,
+  "verification_boundary": "Independent Python checks actual integer relations, cusp graph, exhaustive support partitions, all64 orbit images, Frobenius counts, correction subsetting, exact doubled lift and parity. Exact native RR dimension/function/divisor are certified by the fresh Magma source; no independent Python RR implementation is claimed."
+}

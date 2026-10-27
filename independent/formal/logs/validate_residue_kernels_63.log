@@ -1,0 +1,161 @@
+Loading "formal_common.m"
+case 63 genus 49 cusp degrees [ 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3, 3, 3, 6 ]
+EXPKERNEL cusp 1 deg 3 mmax 2 codims [ 3, 6 ] [23.100 s, total 60.810 s]
+EXPKERNEL cusp 2 deg 1 mmax 8 codims [ 1, 2, 3, 4, 5, 6, 7, 8 ] [2.770 s, total 63.580 s]
+EXPKERNEL cusp 3 deg 1 mmax 8 codims [ 1, 2, 3, 4, 5, 6, 7, 8 ] [3.720 s, total 67.300 s]
+EXPKERNEL cusp 4 deg 1 mmax 8 codims [ 1, 2, 3, 4, 5, 6, 7, 8 ] [3.680 s, total 70.980 s]
+x_ser_val, n, v, e = 0, 155, 49, 1
+val_den_bound = 155
+x_ser_val, n, v, e = 0, 155, 49, 1
+val_den_bound = 155
+EXPKERNEL cusp 5 deg 3 mmax 2 codims [ 3, 6 ] [8.280 s, total 79.260 s]
+x_ser_val, n, v, e = 0, 211, 49, 7
+val_den_bound = 1477
+EXPKERNEL cusp 6 deg 1 mmax 8 codims [ 1, 2, 3, 4, 5, 6, 7, 8 ] [5.830 s, total 85.090 s]
+x_ser_val, n, v, e = 0, 211, 49, 7
+val_den_bound = 1477
+EXPKERNEL cusp 7 deg 1 mmax 8 codims [ 1, 2, 3, 4, 5, 6, 7, 8 ] [8.220 s, total 93.310 s]
+x_ser_val, n, v, e = 0, 208, 49, 7
+val_den_bound = 1456
+EXPKERNEL cusp 8 deg 1 mmax 8 codims [ 1, 2, 3, 4, 5, 6, 7, 8 ] [11.060 s, total 104.370 s]
+x_ser_val, n, v, e = 0, 144, 48, 1
+val_den_bound = 144
+EXPKERNEL cusp 9 deg 6 mmax 1 codims [ 6 ] [14.400 s, total 118.770 s]
+x_ser_val, n, v, e = 0, 144, 48, 7
+val_den_bound = 1008
+EXPKERNEL cusp 10 deg 2 mmax 4 codims [ 2, 4, 6, 8 ] [11.630 s, total 130.400 s]
+x_ser_val, n, v, e = 0, 144, 48, 7
+val_den_bound = 1008
+EXPKERNEL cusp 11 deg 2 mmax 4 codims [ 2, 4, 6, 8 ] [21.500 s, total 151.900 s]
+x_ser_val, n, v, e = 0, 144, 48, 7
+val_den_bound = 1008
+EXPKERNEL cusp 12 deg 2 mmax 4 codims [ 2, 4, 6, 8 ] [14.770 s, total 166.670 s]
+x_ser_val, n, v, e = 0, 144, 48, 1
+val_den_bound = 144
+EXPKERNEL cusp 13 deg 3 mmax 2 codims [ 3, 6 ] [31.300 s, total 197.970 s]
+x_ser_val, n, v, e = 0, 144, 48, 1
+val_den_bound = 144
+EXPKERNEL cusp 14 deg 3 mmax 2 codims [ 3, 6 ] [28.410 s, total 226.380 s]
+x_ser_val, n, v, e = 0, 144, 48, 1
+val_den_bound = 144
+EXPKERNEL cusp 15 deg 3 mmax 2 codims [ 3, 6 ] [29.170 s, total 255.550 s]
+x_ser_val, n, v, e = 0, 155, 49, 7
+val_den_bound = 1085
+EXPKERNEL cusp 16 deg 3 mmax 2 codims [ 3, 6 ] [30.630 s, total 286.180 s]
+x_ser_val, n, v, e = 0, 155, 49, 7
+val_den_bound = 1085
+EXPKERNEL cusp 17 deg 3 mmax 2 codims [ 3, 6 ] [30.710 s, total 316.890 s]
+x_ser_val, n, v, e = 0, 155, 49, 7
+val_den_bound = 1085
+EXPKERNEL cusp 18 deg 3 mmax 2 codims [ 3, 6 ] [27.520 s, total 344.410 s]
+EXPKERNEL cusp 19 deg 3 mmax 2 codims [ 3, 6 ] [307.130 s, total 651.540 s]
+EXPKERNEL cusp 20 deg 1 mmax 8 codims [ 1, 2, 3, 4, 5, 6, 7, 8 ] [13.990 s, total 665.530 s]
+EXPKERNEL cusp 21 deg 1 mmax 8 codims [ 1, 2, 3, 4, 5, 6, 7, 8 ] [53.210 s, total 718.740 s]
+EXPKERNEL cusp 22 deg 1 mmax 8 codims [ 1, 2, 3, 4, 5, 6, 7, 8 ] [113.430 s, total 832.170 s]
+expansion kernels: 103 spaces in 794.580 s
+KERNEL cusp 1 deg 3 m 1 dim 46 (codim 3) [13.380 s, total 845.650 s]
+KERNEL cusp 1 deg 3 m 2 dim 43 (codim 6) [3.220 s, total 848.870 s]
+KERNEL cusp 2 deg 1 m 1 dim 48 (codim 1) [0.960 s, total 849.830 s]
+KERNEL cusp 2 deg 1 m 2 dim 47 (codim 2) [2.000 s, total 851.830 s]
+KERNEL cusp 2 deg 1 m 3 dim 46 (codim 3) [2.920 s, total 854.750 s]
+KERNEL cusp 2 deg 1 m 4 dim 45 (codim 4) [2.450 s, total 857.200 s]
+KERNEL cusp 2 deg 1 m 5 dim 44 (codim 5) [4.030 s, total 861.230 s]
+KERNEL cusp 2 deg 1 m 6 dim 43 (codim 6) [4.700 s, total 865.930 s]
+KERNEL cusp 2 deg 1 m 7 dim 42 (codim 7) [4.060 s, total 869.990 s]
+KERNEL cusp 2 deg 1 m 8 dim 41 (codim 8) [4.540 s, total 874.530 s]
+KERNEL cusp 3 deg 1 m 1 dim 48 (codim 1) [1.680 s, total 876.210 s]
+KERNEL cusp 3 deg 1 m 2 dim 47 (codim 2) [2.440 s, total 878.650 s]
+KERNEL cusp 3 deg 1 m 3 dim 46 (codim 3) [2.240 s, total 880.890 s]
+KERNEL cusp 3 deg 1 m 4 dim 45 (codim 4) [3.380 s, total 884.270 s]
+KERNEL cusp 3 deg 1 m 5 dim 44 (codim 5) [3.450 s, total 887.720 s]
+KERNEL cusp 3 deg 1 m 6 dim 43 (codim 6) [2.840 s, total 890.560 s]
+KERNEL cusp 3 deg 1 m 7 dim 42 (codim 7) [3.690 s, total 894.250 s]
+KERNEL cusp 3 deg 1 m 8 dim 41 (codim 8) [3.380 s, total 897.630 s]
+KERNEL cusp 4 deg 1 m 1 dim 48 (codim 1) [1.020 s, total 898.650 s]
+KERNEL cusp 4 deg 1 m 2 dim 47 (codim 2) [2.540 s, total 901.190 s]
+KERNEL cusp 4 deg 1 m 3 dim 46 (codim 3) [3.130 s, total 904.320 s]
+KERNEL cusp 4 deg 1 m 4 dim 45 (codim 4) [2.860 s, total 907.180 s]
+KERNEL cusp 4 deg 1 m 5 dim 44 (codim 5) [3.760 s, total 910.940 s]
+KERNEL cusp 4 deg 1 m 6 dim 43 (codim 6) [3.230 s, total 914.170 s]
+KERNEL cusp 4 deg 1 m 7 dim 42 (codim 7) [2.870 s, total 917.040 s]
+KERNEL cusp 4 deg 1 m 8 dim 41 (codim 8) [4.810 s, total 921.850 s]
+KERNEL cusp 5 deg 3 m 1 dim 46 (codim 3) [1.100 s, total 922.950 s]
+KERNEL cusp 5 deg 3 m 2 dim 43 (codim 6) [2.370 s, total 925.320 s]
+KERNEL cusp 6 deg 1 m 1 dim 48 (codim 1) [1.310 s, total 926.630 s]
+KERNEL cusp 6 deg 1 m 2 dim 47 (codim 2) [2.640 s, total 929.270 s]
+KERNEL cusp 6 deg 1 m 3 dim 46 (codim 3) [3.560 s, total 932.830 s]
+KERNEL cusp 6 deg 1 m 4 dim 45 (codim 4) [2.960 s, total 935.790 s]
+KERNEL cusp 6 deg 1 m 5 dim 44 (codim 5) [3.300 s, total 939.090 s]
+KERNEL cusp 6 deg 1 m 6 dim 43 (codim 6) [2.980 s, total 942.070 s]
+KERNEL cusp 6 deg 1 m 7 dim 42 (codim 7) [3.740 s, total 945.810 s]
+KERNEL cusp 6 deg 1 m 8 dim 41 (codim 8) [3.550 s, total 949.360 s]
+KERNEL cusp 7 deg 1 m 1 dim 48 (codim 1) [1.290 s, total 950.650 s]
+KERNEL cusp 7 deg 1 m 2 dim 47 (codim 2) [1.750 s, total 952.400 s]
+KERNEL cusp 7 deg 1 m 3 dim 46 (codim 3) [2.360 s, total 954.760 s]
+KERNEL cusp 7 deg 1 m 4 dim 45 (codim 4) [4.030 s, total 958.790 s]
+KERNEL cusp 7 deg 1 m 5 dim 44 (codim 5) [3.910 s, total 962.700 s]
+KERNEL cusp 7 deg 1 m 6 dim 43 (codim 6) [3.360 s, total 966.060 s]
+KERNEL cusp 7 deg 1 m 7 dim 42 (codim 7) [2.960 s, total 969.020 s]
+KERNEL cusp 7 deg 1 m 8 dim 41 (codim 8) [4.360 s, total 973.380 s]
+KERNEL cusp 8 deg 1 m 1 dim 48 (codim 1) [1.270 s, total 974.650 s]
+KERNEL cusp 8 deg 1 m 2 dim 47 (codim 2) [2.400 s, total 977.050 s]
+KERNEL cusp 8 deg 1 m 3 dim 46 (codim 3) [3.260 s, total 980.310 s]
+KERNEL cusp 8 deg 1 m 4 dim 45 (codim 4) [2.270 s, total 982.580 s]
+KERNEL cusp 8 deg 1 m 5 dim 44 (codim 5) [3.000 s, total 985.580 s]
+KERNEL cusp 8 deg 1 m 6 dim 43 (codim 6) [3.140 s, total 988.720 s]
+KERNEL cusp 8 deg 1 m 7 dim 42 (codim 7) [3.830 s, total 992.550 s]
+KERNEL cusp 8 deg 1 m 8 dim 41 (codim 8) [4.300 s, total 996.850 s]
+KERNEL cusp 9 deg 6 m 1 dim 43 (codim 6) [1.740 s, total 998.590 s]
+KERNEL cusp 10 deg 2 m 1 dim 47 (codim 2) [1.610 s, total 1000.200 s]
+KERNEL cusp 10 deg 2 m 2 dim 45 (codim 4) [1.780 s, total 1001.980 s]
+KERNEL cusp 10 deg 2 m 3 dim 43 (codim 6) [2.130 s, total 1004.110 s]
+KERNEL cusp 10 deg 2 m 4 dim 41 (codim 8) [2.810 s, total 1006.920 s]
+KERNEL cusp 11 deg 2 m 1 dim 47 (codim 2) [1.630 s, total 1008.550 s]
+KERNEL cusp 11 deg 2 m 2 dim 45 (codim 4) [1.670 s, total 1010.220 s]
+KERNEL cusp 11 deg 2 m 3 dim 43 (codim 6) [2.090 s, total 1012.310 s]
+KERNEL cusp 11 deg 2 m 4 dim 41 (codim 8) [2.690 s, total 1015.000 s]
+KERNEL cusp 12 deg 2 m 1 dim 47 (codim 2) [1.980 s, total 1016.980 s]
+KERNEL cusp 12 deg 2 m 2 dim 45 (codim 4) [1.890 s, total 1018.870 s]
+KERNEL cusp 12 deg 2 m 3 dim 43 (codim 6) [2.050 s, total 1020.920 s]
+KERNEL cusp 12 deg 2 m 4 dim 41 (codim 8) [2.500 s, total 1023.420 s]
+KERNEL cusp 13 deg 3 m 1 dim 46 (codim 3) [1.990 s, total 1025.410 s]
+KERNEL cusp 13 deg 3 m 2 dim 43 (codim 6) [2.260 s, total 1027.670 s]
+KERNEL cusp 14 deg 3 m 1 dim 46 (codim 3) [1.960 s, total 1029.630 s]
+KERNEL cusp 14 deg 3 m 2 dim 43 (codim 6) [2.450 s, total 1032.080 s]
+KERNEL cusp 15 deg 3 m 1 dim 46 (codim 3) [1.950 s, total 1034.030 s]
+KERNEL cusp 15 deg 3 m 2 dim 43 (codim 6) [2.210 s, total 1036.240 s]
+KERNEL cusp 16 deg 3 m 1 dim 46 (codim 3) [1.910 s, total 1038.150 s]
+KERNEL cusp 16 deg 3 m 2 dim 43 (codim 6) [2.120 s, total 1040.270 s]
+KERNEL cusp 17 deg 3 m 1 dim 46 (codim 3) [1.830 s, total 1042.100 s]
+KERNEL cusp 17 deg 3 m 2 dim 43 (codim 6) [2.510 s, total 1044.610 s]
+KERNEL cusp 18 deg 3 m 1 dim 46 (codim 3) [1.820 s, total 1046.430 s]
+KERNEL cusp 18 deg 3 m 2 dim 43 (codim 6) [2.350 s, total 1048.780 s]
+KERNEL cusp 19 deg 3 m 1 dim 46 (codim 3) [2.080 s, total 1050.860 s]
+KERNEL cusp 19 deg 3 m 2 dim 43 (codim 6) [9.490 s, total 1060.350 s]
+KERNEL cusp 20 deg 1 m 1 dim 48 (codim 1) [1.390 s, total 1061.740 s]
+KERNEL cusp 20 deg 1 m 2 dim 47 (codim 2) [11.200 s, total 1072.940 s]
+KERNEL cusp 20 deg 1 m 3 dim 46 (codim 3) [14.200 s, total 1087.140 s]
+KERNEL cusp 20 deg 1 m 4 dim 45 (codim 4) [21.190 s, total 1108.330 s]
+KERNEL cusp 20 deg 1 m 5 dim 44 (codim 5) [29.040 s, total 1137.370 s]
+KERNEL cusp 20 deg 1 m 6 dim 43 (codim 6) [6.310 s, total 1143.680 s]
+KERNEL cusp 20 deg 1 m 7 dim 42 (codim 7) [40.310 s, total 1183.990 s]
+KERNEL cusp 20 deg 1 m 8 dim 41 (codim 8) [40.760 s, total 1224.750 s]
+KERNEL cusp 21 deg 1 m 1 dim 48 (codim 1) [2.140 s, total 1226.890 s]
+KERNEL cusp 21 deg 1 m 2 dim 47 (codim 2) [12.610 s, total 1239.500 s]
+KERNEL cusp 21 deg 1 m 3 dim 46 (codim 3) [12.580 s, total 1252.080 s]
+KERNEL cusp 21 deg 1 m 4 dim 45 (codim 4) [18.830 s, total 1270.910 s]
+KERNEL cusp 21 deg 1 m 5 dim 44 (codim 5) [23.050 s, total 1293.960 s]
+KERNEL cusp 21 deg 1 m 6 dim 43 (codim 6) [54.990 s, total 1348.950 s]
+KERNEL cusp 21 deg 1 m 7 dim 42 (codim 7) [30.570 s, total 1379.520 s]
+KERNEL cusp 21 deg 1 m 8 dim 41 (codim 8) [56.210 s, total 1435.730 s]
+KERNEL cusp 22 deg 1 m 1 dim 48 (codim 1) [3.260 s, total 1438.990 s]
+KERNEL cusp 22 deg 1 m 2 dim 47 (codim 2) [11.610 s, total 1450.600 s]
+KERNEL cusp 22 deg 1 m 3 dim 46 (codim 3) [20.430 s, total 1471.040 s]
+KERNEL cusp 22 deg 1 m 4 dim 45 (codim 4) [12.350 s, total 1483.390 s]
+KERNEL cusp 22 deg 1 m 5 dim 44 (codim 5) [27.940 s, total 1511.330 s]
+KERNEL cusp 22 deg 1 m 6 dim 43 (codim 6) [41.120 s, total 1552.450 s]
+KERNEL cusp 22 deg 1 m 7 dim 42 (codim 7) [25.760 s, total 1578.210 s]
+KERNEL cusp 22 deg 1 m 8 dim 41 (codim 8) [36.450 s, total 1614.660 s]
+Riemann-Roch kernels: 103 spaces in 782.540 s
+RESULT case 63: expansion and Riemann-Roch kernel spaces agree in 103 of 103 cases
+VALIDATE_DONE case 63 (1614.810 s)

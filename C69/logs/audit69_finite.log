@@ -1,0 +1,9 @@
+INDEPENDENT69_FINITE_FIELD e=1 qualifying_curves=0
+INDEPENDENT69_FINITE_FIELD e=2 qualifying_curves=0
+INDEPENDENT69_FINITE_FIELD e=3 qualifying_curves=0
+INDEPENDENT69_FINITE_FIELD e=4 qualifying_curves=0
+INDEPENDENT69_FINITE_FIELD e=5 qualifying_curves=0
+INDEPENDENT69_FINITE_FIELD e=6 qualifying_curves=0
+INDEPENDENT69_FINITE_FIELD e=7 qualifying_curves=21
+INDEPENDENT69_FINITE_FIELD e=8 qualifying_curves=16
+INDEPENDENT69_FINITE_DONE counts=[ 0, 0, 0, 0, 0, 0, 21, 16 ] cyclic_groups=true j_fields_exact=true time=0.190

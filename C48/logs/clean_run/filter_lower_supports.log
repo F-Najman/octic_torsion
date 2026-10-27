@@ -1,0 +1,29 @@
+C48_LOW_CLASSES_DONE degree=3 all=16 representatives=2 time=9.600
+C48_LOW_CLASSES_DONE degree=4 all=64 representatives=8 time=60.830
+C48_LOW_CLASSES_DONE degree=5 all=656 representatives=82 time=654.360
+C48_LOW_TYPE support=[ 3 ] tested=2 admitted=0 time=654.390
+C48_LOW_TYPE support=[ 4 ] tested=8 admitted=0 time=654.390
+C48_LOW_TYPE support=[ 5 ] tested=82 admitted=0 time=654.390
+C48_LOW_TYPE support=[ 3, 3 ] tested=32 admitted=0 time=654.390
+C48_LOW_TYPE support=[ 3, 4 ] tested=128 admitted=0 time=654.390
+C48_LOW_ADMITTED support=[ 3, 5 ] indices=[ 2, 89 ] class=[ 0, 1, 3, 3, 9, 22, 212, 172, 0 ] time=654.390
+C48_LOW_ADMITTED support=[ 3, 5 ] indices=[ 2, 96 ] class=[ 0, 1, 3, 3, 9, 22, 212, 172, 0 ] time=654.390
+C48_LOW_TYPE support=[ 3, 5 ] tested=1312 admitted=2 time=654.390
+C48_LOW_ADMITTED support=[ 4, 4 ] indices=[ 1, 3 ] class=[ 0, 1, 0, 0, 6, 18, 124, 336, 0 ] time=654.390
+C48_LOW_ADMITTED support=[ 4, 4 ] indices=[ 1, 6 ] class=[ 0, 1, 0, 0, 6, 18, 124, 336, 0 ] time=654.390
+C48_LOW_ADMITTED support=[ 4, 4 ] indices=[ 1, 25 ] class=[ 0, 1, 2, 2, 0, 10, 340, 112, 0 ] time=654.390
+C48_LOW_ADMITTED support=[ 4, 4 ] indices=[ 1, 32 ] class=[ 0, 1, 2, 2, 0, 10, 340, 112, 0 ] time=654.390
+C48_LOW_ADMITTED support=[ 4, 4 ] indices=[ 4, 1 ] class=[ 0, 1, 2, 2, 0, 10, 340, 112, 0 ] time=654.390
+C48_LOW_ADMITTED support=[ 4, 4 ] indices=[ 4, 8 ] class=[ 0, 1, 2, 2, 0, 10, 340, 112, 0 ] time=654.390
+C48_LOW_ADMITTED support=[ 4, 4 ] indices=[ 4, 27 ] class=[ 0, 1, 0, 0, 6, 18, 76, 48, 0 ] time=654.390
+C48_LOW_ADMITTED support=[ 4, 4 ] indices=[ 4, 30 ] class=[ 0, 1, 0, 0, 6, 18, 76, 48, 0 ] time=654.390
+C48_LOW_ADMITTED support=[ 4, 4 ] indices=[ 6, 43 ] class=[ 0, 1, 0, 0, 0, 18, 16, 36, 0 ] time=654.390
+C48_LOW_ADMITTED support=[ 4, 4 ] indices=[ 6, 46 ] class=[ 0, 1, 0, 0, 0, 18, 16, 36, 0 ] time=654.390
+C48_LOW_ADMITTED support=[ 4, 4 ] indices=[ 6, 52 ] class=[ 0, 1, 2, 2, 6, 2, 80, 284, 0 ] time=654.390
+C48_LOW_ADMITTED support=[ 4, 4 ] indices=[ 6, 53 ] class=[ 0, 1, 2, 2, 6, 2, 80, 284, 0 ] time=654.390
+C48_LOW_ADMITTED support=[ 4, 4 ] indices=[ 7, 44 ] class=[ 0, 1, 2, 2, 6, 10, 336, 316, 0 ] time=654.390
+C48_LOW_ADMITTED support=[ 4, 4 ] indices=[ 7, 45 ] class=[ 0, 1, 2, 2, 6, 10, 336, 316, 0 ] time=654.390
+C48_LOW_ADMITTED support=[ 4, 4 ] indices=[ 7, 51 ] class=[ 0, 1, 0, 0, 0, 18, 112, 468, 0 ] time=654.390
+C48_LOW_ADMITTED support=[ 4, 4 ] indices=[ 7, 54 ] class=[ 0, 1, 0, 0, 0, 18, 112, 468, 0 ] time=654.390
+C48_LOW_TYPE support=[ 4, 4 ] tested=512 admitted=16 time=654.390
+C48_LOW_SUPPORT_FILTER_DONE tested=2076 admitted=18 complete=true time=654.400

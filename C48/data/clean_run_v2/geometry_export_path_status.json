@@ -1,0 +1,22 @@
+{
+  "legacy_export_helper_wrote_clean_run_path": true,
+  "copied_actual_v2_geometry_to_v2": true,
+  "old_and_new_state_field_equalities": {
+    "__name__": true,
+    "__doc__": true,
+    "__package__": true,
+    "__loader__": true,
+    "__spec__": true,
+    "__file__": false,
+    "__cached__": true,
+    "__builtins__": true,
+    "proven": true,
+    "order": true,
+    "abstract_relations": true,
+    "raw_relations": false,
+    "raw_factorbase_degrees": true,
+    "generator_factorbase_degrees": true,
+    "factorbase_images": true
+  },
+  "actual_v2_map_verified": true
+}

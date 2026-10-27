@@ -1,0 +1,16 @@
+start
+genus 12, 18 rational cusps
+kernel spaces agree: true
+Riemann-Roch kernels: reduced degree-10 divisors 43758, failures (codim < 10) 2798
+  failure [ 10, 12, 13, 14, 15, 16, 17, 18, 19, 20 ]: direct h0(D) = 2, codim 9
+  failure [ 9, 12, 13, 14, 15, 16, 17, 18, 19, 20 ]: direct h0(D) = 2, codim 9
+  failure [ 9, 10, 13, 14, 15, 16, 17, 18, 19, 20 ]: direct h0(D) = 2, codim 9
+  failure [ 9, 10, 12, 14, 15, 16, 17, 18, 19, 20 ]: direct h0(D) = 2, codim 9
+  failure [ 9, 10, 12, 13, 15, 16, 17, 18, 19, 20 ]: direct h0(D) = 2, codim 9
+expansion kernels: reduced degree-10 divisors 43758, failures (codim < 10) 2798
+  failure [ 10, 12, 13, 14, 15, 16, 17, 18, 19, 20 ]: direct h0(D) = 2, codim 9
+  failure [ 9, 12, 13, 14, 15, 16, 17, 18, 19, 20 ]: direct h0(D) = 2, codim 9
+  failure [ 9, 10, 13, 14, 15, 16, 17, 18, 19, 20 ]: direct h0(D) = 2, codim 9
+  failure [ 9, 10, 12, 14, 15, 16, 17, 18, 19, 20 ]: direct h0(D) = 2, codim 9
+  failure [ 9, 10, 12, 13, 15, 16, 17, 18, 19, 20 ]: direct h0(D) = 2, codim 9
+KNOWN_POSITIVE_DONE (320.890 s)

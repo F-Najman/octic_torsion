@@ -1,0 +1,15 @@
+Loading "formal_common.m"
+factors of x(8P)-x(9P): [ <1, 1>, <10, 1> ]
+factor of bidegree (5,7): genus 5
+psi_3 degree 4 irreducible true
+minimal polynomial of x(P3) over F2(x1): degree 28, max x1-degree 54, irreducible true
+genus of X1(51)/<16> model: 33 (expected 33)  (235.700 s)
+
+Current total memory usage: 45771.7MB, failed memory request: 28.2MB
+System Error: User memory limit has been reached
+
+In file "x1_51_v3.m", line 73, column 69:
+>> Say(pf, Sprintf("GENUS %o (claimed 65)  constant field %o  (%o s)", g, Cons
+                                                                       ^
+Runtime error: Variable 'g' has not been initialized
+

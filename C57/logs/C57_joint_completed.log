@@ -1,0 +1,216 @@
+Magma V2.30-1     Thu Oct 22 2026 04:05:13 on mordell  [Seed = 1224432158]
+Type <Ctrl>-D to quit.
+
+Loading file "work/degree8/large_levels/C57_U3_explicit_fresh_v2.m"
+C57_LANG_ISOGENY_VERIFIED degree3=true cyclic3=true split_width19_origin=(1 : 1 : 1) time=0.040
+C57_CUBIC_PULLBACK_VERIFIED genus13=true exact_base_embedding=true cyclic3=true time=3.310
+C57_QUADRATIC_CHARACTER_UNIQUE invariants=[ 15, 30, 0 ] images=[ 0, 1, 1 ] widths=[ 19, 57, 1, 3 ] expected=[ 1, 0, 0, 1 ] time=17.080
+C57_GENUS25_MODEL_VERIFIED good_modular_identification_pending=true time=39.690
+C57_EXPLICIT_SMALL_MODEL_READY
+C57_AS_FROBENIUS degree=2 class=[ 2, 23, 2 ] value=1 generated=2 total=4
+C57_AS_FROBENIUS degree=6 class=[ 3, 23, 6 ] value=1 generated=2 total=4
+C57_AS_FROBENIUS degree=1 class=[ 8, 6, 1 ] value=1 generated=4 total=4
+C57_AS_CHARACTER_VERIFIED samples=3 all_Picard_mod2=true
+C57_MODULAR_GENUS25_VERIFIED
+C57_EXPLICIT_HENSEL_EMBEDDING_VERIFIED K=true cubic=true AS=true source_point=(a8 : a8^5 : 1) precision=256 time=0.020
+C57_EXPLICIT_U3_FORM_START basis=1 time=0.030
+C57_EXPLICIT_U3_FORM_DONE basis=1 precision=242 time=0.040
+C57_EXPLICIT_U3_FORM_START basis=2 time=0.040
+C57_EXPLICIT_U3_FORM_DONE basis=2 precision=241 time=0.040
+C57_EXPLICIT_U3_FORM_START basis=3 time=0.040
+C57_EXPLICIT_U3_FORM_DONE basis=3 precision=241 time=0.050
+C57_EXPLICIT_U3_FORM_START basis=4 time=0.050
+C57_EXPLICIT_U3_FORM_DONE basis=4 precision=241 time=0.050
+C57_EXPLICIT_U3_FORM_START basis=5 time=0.050
+C57_EXPLICIT_U3_FORM_DONE basis=5 precision=241 time=0.060
+C57_EXPLICIT_U3_FORM_START basis=6 time=0.060
+C57_EXPLICIT_U3_FORM_DONE basis=6 precision=241 time=0.060
+C57_EXPLICIT_U3_FORM_START basis=7 time=0.060
+C57_EXPLICIT_U3_FORM_DONE basis=7 precision=241 time=0.070
+C57_EXPLICIT_U3_FORM_START basis=8 time=0.070
+C57_EXPLICIT_U3_FORM_DONE basis=8 precision=241 time=0.070
+C57_EXPLICIT_U3_FORM_START basis=9 time=0.070
+C57_EXPLICIT_U3_FORM_DONE basis=9 precision=241 time=0.080
+C57_EXPLICIT_U3_FORM_START basis=10 time=0.080
+C57_EXPLICIT_U3_FORM_DONE basis=10 precision=241 time=0.080
+C57_EXPLICIT_U3_FORM_START basis=11 time=0.080
+C57_EXPLICIT_U3_FORM_DONE basis=11 precision=241 time=0.080
+C57_EXPLICIT_U3_FORM_START basis=12 time=0.080
+C57_EXPLICIT_U3_FORM_DONE basis=12 precision=241 time=0.090
+C57_EXPLICIT_U3_FORM_START basis=13 time=0.090
+C57_EXPLICIT_U3_FORM_DONE basis=13 precision=241 time=0.090
+C57_EXPLICIT_U3_FORM_START basis=14 time=0.090
+C57_EXPLICIT_U3_FORM_DONE basis=14 precision=253 time=0.090
+C57_EXPLICIT_U3_FORM_START basis=15 time=0.090
+C57_EXPLICIT_U3_FORM_DONE basis=15 precision=253 time=0.100
+C57_EXPLICIT_U3_FORM_START basis=16 time=0.100
+C57_EXPLICIT_U3_FORM_DONE basis=16 precision=253 time=0.100
+C57_EXPLICIT_U3_FORM_START basis=17 time=0.100
+C57_EXPLICIT_U3_FORM_DONE basis=17 precision=253 time=0.100
+C57_EXPLICIT_U3_FORM_START basis=18 time=0.100
+C57_EXPLICIT_U3_FORM_DONE basis=18 precision=253 time=0.110
+C57_EXPLICIT_U3_FORM_START basis=19 time=0.110
+C57_EXPLICIT_U3_FORM_DONE basis=19 precision=253 time=0.110
+C57_EXPLICIT_U3_FORM_START basis=20 time=0.110
+C57_EXPLICIT_U3_FORM_DONE basis=20 precision=253 time=0.110
+C57_EXPLICIT_U3_FORM_START basis=21 time=0.110
+C57_EXPLICIT_U3_FORM_DONE basis=21 precision=253 time=0.120
+C57_EXPLICIT_U3_FORM_START basis=22 time=0.120
+C57_EXPLICIT_U3_FORM_DONE basis=22 precision=253 time=0.120
+C57_EXPLICIT_U3_FORM_START basis=23 time=0.120
+C57_EXPLICIT_U3_FORM_DONE basis=23 precision=253 time=0.120
+C57_EXPLICIT_U3_FORM_START basis=24 time=0.120
+C57_EXPLICIT_U3_FORM_DONE basis=24 precision=253 time=0.120
+C57_EXPLICIT_U3_FORM_START basis=25 time=0.120
+C57_EXPLICIT_U3_FORM_DONE basis=25 precision=253 time=0.130
+C57_EXPLICIT_U3_MATRIX_VERIFIED coefficients=20 F2matrix=true Cartier_normalization=true commutesCartier=true oldU=22 extra=23 joint=23 time=0.130
+C57_EXPLICIT_U3_DONE
+Loading "work/degree8/large_levels/C57_joint_exception_test.m"
+Loading "work/degree8/large_levels/C57_cartier_kernels.m"
+FI_JET_DATA_READY
+C57_JOINT_EXCEPTION_DIAGNOSTIC_FAILED
+Runtime error in assert: Assertion failed
+Loading "work/degree8/large_levels/C57_snapshot.m"
+C57_MODEL_AND_HOLOMORPHIC_BASIS_SNAPSHOT_DONE
+Loading "work/degree8/large_levels/C57_joint_direct_exceptions.m"
+C57_JOINT_DIRECT_PATTERN source=1 quad=1 weights=<3, 1> fullrank=8 oldrank=7 jointrank=8 time=56.350
+C57_JOINT_DIRECT_PATTERN source=1 quad=1 weights=<1, 3> fullrank=8 oldrank=8 jointrank=8 time=64.840
+C57_JOINT_DIRECT_PATTERN source=1 quad=2 weights=<1, 3> fullrank=8 oldrank=7 jointrank=8 time=76.940
+C57_JOINT_DIRECT_PATTERN source=1 quad=3 weights=<1, 3> fullrank=8 oldrank=8 jointrank=8 time=90.260
+C57_JOINT_DIRECT_PATTERN source=2 quad=1 weights=<1, 3> fullrank=8 oldrank=8 jointrank=8 time=102.130
+C57_JOINT_DIRECT_PATTERN source=2 quad=2 weights=<3, 1> fullrank=8 oldrank=7 jointrank=8 time=116.210
+C57_JOINT_DIRECT_PATTERN source=2 quad=2 weights=<1, 3> fullrank=8 oldrank=8 jointrank=8 time=129.310
+C57_JOINT_DIRECT_PATTERN source=2 quad=3 weights=<1, 3> fullrank=8 oldrank=7 jointrank=8 time=143.780
+C57_JOINT_DIRECT_PATTERN source=3 quad=1 weights=<1, 3> fullrank=8 oldrank=7 jointrank=8 time=156.410
+C57_JOINT_DIRECT_PATTERN source=3 quad=2 weights=<1, 3> fullrank=8 oldrank=8 jointrank=8 time=170.520
+C57_JOINT_DIRECT_PATTERN source=3 quad=3 weights=<3, 1> fullrank=8 oldrank=7 jointrank=8 time=186.440
+C57_JOINT_DIRECT_PATTERN source=3 quad=3 weights=<1, 3> fullrank=8 oldrank=8 jointrank=8 time=201.520
+C57_JOINT_DIRECT_PATTERNS_DONE oldexceptions=6 jointexceptions=0 time=201.520
+Loading "work/degree8/large_levels/C57_joint_cartier_rr.m"
+C57_JOINT_CARTIER_FORMS N=57 image_dimension=23 time=0.000
+C57_JOINT_CARTIER_COUNT N=57 total=3654 time=0.050
+C57_JOINT_RR_KERNEL_START cusp=1/9 multiplicity=1 time=0.050
+C57_JOINT_RR_KERNEL_DONE cusp=1/9 multiplicity=1 kernel_dim=23 rank_on_U=2 time=8.830
+C57_JOINT_RR_KERNEL_START cusp=1/9 multiplicity=2 time=8.830
+C57_JOINT_RR_KERNEL_DONE cusp=1/9 multiplicity=2 kernel_dim=21 rank_on_U=4 time=18.700
+C57_JOINT_RR_KERNEL_START cusp=1/9 multiplicity=3 time=18.700
+C57_JOINT_RR_KERNEL_DONE cusp=1/9 multiplicity=3 kernel_dim=19 rank_on_U=6 time=29.650
+C57_JOINT_RR_KERNEL_START cusp=1/9 multiplicity=4 time=29.650
+C57_JOINT_RR_KERNEL_DONE cusp=1/9 multiplicity=4 kernel_dim=17 rank_on_U=8 time=40.460
+C57_JOINT_RR_KERNEL_START cusp=2/9 multiplicity=1 time=40.460
+C57_JOINT_RR_KERNEL_DONE cusp=2/9 multiplicity=1 kernel_dim=24 rank_on_U=1 time=49.160
+C57_JOINT_RR_KERNEL_START cusp=2/9 multiplicity=2 time=49.160
+C57_JOINT_RR_KERNEL_DONE cusp=2/9 multiplicity=2 kernel_dim=23 rank_on_U=2 time=58.770
+C57_JOINT_RR_KERNEL_START cusp=2/9 multiplicity=3 time=58.770
+C57_JOINT_RR_KERNEL_DONE cusp=2/9 multiplicity=3 kernel_dim=22 rank_on_U=3 time=68.950
+C57_JOINT_RR_KERNEL_START cusp=2/9 multiplicity=4 time=68.950
+C57_JOINT_RR_KERNEL_DONE cusp=2/9 multiplicity=4 kernel_dim=21 rank_on_U=4 time=78.460
+C57_JOINT_RR_KERNEL_START cusp=2/9 multiplicity=5 time=78.460
+C57_JOINT_RR_KERNEL_DONE cusp=2/9 multiplicity=5 kernel_dim=20 rank_on_U=5 time=86.660
+C57_JOINT_RR_KERNEL_START cusp=2/9 multiplicity=6 time=86.660
+C57_JOINT_RR_KERNEL_DONE cusp=2/9 multiplicity=6 kernel_dim=19 rank_on_U=6 time=94.460
+C57_JOINT_RR_KERNEL_START cusp=2/9 multiplicity=7 time=94.460
+C57_JOINT_RR_KERNEL_DONE cusp=2/9 multiplicity=7 kernel_dim=18 rank_on_U=7 time=102.920
+C57_JOINT_RR_KERNEL_START cusp=2/9 multiplicity=8 time=102.920
+C57_JOINT_RR_KERNEL_DONE cusp=2/9 multiplicity=8 kernel_dim=17 rank_on_U=8 time=111.500
+C57_JOINT_RR_KERNEL_START cusp=3/9 multiplicity=1 time=111.500
+C57_JOINT_RR_KERNEL_DONE cusp=3/9 multiplicity=1 kernel_dim=24 rank_on_U=1 time=116.840
+C57_JOINT_RR_KERNEL_START cusp=3/9 multiplicity=2 time=116.840
+C57_JOINT_RR_KERNEL_DONE cusp=3/9 multiplicity=2 kernel_dim=23 rank_on_U=2 time=122.810
+C57_JOINT_RR_KERNEL_START cusp=3/9 multiplicity=3 time=122.810
+C57_JOINT_RR_KERNEL_DONE cusp=3/9 multiplicity=3 kernel_dim=22 rank_on_U=3 time=129.770
+C57_JOINT_RR_KERNEL_START cusp=3/9 multiplicity=4 time=129.770
+C57_JOINT_RR_KERNEL_DONE cusp=3/9 multiplicity=4 kernel_dim=21 rank_on_U=4 time=137.060
+C57_JOINT_RR_KERNEL_START cusp=3/9 multiplicity=5 time=137.060
+C57_JOINT_RR_KERNEL_DONE cusp=3/9 multiplicity=5 kernel_dim=20 rank_on_U=5 time=145.490
+C57_JOINT_RR_KERNEL_START cusp=3/9 multiplicity=6 time=145.490
+C57_JOINT_RR_KERNEL_DONE cusp=3/9 multiplicity=6 kernel_dim=19 rank_on_U=6 time=153.680
+C57_JOINT_RR_KERNEL_START cusp=3/9 multiplicity=7 time=153.680
+C57_JOINT_RR_KERNEL_DONE cusp=3/9 multiplicity=7 kernel_dim=18 rank_on_U=7 time=165.030
+C57_JOINT_RR_KERNEL_START cusp=3/9 multiplicity=8 time=165.030
+C57_JOINT_RR_KERNEL_DONE cusp=3/9 multiplicity=8 kernel_dim=17 rank_on_U=8 time=177.800
+C57_JOINT_RR_KERNEL_START cusp=4/9 multiplicity=1 time=177.800
+C57_JOINT_RR_KERNEL_DONE cusp=4/9 multiplicity=1 kernel_dim=23 rank_on_U=2 time=187.550
+C57_JOINT_RR_KERNEL_START cusp=4/9 multiplicity=2 time=187.550
+C57_JOINT_RR_KERNEL_DONE cusp=4/9 multiplicity=2 kernel_dim=21 rank_on_U=4 time=198.520
+C57_JOINT_RR_KERNEL_START cusp=4/9 multiplicity=3 time=198.520
+C57_JOINT_RR_KERNEL_DONE cusp=4/9 multiplicity=3 kernel_dim=19 rank_on_U=6 time=210.620
+C57_JOINT_RR_KERNEL_START cusp=4/9 multiplicity=4 time=210.620
+C57_JOINT_RR_KERNEL_DONE cusp=4/9 multiplicity=4 kernel_dim=17 rank_on_U=8 time=222.400
+C57_JOINT_RR_KERNEL_START cusp=5/9 multiplicity=1 time=222.400
+C57_JOINT_RR_KERNEL_DONE cusp=5/9 multiplicity=1 kernel_dim=24 rank_on_U=1 time=231.080
+C57_JOINT_RR_KERNEL_START cusp=5/9 multiplicity=2 time=231.080
+C57_JOINT_RR_KERNEL_DONE cusp=5/9 multiplicity=2 kernel_dim=23 rank_on_U=2 time=241.030
+C57_JOINT_RR_KERNEL_START cusp=5/9 multiplicity=3 time=241.030
+C57_JOINT_RR_KERNEL_DONE cusp=5/9 multiplicity=3 kernel_dim=22 rank_on_U=3 time=251.930
+C57_JOINT_RR_KERNEL_START cusp=5/9 multiplicity=4 time=251.930
+C57_JOINT_RR_KERNEL_DONE cusp=5/9 multiplicity=4 kernel_dim=21 rank_on_U=4 time=263.350
+C57_JOINT_RR_KERNEL_START cusp=5/9 multiplicity=5 time=263.350
+C57_JOINT_RR_KERNEL_DONE cusp=5/9 multiplicity=5 kernel_dim=20 rank_on_U=5 time=275.700
+C57_JOINT_RR_KERNEL_START cusp=5/9 multiplicity=6 time=275.700
+C57_JOINT_RR_KERNEL_DONE cusp=5/9 multiplicity=6 kernel_dim=19 rank_on_U=6 time=288.090
+C57_JOINT_RR_KERNEL_START cusp=5/9 multiplicity=7 time=288.090
+C57_JOINT_RR_KERNEL_DONE cusp=5/9 multiplicity=7 kernel_dim=18 rank_on_U=7 time=301.130
+C57_JOINT_RR_KERNEL_START cusp=5/9 multiplicity=8 time=301.130
+C57_JOINT_RR_KERNEL_DONE cusp=5/9 multiplicity=8 kernel_dim=17 rank_on_U=8 time=314.100
+C57_JOINT_RR_KERNEL_START cusp=6/9 multiplicity=1 time=314.100
+C57_JOINT_RR_KERNEL_DONE cusp=6/9 multiplicity=1 kernel_dim=24 rank_on_U=1 time=322.090
+C57_JOINT_RR_KERNEL_START cusp=6/9 multiplicity=2 time=322.090
+C57_JOINT_RR_KERNEL_DONE cusp=6/9 multiplicity=2 kernel_dim=23 rank_on_U=2 time=332.200
+C57_JOINT_RR_KERNEL_START cusp=6/9 multiplicity=3 time=332.200
+C57_JOINT_RR_KERNEL_DONE cusp=6/9 multiplicity=3 kernel_dim=22 rank_on_U=3 time=343.140
+C57_JOINT_RR_KERNEL_START cusp=6/9 multiplicity=4 time=343.140
+C57_JOINT_RR_KERNEL_DONE cusp=6/9 multiplicity=4 kernel_dim=21 rank_on_U=4 time=354.700
+C57_JOINT_RR_KERNEL_START cusp=6/9 multiplicity=5 time=354.700
+C57_JOINT_RR_KERNEL_DONE cusp=6/9 multiplicity=5 kernel_dim=20 rank_on_U=5 time=366.770
+C57_JOINT_RR_KERNEL_START cusp=6/9 multiplicity=6 time=366.770
+C57_JOINT_RR_KERNEL_DONE cusp=6/9 multiplicity=6 kernel_dim=19 rank_on_U=6 time=379.070
+C57_JOINT_RR_KERNEL_START cusp=6/9 multiplicity=7 time=379.070
+C57_JOINT_RR_KERNEL_DONE cusp=6/9 multiplicity=7 kernel_dim=18 rank_on_U=7 time=392.210
+C57_JOINT_RR_KERNEL_START cusp=6/9 multiplicity=8 time=392.210
+C57_JOINT_RR_KERNEL_DONE cusp=6/9 multiplicity=8 kernel_dim=17 rank_on_U=8 time=405.600
+C57_JOINT_RR_KERNEL_START cusp=7/9 multiplicity=1 time=405.600
+C57_JOINT_RR_KERNEL_DONE cusp=7/9 multiplicity=1 kernel_dim=24 rank_on_U=1 time=412.060
+C57_JOINT_RR_KERNEL_START cusp=7/9 multiplicity=2 time=412.060
+C57_JOINT_RR_KERNEL_DONE cusp=7/9 multiplicity=2 kernel_dim=23 rank_on_U=2 time=419.500
+C57_JOINT_RR_KERNEL_START cusp=7/9 multiplicity=3 time=419.500
+C57_JOINT_RR_KERNEL_DONE cusp=7/9 multiplicity=3 kernel_dim=22 rank_on_U=3 time=427.580
+C57_JOINT_RR_KERNEL_START cusp=7/9 multiplicity=4 time=427.580
+C57_JOINT_RR_KERNEL_DONE cusp=7/9 multiplicity=4 kernel_dim=21 rank_on_U=4 time=435.510
+C57_JOINT_RR_KERNEL_START cusp=7/9 multiplicity=5 time=435.510
+C57_JOINT_RR_KERNEL_DONE cusp=7/9 multiplicity=5 kernel_dim=20 rank_on_U=5 time=444.120
+C57_JOINT_RR_KERNEL_START cusp=7/9 multiplicity=6 time=444.120
+C57_JOINT_RR_KERNEL_DONE cusp=7/9 multiplicity=6 kernel_dim=19 rank_on_U=6 time=452.840
+C57_JOINT_RR_KERNEL_START cusp=7/9 multiplicity=7 time=452.840
+C57_JOINT_RR_KERNEL_DONE cusp=7/9 multiplicity=7 kernel_dim=18 rank_on_U=7 time=462.140
+C57_JOINT_RR_KERNEL_START cusp=7/9 multiplicity=8 time=462.140
+C57_JOINT_RR_KERNEL_DONE cusp=7/9 multiplicity=8 kernel_dim=17 rank_on_U=8 time=471.620
+C57_JOINT_RR_KERNEL_START cusp=8/9 multiplicity=1 time=471.620
+C57_JOINT_RR_KERNEL_DONE cusp=8/9 multiplicity=1 kernel_dim=24 rank_on_U=1 time=478.200
+C57_JOINT_RR_KERNEL_START cusp=8/9 multiplicity=2 time=478.200
+C57_JOINT_RR_KERNEL_DONE cusp=8/9 multiplicity=2 kernel_dim=23 rank_on_U=2 time=485.570
+C57_JOINT_RR_KERNEL_START cusp=8/9 multiplicity=3 time=485.570
+C57_JOINT_RR_KERNEL_DONE cusp=8/9 multiplicity=3 kernel_dim=22 rank_on_U=3 time=494.130
+C57_JOINT_RR_KERNEL_START cusp=8/9 multiplicity=4 time=494.130
+C57_JOINT_RR_KERNEL_DONE cusp=8/9 multiplicity=4 kernel_dim=21 rank_on_U=4 time=502.510
+C57_JOINT_RR_KERNEL_START cusp=8/9 multiplicity=5 time=502.510
+C57_JOINT_RR_KERNEL_DONE cusp=8/9 multiplicity=5 kernel_dim=20 rank_on_U=5 time=511.130
+C57_JOINT_RR_KERNEL_START cusp=8/9 multiplicity=6 time=511.130
+C57_JOINT_RR_KERNEL_DONE cusp=8/9 multiplicity=6 kernel_dim=19 rank_on_U=6 time=519.810
+C57_JOINT_RR_KERNEL_START cusp=8/9 multiplicity=7 time=519.810
+C57_JOINT_RR_KERNEL_DONE cusp=8/9 multiplicity=7 kernel_dim=18 rank_on_U=7 time=529.590
+C57_JOINT_RR_KERNEL_START cusp=8/9 multiplicity=8 time=529.590
+C57_JOINT_RR_KERNEL_DONE cusp=8/9 multiplicity=8 kernel_dim=17 rank_on_U=8 time=538.360
+C57_JOINT_RR_KERNEL_START cusp=9/9 multiplicity=1 time=538.360
+C57_JOINT_RR_KERNEL_DONE cusp=9/9 multiplicity=1 kernel_dim=23 rank_on_U=2 time=545.080
+C57_JOINT_RR_KERNEL_START cusp=9/9 multiplicity=2 time=545.080
+C57_JOINT_RR_KERNEL_DONE cusp=9/9 multiplicity=2 kernel_dim=21 rank_on_U=4 time=552.450
+C57_JOINT_RR_KERNEL_START cusp=9/9 multiplicity=3 time=552.450
+C57_JOINT_RR_KERNEL_DONE cusp=9/9 multiplicity=3 kernel_dim=19 rank_on_U=6 time=560.350
+C57_JOINT_RR_KERNEL_START cusp=9/9 multiplicity=4 time=560.350
+C57_JOINT_RR_KERNEL_DONE cusp=9/9 multiplicity=4 kernel_dim=17 rank_on_U=8 time=567.690
+C57_JOINT_CARTIER_DIRECT N=57 index=1 jet_rank=8 direct_rank=8 time=575.470
+C57_JOINT_CARTIER_PROGRESS N=57 tested=1000 total=3654 exceptions=0 time=575.480
+C57_JOINT_CARTIER_PROGRESS N=57 tested=2000 total=3654 exceptions=0 time=575.490
+C57_JOINT_CARTIER_PROGRESS N=57 tested=3000 total=3654 exceptions=0 time=575.490
+C57_JOINT_CARTIER_DONE N=57 D=8 tested=3654 total=3654 exceptions=0 complete=true time=575.500

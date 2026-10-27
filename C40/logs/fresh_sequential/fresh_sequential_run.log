@@ -1,0 +1,1510 @@
+Loading "common/class_group_unflattened.m"
+Loading "common/native_group_generators.m"
+C40_D8_MODEL_READY genus=25 finite_cusp_degrees=[ 2, 4, 1, 1, 1, 4, 4, 1, 2, 1, 1, 4, 1, 2, 2, 2, 1, 4, 1, 1, 2, 4, 1, 1 ] rational_orbit_degrees=[ 4, 8, 1, 1, 1, 1, 4, 4, 1, 2, 1, 4, 2, 1, 4, 1, 4, 1, 1, 1, 1 ] JF3_order=31579088486400 time=127.140
+Reduction divisor is (1/$.1, ($.1^48 + $.1^45 + $.1^42 + $.1^33 + $.1^24 + $.1^21 + $.1^18 + 2*$.1^15 + 2*$.1^6 + $.1^3 + 1)/$.1^45*F.1^12 + ($.1^49 + 2*$.1^48 + 2*$.1^47 + $.1^45 + $.1^43 + $.1^39 + 2*$.1^37 + 2*$.1^36 + $.1^34 + $.1^30 + 2*$.1^28 + 2*$.1^27 + $.1^25 + $.1^22 + 2*$.1^20 + 2*$.1^19 + 2*$.1^16 + 2*$.1^12 + $.1^10 + $.1^9 + 2*$.1^7 + $.1^4 + $.1^3 + 2*$.1^2 + $.1 + 2)/$.1^45*F.1^11 + ($.1^46 + 2*$.1^45 + $.1^44 + $.1^43 + $.1^42 + 2*$.1^41 + $.1^39 + $.1^38 + 2*$.1^37 + $.1^36 + $.1^35 + $.1^34 + $.1^33 + 2*$.1^32 + $.1^30 + $.1^29 + 2*$.1^28 + $.1^27 + $.1^26 + $.1^25 + $.1^24 + 2*$.1^23 + $.1^21 + $.1^20 + 2*$.1^17 + 2*$.1^16 + 2*$.1^15 + $.1^14 + 2*$.1^12 + 2*$.1^11 + $.1^10 + 2*$.1^9 + 2*$.1^8 + 2*$.1^7 + 2*$.1^6 + $.1^5 + 2*$.1^3 + 2*$.1^2 + 2*$.1 + 1)/$.1^41*F.1^10 + (2*$.1^43 + 2*$.1^42 + $.1^41 + 2*$.1^40 + $.1^38 + 2*$.1^37 + $.1^36 + 2*$.1^34 + 2*$.1^33 + $.1^32 + 2*$.1^31 + $.1^29 + 2*$.1^28 + $.1^27 + 2*$.1^25 + 2*$.1^24 + $.1^23 + 2*$.1^22 + $.1^20 + 2*$.1^19 + $.1^18 + $.1^16 + $.1^15 + 2*$.1^14 + $.1^13 + 2*$.1^11 + $.1^10 + 2*$.1^9 + $.1^7 + $.1^6 + 2*$.1^5 + $.1^4 + 2*$.1^2 + $.1 + 2)/$.1^37*F.1^9 + (2*$.1^40 + $.1^39 + $.1^38 + 2*$.1^37 + 2*$.1^35 + 2*$.1^33 + $.1^32 + $.1^31 + $.1^28 + $.1^26 + 2*$.1^25 + 2*$.1^22 + 2*$.1^20 + 2*$.1^19 + $.1^18 + $.1^17 + $.1^16 + 2*$.1^14 + $.1^13 + $.1^12 + 2*$.1^11 + $.1^10 + 2*$.1^9 + $.1^8 + $.1^7 + 2*$.1^6 + 2*$.1^5 + 2*$.1^4 + 2*$.1^3 + 2*$.1^2 + $.1 + 1)/$.1^33*F.1^8 + (2*$.1^37 + $.1^36 + 2*$.1^35 + $.1^34 + 2*$.1^31 + $.1^27 + $.1^25 + 2*$.1^24 + $.1^23 + $.1^22 + $.1^21 + $.1^20 + $.1^19 + $.1^18 + 2*$.1^17 + 2*$.1^16 + $.1^13 + 2*$.1^11 + 2*$.1^10 + $.1^8 + $.1^6 + 2*$.1^4 + $.1^3 + 2*$.1^2 + 1)/$.1^29*F.1^7 + ($.1^33 + 2*$.1^32 + $.1^30 + $.1^29 + 2*$.1^28 + $.1^25 + 2*$.1^24 + 2*$.1^21 + 2*$.1^18 + $.1^17 + $.1^14 + $.1^13 + $.1^12 + $.1^11 + $.1^10 + 2*$.1^9 + 2*$.1^8 + $.1^7 + 2*$.1^6 + 2*$.1^4 + $.1^3 + 1)/$.1^25*F.1^6 + ($.1^29 + 2*$.1^28 + $.1^27 + 2*$.1^26 + $.1^24 + $.1^23 + 2*$.1^22 + 2*$.1^21 + 2*$.1^20 + 2*$.1^17 + $.1^15 + $.1^13 + 2*$.1^12 + $.1^11 + $.1^10 + 2*$.1^9 + 2*$.1^8 + 2*$.1^7 + $.1^6 + $.1^4 + 2*$.1^2 + 1)/$.1^22*F.1^5 + ($.1^26 + 2*$.1^25 + $.1^24 + $.1^23 + $.1^22 + 2*$.1^20 + 2*$.1^19 + 2*$.1^18 + 2*$.1^15 + 2*$.1^14 + 2*$.1^12 + $.1^11 + 2*$.1^9 + $.1^8 + $.1^7 + $.1^5 + $.1^2 + 2*$.1 + 2)/$.1^18*F.1^4 + (2*$.1^19 + $.1^18 + $.1^17 + $.1^16 + $.1^15 + $.1^14 + $.1^13 + $.1^11 + $.1^9 + 2*$.1^8 + 2*$.1^7 + $.1^6 + 2*$.1^5 + $.1^4 + $.1^3 + 1)/$.1^11*F.1^3 + (2*$.1^14 + 2*$.1^13 + 2*$.1^12 + 2*$.1^10 + 2*$.1^9 + $.1^8 + 2*$.1^7 + $.1^6 + 2*$.1^5 + $.1^4 + $.1^2 + 2*$.1 + 1)/$.1^9*F.1^2 + ($.1^8 + 2*$.1^7 + $.1^6 + 2*$.1^4 + 2*$.1^3 + $.1^2 + $.1 + 2)/$.1^5*F.1 + $.1^5 + $.1^4 + $.1^3 + 2*$.1^2 + 2)
+computing heuristic bound ...
+const field size is 3
+genus is 25
+weak gen bound is 9
+prod bound for 2 is 7
+computing number of places up to degree 9 ...
+strong gen bound is 7
+expected log costs are [ 33.0000000000000000000000000000, 30.4000000000000000000000000000, 30.4000000000000000000000000000, 28.5000000000000000000000000000, 27.8000000000000000000000000000, 27.9000000000000000000000000000, 28.2000000000000000000000000000, 28.6000000000000000000000000000, 29.3000000000000000000000000000, 30.1000000000000000000000000000 ]
+heuristic bound 5
+taking bound 7
+expected reltries for this are 3752.59390014914949221575062326
+expected smooth prob is 0.164153120852090242266630555226
+creating factor basis for deg 7 and num Infinity
+Size of factor basis is 616
+initializing enum envs ...
+starting relation search ...
+******* at place  1
+******* at place  2
+******* at place  3
+******* at place  4
+******* at place  5
+******* at place  6
+******* at place  7
+******* at place  8
+******* at place  9
+******* at place  10
+******* at place  11
+******* at place  12
+******* at place  13
+******* at place  14
+******* at place  15
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.200000000000000000000000000000
+reltries are 70
+redoing smoothness check after 50 new reltries
+******* at place  16
+******* at place  17
+******* at place  18
+******* at place  19
+******* at place  20
+******* at place  21
+******* at place  22
+******* at place  23
+******* at place  24
+******* at place  25
+******* at place  26
+******* at place  27
+******* at place  28
+******* at place  29
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.241666666666666666666666666667
+reltries are 120
+redoing smoothness check after 50 new reltries
+******* at place  30
+******* at place  31
+******* at place  32
+******* at place  33
+******* at place  34
+******* at place  35
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.205882352941176470588235294118
+reltries are 170
+redoing smoothness check after 50 new reltries
+******* at place  36
+******* at place  37
+******* at place  38
+******* at place  39
+******* at place  40
+******* at place  41
+******* at place  42
+******* at place  43
+******* at place  44
+******* at place  45
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.200000000000000000000000000000
+reltries are 220
+redoing smoothness check after 50 new reltries
+******* at place  46
+******* at place  47
+******* at place  48
+******* at place  49
+******* at place  50
+******* at place  51
+******* at place  52
+******* at place  53
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.192592592592592592592592592593
+reltries are 270
+redoing smoothness check after 60 new reltries
+******* at place  54
+******* at place  55
+******* at place  56
+******* at place  57
+******* at place  58
+******* at place  59
+******* at place  60
+******* at place  61
+******* at place  62
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.187878787878787878787878787879
+reltries are 330
+redoing smoothness check after 60 new reltries
+####### checking value of rels ...
+the rank is 61
+rankrelratio is 0.991935483870967741935483870968
+redoing check of relations after 185 new relations
+******* at place  63
+******* at place  64
+******* at place  65
+******* at place  66
+******* at place  67
+******* at place  68
+******* at place  69
+******* at place  70
+******* at place  71
+******* at place  72
+******* at place  73
+******* at place  74
+******* at place  75
+******* at place  76
+******* at place  77
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.194871794871794871794871794872
+reltries are 390
+redoing smoothness check after 60 new reltries
+******* at place  78
+******* at place  79
+******* at place  80
+******* at place  81
+******* at place  82
+******* at place  83
+******* at place  84
+******* at place  85
+******* at place  86
+******* at place  87
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.191111111111111111111111111111
+reltries are 450
+redoing smoothness check after 60 new reltries
+******* at place  88
+******* at place  89
+******* at place  90
+******* at place  91
+******* at place  92
+******* at place  93
+******* at place  94
+******* at place  95
+******* at place  96
+******* at place  97
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.188235294117647058823529411765
+reltries are 510
+redoing smoothness check after 60 new reltries
+******* at place  98
+******* at place  99
+******* at place  100
+******* at place  101
+******* at place  102
+******* at place  103
+******* at place  104
+******* at place  105
+******* at place  106
+******* at place  107
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.185964912280701754385964912281
+reltries are 570
+redoing smoothness check after 60 new reltries
+******* at place  108
+******* at place  109
+******* at place  110
+******* at place  111
+******* at place  112
+******* at place  113
+******* at place  114
+******* at place  115
+******* at place  116
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.182539682539682539682539682540
+reltries are 630
+redoing smoothness check after 60 new reltries
+******* at place  117
+******* at place  118
+******* at place  119
+******* at place  120
+******* at place  121
+******* at place  122
+******* at place  123
+******* at place  124
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.178260869565217391304347826087
+reltries are 690
+redoing smoothness check after 60 new reltries
+******* at place  125
+******* at place  126
+******* at place  127
+******* at place  128
+******* at place  129
+******* at place  130
+******* at place  131
+******* at place  132
+******* at place  133
+******* at place  134
+******* at place  135
+******* at place  136
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.180000000000000000000000000000
+reltries are 750
+redoing smoothness check after 60 new reltries
+******* at place  137
+******* at place  138
+******* at place  139
+******* at place  140
+******* at place  141
+******* at place  142
+******* at place  143
+******* at place  144
+******* at place  145
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.177777777777777777777777777778
+reltries are 810
+redoing smoothness check after 60 new reltries
+******* at place  146
+******* at place  147
+******* at place  148
+******* at place  149
+******* at place  150
+******* at place  151
+******* at place  152
+******* at place  153
+******* at place  154
+******* at place  155
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.177011494252873563218390804598
+reltries are 870
+redoing smoothness check after 60 new reltries
+******* at place  156
+******* at place  157
+******* at place  158
+******* at place  159
+******* at place  160
+******* at place  161
+******* at place  162
+******* at place  163
+******* at place  164
+******* at place  165
+******* at place  166
+******* at place  167
+******* at place  168
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.179569892473118279569892473118
+reltries are 930
+redoing smoothness check after 60 new reltries
+******* at place  169
+******* at place  170
+******* at place  171
+******* at place  172
+******* at place  173
+******* at place  174
+******* at place  175
+******* at place  176
+******* at place  177
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.178787878787878787878787878788
+reltries are 990
+redoing smoothness check after 60 new reltries
+******* at place  178
+******* at place  179
+******* at place  180
+******* at place  181
+******* at place  182
+******* at place  183
+******* at place  184
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.174285714285714285714285714286
+reltries are 1050
+redoing smoothness check after 60 new reltries
+******* at place  185
+******* at place  186
+******* at place  187
+******* at place  188
+******* at place  189
+******* at place  190
+******* at place  191
+******* at place  192
+******* at place  193
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.172972972972972972972972972973
+reltries are 1110
+redoing smoothness check after 60 new reltries
+******* at place  194
+******* at place  195
+******* at place  196
+******* at place  197
+******* at place  198
+******* at place  199
+******* at place  200
+******* at place  201
+******* at place  202
+******* at place  203
+******* at place  204
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.174358974358974358974358974359
+reltries are 1170
+redoing smoothness check after 60 new reltries
+******* at place  205
+******* at place  206
+******* at place  207
+******* at place  208
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.168292682926829268292682926829
+reltries are 1230
+redoing smoothness check after 60 new reltries
+******* at place  209
+******* at place  210
+******* at place  211
+******* at place  212
+******* at place  213
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.164341085271317829457364341085
+reltries are 1290
+redoing smoothness check after 70 new reltries
+******* at place  214
+******* at place  215
+******* at place  216
+******* at place  217
+******* at place  218
+******* at place  219
+******* at place  220
+******* at place  221
+******* at place  222
+******* at place  223
+******* at place  224
+******* at place  225
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.164705882352941176470588235294
+reltries are 1360
+redoing smoothness check after 70 new reltries
+******* at place  226
+******* at place  227
+******* at place  228
+******* at place  229
+******* at place  230
+******* at place  231
+******* at place  232
+******* at place  233
+******* at place  234
+******* at place  235
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.163636363636363636363636363636
+reltries are 1430
+redoing smoothness check after 70 new reltries
+******* at place  236
+******* at place  237
+******* at place  238
+******* at place  239
+******* at place  240
+******* at place  241
+******* at place  242
+******* at place  243
+******* at place  244
+******* at place  245
+******* at place  246
+******* at place  247
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.164666666666666666666666666667
+reltries are 1500
+redoing smoothness check after 70 new reltries
+####### checking value of rels ...
+the rank is 243
+rankrelratio is 0.987859633827375762859633827376
+redoing check of relations after 549 new relations
+******* at place  248
+******* at place  249
+******* at place  250
+******* at place  251
+******* at place  252
+******* at place  253
+******* at place  254
+******* at place  255
+******* at place  256
+******* at place  257
+******* at place  258
+******* at place  259
+******* at place  260
+******* at place  261
+******* at place  262
+******* at place  263
+******* at place  264
+******* at place  265
+******* at place  266
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.168789808917197452229299363057
+reltries are 1570
+redoing smoothness check after 60 new reltries
+******* at place  267
+******* at place  268
+******* at place  269
+******* at place  270
+******* at place  271
+******* at place  272
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.166257668711656441717791411043
+reltries are 1630
+redoing smoothness check after 70 new reltries
+******* at place  273
+******* at place  274
+******* at place  275
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.161176470588235294117647058824
+reltries are 1700
+redoing smoothness check after 70 new reltries
+******* at place  276
+******* at place  277
+******* at place  278
+******* at place  279
+******* at place  280
+******* at place  281
+******* at place  282
+******* at place  283
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.159322033898305084745762711864
+reltries are 1770
+redoing smoothness check after 70 new reltries
+******* at place  284
+******* at place  285
+******* at place  286
+******* at place  287
+******* at place  288
+******* at place  289
+******* at place  290
+******* at place  291
+******* at place  292
+******* at place  293
+******* at place  294
+******* at place  295
+******* at place  296
+******* at place  297
+******* at place  298
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.161413043478260869565217391304
+reltries are 1840
+redoing smoothness check after 70 new reltries
+******* at place  299
+******* at place  300
+******* at place  301
+******* at place  302
+******* at place  303
+******* at place  304
+******* at place  305
+******* at place  306
+******* at place  307
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.160209424083769633507853403141
+reltries are 1910
+redoing smoothness check after 70 new reltries
+******* at place  308
+******* at place  309
+******* at place  310
+******* at place  311
+******* at place  312
+******* at place  313
+******* at place  314
+******* at place  315
+******* at place  316
+******* at place  317
+******* at place  318
+******* at place  319
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.161111111111111111111111111111
+reltries are 1980
+redoing smoothness check after 70 new reltries
+******* at place  320
+******* at place  321
+******* at place  322
+******* at place  323
+******* at place  324
+******* at place  325
+******* at place  326
+******* at place  327
+******* at place  328
+******* at place  329
+******* at place  330
+******* at place  331
+******* at place  332
+******* at place  333
+******* at place  334
+******* at place  335
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.162926829268292682926829268293
+reltries are 2050
+redoing smoothness check after 70 new reltries
+******* at place  336
+******* at place  337
+******* at place  338
+******* at place  339
+******* at place  340
+******* at place  341
+******* at place  342
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.160849056603773584905660377359
+reltries are 2120
+redoing smoothness check after 70 new reltries
+******* at place  343
+******* at place  344
+******* at place  345
+******* at place  346
+******* at place  347
+******* at place  348
+******* at place  349
+******* at place  350
+******* at place  351
+******* at place  352
+******* at place  353
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.160730593607305936073059360731
+reltries are 2190
+redoing smoothness check after 70 new reltries
+******* at place  354
+******* at place  355
+******* at place  356
+******* at place  357
+******* at place  358
+******* at place  359
+******* at place  360
+******* at place  361
+******* at place  362
+******* at place  363
+******* at place  364
+******* at place  365
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.161061946902654867256637168142
+reltries are 2260
+redoing smoothness check after 70 new reltries
+******* at place  366
+******* at place  367
+******* at place  368
+******* at place  369
+******* at place  370
+******* at place  371
+******* at place  372
+******* at place  373
+******* at place  374
+******* at place  375
+******* at place  376
+******* at place  377
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.161373390557939914163090128755
+reltries are 2330
+redoing smoothness check after 70 new reltries
+******* at place  378
+******* at place  379
+******* at place  380
+******* at place  381
+******* at place  382
+******* at place  383
+******* at place  384
+******* at place  385
+******* at place  386
+******* at place  387
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.161250000000000000000000000000
+reltries are 2400
+redoing smoothness check after 70 new reltries
+******* at place  388
+******* at place  389
+******* at place  390
+******* at place  391
+******* at place  392
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.158299595141700404858299595142
+reltries are 2470
+redoing smoothness check after 70 new reltries
+******* at place  393
+******* at place  394
+******* at place  395
+******* at place  396
+******* at place  397
+******* at place  398
+******* at place  399
+******* at place  400
+******* at place  401
+******* at place  402
+******* at place  403
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.158661417322834645669291338583
+reltries are 2540
+redoing smoothness check after 70 new reltries
+******* at place  404
+******* at place  405
+******* at place  406
+******* at place  407
+******* at place  408
+******* at place  409
+******* at place  410
+******* at place  411
+******* at place  412
+******* at place  413
+******* at place  414
+******* at place  415
+******* at place  416
+******* at place  417
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.159386973180076628352490421456
+reltries are 2610
+redoing smoothness check after 70 new reltries
+******* at place  418
+******* at place  419
+******* at place  420
+******* at place  421
+******* at place  422
+******* at place  423
+******* at place  424
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.157835820895522388059701492537
+reltries are 2680
+redoing smoothness check after 70 new reltries
+******* at place  425
+******* at place  426
+******* at place  427
+******* at place  428
+******* at place  429
+******* at place  430
+******* at place  431
+******* at place  432
+******* at place  433
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.157090909090909090909090909091
+reltries are 2750
+redoing smoothness check after 70 new reltries
+******* at place  434
+******* at place  435
+******* at place  436
+******* at place  437
+******* at place  438
+******* at place  439
+******* at place  440
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.155673758865248226950354609929
+reltries are 2820
+redoing smoothness check after 70 new reltries
+******* at place  441
+******* at place  442
+******* at place  443
+******* at place  444
+******* at place  445
+******* at place  446
+******* at place  447
+******* at place  448
+******* at place  449
+******* at place  450
+******* at place  451
+******* at place  452
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.156055363321799307958477508651
+reltries are 2890
+redoing smoothness check after 70 new reltries
+******* at place  453
+******* at place  454
+******* at place  455
+******* at place  456
+******* at place  457
+******* at place  458
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.154391891891891891891891891892
+reltries are 2960
+redoing smoothness check after 70 new reltries
+******* at place  459
+******* at place  460
+******* at place  461
+******* at place  462
+******* at place  463
+******* at place  464
+******* at place  465
+******* at place  466
+******* at place  467
+******* at place  468
+******* at place  469
+******* at place  470
+******* at place  471
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.155115511551155115511551155116
+reltries are 3030
+redoing smoothness check after 70 new reltries
+******* at place  472
+******* at place  473
+******* at place  474
+******* at place  475
+******* at place  476
+******* at place  477
+******* at place  478
+******* at place  479
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.154193548387096774193548387097
+reltries are 3100
+redoing smoothness check after 70 new reltries
+******* at place  480
+******* at place  481
+******* at place  482
+******* at place  483
+******* at place  484
+******* at place  485
+******* at place  486
+******* at place  487
+******* at place  488
+******* at place  489
+******* at place  490
+******* at place  491
+******* at place  492
+******* at place  493
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.155205047318611987381703470032
+reltries are 3170
+redoing smoothness check after 70 new reltries
+******* at place  494
+******* at place  495
+******* at place  496
+******* at place  497
+******* at place  498
+******* at place  499
+******* at place  500
+******* at place  501
+******* at place  502
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.154938271604938271604938271605
+reltries are 3240
+redoing smoothness check after 70 new reltries
+******* at place  503
+******* at place  504
+******* at place  505
+******* at place  506
+******* at place  507
+******* at place  508
+******* at place  509
+******* at place  510
+******* at place  511
+******* at place  512
+******* at place  513
+******* at place  514
+******* at place  515
+******* at place  516
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.155589123867069486404833836858
+reltries are 3310
+redoing smoothness check after 70 new reltries
+******* at place  517
+******* at place  518
+******* at place  519
+******* at place  520
+******* at place  521
+******* at place  522
+******* at place  523
+******* at place  524
+******* at place  525
+******* at place  526
+******* at place  527
+******* at place  528
+******* at place  529
+******* at place  530
+******* at place  531
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.156804733727810650887573964497
+reltries are 3380
+redoing smoothness check after 70 new reltries
+******* at place  532
+******* at place  533
+******* at place  534
+******* at place  535
+******* at place  536
+******* at place  537
+******* at place  538
+******* at place  539
+******* at place  540
+******* at place  541
+******* at place  542
+******* at place  543
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.157101449275362318840579710145
+reltries are 3450
+redoing smoothness check after 70 new reltries
+******* at place  544
+******* at place  545
+******* at place  546
+******* at place  547
+******* at place  548
+******* at place  549
+******* at place  550
+******* at place  551
+******* at place  552
+******* at place  553
+******* at place  554
+******* at place  555
+******* at place  556
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.157670454545454545454545454545
+reltries are 3520
+redoing smoothness check after 70 new reltries
+******* at place  557
+******* at place  558
+******* at place  559
+******* at place  560
+******* at place  561
+******* at place  562
+******* at place  563
+******* at place  564
+******* at place  565
+******* at place  566
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.157381615598885793871866295265
+reltries are 3590
+redoing smoothness check after 70 new reltries
+******* at place  567
+******* at place  568
+******* at place  569
+******* at place  570
+******* at place  571
+******* at place  572
+******* at place  573
+******* at place  574
+******* at place  575
+******* at place  576
+******* at place  577
+******* at place  578
+******* at place  579
+******* at place  580
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.158196721311475409836065573770
+reltries are 3660
+redoing smoothness check after 70 new reltries
+******* at place  581
+******* at place  582
+******* at place  583
+******* at place  584
+******* at place  585
+******* at place  586
+******* at place  587
+******* at place  588
+******* at place  589
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.157640750670241286863270777480
+reltries are 3730
+redoing smoothness check after 70 new reltries
+******* at place  590
+******* at place  591
+******* at place  592
+******* at place  593
+******* at place  594
+******* at place  595
+******* at place  596
+******* at place  597
+******* at place  598
+******* at place  599
+******* at place  600
+******* at place  601
+******* at place  602
+******* at place  603
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.158421052631578947368421052632
+reltries are 3800
+redoing smoothness check after 70 new reltries
+******* at place  604
+******* at place  605
+******* at place  606
+******* at place  607
+******* at place  608
+******* at place  609
+******* at place  610
+******* at place  611
+******* at place  612
+******* at place  613
+******* at place  614
+******* at place  615
+******* at place  616
+******* at place  1
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.159173126614987080103359173127
+reltries are 3870
+redoing smoothness check after 70 new reltries
+******* at place  2
+******* at place  3
+******* at place  4
+******* at place  5
+******* at place  6
+******* at place  7
+******* at place  8
+******* at place  9
+******* at place  10
+******* at place  11
+******* at place  12
+******* at place  13
+******* at place  14
+******* at place  15
+******* at place  16
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.160152284263959390862944162436
+reltries are 3940
+redoing smoothness check after 70 new reltries
+******* at place  17
+******* at place  18
+******* at place  19
+******* at place  20
+******* at place  21
+******* at place  22
+******* at place  23
+******* at place  24
+******* at place  25
+******* at place  26
+******* at place  27
+******* at place  28
+******* at place  29
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.160598503740648379052369077307
+reltries are 4010
+redoing smoothness check after 70 new reltries
+******* at place  30
+******* at place  31
+******* at place  32
+******* at place  33
+******* at place  34
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.159068627450980392156862745098
+reltries are 4080
+redoing smoothness check after 70 new reltries
+******* at place  35
+******* at place  36
+******* at place  37
+******* at place  38
+******* at place  39
+******* at place  40
+******* at place  41
+******* at place  42
+******* at place  43
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.158554216867469879518072289157
+reltries are 4150
+redoing smoothness check after 70 new reltries
+******* at place  44
+******* at place  45
+******* at place  46
+******* at place  47
+******* at place  48
+******* at place  49
+******* at place  50
+******* at place  51
+******* at place  52
+******* at place  53
+******* at place  54
+******* at place  55
+******* at place  56
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.159004739336492890995260663507
+reltries are 4220
+redoing smoothness check after 70 new reltries
+******* at place  57
+******* at place  58
+******* at place  59
+******* at place  60
+******* at place  61
+******* at place  62
+******* at place  63
+******* at place  64
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.158275058275058275058275058275
+reltries are 4290
+redoing smoothness check after 70 new reltries
+******* at place  65
+******* at place  66
+******* at place  67
+******* at place  68
+******* at place  69
+******* at place  70
+******* at place  71
+******* at place  72
+******* at place  73
+******* at place  74
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.158027522935779816513761467890
+reltries are 4360
+redoing smoothness check after 70 new reltries
+******* at place  75
+******* at place  76
+******* at place  77
+******* at place  78
+******* at place  79
+******* at place  80
+******* at place  81
+******* at place  82
+******* at place  83
+******* at place  84
+******* at place  85
+******* at place  86
+******* at place  87
+******* at place  88
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.158690744920993227990970654628
+reltries are 4430
+redoing smoothness check after 70 new reltries
+******* at place  89
+******* at place  90
+******* at place  91
+******* at place  92
+******* at place  93
+******* at place  94
+******* at place  95
+******* at place  96
+******* at place  97
+******* at place  98
+******* at place  99
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.158666666666666666666666666667
+reltries are 4500
+redoing smoothness check after 70 new reltries
+******* at place  100
+******* at place  101
+******* at place  102
+******* at place  103
+******* at place  104
+******* at place  105
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.157549234135667396061269146608
+reltries are 4570
+redoing smoothness check after 70 new reltries
+******* at place  106
+******* at place  107
+******* at place  108
+******* at place  109
+******* at place  110
+******* at place  111
+******* at place  112
+******* at place  113
+******* at place  114
+******* at place  115
+******* at place  116
+******* at place  117
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.157974137931034482758620689655
+reltries are 4640
+redoing smoothness check after 70 new reltries
+******* at place  118
+******* at place  119
+******* at place  120
+******* at place  121
+******* at place  122
+******* at place  123
+******* at place  124
+******* at place  125
+******* at place  126
+******* at place  127
+******* at place  128
+******* at place  129
+******* at place  130
+******* at place  131
+******* at place  132
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.158598726114649681528662420382
+reltries are 4710
+redoing smoothness check after 70 new reltries
+******* at place  133
+******* at place  134
+******* at place  135
+******* at place  136
+******* at place  137
+******* at place  138
+******* at place  139
+******* at place  140
+******* at place  141
+******* at place  142
+******* at place  143
+******* at place  144
+******* at place  145
+******* at place  146
+******* at place  147
+******* at place  148
+******* at place  149
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.159832635983263598326359832636
+reltries are 4780
+redoing smoothness check after 70 new reltries
+******* at place  150
+******* at place  151
+******* at place  152
+******* at place  153
+******* at place  154
+******* at place  155
+******* at place  156
+******* at place  157
+******* at place  158
+******* at place  159
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.159587628865979381443298969072
+reltries are 4850
+redoing smoothness check after 70 new reltries
+******* at place  160
+******* at place  161
+******* at place  162
+******* at place  163
+******* at place  164
+******* at place  165
+******* at place  166
+******* at place  167
+******* at place  168
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.159146341463414634146341463415
+reltries are 4920
+redoing smoothness check after 70 new reltries
+******* at place  169
+******* at place  170
+******* at place  171
+******* at place  172
+******* at place  173
+******* at place  174
+******* at place  175
+******* at place  176
+%%%%%%% checking smoothness of reltries ...
+smoothness is 0.158717434869739478957915831663
+reltries are 4990
+redoing smoothness check after 70 new reltries
+******* at place  177
+******* at place  178
+******* at place  179
+******* at place  180
+####### checking value of rels ...
+the rank is 615
+rankrelratio is 0.832727631121338154653860629534
+redoing check of relations after 1 new relations
+******* at place  181
+####### checking value of rels ...
+the determinant is 31579088486400
+total number of tried rels is 5032
+result proven by bounds
+evaluating abelian group data ...
+done.
+C40_D8_PROVEN_UNFLATTENED_MAP_DONE generator_flattening_omitted=true time=2469.540
+is smooth
+is smooth
+is smooth
+is smooth
+is smooth
+is smooth
+is smooth
+is smooth
+is smooth
+is smooth
+is smooth
+is smooth
+is smooth
+is smooth
+is smooth
+is smooth
+is smooth
+is smooth
+is smooth
+is smooth
+is smooth
+C40_D8_GROUP_READY invariants=[ 2, 2, 2, 2, 2, 16, 68880, 895440, 0 ] rational_image=[ 2, 2, 2, 8, 120, 895440 ] time=2469.610
+C40_D8_SETUP_DONE noncuspidal_counts=[ 0, 0, 0, 32, 72, 80, 408, 708 ] continuation_pending=true time=2487.630
+Loading "common/class_group_direct_RR_checked_v4.m"
+Loading "C40/known_40_reductions.m"
+Loading "realizations/data/vanhoeij_octic_input.m"
+C40_KNOWN_REDUCTION index=7 primes_ef=[
+[ 1, 4 ],
+[ 1, 4 ]
+] diamond_divisors=4
+C40_KNOWN_REDUCTIONS_DONE classes_not_yet_mapped=true reduced_divisors=4
+C40_D8_KNOWN_DIVISORS classes=4 weighted_reduction_patterns=[
+[
+[ 1, 4 ],
+[ 1, 4 ]
+]
+] time=2490.300
+C40_D8_CUSP_CLASSES finite_counts=[ 1, 12, 84, 436, 1860, 6876, 22764, 68964, 194142 ] rational_counts=[ 1, 12, 80, 388, 1530, 5204, 15824, 44028, 113912 ] finite_degree8_in_H=113912 unknown_cuspal_classes=0 time=2491.120
+C40_D8_EXACT_DIAMOND_PARTITION degree=4 places=32 representatives=4 time=2491.300
+C40_D8_EXACT_DIAMOND_PARTITION degree=5 places=72 representatives=9 time=2491.380
+C40_D8_EXACT_DIAMOND_PARTITION degree=6 places=80 representatives=10 time=2491.440
+C40_D8_EXACT_DIAMOND_PARTITION degree=7 places=408 representatives=51 time=2491.750
+C40_D8_EXACT_DIAMOND_PARTITION degree=8 places=708 representatives=96 time=2492.360
+C40_D8_QUARTIC_CLASS_CACHE index=1/32 time=2492.430
+C40_D8_QUARTIC_CLASS_CACHE index=2/32 time=2492.430
+C40_D8_QUARTIC_CLASS_CACHE index=3/32 time=2492.430
+C40_D8_QUARTIC_CLASS_CACHE index=4/32 time=2492.430
+C40_D8_QUARTIC_CLASS_CACHE index=5/32 time=2492.430
+C40_D8_QUARTIC_CLASS_CACHE index=6/32 time=2492.430
+C40_D8_QUARTIC_CLASS_CACHE index=7/32 time=2492.430
+C40_D8_QUARTIC_CLASS_CACHE index=8/32 time=2492.430
+C40_D8_QUARTIC_CLASS_CACHE index=9/32 time=2492.430
+C40_D8_QUARTIC_CLASS_CACHE index=10/32 time=2492.430
+C40_D8_QUARTIC_CLASS_CACHE index=11/32 time=2492.430
+C40_D8_QUARTIC_CLASS_CACHE index=12/32 time=2492.430
+C40_D8_QUARTIC_CLASS_CACHE index=13/32 time=2492.430
+C40_D8_QUARTIC_CLASS_CACHE index=14/32 time=2492.430
+C40_D8_QUARTIC_CLASS_CACHE index=15/32 time=2492.430
+C40_D8_QUARTIC_CLASS_CACHE index=16/32 time=2492.430
+C40_D8_QUARTIC_CLASS_CACHE index=17/32 time=2492.430
+C40_D8_QUARTIC_CLASS_CACHE index=18/32 time=2492.430
+C40_D8_QUARTIC_CLASS_CACHE index=19/32 time=2492.430
+C40_D8_QUARTIC_CLASS_CACHE index=20/32 time=2492.430
+C40_D8_QUARTIC_CLASS_CACHE index=21/32 time=2492.430
+C40_D8_QUARTIC_CLASS_CACHE index=22/32 time=2492.430
+C40_D8_QUARTIC_CLASS_CACHE index=23/32 time=2492.430
+C40_D8_QUARTIC_CLASS_CACHE index=24/32 time=2492.430
+C40_D8_QUARTIC_CLASS_CACHE index=25/32 time=2492.430
+C40_D8_QUARTIC_CLASS_CACHE index=26/32 time=2492.430
+C40_D8_QUARTIC_CLASS_CACHE index=27/32 time=2492.430
+C40_D8_QUARTIC_CLASS_CACHE index=28/32 time=2492.430
+C40_D8_QUARTIC_CLASS_CACHE index=29/32 time=2492.430
+C40_D8_QUARTIC_CLASS_CACHE index=30/32 time=2492.430
+C40_D8_QUARTIC_CLASS_CACHE index=31/32 time=2492.430
+C40_D8_QUARTIC_CLASS_CACHE index=32/32 time=2492.430
+C40_D8_SINGLE_CLASS_TEST degree=4 index=1/4 admitted_total_classes=0 time=2492.500
+C40_D8_SINGLE_CLASS_TEST degree=4 index=2/4 admitted_total_classes=0 time=2492.500
+C40_D8_SINGLE_CLASS_TEST degree=4 index=3/4 admitted_total_classes=0 time=2492.500
+C40_D8_SINGLE_CLASS_TEST degree=4 index=4/4 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=5 index=1/9 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=5 index=2/9 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=5 index=3/9 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=5 index=4/9 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=5 index=5/9 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=5 index=6/9 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=5 index=7/9 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=5 index=8/9 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=5 index=9/9 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=6 index=1/10 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=6 index=2/10 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=6 index=3/10 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=6 index=4/10 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=6 index=5/10 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=6 index=6/10 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=6 index=7/10 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=6 index=8/10 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=6 index=9/10 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=6 index=10/10 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=7 index=1/51 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=7 index=2/51 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=7 index=3/51 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=7 index=4/51 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=7 index=5/51 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=7 index=6/51 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=7 index=7/51 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=7 index=8/51 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=7 index=9/51 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=7 index=10/51 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=7 index=11/51 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=7 index=12/51 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=7 index=13/51 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=7 index=14/51 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=7 index=15/51 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=7 index=16/51 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=7 index=17/51 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=7 index=18/51 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=7 index=19/51 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=7 index=20/51 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=7 index=21/51 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=7 index=22/51 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=7 index=23/51 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=7 index=24/51 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=7 index=25/51 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=7 index=26/51 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=7 index=27/51 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=7 index=28/51 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=7 index=29/51 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=7 index=30/51 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=7 index=31/51 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=7 index=32/51 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=7 index=33/51 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=7 index=34/51 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=7 index=35/51 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=7 index=36/51 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=7 index=37/51 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=7 index=38/51 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=7 index=39/51 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=7 index=40/51 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=7 index=41/51 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=7 index=42/51 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=7 index=43/51 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=7 index=44/51 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=7 index=45/51 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=7 index=46/51 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=7 index=47/51 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=7 index=48/51 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=7 index=49/51 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=7 index=50/51 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=7 index=51/51 admitted_total_classes=0 time=2492.510
+C40_D8_SINGLE_CLASS_TEST degree=8 index=1/96 admitted_total_classes=0 time=2501.700
+C40_D8_SINGLE_CLASS_TEST degree=8 index=2/96 admitted_total_classes=0 time=2550.910
+C40_D8_SINGLE_CLASS_TEST degree=8 index=3/96 admitted_total_classes=0 time=2694.470
+C40_D8_SINGLE_CLASS_TEST degree=8 index=4/96 admitted_total_classes=0 time=2844.730
+C40_D8_SINGLE_CLASS_TEST degree=8 index=5/96 admitted_total_classes=0 time=2963.060
+C40_D8_SINGLE_CLASS_TEST degree=8 index=6/96 admitted_total_classes=0 time=2990.540
+C40_D8_SINGLE_CLASS_TEST degree=8 index=7/96 admitted_total_classes=0 time=3023.030
+C40_D8_SINGLE_CLASS_TEST degree=8 index=8/96 admitted_total_classes=0 time=3036.490
+C40_D8_SINGLE_CLASS_TEST degree=8 index=9/96 admitted_total_classes=0 time=3112.400
+C40_D8_SINGLE_CLASS_TEST degree=8 index=10/96 admitted_total_classes=0 time=3177.150
+C40_D8_SINGLE_CLASS_TEST degree=8 index=11/96 admitted_total_classes=0 time=3243.930
+C40_D8_SINGLE_CLASS_TEST degree=8 index=12/96 admitted_total_classes=0 time=3338.070
+C40_D8_SINGLE_CLASS_TEST degree=8 index=13/96 admitted_total_classes=0 time=3367.820
+C40_D8_SINGLE_CLASS_TEST degree=8 index=14/96 admitted_total_classes=0 time=3452.270
+C40_D8_SINGLE_CLASS_TEST degree=8 index=15/96 admitted_total_classes=0 time=3499.760
+C40_D8_SINGLE_CLASS_TEST degree=8 index=16/96 admitted_total_classes=0 time=3544.930
+C40_D8_SINGLE_CLASS_TEST degree=8 index=17/96 admitted_total_classes=0 time=3572.920
+C40_D8_SINGLE_CLASS_TEST degree=8 index=18/96 admitted_total_classes=0 time=3587.340
+C40_D8_SINGLE_CLASS_TEST degree=8 index=19/96 admitted_total_classes=0 time=3671.880
+C40_D8_SINGLE_CLASS_TEST degree=8 index=20/96 admitted_total_classes=0 time=3690.150
+C40_D8_SINGLE_CLASS_TEST degree=8 index=21/96 admitted_total_classes=0 time=3740.850
+C40_D8_SINGLE_CLASS_TEST degree=8 index=22/96 admitted_total_classes=0 time=3781.320
+C40_D8_SINGLE_CLASS_TEST degree=8 index=23/96 admitted_total_classes=0 time=3789.300
+C40_D8_SINGLE_CLASS_TEST degree=8 index=24/96 admitted_total_classes=0 time=3814.810
+C40_D8_SINGLE_CLASS_TEST degree=8 index=25/96 admitted_total_classes=0 time=3855.940
+C40_D8_SINGLE_CLASS_TEST degree=8 index=26/96 admitted_total_classes=0 time=3908.930
+C40_D8_SINGLE_CLASS_TEST degree=8 index=27/96 admitted_total_classes=0 time=3925.130
+C40_D8_SINGLE_CLASS_TEST degree=8 index=28/96 admitted_total_classes=0 time=3978.610
+C40_D8_SINGLE_CLASS_TEST degree=8 index=29/96 admitted_total_classes=0 time=4021.440
+C40_D8_SINGLE_CLASS_TEST degree=8 index=30/96 admitted_total_classes=0 time=4053.930
+C40_D8_SINGLE_CLASS_TEST degree=8 index=31/96 admitted_total_classes=0 time=4078.020
+C40_D8_SINGLE_CLASS_TEST degree=8 index=32/96 admitted_total_classes=0 time=4085.400
+C40_D8_SINGLE_CLASS_TEST degree=8 index=33/96 admitted_total_classes=0 time=4120.100
+C40_D8_SINGLE_CLASS_TEST degree=8 index=34/96 admitted_total_classes=0 time=4201.090
+C40_D8_SINGLE_CLASS_TEST degree=8 index=35/96 admitted_total_classes=0 time=4268.830
+C40_D8_SINGLE_CLASS_TEST degree=8 index=36/96 admitted_total_classes=0 time=4333.430
+C40_D8_SINGLE_CLASS_TEST degree=8 index=37/96 admitted_total_classes=0 time=4400.030
+C40_D8_SINGLE_CLASS_TEST degree=8 index=38/96 admitted_total_classes=0 time=4441.720
+C40_D8_SINGLE_CLASS_TEST degree=8 index=39/96 admitted_total_classes=0 time=4524.870
+C40_D8_SINGLE_CLASS_TEST degree=8 index=40/96 admitted_total_classes=0 time=4552.100
+C40_D8_SINGLE_CLASS_TEST degree=8 index=41/96 admitted_total_classes=0 time=4569.520
+C40_D8_SINGLE_CLASS_TEST degree=8 index=42/96 admitted_total_classes=0 time=4591.540
+C40_D8_SINGLE_CLASS_TEST degree=8 index=43/96 admitted_total_classes=0 time=4637.500
+C40_D8_SINGLE_CLASS_TEST degree=8 index=44/96 admitted_total_classes=0 time=4651.740
+C40_D8_SINGLE_CLASS_TEST degree=8 index=45/96 admitted_total_classes=0 time=4696.940
+C40_D8_SINGLE_CLASS_TEST degree=8 index=46/96 admitted_total_classes=0 time=4714.530
+C40_D8_SINGLE_CLASS_TEST degree=8 index=47/96 admitted_total_classes=0 time=4744.040
+C40_D8_SINGLE_CLASS_TEST degree=8 index=48/96 admitted_total_classes=0 time=4837.760
+C40_D8_SINGLE_CLASS_TEST degree=8 index=49/96 admitted_total_classes=0 time=4872.050
+C40_D8_SINGLE_CLASS_TEST degree=8 index=50/96 admitted_total_classes=0 time=4885.070
+C40_D8_SINGLE_CLASS_TEST degree=8 index=51/96 admitted_total_classes=0 time=4892.440
+C40_D8_SINGLE_CLASS_TEST degree=8 index=52/96 admitted_total_classes=0 time=4910.940
+C40_D8_SINGLE_CLASS_TEST degree=8 index=53/96 admitted_total_classes=0 time=4966.110
+C40_D8_SINGLE_CLASS_TEST degree=8 index=54/96 admitted_total_classes=0 time=4990.960
+C40_D8_SINGLE_CLASS_TEST degree=8 index=55/96 admitted_total_classes=0 time=5012.730
+C40_D8_SINGLE_CLASS_TEST degree=8 index=56/96 admitted_total_classes=0 time=5098.200
+C40_D8_SINGLE_CLASS_TEST degree=8 index=57/96 admitted_total_classes=0 time=5143.500
+C40_D8_SINGLE_CLASS_TEST degree=8 index=58/96 admitted_total_classes=0 time=5182.430
+C40_D8_SINGLE_CLASS_TEST degree=8 index=59/96 admitted_total_classes=0 time=5259.620
+C40_D8_SINGLE_CLASS_TEST degree=8 index=60/96 admitted_total_classes=0 time=5304.430
+C40_D8_SINGLE_CLASS_TEST degree=8 index=61/96 admitted_total_classes=0 time=5497.420
+C40_D8_SINGLE_CLASS_TEST degree=8 index=62/96 admitted_total_classes=0 time=5533.630
+C40_D8_SINGLE_CLASS_TEST degree=8 index=63/96 admitted_total_classes=0 time=5584.780
+C40_D8_SINGLE_CLASS_TEST degree=8 index=64/96 admitted_total_classes=0 time=5610.020
+C40_D8_SINGLE_CLASS_TEST degree=8 index=65/96 admitted_total_classes=0 time=5630.070
+C40_D8_SINGLE_CLASS_TEST degree=8 index=66/96 admitted_total_classes=0 time=5672.340
+C40_D8_SINGLE_CLASS_TEST degree=8 index=67/96 admitted_total_classes=0 time=5685.590
+C40_D8_SINGLE_CLASS_TEST degree=8 index=68/96 admitted_total_classes=0 time=5783.620
+C40_D8_SINGLE_CLASS_TEST degree=8 index=69/96 admitted_total_classes=0 time=5839.140
+C40_D8_SINGLE_CLASS_TEST degree=8 index=70/96 admitted_total_classes=0 time=5871.990
+C40_D8_SINGLE_CLASS_TEST degree=8 index=71/96 admitted_total_classes=0 time=5903.740
+C40_D8_SINGLE_CLASS_TEST degree=8 index=72/96 admitted_total_classes=0 time=5962.400
+C40_D8_SINGLE_CLASS_TEST degree=8 index=73/96 admitted_total_classes=0 time=6061.610
+C40_D8_SINGLE_CLASS_TEST degree=8 index=74/96 admitted_total_classes=0 time=6088.110
+C40_D8_SINGLE_CLASS_TEST degree=8 index=75/96 admitted_total_classes=0 time=6103.760
+C40_D8_SINGLE_CLASS_TEST degree=8 index=76/96 admitted_total_classes=0 time=6150.230
+C40_D8_SINGLE_CLASS_TEST degree=8 index=77/96 admitted_total_classes=0 time=6195.700
+C40_D8_SINGLE_CLASS_TEST degree=8 index=78/96 admitted_total_classes=0 time=6260.850
+C40_D8_SINGLE_CLASS_TEST degree=8 index=79/96 admitted_total_classes=0 time=6349.080
+C40_D8_SINGLE_CLASS_TEST degree=8 index=80/96 admitted_total_classes=0 time=6383.170
+C40_D8_SINGLE_CLASS_TEST degree=8 index=81/96 admitted_total_classes=0 time=6397.390
+C40_D8_SINGLE_CLASS_TEST degree=8 index=82/96 admitted_total_classes=0 time=6437.950
+C40_D8_SINGLE_CLASS_TEST degree=8 index=83/96 admitted_total_classes=0 time=6475.420
+C40_D8_SINGLE_CLASS_TEST degree=8 index=84/96 admitted_total_classes=0 time=6500.280
+C40_D8_SINGLE_CLASS_TEST degree=8 index=85/96 admitted_total_classes=0 time=6525.310
+C40_D8_SINGLE_CLASS_TEST degree=8 index=86/96 admitted_total_classes=0 time=6662.360
+C40_D8_SINGLE_CLASS_TEST degree=8 index=87/96 admitted_total_classes=0 time=6814.700
+C40_D8_SINGLE_CLASS_TEST degree=8 index=88/96 admitted_total_classes=0 time=6818.980
+C40_D8_SINGLE_CLASS_TEST degree=8 index=89/96 admitted_total_classes=0 time=6827.620
+C40_D8_SINGLE_CLASS_TEST degree=8 index=90/96 admitted_total_classes=0 time=6852.760
+C40_D8_SINGLE_CLASS_TEST degree=8 index=91/96 admitted_total_classes=0 time=6921.330
+C40_D8_SINGLE_CLASS_TEST degree=8 index=92/96 admitted_total_classes=0 time=6938.550
+C40_D8_SINGLE_CLASS_TEST degree=8 index=93/96 admitted_total_classes=0 time=6963.510
+C40_D8_SINGLE_CLASS_TEST degree=8 index=94/96 admitted_total_classes=0 time=6996.740
+C40_D8_SINGLE_CLASS_TEST degree=8 index=95/96 admitted_total_classes=0 time=7012.210
+C40_D8_SINGLE_CLASS_TEST degree=8 index=96/96 admitted_total_classes=0 time=7051.880
+C40_D8_QUARTIC_PAIR first=1 second=1 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=1 second=2 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=1 second=3 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=1 second=4 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=1 second=5 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=1 second=6 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=1 second=7 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=1 second=8 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=1 second=9 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=1 second=10 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=1 second=11 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=1 second=12 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=1 second=13 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=1 second=14 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=1 second=15 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=1 second=16 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=1 second=17 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=1 second=18 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=1 second=19 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=1 second=20 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=1 second=21 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=1 second=22 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=1 second=23 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=1 second=24 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=1 second=25 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=1 second=26 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=1 second=27 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=1 second=28 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=1 second=29 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=1 second=30 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=1 second=31 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=1 second=32 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=2 second=1 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=2 second=2 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=2 second=3 in_rational_image=true time=7051.960
+C40_D8_QUARTIC_PAIR first=2 second=4 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=2 second=5 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=2 second=6 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=2 second=7 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=2 second=8 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=2 second=9 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=2 second=10 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=2 second=11 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=2 second=12 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=2 second=13 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=2 second=14 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=2 second=15 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=2 second=16 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=2 second=17 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=2 second=18 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=2 second=19 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=2 second=20 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=2 second=21 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=2 second=22 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=2 second=23 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=2 second=24 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=2 second=25 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=2 second=26 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=2 second=27 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=2 second=28 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=2 second=29 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=2 second=30 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=2 second=31 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=2 second=32 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=4 second=1 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=4 second=2 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=4 second=3 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=4 second=4 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=4 second=5 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=4 second=6 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=4 second=7 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=4 second=8 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=4 second=9 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=4 second=10 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=4 second=11 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=4 second=12 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=4 second=13 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=4 second=14 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=4 second=15 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=4 second=16 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=4 second=17 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=4 second=18 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=4 second=19 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=4 second=20 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=4 second=21 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=4 second=22 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=4 second=23 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=4 second=24 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=4 second=25 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=4 second=26 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=4 second=27 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=4 second=28 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=4 second=29 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=4 second=30 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=4 second=31 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=4 second=32 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=5 second=1 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=5 second=2 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=5 second=3 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=5 second=4 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=5 second=5 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=5 second=6 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=5 second=7 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=5 second=8 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=5 second=9 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=5 second=10 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=5 second=11 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=5 second=12 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=5 second=13 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=5 second=14 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=5 second=15 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=5 second=16 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=5 second=17 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=5 second=18 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=5 second=19 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=5 second=20 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=5 second=21 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=5 second=22 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=5 second=23 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=5 second=24 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=5 second=25 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=5 second=26 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=5 second=27 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=5 second=28 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=5 second=29 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=5 second=30 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=5 second=31 in_rational_image=false time=7051.960
+C40_D8_QUARTIC_PAIR first=5 second=32 in_rational_image=false time=7051.960
+C40_OCTIC_CLASSIFICATION_DONE single_representatives=[ 4, 9, 10, 51, 96 ] single_admitted_classes=[ 0, 0, 0, 0, 0 ] quartic_pairs=128 pair_members=1 candidate_classes=1 known_octic_classes=4 unknown_noncuspidal_classes=0 unknown_cuspal_classes=0 complete=true time=7052.010

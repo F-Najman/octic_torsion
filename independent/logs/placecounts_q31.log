@@ -1,0 +1,11 @@
+FIELD q=31 e=1 orbits=31 cputime=0.010
+FIELD q=31 e=2 orbits=496 cputime=0.470
+MASS_ERRORS 0
+POINTS X1(10,10) q=31: [ 0, 1620 ]
+PLACES X1(10,10) q=31: [ 0, 810 ]
+QUAL X1(10,10) q=31 e=2: #iso classes of curves=5; (N, invariants, j-orbit length, #Aut) {*
+<900, [ 30, 30 ], 1, 2>^^2,
+<900, [ 30, 30 ], 1, 4>,
+<1000, [ 10, 100 ], 1, 2>^^2
+*}
+PLACECOUNTS8_DONE

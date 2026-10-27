@@ -1,0 +1,3 @@
+DIRECT_RR_CLASS_IDENTITY trials=5 degree=0 class=[ 0, 0, 0, 2, 7, 1, 459, 380, 0 ] Edegree=13 Rdegree=13 both_orders_exact=true
+DIRECT_RR_CLASS_IDENTITY trials=3 degree=0 class=[ 0, 0, 0, 1, 8, 7, 321, 352, 0 ] Edegree=13 Rdegree=13 both_orders_exact=true
+DIRECT_RR_CLASS_IDENTITY trials=2 degree=0 class=[ 1, 0, 1, 3, 5, 13, 265, 36, 0 ] Edegree=13 Rdegree=13 both_orders_exact=true

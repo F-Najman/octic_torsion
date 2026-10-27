@@ -1,0 +1,31 @@
+if assigned Shard then Shard:=StringToInteger(Shard);else Shard:=0;end if;
+assert Shard in [0..3];NShards54:=4;
+load "C54/C54_via27_preflight.m";
+SetQuitOnError(true);
+Attach("C54/C54_coordinate_place.m");
+tc54:=Cputime();data8:=eval Read("C54/data/C54_good8_pointdata.txt");def8,records8:=Explode(data8);
+assert #records8 eq 3579;R8:=PolynomialRing(GF(5));f8:=R8!def8;assert IsIrreducible(f8) and Degree(f8) eq 8;
+K8<a8>:=ext<GF(5)|f8>;FF5:=FunctionField(C5);out8:=Sprintf("C54/data/C54_good8_classes_shard%o.py",Shard);
+Write(out8,Sprintf("shard = %o\nrelations2 = %o\nrelations5 = %o\ncusp2 = %o\ncusp5 = %o\ncandidate2 = %o\n",Shard,[Eltseq(r):r in Rows(RelationMatrix(G2))],[Eltseq(r):r in Rows(RelationMatrix(G5))],[Eltseq(v):v in qc2],[Eltseq(v):v in qc5],[Eltseq(v):v in candidate2]) : Overwrite:=true);
+outclass8:=Open(out8,"a");fprintf outclass8,"tests = [\n";
+tested8:=0;members8:=0;passing8:=0;
+for i in [Shard+1..#records8 by NShards54] do
+ xycoeff,n,r2,jcoeff,nr3:=Explode(records8[i]);assert n mod 54 eq 0 and r2 in [1,3] and nr3 in [1,4];
+ xy:=[Evaluate(R8!co,a8):co in xycoeff];jj:=Evaluate(R8!jcoeff,a8);assert Degree(MinimalPolynomial(jj,GF(5))) eq 8;
+ P:=MDPlaceCoordinateFullDegree([FF5.1,FF5.2],xy);assert Degree(P) eq 8;
+ PP:=LevelStructure(X5,P)`P;EP:=Curve(PP);assert 27*PP eq EP!0 and 9*PP ne EP!0;
+ assert MinimalPolynomial(jInvariant(EP),GF(5)) eq MinimalPolynomial(jj,GF(5));
+ b2e,b4e,b6e,b8e:=Explode(bInvariants(EP));RR<TT>:=PolynomialRing(BaseRing(EP));assert #Roots(4*TT^3+b2e*TT^2+2*b4e*TT+b6e) eq r2;
+ a:=b5(Divisor(P)-8*Divisor(c05));member:=a in H5;passes:=false;im2:=[];preimage:=[];
+ if member then
+  members8+:=1;v:=a@@h5;assert h5(v) eq a;im2:=Eltseq(h2(v));preimage:=Eltseq(v);
+  if h2(v) in candidate2 then passes:=true;passing8+:=1;end if;
+ end if;
+ fprintf outclass8,"[%o,%o,%o,%o,%o,%o],\n",i,Eltseq(a),member select 1 else 0,passes select 1 else 0,im2,preimage;
+ tested8+:=1;
+ if tested8 mod 25 eq 0 then printf "OCTIC54_GOOD8_CLASS_PROGRESS shard=%o tested=%o members=%o passing=%o time=%o\n",Shard,tested8,members8,passing8,Cputime(tc54);end if;
+end for;
+fprintf outclass8,"]\ncomplete = True\n";delete outclass8;
+assert tested8 eq # [i:i in [1..#records8]|(i-1) mod NShards54 eq Shard];
+printf "OCTIC54_GOOD8_CLASS_DONE shard=%o tested=%o members=%o passing=%o complete=true time=%o\n",Shard,tested8,members8,passing8,Cputime(tc54);
+quit;

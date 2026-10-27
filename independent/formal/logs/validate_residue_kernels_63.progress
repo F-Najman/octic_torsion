@@ -1,0 +1,28 @@
+start
+case 63 genus 49 cusp degrees [ 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3, 3, 3, 6 ]
+EXPKERNEL cusp 1 deg 3 mmax 2 codims [ 3, 6 ] [23.100 s, total 60.810 s]
+EXPKERNEL cusp 2 deg 1 mmax 8 codims [ 1, 2, 3, 4, 5, 6, 7, 8 ] [2.770 s, total 63.580 s]
+EXPKERNEL cusp 3 deg 1 mmax 8 codims [ 1, 2, 3, 4, 5, 6, 7, 8 ] [3.720 s, total 67.300 s]
+EXPKERNEL cusp 4 deg 1 mmax 8 codims [ 1, 2, 3, 4, 5, 6, 7, 8 ] [3.680 s, total 70.980 s]
+EXPKERNEL cusp 5 deg 3 mmax 2 codims [ 3, 6 ] [8.280 s, total 79.260 s]
+EXPKERNEL cusp 6 deg 1 mmax 8 codims [ 1, 2, 3, 4, 5, 6, 7, 8 ] [5.830 s, total 85.090 s]
+EXPKERNEL cusp 7 deg 1 mmax 8 codims [ 1, 2, 3, 4, 5, 6, 7, 8 ] [8.220 s, total 93.310 s]
+EXPKERNEL cusp 8 deg 1 mmax 8 codims [ 1, 2, 3, 4, 5, 6, 7, 8 ] [11.060 s, total 104.370 s]
+EXPKERNEL cusp 9 deg 6 mmax 1 codims [ 6 ] [14.400 s, total 118.770 s]
+EXPKERNEL cusp 10 deg 2 mmax 4 codims [ 2, 4, 6, 8 ] [11.630 s, total 130.400 s]
+EXPKERNEL cusp 11 deg 2 mmax 4 codims [ 2, 4, 6, 8 ] [21.500 s, total 151.900 s]
+EXPKERNEL cusp 12 deg 2 mmax 4 codims [ 2, 4, 6, 8 ] [14.770 s, total 166.670 s]
+EXPKERNEL cusp 13 deg 3 mmax 2 codims [ 3, 6 ] [31.300 s, total 197.970 s]
+EXPKERNEL cusp 14 deg 3 mmax 2 codims [ 3, 6 ] [28.410 s, total 226.380 s]
+EXPKERNEL cusp 15 deg 3 mmax 2 codims [ 3, 6 ] [29.170 s, total 255.550 s]
+EXPKERNEL cusp 16 deg 3 mmax 2 codims [ 3, 6 ] [30.630 s, total 286.180 s]
+EXPKERNEL cusp 17 deg 3 mmax 2 codims [ 3, 6 ] [30.710 s, total 316.890 s]
+EXPKERNEL cusp 18 deg 3 mmax 2 codims [ 3, 6 ] [27.520 s, total 344.410 s]
+EXPKERNEL cusp 19 deg 3 mmax 2 codims [ 3, 6 ] [307.130 s, total 651.540 s]
+EXPKERNEL cusp 20 deg 1 mmax 8 codims [ 1, 2, 3, 4, 5, 6, 7, 8 ] [13.990 s, total 665.530 s]
+EXPKERNEL cusp 21 deg 1 mmax 8 codims [ 1, 2, 3, 4, 5, 6, 7, 8 ] [53.210 s, total 718.740 s]
+EXPKERNEL cusp 22 deg 1 mmax 8 codims [ 1, 2, 3, 4, 5, 6, 7, 8 ] [113.430 s, total 832.170 s]
+expansion kernels: 103 spaces in 794.580 s
+Riemann-Roch kernels: 103 spaces in 782.540 s
+RESULT case 63: expansion and Riemann-Roch kernel spaces agree in 103 of 103 cases
+VALIDATE_DONE case 63 (1614.810 s)

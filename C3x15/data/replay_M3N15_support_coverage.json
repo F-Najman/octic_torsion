@@ -1,0 +1,35 @@
+{
+  "group": [
+    3,
+    15
+  ],
+  "relative_degree": 4,
+  "F4_all_cuspal_divisors": 5000,
+  "F4_NC_quartics": 102,
+  "F7_single2_plus_rational_cusp_pair": 3264,
+  "F7_single3_plus_rational_cusp": 2304,
+  "F7_single4": 396,
+  "F7_quadratic_pairs_including_repetition": 300,
+  "F7_total": 6264,
+  "Newton_closed_F4": [
+    16,
+    8,
+    0,
+    102
+  ],
+  "Newton_closed_F7": [
+    16,
+    24,
+    144,
+    400
+  ],
+  "gcd_odd_J_orders": 5971968,
+  "global_cusp_group_order": 1990656,
+  "quotient_order_divides": 3,
+  "all_60_matches_recomputed_from_actual_relations": true,
+  "unmultiplied_global_classes": 12,
+  "all12_one_full_Aut48_orbit": true,
+  "coarse_input_sha256": "8e5c59f9487c1796021033514bc8de1bf45734c24a9a0e3cb5f2a630ea8692fa",
+  "necessity_of_p13_p19_point_refinements": false,
+  "boundary": "Native exact point-to-class maps are those computed in the bound Magma source. This checker independently verifies every support pattern/index, Newton count and integer-class match."
+}

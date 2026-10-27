@@ -1,0 +1,1442 @@
+{
+  "complete": true,
+  "claim": "No C4 x C20 subgroup over an octic number field",
+  "field": "Q(i)",
+  "relative_degree": 4,
+  "genus": 25,
+  "geometric_gonality_lower_bound": 6,
+  "rank": 0,
+  "coverage": {
+    "complete": true,
+    "NC_counts": [
+      96,
+      320,
+      888
+    ],
+    "Aut96_orbit_sizes": [
+      [
+        48,
+        48
+      ],
+      [
+        96,
+        96,
+        96,
+        32
+      ],
+      [
+        48,
+        48,
+        96,
+        12,
+        96,
+        96,
+        96,
+        96,
+        96,
+        96,
+        96,
+        12
+      ]
+    ],
+    "cusp_audit": {
+      "geometric": 48,
+      "closed_degrees": {
+        "1": 24,
+        "2": 12
+      },
+      "rational_cusps_global_over_Qi": 24,
+      "admissible_q_for_complement_1": [
+        13,
+        17,
+        29
+      ],
+      "admissible_q_for_complement_2": [
+        29
+      ]
+    },
+    "single_supports": 18,
+    "quadratic_pairs_including_repetition": 192,
+    "witness_records": 214,
+    "remaining_before_global_completion": [
+      [
+        1,
+        4,
+        4,
+        0
+      ],
+      [
+        1,
+        4,
+        12,
+        0
+      ],
+      [
+        2,
+        2,
+        1,
+        82
+      ],
+      [
+        2,
+        2,
+        2,
+        84
+      ]
+    ],
+    "global_completion": "C420_compact_manifest.json",
+    "stabilizer_orders": [
+      8,
+      8,
+      4,
+      4
+    ],
+    "status": "All4 remaining cases excluded by non-CM stabilizers plus compact Qi quotient; CM excluded by CCRS."
+  },
+  "shared_dependencies": 271,
+  "primary_native_evidence": "Complete18single+82pair prefix plus disjoint110pair continuation;9additionalq29 tests; exactall96stabilizers.",
+  "independent_evidence": "Fresh1304place enumeration twice, independentintegerfinitefieldAut96/Newton/cusp/coverage/stabilizer replays, compact8point native twice plus symbolic replay.",
+  "optional_full_reproducer": "reproduce_C420.py; not required to replace the complete historical coverage",
+  "files": [
+    {
+      "path": "work/degree8/cyclic_sieves/odd_prime_criterion.tex",
+      "sha256": "a4474aee0a416eab75af14da63cbf46e4d0a3b71f42bfa9869509ffb50d0d7bc"
+    },
+    {
+      "path": "work/degree8/noncyclic/M4N20_D4_prefix_status.json",
+      "sha256": "9ef2afe61f85368b9a3a088e353651598f1d52e1939d1611d556cbe28cc3c1d7"
+    },
+    {
+      "path": "work/degree8/noncyclic/M4N20_pair_tail_root.log",
+      "sha256": "76139d9b6c2e33418ee178979fe655fa9814224e9b533b22d8f0dda93899736a"
+    },
+    {
+      "path": "work/degree8/noncyclic/M4N20_pair_tail_root.m",
+      "sha256": "9231a53be2d61115a8db2fafb2dee8388fd5c2430d5a5adc824eb0487d4b6b96"
+    },
+    {
+      "path": "work/degree8/noncyclic/M4N20_pair_tail_root_arithmetic.txt",
+      "sha256": "ff21e3f4910e42de25c4c46e0aeb84496d57e0644c6c54ef4068f8b660d4995f"
+    },
+    {
+      "path": "work/degree8/noncyclic/M4N20_q29_residuals_root.log",
+      "sha256": "d5a8252e71bb21cd919aebb202639d9ac3fbe2608d32d13bd15e7031f2b6829f"
+    },
+    {
+      "path": "work/degree8/noncyclic/M4N20_q29_residuals_root.m",
+      "sha256": "1e9fe086826428032005d42d6c56ab3213f8a4fe6a043bbba5e2032cf56f642d"
+    },
+    {
+      "path": "work/degree8/noncyclic/M4N20_q29_residuals_root_arithmetic.txt",
+      "sha256": "f77e995cffaab82a9d78b819a57055a8c36f91c51c2fa601440b1462e4f35442"
+    },
+    {
+      "path": "work/degree8/noncyclic/M4N20_stabilizers_root.log",
+      "sha256": "91d88232db26948cc31594022bd28e623245af410ac89118ee18ae0501434842"
+    },
+    {
+      "path": "work/degree8/noncyclic/M4N20_stabilizers_root.m",
+      "sha256": "a4c31b75701014450fe27a056f82ce74ef3ff26e94318a7ca8eb77c1189c71cc"
+    },
+    {
+      "path": "work/degree8/noncyclic/M4N20_stabilizers_root_arithmetic.txt",
+      "sha256": "37ca64b3ccd799323bd7c1c79f4625aed7b66a8de96f66f2af8e9c3d19ab09b2"
+    },
+    {
+      "path": "work/degree8/noncyclic/cm_degree8.tex",
+      "sha256": "36648d02deebdfde3dda98f2a14cb3e40d84f659a6cd37eeb488ed3a9888b53c"
+    },
+    {
+      "path": "work/degree8/noncyclic/cm_degree8_classification.json",
+      "sha256": "3bdfba0ab7e9a32bb9214537c3202c5e02f8ec7d6009201b94a630b909a62348"
+    },
+    {
+      "path": "work/degree8/noncyclic/cusp_conditions_relative.json",
+      "sha256": "a5c15bd2c4c579d63594688af16a9f186fcede54d1b13afa19d39cfaa543e1b7"
+    },
+    {
+      "path": "work/degree8/noncyclic/cusp_conditions_relative.py",
+      "sha256": "d42caf94009ac857c6d1d50fe234894edf9647c97f104523448bb05075393a47"
+    },
+    {
+      "path": "work/degree8/noncyclic/deps/fast_diamond_hash_m2.m",
+      "sha256": "ea1b244ee1fe9434653524bd4a944e0af38665e0a92b666226e77b3334982822"
+    },
+    {
+      "path": "work/degree8/noncyclic/deps/fast_full_aut_hash_m4_16.m",
+      "sha256": "b2880d76749769967f0042beca6d11d4baea73fe6a71a398a813c20f2ed3691b"
+    },
+    {
+      "path": "work/degree8/noncyclic/deps/fast_full_aut_hash_m4_16_relative.m",
+      "sha256": "e09a25326393e8be7359583b9ffed25237a0a49e38d1487e7f32e9459af75061"
+    },
+    {
+      "path": "work/degree8/noncyclic/deps/fast_full_aut_hash_m4_20.m",
+      "sha256": "7b9c22215585fafa3df731fc93dea171da2a42afcc611d8721f6dd9c6f9429a3"
+    },
+    {
+      "path": "work/degree8/noncyclic/preflight_4_20_D4_Aut96.log",
+      "sha256": "b3c9dfabf82bbb59e31ea954fc4920c4ffa259e4d86b4acbb4345ac52a6cc1f4"
+    },
+    {
+      "path": "work/degree8/noncyclic/preflight_4_20_D4_Aut96.m",
+      "sha256": "ff2652cd77dc7f5ebe62172733e68fa962dcb69dfa6d63f9b6b2564c25225f15"
+    },
+    {
+      "path": "work/degree8/noncyclic/preflight_4_20_D4_Aut96_arithmetic.txt",
+      "sha256": "13a713ad714921df017169ea0e8d70467e0ece3944126935a9013591507445a0"
+    },
+    {
+      "path": "work/degree8/noncyclic/preflight_4_20_D4_Frob.log",
+      "sha256": "c052a0cf811f35fcf3f9ef60a4e1962476781916eb1767d204e01464f66c90f9"
+    },
+    {
+      "path": "work/degree8/noncyclic/preflight_4_20_D4_Frob.m",
+      "sha256": "5b449a5bf0e8bf2631bc879bc40ec3e79630608bc450e474697fbb55b8c19d6e"
+    },
+    {
+      "path": "work/degree8/noncyclic/preflight_4_20_D4_Frob_arithmetic.txt",
+      "sha256": "d0beb924c5694058e795f87f5d42b4807ed69e97547d5e6ecab6e92736d992ae"
+    },
+    {
+      "path": "work/degree8/noncyclic/refs/CCRS_1307.6174.pdf",
+      "sha256": "d8b29e10bdbea9175500819ce27524b95573e63ac6efc1d11208852d065c1866"
+    },
+    {
+      "path": "work/degree8/noncyclic/refs/CCRS_1307.6174.txt",
+      "sha256": "341b4de24d5c8551e1dbdc400e8f88dbfac3a8eacb1c40040d45a4f4b9f678d5"
+    },
+    {
+      "path": "work/degree8/noncyclic/refs/Derickx_Sutherland_1608.07549.pdf",
+      "sha256": "295e42c02a45b673d4cb30965954439bfc9b7020ed8486f1ab6522d1ea7cf156"
+    },
+    {
+      "path": "work/degree8/noncyclic/refs/Derickx_Sutherland_1608.07549.txt",
+      "sha256": "61c7c05d4e212a6fabd2468331d9d8c8718f03cede97ce701e463926b423daab"
+    },
+    {
+      "path": "work/degree8/noncyclic/sieve_4_20_D4_Aut96.log",
+      "sha256": "f3c4f9dbc6f23d7626b9c3aa6cea33838588d8eb89806e0c0fbeedc82a117129"
+    },
+    {
+      "path": "work/degree8/noncyclic/sieve_4_20_D4_Aut96.m",
+      "sha256": "c46c916cc6000cac5f1e3bd99cfdcc3908cdc6d442468cf524bde2239b851661"
+    },
+    {
+      "path": "work/degree8/noncyclic/sieve_4_20_D4_Aut96_arithmetic.txt",
+      "sha256": "ad8d424448ebbab54de09085d56b4741b171ad9c70f0dda7b7eaa9ec38b5ae62"
+    },
+    {
+      "path": "work/degree8/shared/degree8_snapshot_manifest.json",
+      "sha256": "cef00313264d7f8debce88bfc0e9f50b7b80bfa7585a79deef75805deb6d66c0"
+    },
+    {
+      "path": "work/degree8/shared/fast_hecke.m",
+      "sha256": "0fd610f20bbf5afed9f44e20243cf12375c20d14a0e1b39c8e0d26383f6951a7"
+    },
+    {
+      "path": "work/degree8/shared/fast_hecke.sig",
+      "sha256": "7825d52342582741eab41d5e414b493948013f3f212f81144c26a0eddca0dfd0"
+    },
+    {
+      "path": "work/degree8/shared/fast_hecke_11.m",
+      "sha256": "a18f21189cba3d5d3a19888012729bde2a4ec0e1839dd770335b79b5149af9cb"
+    },
+    {
+      "path": "work/degree8/shared/fast_hecke_11.sig",
+      "sha256": "80c78c6d0c9c0a4470fef04f8215bd90491fc34c886eace7a42e8fcb2af124e3"
+    },
+    {
+      "path": "work/degree8/shared/fast_hecke_cyclic_commonzero.m",
+      "sha256": "73e367f6849235036f3fecd9e31850927e93bec6a0afccf468b0770bc0fe8de4"
+    },
+    {
+      "path": "work/degree8/shared/fast_hecke_cyclic_commonzero.sig",
+      "sha256": "4d6b9f2e107247df21465aa04000e4a8c738160a76a231971cfdcc99be207368"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/.gitignore",
+      "sha256": "2f3007e33c6825bebf64be0afbc94c173ae4c671810661307372a6b400665ad8"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/.gitmodules",
+      "sha256": "82030461733d79c5b5d48506ae2d8a6780cd3470c2479e610f1058d296bb305b"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/LICENSE",
+      "sha256": "de33dba20e562aa9800d97371351ff738181a155bbba218960299c71f1d40392"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/Magma/.gitignore",
+      "sha256": "a95b7aa6682dd779a966e7bb3856bfaca23270355838ee4bbe5b5cd1dea59959"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/Magma/LICENSE",
+      "sha256": "17d40e7907ede450b898ed8ccbc4d99e43b6c1708416827b3b530ba038a39cbf"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/Magma/README.md",
+      "sha256": "beeb11e76c433a0f8de01ca91e64356393195172e96bef46207c860e071ffa24"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/Magma/chars.m",
+      "sha256": "4ba0d71a2e5ec126c7b8443ff6819dffdc9400db5895622a1203c89cc6d7f65b"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/Magma/chars.sig",
+      "sha256": "cde98e4c60fbfa668bfb9ff918959d63554d3fe0c56cd1c797d607a3a42ef13e"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/Magma/gl2base.m",
+      "sha256": "0dc6e1c47699ba10deb974f3138b8436dbc2c4cd0dcdcbb17bc5e4d8875dc783"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/Magma/gl2base.sig",
+      "sha256": "3f0281d9a908e3d21bef234c4b2a1d1a9d35dd3a014814662ca4ec41788f6442"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/Magma/magma.spec",
+      "sha256": "19eb16416c2febd41a09f10c2da05a5fb01db4974d3a6ce8d0b82f1256d85813"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/Magma/tracehash.m",
+      "sha256": "53f9c1365d9298735fda7fd90aa4fc2b3e19ba36ace6d7927d90b3a523ccf817"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/Magma/tracehash.sig",
+      "sha256": "bf7d3d1472a98d46162a2d9998e594ce1313d617dd3e799ed5774214446ab961"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/Magma/utils.m",
+      "sha256": "491363cbaa93262296845247320d24f7a9983788f98015d68bb3dec579d7a1d5"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/Magma/utils.sig",
+      "sha256": "4477561f4716f0f9a5738ad13f9c35978c38c14f4380a87379c36eda9d60b365"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/README.md",
+      "sha256": "0a7e365beecd46d9d2b3be73ca1c3e31bd545af5355a89a07caf2e7a417b7472"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/X1_N_equations.m",
+      "sha256": "4a344f4e1ca7c09a8d9a61828912ca316a39e5feebc04cfe3051dbf9843c94a7"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/X_1_m_n.m",
+      "sha256": "aa819ef2e6d511e53db2af794247aa58d3d1ba29bb7c06f65718757bffe43a0f"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/X_1_n.m",
+      "sha256": "543dff61c0a9028dc4cf23533106125c2ccb5af50fd6ace51ad8db2cda7b7862"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/assorted_functions.m",
+      "sha256": "4b01be31c8472937541163836c4b7d64a0b020e940ea2a90497995ff9785a573"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/computations/derickx-X1_16_classgroups/README.md",
+      "sha256": "1a96494edb4b7fc8b3732d1284ef9be9afbc3978638cc6f6f85f99969830e329"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/computations/derickx-X1_16_classgroups/logs/order_2.txt",
+      "sha256": "93845b7abec7de4cfbb45fe3b9acb2d8741248b9a933c674345fab6b352e90d8"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/computations/derickx-X1_16_classgroups/logs/order_5.txt",
+      "sha256": "fa0c49c5a057f53b9ae3348de58ba393d623a1696bc59bf4bee5c4ae25ea0639"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/computations/derickx-X1_16_classgroups/logs/verify_joblog.txt",
+      "sha256": "6b2a26bb58bedc78b4dfa3d48acfd23f71c0627a114fc6ab0db0974567cc1e4b"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/computations/derickx-X1_16_classgroups/order_2.m",
+      "sha256": "23cbbb6f93bf0c4849872e8f8ab97189142806d9ab6149fa7664b84928953e8b"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/computations/derickx-X1_16_classgroups/order_5.m",
+      "sha256": "6d5b28bc4cd0c831cfb47338ad0909c02c5d4ba75f8ac4e17a32d0be906caf54"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/computations/derickx-X1_16_classgroups/verify_all.sh",
+      "sha256": "8c4792c0dd5c59b1d5a469d36338837f6d724c92b2524e5b7c9722652a6995fc"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/computations/derickx_stoll_strange_characters/parallel_computation.sh",
+      "sha256": "a04feaddacc46164ae588dab35990663ab170657c276cf4f7bcf12bcb2818772"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/computations/derickx_sutherland-quintic_and_sextic_torsion/LRatios for positive rank J1(N).txt",
+      "sha256": "750fb5dba780a5bee9ea754d366d06a17ca9cd07cb1982d9086d2c26e06ea42f"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/computations/derickx_sutherland-quintic_and_sextic_torsion/d6m2n12.txt",
+      "sha256": "48fc8ade715e70ea728b22828fe8dfc4a6ad528fdad87407e48fcbd117b8c6b6"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/computations/derickx_sutherland-quintic_and_sextic_torsion/d6m3n5.txt",
+      "sha256": "a3398a86686f7e6c1a4365043322cec3621dd8f8dea8491b0d80f46b16f8b04d"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/computations/derickx_sutherland-quintic_and_sextic_torsion/d6m4n3.txt",
+      "sha256": "bd52786291c2d74d1f2fa5ee7be8f645b0d2d57ed8dd3b1ed553e5e89227adbf"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/computations/derickx_sutherland-quintic_and_sextic_torsion/d6m6n2.txt",
+      "sha256": "752e7cf15737202128b6f50b6ab90c99071313ac9723ceb9b3459938ed4dcc31"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/computations/derickx_sutherland-quintic_and_sextic_torsion/rank_0_of_X_1(m,mn).txt",
+      "sha256": "eb78db446cb4f3beab7087298114deaee3b67b7cda96b6dd096210eb5c936812"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/elliptic_curve_chabauty.m",
+      "sha256": "c94d47f49aba999b9627d562bd213dbeaefff5510a311439480241a36a1b7afb"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/examples/degeneracy_maps.m",
+      "sha256": "19455efcbf1bad9a11ed58e743b7297bd9287c700a02e1896774a5344a19400e"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/generate_candidates.m",
+      "sha256": "dbc2a79644d984c70f2cf770943735bbf48bb0f8cb9e65b46eeb9d6119b6d6a7"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/gonality.m",
+      "sha256": "a2e40222a87221e1df3bd542f5e8e6a8a615910aa1fac348e11d5c9cc5986513"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/hecke_operators.m",
+      "sha256": "f2d85b419177acaa6d7dcc03faff9fe73a4faf1a46f54a8d64ce619956e97bfc"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/low_degree_places.m",
+      "sha256": "782c2edd7942591991908a8991a8f4a87b38ae2f669c3b84dd73c4c2bfd24785"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/makefile",
+      "sha256": "b796710dc30b0074d37a25b36cdc615c7a26614517e2e9450d9c600010f42b9a"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_m_n/README.txt",
+      "sha256": "4d2ce5e8fa19160fdee211686ca6297a357f261ba3b4f2e33a3cd7d2a7546dd6"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_m_n/X1_2_10.txt",
+      "sha256": "5e2bd328ec769af9f410fe6a87c63047e2f46fa70113afaf4b28a5d636fa6011"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_m_n/X1_2_12.txt",
+      "sha256": "26bdea651a4e33b169e1761f4347d6a7a4535bd6e33bbb34153c7499fdddc7b2"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_m_n/X1_2_14.txt",
+      "sha256": "2e8c3509540196ecc4eee204205fcb45ad99212796dfe652512ae15e12edf293"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_m_n/X1_2_16.txt",
+      "sha256": "48a8729c8e8c7b608717a7d150f917e6bfb9e555837f1194963aa3f0d67f775b"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_m_n/X1_2_18.txt",
+      "sha256": "152be07e6326532e55fe35761072a6187e35e809ad1b89ec9b19906e5fbb2dce"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_m_n/X1_2_20.txt",
+      "sha256": "44ce972be7498b65c49fdf3eec29458961821d48dd9656c1b9c2a7e162ced3fd"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_m_n/X1_2_22.txt",
+      "sha256": "9a2ba8a0dac15110f996664374c469364cbf5c41e01a6e5ac566d7f8ee4cee07"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_m_n/X1_2_24.txt",
+      "sha256": "f538cf6e1a67fa8d8606f089ebe549371c1bf4a77d2194917bc62bde488faf44"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_m_n/X1_2_26.txt",
+      "sha256": "95e449761daf328b5b1d7fcf6fb993db722840bfe48f7ea6e17d9c4adc02f04a"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_m_n/X1_2_28.txt",
+      "sha256": "fc551fa26420ac50d2222eee5a3b45c4c2f0b424fa715b1b568a262ca34b10ac"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_m_n/X1_2_30.txt",
+      "sha256": "878a2b5cf0ceb396c789a3b25285a9df2c32caf31ff0f258fba24b71012105f8"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_m_n/X1_2_32.txt",
+      "sha256": "991f6be0d4905f3299daec866cc6d998756bedaad58f97a05cbcb3ef0f1b7389"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_m_n/X1_2_34.txt",
+      "sha256": "37feb4523009a12cc8d778ce3c92299beff5acaab00613748252c0f4cc7002a5"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_m_n/X1_2_36.txt",
+      "sha256": "4bf05451bcbfc19ef28a87cf917f23b2c5b5caccc314a2ef764d128e5ed89c4f"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_m_n/X1_3_12.txt",
+      "sha256": "7c8113d38e59ddc5d5a8f933e0253f6d194fd192bceb132c6d7654fbd5844442"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_m_n/X1_3_15.txt",
+      "sha256": "f76ab73f7b2604de31857d9917f7b7f8c2c733695c64b5a1b2dadba806c1e264"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_m_n/X1_3_18.txt",
+      "sha256": "f2586405410895383f2301343f3fb74c239c096ecf5919d6f567f4040e26f27a"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_m_n/X1_3_21.txt",
+      "sha256": "01050b519b80a7d9f0eb50f9c7873565a9ebc69b56336b8f60eef5de45f81334"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_m_n/X1_3_24.txt",
+      "sha256": "b40d728aeed27d81d4a581e7daa680ad42651d94b787e7aa6578837778a41b2d"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_m_n/X1_3_27.txt",
+      "sha256": "a2e18f069c09dc7a250f4420aab534c07e043f185c79118d0497b9c7c28ac141"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_m_n/X1_3_3.txt",
+      "sha256": "de6f5b537d9e7a871c57209a1325868ff650404a53e404c9aafad2d3f6b21659"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_m_n/X1_3_30.txt",
+      "sha256": "b5e2094c2eaef664b143ce622f451508b3ad47b72814d3bac3934c0eb99bc116"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_m_n/X1_3_33.txt",
+      "sha256": "7ef52da53e7df9032be961bf68189bbc9c7d36a5c0333e35ae6d8ddeee419aa2"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_m_n/X1_3_36.txt",
+      "sha256": "0f74b9e4942b174a1f8a9b17e47464a76729bc07b61d40035d6cbdc2235b7848"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_m_n/X1_3_6.txt",
+      "sha256": "1de3d67aba86a6b2e23fb4dd62047a8c8829e31c71d16fa246643cc6a7d39c90"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_m_n/X1_3_9.txt",
+      "sha256": "0d20aad7ed110e36256c3eaa84d899d39da08c9f7b909f22c7d43ab8728b9232"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_m_n/X1_4_12.txt",
+      "sha256": "303126c90d116678def63e6f36cb43061976a76aa1574c7600c1413d0b209da6"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_m_n/X1_4_16.txt",
+      "sha256": "ddc46e9ebe8a65d466c4151eb1bc2e83192249773f8da49921c7880229dd7f8f"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_m_n/X1_4_20.txt",
+      "sha256": "14b80e5d2db940208b4496133e2e33442e118d0bee2a477c3f028a3e190647d5"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_m_n/X1_4_24.txt",
+      "sha256": "125678d239c53e94f2a652d0a9e70f75fba68ac10fb40b8d1a5564e0ad3ad484"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_m_n/X1_4_28.txt",
+      "sha256": "0d9569361d9ad147aaebe056ab1f1b21727851b3f2f0e9cfb66c2b7a77ac78d3"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_m_n/X1_4_32.txt",
+      "sha256": "96cb81c3a50bc0856193e197f3f54b2bbe7191145776f72a8c7fc8e977ce3ae4"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_m_n/X1_4_36.txt",
+      "sha256": "d7440aee6a98413aa3c5b2ac298d141c5f83334dd0f111e50225042956aed109"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_m_n/X1_4_4.txt",
+      "sha256": "f784b4a66a4f5b718316dd0899d311c7166439f8abc627c9241e84f36aa39fb0"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_m_n/X1_4_8.txt",
+      "sha256": "77951e13c030cff92f73e13ede3f790a8c2c99a951a61c797b89766f3195739c"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_m_n/X1_6_12.txt",
+      "sha256": "a52e86f8e8622f769d78203cb7519e96ca3ecff5dcab49c812c67e8736a1151d"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc10.txt",
+      "sha256": "511283e868db4b943ffa30e6dcee5d32ec13cd0a7e76765779a22df76f1e0eaa"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc100.txt",
+      "sha256": "e5d0a20e93b9ef28345e46d50f012bcb597c0a019a9b96165bed0fbab7c47aa3"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc101.txt",
+      "sha256": "691957a3ccd0be1e3c11e55b5bdf37d587d3a926be8f8fef01017ee98bd16df0"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc102.txt",
+      "sha256": "1f646e6d53b463df0035f2307865bbef463684186db501b6162bfb3176a782bc"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc103.txt",
+      "sha256": "8b018cd8888a01d6861a8f4a98c801218c41f300eba1a83804e5ee1c0d0cbd87"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc104.txt",
+      "sha256": "43152b66bf01a32bfec169988c7fad26dbcc0ee1fca50215c3baf1da3db876b1"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc105.txt",
+      "sha256": "965da57573058612923569f72ff4522938ae668598b82cf78ddccb3c87b31460"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc106.txt",
+      "sha256": "18c02b35dc02f37c983288fab35632f73eaa050068b3ff61bacc87aec89b5bfe"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc107.txt",
+      "sha256": "fd9dcc4783f014faeeebda07f99d71804e3510b6ecce81dfcdda43d2d28fcfdb"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc108.txt",
+      "sha256": "71da88fe5db65348b8f5ea85dc77af65607077bf15b39c752bd3cfeb758cb5c3"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc109.txt",
+      "sha256": "c9479552f39006afcf1b33c3e8e57b283a618423f8586d4d15361ca5ad1f9d54"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc11.txt",
+      "sha256": "f169601eee2eadf6a7d291f4aa58f3b29b1ea13923df44baf0d7add55f469404"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc110.txt",
+      "sha256": "bdcef47a787cc0d6f83d954a8e5c381bb9beb94b9373388c53e20a586070e6ca"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc12.txt",
+      "sha256": "6b8d2afb9d41b774a0eb44cb8cb60f9b2f47fe99f96023743193b8eb9f5cac98"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc13.txt",
+      "sha256": "458afee06877eaca7d97042e3b46e12c76542a369dfd59bb028847b0c7c26d74"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc14.txt",
+      "sha256": "58cb7293ae8d698b7f6839c4f503d50573d5bf65cef21631bc1ac3a85408ad48"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc15.txt",
+      "sha256": "841680f65147b437efda9f26859998f698f871bba32d095a958735d139b8de73"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc16.txt",
+      "sha256": "91aa32cb917ceb3e76aea6ba78c0e696a241533ba11d3673d998f697f8d1c088"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc17.txt",
+      "sha256": "032b4edcf42230383db0cbe0cebe7d7ecc73ed1267849d3212d2ea731b6c10dd"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc18.txt",
+      "sha256": "cd130df6c1fe597670389d3e328242c6b518da8c4df2aa1d092c1b479a3a7594"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc19.txt",
+      "sha256": "689a5b3c2679dffda889b71e3c7ab554c777f6a1b1f08bb9baa3f90ef821ad2b"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc20.txt",
+      "sha256": "1d04387bc1f46baee6ba51561625d110afdfe77912d9db414ed0502d5297e59d"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc21.txt",
+      "sha256": "8cbe6cdf5593f65d514a2d1346d97b6c3f58a16c01e5a8b2f47aba71dd80603a"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc22.txt",
+      "sha256": "30d2793b9bd68856711f1f9def576232d0f8a94471f5e618897437e868208a46"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc23.txt",
+      "sha256": "7c8ef20718e262ce585ce1a9e280658b063f26095c1fcb59c1147415d5560f6f"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc24.txt",
+      "sha256": "026186c87cfed22aaffcae30903cc71b2e954c700728d7fb44e2c93063a71d50"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc25.txt",
+      "sha256": "8a9ef41acf56e469d202399dbc2824f1271c45d8b8491a115d2c793ffcd8a7c3"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc26.txt",
+      "sha256": "5ddda30dfd914c1ae8101fbf05b952d237bd37873df04d49969785795c903cee"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc27.txt",
+      "sha256": "9fb26e8d45f28c59b4991ec30edd9a1122ee61ba338b868f8e04fde657134174"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc28.txt",
+      "sha256": "6277693a4e301ee7c374b1f32232c50f7afb1923f0e1b5c7357eea5a83c5a08d"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc29.txt",
+      "sha256": "ed353d8ef36894edaf4d1d363ade9fb65a26310e3dc00e5324ee1c9c16f8a635"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc30.txt",
+      "sha256": "6ef2db7042674db18bb8a2df00e2b736c1100da51d3e686af5ba3479f1fd096e"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc31.txt",
+      "sha256": "cfa3b709f124daeeb6157522784907f83da85911ed65b5a1f4edfe3dada7017c"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc32.txt",
+      "sha256": "7370a8adb5ed617202f6e9710d0223d5717bbf8d36a7e352b0a38e6eec9796dd"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc33.txt",
+      "sha256": "1471012002d2ef25a7e223b928aa1852bbca232b6d8f71678251786a3df06e5a"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc34.txt",
+      "sha256": "2e820cfbdf07e7590824c9aae16b57e2e7737868c6818b7d0205cd967d9c5ffa"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc35.txt",
+      "sha256": "eeadd544bb37aae057d1755a901305a9bbb921300ec8ec2839ad037b3c8ff2ba"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc36.txt",
+      "sha256": "99d029441095a5c57852d591fd5c3a845f18c94e8c4aa50bc009aa70f89396fc"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc37.txt",
+      "sha256": "9854d659f3834ebe52c385cdd1a7b16510ba7178f44b9df1c53d349341664e90"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc38.txt",
+      "sha256": "03ccda7385cd8f1c0b8eabfcdb447141ebd2036f165d35730f1fa69ba96c90bf"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc39.txt",
+      "sha256": "faecd4f8cbe37bf9c1c4896d020137d28aa61087ed0c096b8a8a009710f99e24"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc40.txt",
+      "sha256": "d1870f31c665d53f0a6fc6523e02662719e0b9489ebcc6c709891800bea04a2a"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc41.txt",
+      "sha256": "acade4017abc665f0c45402f754a3c9739bd0656ba3b96473fc683cb0c66d853"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc42.txt",
+      "sha256": "b9aeadff7be11c2569d1143f5e38436554e5e1610d46e399e32f575fd4491e6b"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc43.txt",
+      "sha256": "b678b67d35b01281215aa1a28660bb28dc856ee39edb3a203fefd9a13a5cfc81"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc44.txt",
+      "sha256": "ed66d53a4ae31e063f384f32a04c77fed92ca61b91f2dd64483bc770d6b1b6c6"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc45.txt",
+      "sha256": "2a924d5d90a67eeb837283a75ee033c515f458a9efd14dac8b7265aa63341754"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc46.txt",
+      "sha256": "4e85e373fa88a52c93318f6bd3717219460e2bc958f52116e6ee346b0317dc69"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc47.txt",
+      "sha256": "64480ba5a4b5e8a2330f2cda1ebbe8a8a39fa741c241834b3b8cbb0bc00a3167"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc48.txt",
+      "sha256": "6d0def2aa37bbf56c54305001e53b6808bc428bdd9e72fb0d43f1fbc6d506764"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc49.txt",
+      "sha256": "c5573202116df71ae534148005d857e4d3b2a9f36ea8561d78f36a9da9e56763"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc50.txt",
+      "sha256": "023bb1f84d9731c476a006858e4b18287277235162321831643d75fdbe3fb0cb"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc51.txt",
+      "sha256": "7b6b5948a172aaa9daa689b08197f27c813f191da6649bbfbc00136a1637e842"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc52.txt",
+      "sha256": "127d6d5d7dfe3fd184e0b053fc6c69037bf2a3f645e0f73284804fa9e8fccac5"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc53.txt",
+      "sha256": "bd0c7a7b550c2fd237f401431dc32a85898b99276bb3e73b7d0b2da4c5e5606b"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc54.txt",
+      "sha256": "ca30effcf22782fc1dd96fdb16a4cf8d5abb8bb2b744edc9231f532ecff7cb00"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc55.txt",
+      "sha256": "547f90eed72ef75af9e3393edb34528c630a225354885ea7a88721e9cc8b7a8a"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc56.txt",
+      "sha256": "1a24a808b2fdb52818df3aa906dad5185cdf73357e0933d66761b67a1fb9ed27"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc57.txt",
+      "sha256": "15790756c48033946babf0f44dc0d599a99e427046f297182d35feafdf8daccc"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc58.txt",
+      "sha256": "6577364cefe085e1c8945137a5e39a4c72549b084757fe88a2c51695c0f487c3"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc59.txt",
+      "sha256": "356fc012ecd95bc3bf30c7e500c44f9d71ff8b95a32dac124ec08251d2682a44"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc60.txt",
+      "sha256": "8787c9db47e30a1440269efd15e4ea4cfc60d2dfc9b643a8a07b0a96766e5e9a"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc61.txt",
+      "sha256": "3aadf4e7918d12ad63bf94b47bb6b7dbcbd63f27670efc4cbc559cffd688ec08"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc62.txt",
+      "sha256": "ddd5eeaa560a4fa3bc082744db884ea903216e27a43cfb74d2a3667cadb66fd4"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc63.txt",
+      "sha256": "142ce73b97f11858ce45c9d63537e9133f3a1d975b002f7857a74f79afc84c01"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc64.txt",
+      "sha256": "f2f82005ab1e89dd3669d28a5bc2ac46ca632dfa8ef0aa938b6ffe34404524f0"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc65.txt",
+      "sha256": "1983ea96dec8cf24c24741d61e5e0b8d0e4b2d264153ebf5865aca35b9cdd859"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc66.txt",
+      "sha256": "9262ae65524db9827e50a04061a321c005827fd47d9a8352a6010be824d090a4"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc67.txt",
+      "sha256": "4e75c74c3e2660e4c717a5aa50348cfa5c09d7a101c02d951936b78b57055194"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc68.txt",
+      "sha256": "31777b3106bcb505e4ffa0870a767a9c9b043e314287c8392751d5a336c869c5"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc69.txt",
+      "sha256": "62b183368a017f5d79b84147947b90e66cbccc1376dcbfdb929808c64d1f6cf0"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc70.txt",
+      "sha256": "b3fcc48e707430931da10f30d142b50db63fdb91a171a42fad43ad1cb7c712dd"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc71.txt",
+      "sha256": "eba983923c8da9bd29eac30f0a776e8adcd169af7efccccfb13375ee0a1663a6"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc72.txt",
+      "sha256": "0b19938c893a11e0b454bde396c0e9a846bdf6e99806c88f4da7cc7fdbec620f"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc73.txt",
+      "sha256": "30c4b40f070193ab5a4452dbeaadcbd6eb3aadde515fa3355b2b7b901e4a9566"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc74.txt",
+      "sha256": "3773e95cf66fe5302e64dd775f4cdb827a9b7d098c7100c230932760d5857629"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc75.txt",
+      "sha256": "06cc0b9bc3784ff8030bbc9ce42a837bdff05c85e817115237f6d2d77d1775d4"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc76.txt",
+      "sha256": "b2da5c6180061b84badfe5b15d825efe93fd8db5717909eb5133bc60425bc28d"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc77.txt",
+      "sha256": "33d13534ef3935a76d01ef44713d6ca5d3e29abf64d45864cc73428261893f6b"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc78.txt",
+      "sha256": "f459689766629eb827ddf1eba129cfd2591cced7571248c307404ca7a76f07a5"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc79.txt",
+      "sha256": "fcf563d2ae6dbe70a847e701a58625290b10a6e2a4c1f25a05ce206164528767"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc80.txt",
+      "sha256": "ffd1c8b5ee61e702cc99661aa6348982833d4735aaa497c234cb41b4cce8e831"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc81.txt",
+      "sha256": "3d44ce7330760fee6dd244ecf28ba76534e438cb565a7d410ea24d6fc19b7c9f"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc82.txt",
+      "sha256": "e49263aec0e8b568a6a142fc8f68c099c916cb1240c2b2577ef63b0a2e3b7ade"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc83.txt",
+      "sha256": "e867ac7ff36fc62cc787ca07f933ccbc6e99af5c78e4881290d27f2635599363"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc84.txt",
+      "sha256": "f7c80e20b43c0fd4fe7ab31c668abe5694aae7b3a4cf199874f1cad2a8b328f0"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc85.txt",
+      "sha256": "c38ac3d5a63210158861626d437a79d7db9aafb8d1ff94eaa340894dfb49c961"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc86.txt",
+      "sha256": "547594f05950a75204955e6585deba94aa36679ab1dc82c6296ac70638a36c8c"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc87.txt",
+      "sha256": "5743dda61de152391038f491f801926e4ce485a257fce21e5241c4817697e692"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc88.txt",
+      "sha256": "dbe0ac6349481a9aa26fe807c8905a32e13963b1c28219c8c680ca7a4d985da0"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc89.txt",
+      "sha256": "551d4b03f60ea786acd5e1f27ba8257826bae394db27fd407b0d7a2fc48a1fc0"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc90.txt",
+      "sha256": "eddd373d36e2077657c43879e02ed59bdf3dc6913965e5c4b2f682983211b3e7"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc91.txt",
+      "sha256": "e1760deec432d3604a3373be18024a59826a92413129391f51e21a97a50655cd"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc92.txt",
+      "sha256": "c8a370118c471d69f805c164ac69a02b5704a695cbc67a0e770ddbb59e3988c4"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc93.txt",
+      "sha256": "bfb6b7ba2642cb7480a036db0d9735563747054f323d66a4e1e04a6b596dec72"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc94.txt",
+      "sha256": "f56552ecd42207b460e740b2cdbef2eb6b76c66e72e9ef654c592df897f5c0c3"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc95.txt",
+      "sha256": "175aa636439941fa3353d70a3f389836141be43413c5c73ad38519a24f955be2"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc96.txt",
+      "sha256": "a36dc23af880cc5e0df4bbf8cda03f081066f6f723ca1f58e3e89f0fdedea837"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc97.txt",
+      "sha256": "602ed45b33fb6b7257860c32b1417542ae4f32ad434b41308c7c794026ac25e9"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc98.txt",
+      "sha256": "4f989104537f8e16fe5a747cde1ece633d4c9bb289a9c58f83c0ee3b5858238a"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/FFFc99.txt",
+      "sha256": "a3a8aed20cdd91256803f00a5470b1ea3be9cc45c993bb4a02655dab035d4081"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/models_X1_n/README.txt",
+      "sha256": "eee0478b2b192eda9dcaf540439864953e188a17b9babcbd775914f44183947e"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/rank_zero_of_X1mn.m",
+      "sha256": "47529913c99d3a653eef8cd8c11d7da61093f821fca6b2b844cfaaeaab9857a6"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/strange_characters.m",
+      "sha256": "459d24500c883a50a34c11328f8917ecd00f392a9e2dd12557f622fbbb34cd9a"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/tests/magma-unittest/LICENSE",
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/tests/magma-unittest/README.md",
+      "sha256": "62f464ce56bc43ba05155855c9ce4205799f8ce824a7bcb5df38147e0978fa16"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/tests/magma-unittest/makefile",
+      "sha256": "34c4996f6cf67bf50998786d5e8e6167e52ea87c98885c495b8be34ea7a07e66"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/tests/magma-unittest/tests/test_all.m",
+      "sha256": "e3025b1d2639f0feb8639abf9389c8abf2c1cad2d32b171e6bf2c768d57b357b"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/tests/magma-unittest/tst.m",
+      "sha256": "4e67e9b2fb8f222d588c2a7f05d0bda7ad82d254b5b9870c8f1a1388c8d6c408"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/tests/v2/algebra/test_linear_algebra.m",
+      "sha256": "07f5406a3a095fd9d20f825da50cafd1c859eb527fde85dfdec4529b205e3acb"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/tests/v2/curves/test_all.m",
+      "sha256": "64c9458dc7a24f9e0e12e3551a3c97d32ff1902b2576c0564561e0370117d94b"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/tests/v2/curves/test_places.m",
+      "sha256": "c6c9f5f0c934d269cf65011e71e042407ebad11e7f8c254b7f8827f1fb65d2ed"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/tests/v2/elliptic_curves/test_isogenies.m",
+      "sha256": "fd8972d3b782581e68dbed13e778b14b249303b5e793b05192104141087c086b"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/tests/v2/modular_curves/test_X0.m",
+      "sha256": "229239b04aa9bb3b1625b0cd10a630b6a1ddfe43623c2fcde0dd0d8df30f8849"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/tests/v2/modular_curves/test_X1.m",
+      "sha256": "5e7af3ee6144f0326a42c1d15557b8d54f932998848a914f81cc29481b08d7ce"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/tests/v2/modular_curves/test_X11.m",
+      "sha256": "961febd67f263f5bd74ebca388c01339c120ca4becbb15d1caad01b6d5acbfef"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/tests/v2/modular_curves/test_all.m",
+      "sha256": "8b1ca55d324fccc693d412eb99d5305bb71399d03e37b5a25b750f2c5fb5958c"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/tests/v2/modular_curves/test_base_curve.m",
+      "sha256": "11e1ea9a7aa8a20e57e6e0774b3062ce11b408e9f09cdc29f79d153658331409"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/tests/v2/modular_forms/test_all.m",
+      "sha256": "6fdd97b5c1b0c2cf0bee49e97109735c1f8eace6116bdb9fee9f0fc4ba6f6342"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/tests/v2/modular_forms/test_modular_symbols.m",
+      "sha256": "f4c3dca75900c67f738ea6c8b61f2026ac4bb5ce76573dc4730951410a2eb510"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/tests/v2/test_all.m",
+      "sha256": "a929fc452d2187f1fc40d008d052d9a0f625d1d6ca7b0422b8d838a218071b05"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/tests/v2/test_utils.m",
+      "sha256": "7357441c6648186de16a968206485ce1cf0370d651ebfcbb95875612df0cfb46"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/v2/algebra/linear_algebra.m",
+      "sha256": "125cc6d6b9d418b771b97cb211b39804a7f5b651df413d9a3d5737c6995cd2ed"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/v2/algebra/linear_algebra.sig",
+      "sha256": "52cf55c738cbd8b7783be68f5128f2e95f62b55b9aa8d284562473fec53b527a"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/v2/curves/classgroups.m",
+      "sha256": "a8c7b73d3dd6f65d608cc4b630a7d266eeccf9334a7a97aac3b16bf7342ceb24"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/v2/curves/classgroups.sig",
+      "sha256": "ba7204632ae38e30f96bded60753927e2ce3b07ae6db9df2952c0405d9cde169"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/v2/curves/divisors.m",
+      "sha256": "089eb458ff30c26b72a220db2029e890806175cb67ed25c6a9c2d524e03c53e7"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/v2/curves/divisors.sig",
+      "sha256": "61eb59cce8da8aa6c326ab3340121c9094328b1c325a4dfd48b06e3393839480"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/v2/elliptic_curves/isogenies.m",
+      "sha256": "bbf697101d04a9b6a230204cd11e658e09f280a99077589539509e5d3b860f15"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/v2/elliptic_curves/isogenies.sig",
+      "sha256": "937d65a93d8b0559b4f951e8e78cfcd0959e4c9a63b2a2ee43e244ab06b9c033"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/v2/mdmagma.spec",
+      "sha256": "71dfa75aac69d36258e9a31f5f86ff15b2fb4c177e668bb3d8f3bc66a38a4a7a"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/v2/mdmagma_internal.spec",
+      "sha256": "6df83fbd9e5390bb1f9848dd6cb1692f9a082a8190e6ca9a3433209b1fea7487"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/v2/modular_curves/X0.m",
+      "sha256": "82ddf65e716485b9c0b63f5dba81e727cb00623eb424ca99f0764237b5313d83"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/v2/modular_curves/X0.sig",
+      "sha256": "ad7a0ac093106595596ab594b1502a9cd9ad9c11c37802f22be02e986e7afd6e"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/v2/modular_curves/X1.m",
+      "sha256": "3b4ed1b2fb00f170fd03dfaa59218fc09dcd0243d415ae4bd8ac8c024c94ba7f"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/v2/modular_curves/X1.sig",
+      "sha256": "a59ba44cf0beb2eb184866ff2d51be2b70b52beaacbf0ebe627567e79c6209e7"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/v2/modular_curves/X11.m",
+      "sha256": "84e9ac7f56e58a9bb4f4a45bf5d190f6ecabacb71fa744245ed3ff93417186d9"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/v2/modular_curves/X11.sig",
+      "sha256": "1d42502ec4cd75897c53d7c6e7bc2c8ee20d3fbe74ab89b37c30481ba1fbc8f5"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/v2/modular_curves/base_curve.m",
+      "sha256": "1967cc292ab653bd0861136867eabf72a1384b293382ea4aca0101441d46650e"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/v2/modular_curves/base_curve.sig",
+      "sha256": "ad3a9969c9bb6d2aec183a03facd64779e2e21c712111872067b99c1a3e317ba"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/v2/modular_curves/rational_points.m",
+      "sha256": "e929787f0dfa48018ce420f7529e7b8b9a330a08f43ea98b78f637ed014857ee"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/v2/modular_curves/rational_points.sig",
+      "sha256": "bad67095a7ac630eae102c094c32d3e06d70018492b3ccbb6c20bbb7d4396978"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/v2/modular_forms/modular_symbols.m",
+      "sha256": "6c1bffd4d4bd069a63df0cee743bdeecfd016305fa02b4ce89c9e1f6a30cfc14"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/v2/modular_forms/modular_symbols.sig",
+      "sha256": "146c4ddbd78b095c65f33f2b3488b6133bc791872db9baa0d87756b128e9aba5"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/v2/utils.m",
+      "sha256": "0bebdd923143482f68e37aed673f54b445781598497c2efb27d4e7e8cb96da64"
+    },
+    {
+      "path": "work/degree8/shared/mdmagma/v2/utils.sig",
+      "sha256": "3d059d073c8cee670e57109861b9e66d276a3432029d38fe294af14d91bbba4a"
+    },
+    {
+      "path": "work/degree8/shared/snapshot_manifest.json",
+      "sha256": "0b3a98d779cfde5fe0ea26d3ce3da17668d2dee0257ba7b746b325849002371e"
+    },
+    {
+      "path": "work/degree8/shared/sutherland-magma-current/.gitignore",
+      "sha256": "2163a46411ad81cb25bf2494d0702d316bfe4028883ed9faf755f9acb0d506a2"
+    },
+    {
+      "path": "work/degree8/shared/sutherland-magma-current/LICENSE",
+      "sha256": "17d40e7907ede450b898ed8ccbc4d99e43b6c1708416827b3b530ba038a39cbf"
+    },
+    {
+      "path": "work/degree8/shared/sutherland-magma-current/README.md",
+      "sha256": "977d96bb37e98ffee630fe49cdc6b18b7376d57d5e030733dd583c4472fd5876"
+    },
+    {
+      "path": "work/degree8/shared/sutherland-magma-current/chars.m",
+      "sha256": "b38aa570240f66e2c8473433a1b81677848fd635df7435b74ab187118c4fe2bd"
+    },
+    {
+      "path": "work/degree8/shared/sutherland-magma-current/chars.sig",
+      "sha256": "f0e5f088f9c77b1977e3d45f740af5a3ad1f4ad789a844a9b29fc0d7af025968"
+    },
+    {
+      "path": "work/degree8/shared/sutherland-magma-current/genus1.m",
+      "sha256": "0a9379c44b9e1d1138e90dec3db05db9013c1487aab42a8a1d86c6806a81fce1"
+    },
+    {
+      "path": "work/degree8/shared/sutherland-magma-current/genus1.sig",
+      "sha256": "ff679e3e2a88c8cf14bce7a95ae480732e98de463c5b2b9a82a86bf46e102ade"
+    },
+    {
+      "path": "work/degree8/shared/sutherland-magma-current/genus2euler.m",
+      "sha256": "e33e8fe4811e6e4c791b7900094bce9364f47c00bff83ef8a2a272a1714eda2a"
+    },
+    {
+      "path": "work/degree8/shared/sutherland-magma-current/genus2euler.sig",
+      "sha256": "c74d178b43e9b98596c96369ccbb1251b931dd18d8eb53e9dde7d7313a8843b6"
+    },
+    {
+      "path": "work/degree8/shared/sutherland-magma-current/gl2base.m",
+      "sha256": "b2712b3550883b6108cbfa8fd1a5b45326da30ba5f0ad3baa6deb1bb4a7eb85a"
+    },
+    {
+      "path": "work/degree8/shared/sutherland-magma-current/gl2base.sig",
+      "sha256": "300c75a8d32ccb7bc259cb474b9102145903327dbbf8b072b9708b0360fbe4e5"
+    },
+    {
+      "path": "work/degree8/shared/sutherland-magma-current/gl2points.m",
+      "sha256": "85fa066b8761da083b6c7a02aed64341c08db5aec01d0065b5e3b8f950936b9d"
+    },
+    {
+      "path": "work/degree8/shared/sutherland-magma-current/gl2points.sig",
+      "sha256": "030dccb78853afa47228d6288e287d937b788675b81e40dc1944239e2f890e99"
+    },
+    {
+      "path": "work/degree8/shared/sutherland-magma-current/gl2tab.m",
+      "sha256": "acf2c9de21ff22475f6a3a89d540190882260bf22c1f4959d09b07999a84bb49"
+    },
+    {
+      "path": "work/degree8/shared/sutherland-magma-current/gl2tab.sig",
+      "sha256": "877946aaef21a27ca9d4b370e2483fbad5a6675d7a82961c38bc897521250855"
+    },
+    {
+      "path": "work/degree8/shared/sutherland-magma-current/magma.spec",
+      "sha256": "1ff264abbb7bc209fbfb4ee6873317bc8910d53d9156d9f6c316ad8ca522b9f0"
+    },
+    {
+      "path": "work/degree8/shared/sutherland-magma-current/mfdims.m",
+      "sha256": "aa079e94a10a5c4c883f7c745a6e33af7370a73ecbdbf780de9418df8a69678d"
+    },
+    {
+      "path": "work/degree8/shared/sutherland-magma-current/mfdims.sig",
+      "sha256": "c4ab2bc0afa7bfd05e02a4a3332660c45754cb2e475205a8fe29be0bd22b7bca"
+    },
+    {
+      "path": "work/degree8/shared/sutherland-magma-current/mfutils.m",
+      "sha256": "78462f6f61b3fbb45fae593e0730388503a794187bd9a6081b6c301dea8589f1"
+    },
+    {
+      "path": "work/degree8/shared/sutherland-magma-current/mfutils.sig",
+      "sha256": "3cf0944ebc76dc929c1221a253f46a251ffa44550150b3a04cb3e13b0e13b8d4"
+    },
+    {
+      "path": "work/degree8/shared/sutherland-magma-current/polredabs.m",
+      "sha256": "c1a5fdd3619731db45b9894856999bd6ba02254cfd9feaa316d8ec0f193e0228"
+    },
+    {
+      "path": "work/degree8/shared/sutherland-magma-current/polredabs.sig",
+      "sha256": "807aeb185378abdbe5c00eab517c647454360834f2725c0e8b50847d47ed208a"
+    },
+    {
+      "path": "work/degree8/shared/sutherland-magma-current/tests/README.md",
+      "sha256": "aa908666d8f516925e02620828021cb0be48a00e8041ef4b20227cdd5aaf94e2"
+    },
+    {
+      "path": "work/degree8/shared/sutherland-magma-current/tests/run_tests.sh",
+      "sha256": "4fbb2ce2dbf0d5231509921668a0d7c18853f3ed83505018441524c689d530db"
+    },
+    {
+      "path": "work/degree8/shared/sutherland-magma-current/tests/test_chars.m",
+      "sha256": "160307692374e586c8ead8e77a388b1a459ba6d3287d1cfd058f9f70a8fec210"
+    },
+    {
+      "path": "work/degree8/shared/sutherland-magma-current/tests/test_genus1.m",
+      "sha256": "a3b2b182aa4443da8afb70e9f5ad3807fa4b4954d5d5ed6fe69e04bf1a1b1f30"
+    },
+    {
+      "path": "work/degree8/shared/sutherland-magma-current/tests/test_genus2euler.m",
+      "sha256": "5437d24a504384f46bb30857364b6f2e99c581de8b51989ec0b514321d46a114"
+    },
+    {
+      "path": "work/degree8/shared/sutherland-magma-current/tests/test_gl2base.m",
+      "sha256": "2b074b545a056a72dada08a3ec034b8b422440fc28f9f8f75bc3c60edcaa4c0c"
+    },
+    {
+      "path": "work/degree8/shared/sutherland-magma-current/tests/test_gl2points.m",
+      "sha256": "3efc84b1e90152038cd40738c8681b2d3094649074fc7d082a1f4e597a3f9f35"
+    },
+    {
+      "path": "work/degree8/shared/sutherland-magma-current/tests/test_gl2tab.m",
+      "sha256": "d21d2c28152478675b5c0fc1a74e4b33a7643f22bcdee6d1a16889b07f52daf5"
+    },
+    {
+      "path": "work/degree8/shared/sutherland-magma-current/tests/test_mfdims.m",
+      "sha256": "5747b45783b4df087eba89ad421cf6923a912964d61176c255a0376f37e00273"
+    },
+    {
+      "path": "work/degree8/shared/sutherland-magma-current/tests/test_mfutils.m",
+      "sha256": "6d331175aa471b11284f89abf318ad88dd9bb7bbc90924a81e533f0953f193d0"
+    },
+    {
+      "path": "work/degree8/shared/sutherland-magma-current/tests/test_polredabs.m",
+      "sha256": "c23d715e0279ab8e6c05fce6393fb0945369314fcbf65a397d35005f58b17daa"
+    },
+    {
+      "path": "work/degree8/shared/sutherland-magma-current/tests/test_tracehash.m",
+      "sha256": "0235cc7e244490be534a9743428c2d82ba4150577906f0ee51e25a2c671e7a44"
+    },
+    {
+      "path": "work/degree8/shared/sutherland-magma-current/tests/test_utils.m",
+      "sha256": "b41691879b1a65182ef2a5024ed0859d6236b88f0ec48f9c1e13dbb917f8037a"
+    },
+    {
+      "path": "work/degree8/shared/sutherland-magma-current/tracehash.m",
+      "sha256": "c3210aae7bb294a11be4b5858a142046cc54cb15de4101452329fccbd0584aa1"
+    },
+    {
+      "path": "work/degree8/shared/sutherland-magma-current/tracehash.sig",
+      "sha256": "709a7dc2bd525d26d20af10bf3b6d14cf111af5820fec4a11ec3cc604f81f325"
+    },
+    {
+      "path": "work/degree8/shared/sutherland-magma-current/utils.m",
+      "sha256": "93dff63b9acef78eac08d07a3769f48d9697c7bfe0c2303d0b3bb4cb56480f73"
+    },
+    {
+      "path": "work/degree8/shared/sutherland-magma-current/utils.sig",
+      "sha256": "567c35ed655c6c1027f7bff5bd6c44409af7d7ea9b4f78c4ffb54a3c2921aa20"
+    },
+    {
+      "path": "work/degree8/shared/torsion_over_Fq.m",
+      "sha256": "e486cd1d4c486eb287e9df338c10f93a6509f65d55ebf4944afb09f097fad158"
+    },
+    {
+      "path": "work/degree8/small_cyclic/C4x20/C420_README.txt",
+      "sha256": "6ead4052f8fb8c398b76aea620f53d4c61137b8524cb328c78c714dcc733c171"
+    },
+    {
+      "path": "work/degree8/small_cyclic/C4x20/C420_compact_README.txt",
+      "sha256": "10719c2dae0d8877254fd35cfa0cd41b6e76c5bbf7322939f3368c9f088355de"
+    },
+    {
+      "path": "work/degree8/small_cyclic/C4x20/C420_compact_certify.py",
+      "sha256": "584bc9e6afed68bbcea6a9d4a9b8de66af8435707523e5752e1ce8808a4c55b1"
+    },
+    {
+      "path": "work/degree8/small_cyclic/C4x20/C420_compact_certify_root.log",
+      "sha256": "8c9e92e4bdb2cfebf0b05a63cf27410cb4010d9dc1859fa710ab97f395836c7f"
+    },
+    {
+      "path": "work/degree8/small_cyclic/C4x20/C420_compact_completion.tex",
+      "sha256": "9beb684a97eec9185239d54890c9290b542efd8a407a78a5b8e3c6bd20ce0821"
+    },
+    {
+      "path": "work/degree8/small_cyclic/C4x20/C420_compact_completion_final.log",
+      "sha256": "d8b99685a82cf65aa347ab4e8f950c4ff0f953578c7815729110dd4d0ef8dc7b"
+    },
+    {
+      "path": "work/degree8/small_cyclic/C4x20/C420_compact_completion_final.m",
+      "sha256": "149dea551dfe20cf939d2613aca615983d1d0e46fc16dd34d3decb33e7658f18"
+    },
+    {
+      "path": "work/degree8/small_cyclic/C4x20/C420_compact_completion_final_console.log",
+      "sha256": "760ba25098222f264b149749e5ecf568caa63af35c2c2a0926c3ff0cc55ca8fa"
+    },
+    {
+      "path": "work/degree8/small_cyclic/C4x20/C420_compact_completion_root.log",
+      "sha256": "fe5016b41dae7b4dca342542b71ada1705313110bf88bd11d1524dc06c70bd4a"
+    },
+    {
+      "path": "work/degree8/small_cyclic/C4x20/C420_compact_completion_root.m",
+      "sha256": "f7b4a4c621d0372b672c07bf48756e2fb8fc4305ab82949d151dfbe0452fb5b7"
+    },
+    {
+      "path": "work/degree8/small_cyclic/C4x20/C420_compact_completion_root_console.log",
+      "sha256": "b734d2b28944f4e991c5de6403a8c746273ff801f043d74d5bffb609ffbc3e0e"
+    },
+    {
+      "path": "work/degree8/small_cyclic/C4x20/C420_compact_manifest.json",
+      "sha256": "7689ab306e329a78ea0c98f309e1786181f5839797fc914c39e45b8d6c47cbb7"
+    },
+    {
+      "path": "work/degree8/small_cyclic/C4x20/C420_compact_replay.log",
+      "sha256": "eee86e84ca46d5094765dad1df1d4d3e1e2bcfad87502b3418f6eb8fb9ce6c56"
+    },
+    {
+      "path": "work/degree8/small_cyclic/C4x20/C420_compact_replay.py",
+      "sha256": "e8cb14e53dbbb92d4bff55ef1c36e2d24ab4e20144528066fa02cdcaa3ffcc39"
+    },
+    {
+      "path": "work/degree8/small_cyclic/C4x20/C420_exclusion.tex",
+      "sha256": "b3fe246d2c9f3340d78fe87c52030137efda21e7594e210e3134e5b1759a209a"
+    },
+    {
+      "path": "work/degree8/small_cyclic/C4x20/C420_finite_audit.json",
+      "sha256": "9b079f6127a1b6d0b1ad9f2c006aabcfb866d43ebac91db99430d2d8b52de832"
+    },
+    {
+      "path": "work/degree8/small_cyclic/C4x20/C420_finite_replay.log",
+      "sha256": "3f3ead3f33e50e0c3ee1532d148310c8fe1e2dec71991b5c0252fb034afa73b3"
+    },
+    {
+      "path": "work/degree8/small_cyclic/C4x20/C420_finite_replay.py",
+      "sha256": "04b4e696d56f51e143afb93970c196de945f9de85a90d5a7dbc62199efa2d510"
+    },
+    {
+      "path": "work/degree8/small_cyclic/C4x20/C420_finite_replay_root.json",
+      "sha256": "9b079f6127a1b6d0b1ad9f2c006aabcfb866d43ebac91db99430d2d8b52de832"
+    },
+    {
+      "path": "work/degree8/small_cyclic/C4x20/C420_finite_replay_root.log",
+      "sha256": "3f3ead3f33e50e0c3ee1532d148310c8fe1e2dec71991b5c0252fb034afa73b3"
+    },
+    {
+      "path": "work/degree8/small_cyclic/C4x20/C420_finite_replay_root.py",
+      "sha256": "e4c00ae978dda309863a7e85083f593568ee071eebf7f2c335987d7a49b67b0f"
+    },
+    {
+      "path": "work/degree8/small_cyclic/C4x20/C420_full_reproduce.m",
+      "sha256": "48fdf428576b0aee50c48a5ed09392b5fa1e2066cc7df5aba67a69611f3cd165"
+    },
+    {
+      "path": "work/degree8/small_cyclic/C4x20/C420_positive_fresh_arithmetic.txt",
+      "sha256": "689069ecf8f97fb4de47546af9565d1973fe1521274e1a4f1bd6003aa6d83f3c"
+    },
+    {
+      "path": "work/degree8/small_cyclic/C4x20/C420_positive_fresh_console.log",
+      "sha256": "f39538046e0bee48e5a9fbff723542d5b8e48b29c5ff1a5d367ccfbbbdea9a5d"
+    },
+    {
+      "path": "work/degree8/small_cyclic/C4x20/C420_positive_reproduce.m",
+      "sha256": "b96d042b74196b7fb1b35c9b0ce0994f2b8b2dfc7c21e1ca97c94f02e63e9f45"
+    },
+    {
+      "path": "work/degree8/small_cyclic/C4x20/C420_positive_root.log",
+      "sha256": "433b863e4fcca0479716a20d51080d15fc6da96c66261f96c7e29807a7bc6a36"
+    },
+    {
+      "path": "work/degree8/small_cyclic/C4x20/C420_positive_root_arithmetic.txt",
+      "sha256": "689069ecf8f97fb4de47546af9565d1973fe1521274e1a4f1bd6003aa6d83f3c"
+    },
+    {
+      "path": "work/degree8/small_cyclic/C4x20/C420_positive_root_driver.m",
+      "sha256": "e388db7c9fe707d9637d1cad8b5d9d1b65805a0deb57cca896003f58e26e23cf"
+    },
+    {
+      "path": "work/degree8/small_cyclic/C4x20/certify_C420.py",
+      "sha256": "a05f3e1fd65fa272a25948ea8265918723f16a8c78087d89de8d641b728778f1"
+    },
+    {
+      "path": "work/degree8/small_cyclic/C4x20/reproduce_C420.py",
+      "sha256": "c19afe4416dbb8ad4d1d3d7cd46b3e89539667809e838c3f0c515610ada39ef7"
+    },
+    {
+      "path": "work/degree8/small_cyclic/audits/audit4x20_stabilizer_criterion.txt",
+      "sha256": "a845f1365ebe87201e98f45971de88faae25c73c6cb408b30b993ba287e4963c"
+    }
+  ]
+}

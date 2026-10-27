@@ -1,0 +1,21 @@
+{
+  "complete": true,
+  "source_sha256": "a95927262796020825fa2064678a536f75013a1081427e02115a789b8790d580",
+  "orbit_export_sha256": "4baaed1e64cffdb3d6f2b52bd20bcd3c8cf25dfc846e37a03dba1cf3871f456e",
+  "all_7862_keys_independently_recomputed": true,
+  "target_clusters": 3507,
+  "degrees": {
+    "6": {
+      "source_representatives": 342,
+      "target_clusters": 162
+    },
+    "7": {
+      "source_representatives": 1348,
+      "target_clusters": 599
+    },
+    "8": {
+      "source_representatives": 6172,
+      "target_clusters": 2746
+    }
+  }
+}

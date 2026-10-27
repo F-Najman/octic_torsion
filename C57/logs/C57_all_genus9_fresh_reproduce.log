@@ -1,0 +1,38 @@
+Loading "work/degree8/large_levels/C57_all_genus9_fresh_reproduce.m"
+C57_NORM9_FRESH_CLASSGROUP_PROVED [ 105, 210, 0 ]
+120.680
+C57_NORM9_FRESH_POINT_CLASS degree=14 class=[ 35, 7, 14 ] time=127.330
+C57_NORM9_FRESH_POINT_CLASS degree=14 class=[ 74, 64, 14 ] time=132.440
+C57_NORM9_FRESH_POINT_CLASS degree=14 class=[ 92, 139, 14 ] time=140.870
+C57_NORM9_FRESH_POINT_CLASS degree=14 class=[ 35, 4, 14 ] time=147.750
+C57_NORM9_FRESH_POINT_CLASS degree=8 class=[ 85, 120, 8 ] time=150.170
+C57_NORM9_FRESH_POINT_CLASS degree=14 class=[ 35, 94, 14 ] time=152.230
+C57_NORM9_FRESH_POINT_CLASS degree=14 class=[ 63, 29, 14 ] time=157.880
+C57_NORM9_FRESH_POINT_CLASS degree=7 class=[ 74, 36, 7 ] time=159.600
+C57_NORM9_FRESH_POINT_CLASS degree=14 class=[ 35, 7, 14 ] time=167.710
+C57_NORM9_FRESH_POINT_CLASS degree=14 class=[ 85, 171, 14 ] time=174.300
+C57_NORM9_FRESH_POINT_CLASS degree=24 class=[ 94, 154, 24 ] time=176.730
+C57_NORM9_FRESH_POINT_CLASS degree=14 class=[ 62, 169, 14 ] time=179.010
+C57_NORM9_FRESH_POINT_CLASS degree=8 class=[ 85, 150, 8 ] time=179.400
+C57_NORM9_FRESH_POINT_CLASS degree=24 class=[ 94, 124, 24 ] time=182.450
+C57_NORM9_FRESH_POINT_CLASS degree=14 class=[ 63, 209, 14 ] time=185.880
+C57_NORM9_FRESH_POINT_CLASS degree=14 class=[ 55, 81, 14 ] time=191.040
+C57_NORM9_FRESH_POINT_CLASS degree=24 class=[ 17, 164, 24 ] time=198.850
+C57_NORM9_FRESH_POINT_CLASS degree=7 class=[ 22, 89, 7 ] time=200.480
+C57_NORM9_FRESH_POINT_CLASS degree=24 class=[ 17, 44, 24 ] time=209.080
+C57_NORM9_FRESH_POINT_CLASS degree=7 class=[ 59, 111, 7 ] time=210.940
+C57_NORM9_FRESH_POINT_CLASS degree=7 class=[ 97, 44, 7 ] time=212.150
+C57_NORM9_FRESH_POINT_CLASS degree=14 class=[ 59, 34, 14 ] time=216.380
+C57_NORM9_FRESH_ZERO_STATUS input=1 A=1 B=1 principal=false
+C57_NORM9_FRESH_ZERO_STATUS input=1 A=1 B=2 principal=true
+C57_NORM9_FRESH_ZERO_STATUS input=1 A=2 B=1 principal=false
+C57_NORM9_FRESH_ZERO_STATUS input=1 A=2 B=2 principal=false
+C57_NORM9_FRESH_ZERO_STATUS input=2 A=1 B=1 principal=false
+C57_NORM9_FRESH_ZERO_STATUS input=2 A=1 B=2 principal=false
+C57_NORM9_FRESH_ZERO_STATUS input=2 A=2 B=1 principal=true
+C57_NORM9_FRESH_ZERO_STATUS input=2 A=2 B=2 principal=false
+C57_GENUS9_FRESH_GOOD_CASE degree=7 choices=8 zeros=0
+C57_GENUS9_FRESH_GOOD_CASE degree=7 choices=8 zeros=0
+C57_GENUS9_FRESH_GOOD_CASE degree=8 choices=4 zeros=1
+C57_GENUS9_FRESH_GOOD_DONE points=22 good7_tests=16 good7_zeros=0 good8_norm_tests=4 good8_norm_zeros=1 complete=true time=216.380
+C57_NORM9_FRESH_DONE points=6 zero_tests=8 zeros=2 independent_class_basis=true complete=true time=216.380

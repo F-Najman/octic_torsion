@@ -1,0 +1,9 @@
+{
+  "pid": 1434584,
+  "unread_file_position": 4096,
+  "change_offset": 4542,
+  "original_sha256": "7df9d99737ee1633d3020e6015d2c1a6e73b90fd988a8cd3e4542bce232da587",
+  "corrected_sha256": "659372d275ebebc58bbe6ae829ed2e22ca74e24162a5abc37592c3cd6eb00d6d",
+  "change": "Replace unsupported dependent comprehension in the unread export tail by equivalent nested loops; no mathematical calculation changed.",
+  "fdinfo_at_revision": "pos:\t4096\nflags:\t0100000\nmnt_id:\t48\nino:\t32674583\n"
+}
